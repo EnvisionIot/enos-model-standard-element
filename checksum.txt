@@ -739,7 +739,6 @@
 64bff0f1ccb7a6418ec16a66d7585c74  ./T01/geographic_latitude.json
 64cb2c9e89b68e69aa193d15c9024842  ./T03/minor_radius_of_torus.json
 64fe092518a43ffed782afaf2ca7147c  ./A58/conductor_size_AWG.json
-6576b778df3833ce9d09f23a3c67118a  ./version
 65b1251409821aeb40422aa5ee02a13c  ./A59/quality_level_units.json
 65b14560d11ace27b0d916dc3ac220d0  ./T03/creepage_distance.json
 65e1b7cf3b9332517aada4a51c3a0319  ./F01/fuse_pre-arcing_time.json
