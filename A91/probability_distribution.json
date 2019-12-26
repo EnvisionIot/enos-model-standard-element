@@ -1,0 +1,35 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"BINOMIAL":{
+				"defaultValue":"binomial distribution",
+				"i18nValue":{}
+			},
+			"POISSON":{
+				"defaultValue":"Poisson distribution",
+				"i18nValue":{}
+			},
+			"NORMAL":{
+				"defaultValue":"normal distribution (Laplace-Gauss)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"function giving the probability that a random variable takes any given value or belongs to a given set of values.\nprobability on the whole set of values of the random variable equals 1.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"probability_distribution",
+	"name":{
+		"defaultValue":"probability distribution",
+		"i18nValue":{
+			"en_US":"probability distribution",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

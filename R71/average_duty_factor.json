@@ -1,0 +1,19 @@
+{
+	"category":"R71",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average ratio of the duration of energization to the total period in which intermittent or continuous or temporary duty takes place.\n1  The duty factor may be expressed as a percentage of the total period. \r\n\r\n2 The factor varies between 0 and 100 %.\r\n 100 % indicates that the component  is continuously in operation.\r\n 50 % indicates that the component is, within a given period, half of that period  intermitting in operation.\r\n\r\n3  The value of the factor  is normally specified by the user in charge of the process.\nreplaces AAF436 simultaneity factor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"average_duty_factor",
+	"name":{
+		"defaultValue":"average duty factor",
+		"i18nValue":{
+			"en_US":"average duty factor",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

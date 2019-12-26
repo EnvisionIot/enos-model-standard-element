@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"impedance presented to a quartz crystal filter by its load or its source.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminating_impedance",
+	"name":{
+		"defaultValue":"terminating impedance",
+		"i18nValue":{
+			"en_US":"terminating impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

@@ -1,0 +1,103 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"screw, threaded stud",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"butt",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"C-bend",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"solder lug",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"faston plug",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"flat",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"gull wing",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"high current cable",
+				"i18nValue":{}
+			},
+			"I":{
+				"defaultValue":"insulated",
+				"i18nValue":{}
+			},
+			"J":{
+				"defaultValue":"J-bend",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"L-bend",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"no lead",
+				"i18nValue":{}
+			},
+			"P":{
+				"defaultValue":"pin or peg",
+				"i18nValue":{}
+			},
+			"Q":{
+				"defaultValue":"quick-connect",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"wrap-around",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"S-bend",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"through-hole",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"J-inverted",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"wire",
+				"i18nValue":{}
+			},
+			"Y":{
+				"defaultValue":"screw, internal thread",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"suffix to the IEC 60191-4 code which identifies the form or shape of the terminals.\nIf more than one terminal is used, the code to be used shall be that for the terminal which carries the principal current.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_shape_code",
+	"name":{
+		"defaultValue":"terminal shape code",
+		"i18nValue":{
+			"en_US":"terminal shape code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

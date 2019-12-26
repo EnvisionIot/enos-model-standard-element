@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"document providing information  about the essential physical, safety-related, toxicological and ecological characteristics and recommendations for a safe handling concerning storage, transportation and use of an item containing chemical substances and mixtures.\nSafety data sheets may be requested by national or regional laws.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"safety_data_sheet",
+	"name":{
+		"defaultValue":"safety data sheet",
+		"i18nValue":{
+			"en_US":"safety data sheet",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

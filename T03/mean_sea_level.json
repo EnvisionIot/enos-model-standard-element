@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"long-term average level of the sea surface.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_sea_level",
+	"name":{
+		"defaultValue":"mean sea level",
+		"i18nValue":{
+			"en_US":"mean sea level",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

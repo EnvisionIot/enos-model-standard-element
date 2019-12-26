@@ -1,0 +1,51 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"R_th(j-h)":{
+				"defaultValue":"R_th from junction to heatsink",
+				"i18nValue":{}
+			},
+			"R_th(j-mb)":{
+				"defaultValue":"R_th from junction to mounting base",
+				"i18nValue":{}
+			},
+			"R_th(j-t)":{
+				"defaultValue":"R_th from junction to tie-point",
+				"i18nValue":{}
+			},
+			"R_th(j-a)":{
+				"defaultValue":"R_th from junction to ambient free air",
+				"i18nValue":{}
+			},
+			"R_th(mb-h)":{
+				"defaultValue":"R_th from mounting base to heatsink",
+				"i18nValue":{}
+			},
+			"R_th(j-c)":{
+				"defaultValue":"R_th from junction to case",
+				"i18nValue":{}
+			},
+			"R_th(h-a)":{
+				"defaultValue":"R_th from heatsink to ambient free air",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code specifying the thermal resistance type of an electric/electronic component.\nThis data element is to be used in combination with AAE688.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"thermal_resistance_type",
+	"name":{
+		"defaultValue":"thermal resistance type",
+		"i18nValue":{
+			"en_US":"thermal resistance type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

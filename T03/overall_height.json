@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"largest overall dimension as specified by level (miNomax) in the direction of the package height which includes the package height and any terminals which are presented for mounting in the height direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"overall_height",
+	"name":{
+		"defaultValue":"overall height",
+		"i18nValue":{
+			"en_US":"overall height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

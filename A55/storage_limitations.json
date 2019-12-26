@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of any limitations on the conditions under which a die device is stored or the length of time for which it may be stored.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"storage_limitations",
+	"name":{
+		"defaultValue":"storage limitations",
+		"i18nValue":{
+			"en_US":"storage limitations",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

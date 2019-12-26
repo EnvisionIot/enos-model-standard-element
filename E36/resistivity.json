@@ -1,0 +1,19 @@
+{
+	"category":"E36",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum dc resistivity of a magnetic material.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resistivity",
+	"name":{
+		"defaultValue":"resistivity",
+		"i18nValue":{
+			"en_US":"resistivity",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω·m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the time interval between the instant at which the fall of the specified on-state current of a thyristor or triac reaches 90% and the instant when this current has decreased to 10%, when switching the device from the on-state to the off-state, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fall_time",
+	"name":{
+		"defaultValue":"fall time",
+		"i18nValue":{
+			"en_US":"fall time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

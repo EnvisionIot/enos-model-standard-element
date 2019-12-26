@@ -1,0 +1,19 @@
+{
+	"category":"C54",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"acidity or basicity of the subsoil of a given location.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"acidity_of_soil",
+	"name":{
+		"defaultValue":"acidity of soil",
+		"i18nValue":{
+			"en_US":"acidity of soil",
+			"zh_CN":null
+		}
+	},
+	"unit":"pH",
+	"version":"1.0"
+}

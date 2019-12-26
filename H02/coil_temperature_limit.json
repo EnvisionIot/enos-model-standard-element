@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum permissible mean temperature of the coil of a relay under steady-state conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"coil_temperature_limit",
+	"name":{
+		"defaultValue":"coil temperature limit",
+		"i18nValue":{
+			"en_US":"coil temperature limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval from the time an enable signal is input to the chip control pin until the time the data is output during a serial read cycle.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"chip_enable_access_time",
+	"name":{
+		"defaultValue":"chip enable access time",
+		"i18nValue":{
+			"en_US":"chip enable access time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

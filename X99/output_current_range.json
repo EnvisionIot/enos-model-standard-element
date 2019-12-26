@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of output current within which the current satisfies the design specification.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current_range",
+	"name":{
+		"defaultValue":"output current range",
+		"i18nValue":{
+			"en_US":"output current range",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

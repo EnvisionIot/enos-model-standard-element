@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a regional or national standard describing a component.\nAFNOR = Association Francaise de Normalisation |ANSI = American National Standards Institute |ASTM = American Society for Testing and Materials |BEC = Belgisch Elektrotechnisch Comite |BIN = Belgisch Instituut voor Normalisatie |BSI = British Standards Institution |CSA = Canadian Standards Association |DIN = Deutsches Institut fur Normung |MIL = Military specification |NNI = Nederlands Normalisatie Instituut |UL = Underwriters Laboratories |UNE = Instituto Nacional de Racionalizacion y Normalizacion (IRANOR) |UNI = Ente Nazionale Italiona di Unificiazione.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"national_standard",
+	"name":{
+		"defaultValue":"national standard",
+		"i18nValue":{
+			"en_US":"national standard",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

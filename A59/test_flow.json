@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"ac and dc tests",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"ac and dc tests at full speed",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"dc tests only",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"no data available",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"ac and dc tests with full function",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"not tested",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the basic test procedures applied to a die or wafer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_flow",
+	"name":{
+		"defaultValue":"test flow",
+		"i18nValue":{
+			"en_US":"test flow",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the x coordinate of the geometric centre of a fiducial referred to the geometric origin of the die as origin.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fiducial_x_position",
+	"name":{
+		"defaultValue":"fiducial x position",
+		"i18nValue":{
+			"en_US":"fiducial x position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

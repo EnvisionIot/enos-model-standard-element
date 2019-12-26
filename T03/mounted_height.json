@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mounted height of a component referred to its seating plane.\nBSI: mounted height (seated height): |The distance of the furthest part of the component above the reference plane measured in a direction perpendicular to that plane. ||BSI: seating plane (reference plane): |The surface plane of the circuit on which the component is mounted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounted_height",
+	"name":{
+		"defaultValue":"mounted height",
+		"i18nValue":{
+			"en_US":"mounted height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

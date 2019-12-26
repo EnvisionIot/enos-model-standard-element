@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":32
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code used to identify the physical features of a component package which, when used with an optional suffix can provide a unique reference to a package and associated dimension set.\nThe code is made up of seven fields with separators :body shape (optional)- (hyphen separator)body material (optional)terminal position (optional)package style (mandatory)- (hyphen separator)terminal shape (optional)terminal count (optional)/.\nThe body material prefix may only be used if the terminal position prefix is also present. Hyphen and solidus separators are only used when the relevant prefixes and suffixes are present.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IEC_60191_code",
+	"name":{
+		"defaultValue":"IEC 60191 code",
+		"i18nValue":{
+			"en_US":"IEC 60191 code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum input voltage at which an energized relay does not release.\nThis applies to the whole range of permissible ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-release_voltage",
+	"name":{
+		"defaultValue":"non-release voltage",
+		"i18nValue":{
+			"en_US":"non-release voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

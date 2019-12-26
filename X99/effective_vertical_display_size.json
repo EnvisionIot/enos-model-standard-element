@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum projected width of the useful screen measured along the vertical axis of a display device.\nUsually metre [m] is used for the unit of measure.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"effective_vertical_display_size",
+	"name":{
+		"defaultValue":"effective vertical display size",
+		"i18nValue":{
+			"en_US":"effective vertical display size",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

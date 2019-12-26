@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall width as specified by level (miNomax) of the mounting flange.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_overall_width",
+	"name":{
+		"defaultValue":"flange overall width",
+		"i18nValue":{
+			"en_US":"flange overall width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

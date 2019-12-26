@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the marine fauna and flora types expected to occur and populating submarine installations.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"expected_marine_growth",
+	"name":{
+		"defaultValue":"expected marine growth",
+		"i18nValue":{
+			"en_US":"expected marine growth",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

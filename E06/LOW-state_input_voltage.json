@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the LOW-state dc input voltage, applied to a digital function of an IC at specified supply voltage and in a temperature range between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-state_input_voltage",
+	"name":{
+		"defaultValue":"LOW-state input voltage",
+		"i18nValue":{
+			"en_US":"LOW-state input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

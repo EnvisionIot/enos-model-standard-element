@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum peak working current of a stabiliser diode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"peak_working_current",
+	"name":{
+		"defaultValue":"peak working current",
+		"i18nValue":{
+			"en_US":"peak working current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

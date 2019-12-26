@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"COL":{
+				"defaultValue":"coloured, mechanically actuated indication field",
+				"i18nValue":{}
+			},
+			"ACT":{
+				"defaultValue":"mechanically actuated indication field",
+				"i18nValue":{}
+			},
+			"LED":{
+				"defaultValue":"light emitting diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the indicator, if any, on a relay which shows the position of the armature and the contact condition (operate or release condition).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"position_indicator",
+	"name":{
+		"defaultValue":"position indicator",
+		"i18nValue":{
+			"en_US":"position indicator",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

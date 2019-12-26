@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rounded nominal diameter of the centre pole of a moving conductor loudspeaker.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"centre_pole_diameter",
+	"name":{
+		"defaultValue":"centre pole diameter",
+		"i18nValue":{
+			"en_US":"centre pole diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

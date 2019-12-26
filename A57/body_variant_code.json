@@ -1,0 +1,67 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"B000":{
+				"defaultValue":"standard form",
+				"i18nValue":{}
+			},
+			"B001":{
+				"defaultValue":"bumped package",
+				"i18nValue":{}
+			},
+			"B010":{
+				"defaultValue":"cavity package (ceramic)",
+				"i18nValue":{}
+			},
+			"B008":{
+				"defaultValue":"cavity down",
+				"i18nValue":{}
+			},
+			"B009":{
+				"defaultValue":"non-cavity package (moulded)",
+				"i18nValue":{}
+			},
+			"B006":{
+				"defaultValue":"stud mount package",
+				"i18nValue":{}
+			},
+			"B007":{
+				"defaultValue":"cavity up",
+				"i18nValue":{}
+			},
+			"B004":{
+				"defaultValue":"top hat package",
+				"i18nValue":{}
+			},
+			"B005":{
+				"defaultValue":"clamp mount package",
+				"i18nValue":{}
+			},
+			"B002":{
+				"defaultValue":"non-bumped package",
+				"i18nValue":{}
+			},
+			"B003":{
+				"defaultValue":"plain cylindrical",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the name which identifies a particular variant of the shape of the body on a package.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"body_variant_code",
+	"name":{
+		"defaultValue":"body variant code",
+		"i18nValue":{
+			"en_US":"body variant code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

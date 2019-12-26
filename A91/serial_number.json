@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number assigned to an individual specimen of objects or an object type.\nIn most industrial applications a serial number is used for tracing the different individual specimen of a product type during their life times, e.g. the individual cars manufactured of a specific car type. In other cases the serial number is used as a running number in order to differentiate among different objects or among different objects within a given domain.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"serial_number",
+	"name":{
+		"defaultValue":"serial number",
+		"i18nValue":{
+			"en_US":"serial number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

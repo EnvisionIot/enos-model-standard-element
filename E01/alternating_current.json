@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"electric current that is a periodic function of time with a zero direct component or, by extension, a negligible direct component, as variable.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"alternating_current",
+	"name":{
+		"defaultValue":"alternating current",
+		"i18nValue":{
+			"en_US":"alternating current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

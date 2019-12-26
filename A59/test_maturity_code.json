@@ -1,0 +1,59 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"pilot production started",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"die available in sample quantities",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"semiconductor die under development",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"die is no longer available",
+				"i18nValue":{}
+			},
+			"V":{
+				"defaultValue":"volume manufacture : parameters, yields are stable",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"no data available",
+				"i18nValue":{}
+			},
+			"Y":{
+				"defaultValue":"data available on receipt of NDA",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"not recommended for new designs",
+				"i18nValue":{}
+			},
+			"O":{
+				"defaultValue":"die will soon be made obsolete",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code to indicate the maturity of the production process for a die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_maturity_code",
+	"name":{
+		"defaultValue":"test maturity code",
+		"i18nValue":{
+			"en_US":"test maturity code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

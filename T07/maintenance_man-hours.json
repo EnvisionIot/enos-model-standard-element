@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"sum of the durations  of  time spent by individual persons to carry out a specified maintenance action.\nNote 1 Maintenance man-hours is a measure of resource use, either estimated or actual, and not the real time duration of the maintenance action. \r\n\r\nNote 2  In some applications, this measure is referred to as “maintenance person hours”.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maintenance_man-hours",
+	"name":{
+		"defaultValue":"maintenance man-hours",
+		"i18nValue":{
+			"en_US":"maintenance man-hours",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

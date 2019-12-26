@@ -1,0 +1,59 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"straight",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"gull wing",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"J-bend",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"J-inverted bend",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"S-bend",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"wraparound",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"C-bend",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"cap",
+				"i18nValue":{}
+			},
+			"J":{
+				"defaultValue":"metallized",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the terminal shape of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_shape_SMD",
+	"name":{
+		"defaultValue":"terminal shape SMD",
+		"i18nValue":{
+			"en_US":"terminal shape SMD",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"output voltage of a fixed output series regulator operating under specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fixed_output_voltage",
+	"name":{
+		"defaultValue":"fixed output voltage",
+		"i18nValue":{
+			"en_US":"fixed output voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

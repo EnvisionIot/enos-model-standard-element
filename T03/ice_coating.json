@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"layer thickness of frozen water on an object produced by nature or by industrial labour.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ice_coating",
+	"name":{
+		"defaultValue":"ice coating",
+		"i18nValue":{
+			"en_US":"ice coating",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the ratio of the collector currents of a dual bipolar transistor at specified equal collector-base voltages, equal base-emitter voltages and at specified sum of emitter currents.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_current_ratio",
+	"name":{
+		"defaultValue":"collector current ratio",
+		"i18nValue":{
+			"en_US":"collector current ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal peak-to-peak current to deflect the spot on the screen of a display tube assembly from edge to edge horizontally, at nominal anode voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_deflection_current",
+	"name":{
+		"defaultValue":"line deflection current",
+		"i18nValue":{
+			"en_US":"line deflection current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

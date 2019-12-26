@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"SCR":{
+				"defaultValue":"screw",
+				"i18nValue":{}
+			},
+			"PIN":{
+				"defaultValue":"pin",
+				"i18nValue":{}
+			},
+			"LEA":{
+				"defaultValue":"leads",
+				"i18nValue":{}
+			},
+			"BAY":{
+				"defaultValue":"bayonet",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mounting cap of a lamp.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting-cap_code",
+	"name":{
+		"defaultValue":"mounting-cap code",
+		"i18nValue":{
+			"en_US":"mounting-cap code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

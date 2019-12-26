@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CSI":{
+				"defaultValue":"CSI (combinatorial sequential interface)",
+				"i18nValue":{}
+			},
+			"MUP":{
+				"defaultValue":"microprocessor",
+				"i18nValue":{}
+			},
+			"PLD":{
+				"defaultValue":"PLD (programmable logic device)",
+				"i18nValue":{}
+			},
+			"MUC":{
+				"defaultValue":"microcontroller",
+				"i18nValue":{}
+			},
+			"STO":{
+				"defaultValue":"storage",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying a digital function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"digital_function",
+	"name":{
+		"defaultValue":"digital function",
+		"i18nValue":{
+			"en_US":"digital function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

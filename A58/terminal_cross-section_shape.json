@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"REC":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"CIR":{
+				"defaultValue":"circular",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the cross-section shape of the terminals of a component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_cross-section_shape",
+	"name":{
+		"defaultValue":"terminal cross-section shape",
+		"i18nValue":{
+			"en_US":"terminal cross-section shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

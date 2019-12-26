@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the ratio of 1) output voltage and 2) product of supply voltage and the pressure in V/(V*Pa) of a semiconductor pressure sensor at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sensitivity",
+	"name":{
+		"defaultValue":"sensitivity",
+		"i18nValue":{
+			"en_US":"sensitivity",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/(V∙Pa)",
+	"version":"1.0"
+}

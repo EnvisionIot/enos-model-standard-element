@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the anode-gate to anode voltage that will trigger a tetrode thyristor, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"anode-gate_to_anode_voltage",
+	"name":{
+		"defaultValue":"anode-gate to anode voltage",
+		"i18nValue":{
+			"en_US":"anode-gate to anode voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

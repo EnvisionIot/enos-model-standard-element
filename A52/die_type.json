@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short title for the physical form of a die or wafer.\nThis is a short title for the form described more fully in AAD084-001. The value list consists of the value meanings from AAD004-001.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_type",
+	"name":{
+		"defaultValue":"die type",
+		"i18nValue":{
+			"en_US":"die type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

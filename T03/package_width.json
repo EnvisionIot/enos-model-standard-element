@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minor dimension as specified by level (miNomax) of the package, excluding terminals, measured in a plane parallel to the seating plane.\nIf terminals are present on one or two sides of the package only, they are deemed to extend in the width direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_width",
+	"name":{
+		"defaultValue":"package width",
+		"i18nValue":{
+			"en_US":"package width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

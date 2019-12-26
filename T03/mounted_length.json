@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall length, as specified by level (miNomax), in the package length direction which includes the package length and any terminals which are bent to be perpendicular to the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounted_length",
+	"name":{
+		"defaultValue":"mounted length",
+		"i18nValue":{
+			"en_US":"mounted length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

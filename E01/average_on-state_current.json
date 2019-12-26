@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting average dc current flowing from anode to cathode in the on-state of a thyristor during one mains cycle at a specified mounting base temperature.\nOne 50Hz mains cycle = 20ms. One 60Hz mains cycle = 16.7ms.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"average_on-state_current",
+	"name":{
+		"defaultValue":"average on-state current",
+		"i18nValue":{
+			"en_US":"average on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the direct voltage, on the cathode with respect to grid 1, for visual extinction of the focused raster of a monochrome display tube at minimum grid 2 voltage.\nApplies to cathode-driven display tubes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cathode_voltage_for_cut-off",
+	"name":{
+		"defaultValue":"cathode voltage for cut-off",
+		"i18nValue":{
+			"en_US":"cathode voltage for cut-off",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,83 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"N750":{
+				"defaultValue":"-750 *10**-6/K",
+				"i18nValue":{}
+			},
+			"P100":{
+				"defaultValue":"+100 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N220":{
+				"defaultValue":"-220 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N330":{
+				"defaultValue":"-330 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N5600":{
+				"defaultValue":"-5600 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N2200":{
+				"defaultValue":"-2200 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N3300":{
+				"defaultValue":"-3300 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N75":{
+				"defaultValue":"-75 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N1000":{
+				"defaultValue":"-1000 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N33":{
+				"defaultValue":"-33 *10**-6/K",
+				"i18nValue":{}
+			},
+			"NP0":{
+				"defaultValue":"0",
+				"i18nValue":{}
+			},
+			"N1500":{
+				"defaultValue":"-1500 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N4700":{
+				"defaultValue":"-4700 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N150":{
+				"defaultValue":"-150 *10**-6/K",
+				"i18nValue":{}
+			},
+			"N470":{
+				"defaultValue":"-470 *10**-6/K",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the temperature coefficient of the capacitance of a fixed class1 ceramic capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"temperature_coefficient_code",
+	"name":{
+		"defaultValue":"temperature coefficient code",
+		"i18nValue":{
+			"en_US":"temperature coefficient code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

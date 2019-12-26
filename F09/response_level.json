@@ -1,0 +1,19 @@
+{
+	"category":"F09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value representing the variation of the level on a point of the response curve of a quantity of a filter or delay line compared with its maximum level, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"response_level",
+	"name":{
+		"defaultValue":"response level",
+		"i18nValue":{
+			"en_US":"response level",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

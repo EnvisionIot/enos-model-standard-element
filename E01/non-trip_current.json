@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rms ac current at which a PTC thermistor will stay in the low resistance region, at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-trip_current",
+	"name":{
+		"defaultValue":"non-trip current",
+		"i18nValue":{
+			"en_US":"non-trip current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

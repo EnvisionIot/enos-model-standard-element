@@ -1,0 +1,19 @@
+{
+	"category":"T11",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ability of a component to withstand specified severities of acceleration.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"acceleration_strength",
+	"name":{
+		"defaultValue":"acceleration strength",
+		"i18nValue":{
+			"en_US":"acceleration strength",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s²",
+	"version":"1.0"
+}

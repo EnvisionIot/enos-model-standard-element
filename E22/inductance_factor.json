@@ -1,0 +1,19 @@
+{
+	"category":"E22",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the inductance of a coil placed on a soft magnetic part, divided by the square of the number of turns, at specified frequency, ambient temperature and peak flux density.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"inductance_factor",
+	"name":{
+		"defaultValue":"inductance factor",
+		"i18nValue":{
+			"en_US":"inductance factor",
+			"zh_CN":null
+		}
+	},
+	"unit":"H",
+	"version":"1.0"
+}

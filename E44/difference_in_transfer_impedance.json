@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the ratio of the change of gate-source voltage difference to the change of drain current of a dual field-effect transistor at specified constant drain current, drain-gate voltage and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"difference_in_transfer_impedance",
+	"name":{
+		"defaultValue":"difference in transfer impedance",
+		"i18nValue":{
+			"en_US":"difference in transfer impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

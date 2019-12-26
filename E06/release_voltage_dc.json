@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc voltage at which an energised relay releases.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"release_voltage_dc",
+	"name":{
+		"defaultValue":"release voltage (dc)",
+		"i18nValue":{
+			"en_US":"release voltage (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

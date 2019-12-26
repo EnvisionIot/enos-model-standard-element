@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum axial force on the spindle of a rotational motor.\nAxial means in line with the shaft (pull or push).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_axial_force",
+	"name":{
+		"defaultValue":"maximum axial force",
+		"i18nValue":{
+			"en_US":"maximum axial force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

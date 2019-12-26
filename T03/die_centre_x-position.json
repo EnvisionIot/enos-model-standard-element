@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal distance measured in the x direction of the geometric centre on the surface of a die from the geometric origin.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"die_centre_x-position",
+	"name":{
+		"defaultValue":"die centre x-position",
+		"i18nValue":{
+			"en_US":"die centre x-position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

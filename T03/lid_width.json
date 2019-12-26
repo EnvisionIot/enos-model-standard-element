@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width as specified by level (miNomax) of a lid on the top of a package which encloses a cavity below.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"lid_width",
+	"name":{
+		"defaultValue":"lid width",
+		"i18nValue":{
+			"en_US":"lid width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

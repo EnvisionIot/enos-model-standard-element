@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the mass of ammonia appearing in the surrounding environment to a specified unit volume.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ammonia_concentration",
+	"name":{
+		"defaultValue":"ammonia concentration",
+		"i18nValue":{
+			"en_US":"ammonia concentration",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

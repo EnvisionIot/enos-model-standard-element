@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width of a printed wiring circuit as given by level (miNomax).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"circuit_width",
+	"name":{
+		"defaultValue":"circuit width",
+		"i18nValue":{
+			"en_US":"circuit width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

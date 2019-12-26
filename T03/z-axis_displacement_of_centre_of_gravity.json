@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the displacement of the centre of gravity of a component in z-axis direction with respect to the reference point of the component.\nThe centre of gravity is a point inside or sometimes outside a body at which the gravitational potential energy of the body is equal to that of a single particle of the same mass located at that point and through which it may be regarded that the resultant force of the gravitational forces on the constituent particles of the body acts.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"z-axis_displacement_of_centre_of_gravity",
+	"name":{
+		"defaultValue":"z-axis displacement of centre of gravity",
+		"i18nValue":{
+			"en_US":"z-axis displacement of centre of gravity",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

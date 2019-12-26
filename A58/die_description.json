@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the physical form of the die including information on solder bumps and lead frame where applicable.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_description",
+	"name":{
+		"defaultValue":"die description",
+		"i18nValue":{
+			"en_US":"die description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

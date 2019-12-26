@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of nominal capacitance of a capacitor that is available within a specific E-series.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"max_range_value",
+	"name":{
+		"defaultValue":"max range value",
+		"i18nValue":{
+			"en_US":"max range value",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

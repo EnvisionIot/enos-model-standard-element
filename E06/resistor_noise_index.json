@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum current-noise index in one frequency decade, relative to the applied dc voltage, of a fixed linear resistor.\nThe current-noise index 'microvolts per volt in a decade' expressed in dB is the term used to express the 'noisiness' of individual resistors. |The ideal rectangular pass band associated with the current-noise index is one frequency decade, geometrically centred at 1000 Hz (c/s). |The index is defined as follows: |Current-noise index = 20 log_10 (v_rms)/V_T dB (in a frequency decade). |Where v_rms is the number of microvolts of open circuit rms current-noise voltage in a frequency decade and V_T is the number of dc volts applied to the resistor under test. |Since the current-noise power spectrum approximates to a 1/f frequency characteristic, the index provides an estimate of current-noise in any frequency decade.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resistor_noise_index",
+	"name":{
+		"defaultValue":"resistor noise index",
+		"i18nValue":{
+			"en_US":"resistor noise index",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

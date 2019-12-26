@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum time needed to transmit data from a memory cell to a register in read mode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reading_time_from_cell",
+	"name":{
+		"defaultValue":"reading time from cell",
+		"i18nValue":{
+			"en_US":"reading time from cell",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

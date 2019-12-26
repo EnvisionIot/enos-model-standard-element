@@ -1,0 +1,19 @@
+{
+	"category":"E36",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistivity of a typical sample of soil at a given location.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"electric_resistivity_of_soil",
+	"name":{
+		"defaultValue":"electric resistivity of soil",
+		"i18nValue":{
+			"en_US":"electric resistivity of soil",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω/m",
+	"version":"1.0"
+}

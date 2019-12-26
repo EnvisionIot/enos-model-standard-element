@@ -1,0 +1,21 @@
+{
+	"category":"A14",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"horizontal direction of the movement of the tidal current driven by astronomical tides at a given location.\nThe tidal current direction is defined as “going to” in contrast to wind and wave direction.\nIn practice the direction is applied in textual form either by abbreviations of the geographic directions or in full text instead of being applied in nautical degree, i.e. degree relative to true north positive clockwise.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"tidal_current_direction",
+	"name":{
+		"defaultValue":"tidal current direction",
+		"i18nValue":{
+			"en_US":"tidal current direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

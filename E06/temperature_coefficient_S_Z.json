@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum temperature coefficient of a voltage reference diode or voltage stabiliser diode, at specified working current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient_S_Z",
+	"name":{
+		"defaultValue":"temperature coefficient S_Z",
+		"i18nValue":{
+			"en_US":"temperature coefficient S_Z",
+			"zh_CN":null
+		}
+	},
+	"unit":"%/K",
+	"version":"1.0"
+}

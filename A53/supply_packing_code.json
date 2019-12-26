@@ -1,0 +1,51 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"FILM":{
+				"defaultValue":"supplied sawn on plastic film",
+				"i18nValue":{}
+			},
+			"GELPAK":{
+				"defaultValue":"supplied in GEL-PAK",
+				"i18nValue":{}
+			},
+			"TAPE":{
+				"defaultValue":"supplied on embossed tape",
+				"i18nValue":{}
+			},
+			"WAFFLE":{
+				"defaultValue":"supplied in waffle pack or tray",
+				"i18nValue":{}
+			},
+			"BOX":{
+				"defaultValue":"supplied unsawn in wafer boxes",
+				"i18nValue":{}
+			},
+			"SURFTAPE":{
+				"defaultValue":"supplied on SurfTape",
+				"i18nValue":{}
+			},
+			"GELFRAME":{
+				"defaultValue":"supplied in GEL-PAK for sawn wafers",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mnemonic code for the form of packing used for the supply of a die or wafer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_packing_code",
+	"name":{
+		"defaultValue":"supply packing code",
+		"i18nValue":{
+			"en_US":"supply packing code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

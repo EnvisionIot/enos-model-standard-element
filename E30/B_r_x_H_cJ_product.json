@@ -1,0 +1,19 @@
+{
+	"category":"E30",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax), of the product of remanent flux density B_r and coercivity H_cJ of a hard magnetic material.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"B_r_x_H_cJ_product",
+	"name":{
+		"defaultValue":"B_r x H_cJ product",
+		"i18nValue":{
+			"en_US":"B_r x H_cJ product",
+			"zh_CN":null
+		}
+	},
+	"unit":"J/m³",
+	"version":"1.0"
+}

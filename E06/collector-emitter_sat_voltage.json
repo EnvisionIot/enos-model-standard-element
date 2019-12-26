@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the collector-emitter voltage of a bipolar transistor above which there is no significant change in collector current, at specified conditions.\nIn saturation mode both the base-emitter and base-collector junctions are forward biased.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_sat_voltage",
+	"name":{
+		"defaultValue":"collector-emitter sat voltage",
+		"i18nValue":{
+			"en_US":"collector-emitter sat voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

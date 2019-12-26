@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the upper capacitance between the terminals of a variable capacitance diode at specified values of the lower reverse voltage, frequency and temperature of a temperature type.\nA variable capacitance diode varies its characteristic capacitance from a high value to a lower value when the applied reverse voltage increases from a low value to a higher value and vice versa.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"diode_upper_capacitance",
+	"name":{
+		"defaultValue":"diode upper capacitance",
+		"i18nValue":{
+			"en_US":"diode upper capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

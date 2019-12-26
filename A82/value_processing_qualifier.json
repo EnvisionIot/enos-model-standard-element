@@ -1,0 +1,55 @@
+{
+	"category":"A82",
+	"dataDefinition":{
+		"enumDesc":{
+			"WAM":{
+				"defaultValue":"weighted arithmetic mean",
+				"i18nValue":{}
+			},
+			"HM":{
+				"defaultValue":"harmonic mean",
+				"i18nValue":{}
+			},
+			"GM":{
+				"defaultValue":"geometric mean",
+				"i18nValue":{}
+			},
+			"MODE":{
+				"defaultValue":"mode",
+				"i18nValue":{}
+			},
+			"RMS":{
+				"defaultValue":"root-mean-square",
+				"i18nValue":{}
+			},
+			"AM":{
+				"defaultValue":"arithmetic mean",
+				"i18nValue":{}
+			},
+			"WGM":{
+				"defaultValue":"weighted geometric mean",
+				"i18nValue":{}
+			},
+			"MED":{
+				"defaultValue":"median",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"qualifier that specifies a method of selecting or computing a representative value from more than one value.\n1 The qualifier can be used to express a defined type of average in conjunction with a defined data element type or a defined data value \n2 The qualifier can be used in all those cases if the type of the average used in the existing definitions of data element types is not sufficiently specified \n3 The value codes can be used as subscript to the preferred symbol of the related quantitative data element type\n4 The value list is an open list. Other values not listed need to be agreed among the partners.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"value_processing_qualifier",
+	"name":{
+		"defaultValue":"value processing qualifier",
+		"i18nValue":{
+			"en_US":"value processing qualifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

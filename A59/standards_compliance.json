@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"list of all the quality assurance standards for which compliance is claimed, together with the compliance level for each.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"standards_compliance",
+	"name":{
+		"defaultValue":"standards compliance",
+		"i18nValue":{
+			"en_US":"standards compliance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

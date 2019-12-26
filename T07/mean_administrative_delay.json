@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expectation of the administrative delay.\nTerm 'mean' is used as synonym  to the term arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_administrative_delay",
+	"name":{
+		"defaultValue":"mean administrative delay",
+		"i18nValue":{
+			"en_US":"mean administrative delay",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

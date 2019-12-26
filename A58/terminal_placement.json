@@ -1,0 +1,55 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"AXIAL":{
+				"defaultValue":"axial",
+				"i18nValue":{}
+			},
+			"RAD":{
+				"defaultValue":"radial",
+				"i18nValue":{}
+			},
+			"QIL":{
+				"defaultValue":"quadruple in line",
+				"i18nValue":{}
+			},
+			"DIL":{
+				"defaultValue":"dual in line",
+				"i18nValue":{}
+			},
+			"SIL":{
+				"defaultValue":"single in line",
+				"i18nValue":{}
+			},
+			"CIRC":{
+				"defaultValue":"on circle",
+				"i18nValue":{}
+			},
+			"GA":{
+				"defaultValue":"grid array",
+				"i18nValue":{}
+			},
+			"SEND":{
+				"defaultValue":"single ended",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the placement of the terminals of an electric-electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_placement",
+	"name":{
+		"defaultValue":"terminal placement",
+		"i18nValue":{
+			"en_US":"terminal placement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

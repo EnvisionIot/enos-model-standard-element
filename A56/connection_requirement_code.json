@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"N/A":{
+				"defaultValue":"not applicable",
+				"i18nValue":{}
+			},
+			"OPT":{
+				"defaultValue":"connection optional",
+				"i18nValue":{}
+			},
+			"CONN":{
+				"defaultValue":"must be connected",
+				"i18nValue":{}
+			},
+			"ISOL":{
+				"defaultValue":"must be isolated",
+				"i18nValue":{}
+			},
+			"N/K":{
+				"defaultValue":"requirement not known",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mnemonic code used to identify the requirement for electrical connection to the die substrate.\nWhere the value of the code is ISOL, no connection may be made to the substrate. |Where the value of the code is OPT connection to the substrate is optional but any connection made must be to the supply as defined by substrate connection. |Where the value of the code is CONN a connection from the substrate to a terminal on the die or to a supply terminal is mandatory. |Where the value of the code is N/A connection to the substrate is not appropriate or not possible. |Where the value of the code is N/K no information on the connection requirement is available.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connection_requirement_code",
+	"name":{
+		"defaultValue":"connection requirement code",
+		"i18nValue":{
+			"en_US":"connection requirement code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

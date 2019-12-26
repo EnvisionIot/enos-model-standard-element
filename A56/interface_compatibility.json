@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CMOS":{
+				"defaultValue":"directly compatible with CMOS circuits.",
+				"i18nValue":{}
+			},
+			"TTL":{
+				"defaultValue":"directly compatible with TTL circuits.",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"interface compatibility of the digital IC inputs and outputs with the peripheral circuits.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"interface_compatibility",
+	"name":{
+		"defaultValue":"interface compatibility",
+		"i18nValue":{
+			"en_US":"interface compatibility",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

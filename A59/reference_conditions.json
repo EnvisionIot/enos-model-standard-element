@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":175
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the reference conditions applied to a component as a variable.\nReference conditions may be used when a number of characteristics are specified at a common set of conditions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_conditions",
+	"name":{
+		"defaultValue":"reference conditions",
+		"i18nValue":{
+			"en_US":"reference conditions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

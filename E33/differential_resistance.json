@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum quotient of the delta V_F over delta I_F, of a voltage regulator diode or stabistor at specified forward current and a frequency of 1000 Hz.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"differential_resistance",
+	"name":{
+		"defaultValue":"differential resistance",
+		"i18nValue":{
+			"en_US":"differential resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

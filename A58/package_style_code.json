@@ -1,0 +1,107 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"CC":{
+				"defaultValue":"chip carrier",
+				"i18nValue":{}
+			},
+			"SS":{
+				"defaultValue":"special shape",
+				"i18nValue":{}
+			},
+			"BD":{
+				"defaultValue":"bead",
+				"i18nValue":{}
+			},
+			"MP":{
+				"defaultValue":"power module",
+				"i18nValue":{}
+			},
+			"FM":{
+				"defaultValue":"flange mount",
+				"i18nValue":{}
+			},
+			"IP":{
+				"defaultValue":"in line",
+				"i18nValue":{}
+			},
+			"FO":{
+				"defaultValue":"fibre-optic",
+				"i18nValue":{}
+			},
+			"FP":{
+				"defaultValue":"flat pack",
+				"i18nValue":{}
+			},
+			"MW":{
+				"defaultValue":"microwave",
+				"i18nValue":{}
+			},
+			"CP":{
+				"defaultValue":"clamped",
+				"i18nValue":{}
+			},
+			"UC":{
+				"defaultValue":"uncased chip",
+				"i18nValue":{}
+			},
+			"RC":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"MA":{
+				"defaultValue":"microelectronic",
+				"i18nValue":{}
+			},
+			"CY":{
+				"defaultValue":"cylindrical",
+				"i18nValue":{}
+			},
+			"PF":{
+				"defaultValue":"press-fit",
+				"i18nValue":{}
+			},
+			"GA":{
+				"defaultValue":"grid array",
+				"i18nValue":{}
+			},
+			"LF":{
+				"defaultValue":"long-form",
+				"i18nValue":{}
+			},
+			"VP":{
+				"defaultValue":"vertical surface-mount",
+				"i18nValue":{}
+			},
+			"SO":{
+				"defaultValue":"small outline",
+				"i18nValue":{}
+			},
+			"PM":{
+				"defaultValue":"Post mount",
+				"i18nValue":{}
+			},
+			"DB":{
+				"defaultValue":"disc",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC 60191-4 code which identifies the general physical form of the package.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"package_style_code",
+	"name":{
+		"defaultValue":"package style code",
+		"i18nValue":{
+			"en_US":"package style code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

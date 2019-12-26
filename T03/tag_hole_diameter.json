@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of the hole in a terminal lug or slug.\nΦt_2 is normally smaller than Φt_1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tag_hole_diameter",
+	"name":{
+		"defaultValue":"tag hole diameter",
+		"i18nValue":{
+			"en_US":"tag hole diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

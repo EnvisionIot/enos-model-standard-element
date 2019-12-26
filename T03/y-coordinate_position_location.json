@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the y-coordinate of the location of a point on the symmetry-axis of a constructive solid geometry primitive.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"y-coordinate_position_location",
+	"name":{
+		"defaultValue":"y-coordinate position location",
+		"i18nValue":{
+			"en_US":"y-coordinate position location",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

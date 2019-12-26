@@ -1,0 +1,239 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"EDC":{
+				"defaultValue":"error detection/correction",
+				"i18nValue":{}
+			},
+			"DSKC":{
+				"defaultValue":"disk controller",
+				"i18nValue":{}
+			},
+			"ALU":{
+				"defaultValue":"arithmetic logic unit",
+				"i18nValue":{}
+			},
+			"NAND":{
+				"defaultValue":"NAND gate",
+				"i18nValue":{}
+			},
+			"COMP":{
+				"defaultValue":"comparator",
+				"i18nValue":{}
+			},
+			"RS232":{
+				"defaultValue":"RS232 interface",
+				"i18nValue":{}
+			},
+			"LSH":{
+				"defaultValue":"level shifter",
+				"i18nValue":{}
+			},
+			"MM":{
+				"defaultValue":"memory management device",
+				"i18nValue":{}
+			},
+			"PARCH":{
+				"defaultValue":"parity generator/checker",
+				"i18nValue":{}
+			},
+			"BCD":{
+				"defaultValue":"BCD counter",
+				"i18nValue":{}
+			},
+			"SUBTR":{
+				"defaultValue":"subtractor",
+				"i18nValue":{}
+			},
+			"MAC":{
+				"defaultValue":"memory access controller",
+				"i18nValue":{}
+			},
+			"NOR":{
+				"defaultValue":"NOR gate",
+				"i18nValue":{}
+			},
+			"ARITHM":{
+				"defaultValue":"arithmetic function",
+				"i18nValue":{}
+			},
+			"MUX":{
+				"defaultValue":"multiplexer",
+				"i18nValue":{}
+			},
+			"USART":{
+				"defaultValue":"universal synchronous-asynchronous receiver/transmitter",
+				"i18nValue":{}
+			},
+			"AND":{
+				"defaultValue":"AND gate",
+				"i18nValue":{}
+			},
+			"CCONV":{
+				"defaultValue":"code converter",
+				"i18nValue":{}
+			},
+			"LACG":{
+				"defaultValue":"look-ahead carry generator",
+				"i18nValue":{}
+			},
+			"SWITCH":{
+				"defaultValue":"switch",
+				"i18nValue":{}
+			},
+			"XOR":{
+				"defaultValue":"exclusive-OR gate",
+				"i18nValue":{}
+			},
+			"ENC":{
+				"defaultValue":"encoder",
+				"i18nValue":{}
+			},
+			"SEQ":{
+				"defaultValue":"sequencer",
+				"i18nValue":{}
+			},
+			"JK":{
+				"defaultValue":"JK-type flip-flop",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"D-type flip-flop",
+				"i18nValue":{}
+			},
+			"CNT":{
+				"defaultValue":"counter",
+				"i18nValue":{}
+			},
+			"DMAC":{
+				"defaultValue":"DMA controller",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"latch-type flip-flop",
+				"i18nValue":{}
+			},
+			"TRANS":{
+				"defaultValue":"transceiver",
+				"i18nValue":{}
+			},
+			"INV":{
+				"defaultValue":"inverter",
+				"i18nValue":{}
+			},
+			"BDR":{
+				"defaultValue":"bus driver",
+				"i18nValue":{}
+			},
+			"DEMUX":{
+				"defaultValue":"demultiplexer",
+				"i18nValue":{}
+			},
+			"BUF":{
+				"defaultValue":"buffer",
+				"i18nValue":{}
+			},
+			"DDR":{
+				"defaultValue":"display driver",
+				"i18nValue":{}
+			},
+			"I2C":{
+				"defaultValue":"I2C bus controller",
+				"i18nValue":{}
+			},
+			"LDR":{
+				"defaultValue":"line driver",
+				"i18nValue":{}
+			},
+			"ADDER":{
+				"defaultValue":"adder",
+				"i18nValue":{}
+			},
+			"SR":{
+				"defaultValue":"set/reset type flip-flop",
+				"i18nValue":{}
+			},
+			"COM":{
+				"defaultValue":"communication (involving a protocol)",
+				"i18nValue":{}
+			},
+			"BUS":{
+				"defaultValue":"bus communication",
+				"i18nValue":{}
+			},
+			"DEC":{
+				"defaultValue":"decoder",
+				"i18nValue":{}
+			},
+			"OR":{
+				"defaultValue":"OR gate",
+				"i18nValue":{}
+			},
+			"BICNT":{
+				"defaultValue":"binary counter",
+				"i18nValue":{}
+			},
+			"UART":{
+				"defaultValue":"universal asynchronous receiver/transmitter",
+				"i18nValue":{}
+			},
+			"GATE":{
+				"defaultValue":"gate",
+				"i18nValue":{}
+			},
+			"VME":{
+				"defaultValue":"VME bus controller",
+				"i18nValue":{}
+			},
+			"XNOR":{
+				"defaultValue":"exclusive-NOR gate",
+				"i18nValue":{}
+			},
+			"REC":{
+				"defaultValue":"receiver",
+				"i18nValue":{}
+			},
+			"DECNT":{
+				"defaultValue":"decade counter",
+				"i18nValue":{}
+			},
+			"INTC":{
+				"defaultValue":"interrupt controller",
+				"i18nValue":{}
+			},
+			"BIST":{
+				"defaultValue":"bistable trigger element (flip-flop)",
+				"i18nValue":{}
+			},
+			"LAN":{
+				"defaultValue":"local area network controller",
+				"i18nValue":{}
+			},
+			"SCH":{
+				"defaultValue":"Schmitt trigger",
+				"i18nValue":{}
+			},
+			"DRI":{
+				"defaultValue":"driver",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a combinatorial, sequential or interface function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"CSI_functions",
+	"name":{
+		"defaultValue":"CSI functions",
+		"i18nValue":{
+			"en_US":"CSI functions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

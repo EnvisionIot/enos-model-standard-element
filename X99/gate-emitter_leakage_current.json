@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"leakage current into the gate terminal at a specified gate-emitter voltage with the collector terminal short-circuited to the emitter terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate-emitter_leakage_current",
+	"name":{
+		"defaultValue":"gate-emitter leakage current",
+		"i18nValue":{
+			"en_US":"gate-emitter leakage current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

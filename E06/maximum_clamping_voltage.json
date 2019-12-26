@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum clamping voltage across a varistor when, at reference conditions, a specified pulse current, with specified virtual front time and virtual time to half-value, is passed through the varistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_clamping_voltage",
+	"name":{
+		"defaultValue":"maximum clamping voltage",
+		"i18nValue":{
+			"en_US":"maximum clamping voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

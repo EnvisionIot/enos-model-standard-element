@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"LIFO":{
+				"defaultValue":"last-in first-out register",
+				"i18nValue":{}
+			},
+			"FIFO":{
+				"defaultValue":"first-in first-out register",
+				"i18nValue":{}
+			},
+			"SHR":{
+				"defaultValue":"shift register",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying a register function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"register_type",
+	"name":{
+		"defaultValue":"register type",
+		"i18nValue":{
+			"en_US":"register type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

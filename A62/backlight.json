@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"product code of a backlight used with a liquid crystal display module.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"backlight",
+	"name":{
+		"defaultValue":"backlight",
+		"i18nValue":{
+			"en_US":"backlight",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

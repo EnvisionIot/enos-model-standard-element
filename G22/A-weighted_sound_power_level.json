@@ -1,0 +1,19 @@
+{
+	"category":"G22",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"filter reducing the lowest and highest frequencies of the overall measured sound power level.\nthe A-weighted frequency filter is used when assessing the potential for hearing damage, as it is intended to mimic the response of the human ear to sounds of different frequencies.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"A-weighted_sound_power_level",
+	"name":{
+		"defaultValue":"A-weighted sound power level",
+		"i18nValue":{
+			"en_US":"A-weighted sound power level",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

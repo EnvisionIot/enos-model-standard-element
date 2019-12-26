@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed total off-state dc supply current, of a 3-state TTL digital IC, at the maximum supply voltage and in a temperature range between specified temperatures (T_1 and T_2).\nTotal off-state supply current per package. |Appropriate disabling signals must be applied to the relevant inputs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"off-state_supply_current",
+	"name":{
+		"defaultValue":"off-state supply current",
+		"i18nValue":{
+			"en_US":"off-state supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

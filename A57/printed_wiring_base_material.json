@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"GLF":{
+				"defaultValue":"glass fabric",
+				"i18nValue":{}
+			},
+			"SFF":{
+				"defaultValue":"synthetic fibre fabric",
+				"i18nValue":{}
+			},
+			"GCN":{
+				"defaultValue":"glass cloth, non-woven core",
+				"i18nValue":{}
+			},
+			"PPR":{
+				"defaultValue":"paper base, phenolic resin",
+				"i18nValue":{}
+			},
+			"GCP":{
+				"defaultValue":"glass cloth, paper core",
+				"i18nValue":{}
+			},
+			"GTE":{
+				"defaultValue":"glass ismal/triaz/epox",
+				"i18nValue":{}
+			},
+			"GMP":{
+				"defaultValue":"glass mod-and-un polyimide",
+				"i18nValue":{}
+			},
+			"PER":{
+				"defaultValue":"paper base, epoxy resin",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of base material used in a printed wiring laminate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"printed_wiring_base_material",
+	"name":{
+		"defaultValue":"printed wiring base material",
+		"i18nValue":{
+			"en_US":"printed wiring base material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

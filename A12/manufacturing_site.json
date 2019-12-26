@@ -1,0 +1,21 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name or code for the location that the product was manufacured.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"manufacturing_site",
+	"name":{
+		"defaultValue":"manufacturing site",
+		"i18nValue":{
+			"en_US":"manufacturing site",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

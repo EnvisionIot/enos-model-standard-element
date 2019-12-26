@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":7
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"orientation code for a pad related to reference axes.\nThe fiducial orientation is given by the angle of clockwise orientation, in degrees, followed optionally by letter codes to indicate mirroring. If the letters MX are included, the orientation of the fiducial is mirrored in the X-axis, whilst if the letters MY are included the orientation of the fiducial is mirrored in the Y-axis. Both MX and MY may be present simultaneously and all mirroring shall be done about the geometric reference centre of the fiducial shape. The mirroring operation (if any) shall be carried out first, then the fiducial shall be rotated by the orientation angle.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fiducial_orientation",
+	"name":{
+		"defaultValue":"fiducial orientation",
+		"i18nValue":{
+			"en_US":"fiducial orientation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SSA":{
+				"defaultValue":"single-sided amplifier",
+				"i18nValue":{}
+			},
+			"DFA":{
+				"defaultValue":"differential amplifier",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of input configuration, identifying a voltage amplifier.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"input_configuration",
+	"name":{
+		"defaultValue":"input configuration",
+		"i18nValue":{
+			"en_US":"input configuration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

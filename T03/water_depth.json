@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"linear dimension measured in the vertical direction from the water surface to the bed.\nThe term bed is here representing the bed of a river, the solid ground of a sea or  lake.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"water_depth",
+	"name":{
+		"defaultValue":"water depth",
+		"i18nValue":{
+			"en_US":"water depth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

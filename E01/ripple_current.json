@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rms alternating current of specified frequency which may be applied continuously to a fixed electrolytic capacitor at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ripple_current",
+	"name":{
+		"defaultValue":"ripple current",
+		"i18nValue":{
+			"en_US":"ripple current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

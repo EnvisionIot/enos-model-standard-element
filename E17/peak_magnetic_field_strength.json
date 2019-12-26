@@ -1,0 +1,19 @@
+{
+	"category":"E17",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak magnetic field strength applied to a magnetic material, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"peak_magnetic_field_strength",
+	"name":{
+		"defaultValue":"peak magnetic field strength",
+		"i18nValue":{
+			"en_US":"peak magnetic field strength",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m",
+	"version":"1.0"
+}

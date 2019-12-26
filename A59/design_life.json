@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration for which  specified performance characteristics of an item are granted by the manufacturer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"design_life",
+	"name":{
+		"defaultValue":"design life",
+		"i18nValue":{
+			"en_US":"design life",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

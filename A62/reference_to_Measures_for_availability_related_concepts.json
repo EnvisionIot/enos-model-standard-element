@@ -1,0 +1,188 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"instantaneous_availability",
+				"name":{
+					"defaultValue":"instantaneous availability",
+					"i18nValue":{
+						"en_US":"instantaneous availability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"inherent_availability",
+				"name":{
+					"defaultValue":"inherent availability",
+					"i18nValue":{
+						"en_US":"inherent availability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"operational_availability",
+				"name":{
+					"defaultValue":"operational availability",
+					"i18nValue":{
+						"en_US":"operational availability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"instantaneous_unavailability",
+				"name":{
+					"defaultValue":"instantaneous unavailability",
+					"i18nValue":{
+						"en_US":"instantaneous unavailability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"mean_availability",
+				"name":{
+					"defaultValue":"mean availability",
+					"i18nValue":{
+						"en_US":"mean availability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"mean_unavailability",
+				"name":{
+					"defaultValue":"mean unavailability",
+					"i18nValue":{
+						"en_US":"mean unavailability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"steady_state_availability",
+				"name":{
+					"defaultValue":"steady state availability",
+					"i18nValue":{
+						"en_US":"steady state availability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"steady_state_unavailability",
+				"name":{
+					"defaultValue":"steady state unavailability",
+					"i18nValue":{
+						"en_US":"steady state unavailability",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_up_time",
+				"name":{
+					"defaultValue":"mean up time",
+					"i18nValue":{
+						"en_US":"mean up time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_down_time",
+				"name":{
+					"defaultValue":"mean down time",
+					"i18nValue":{
+						"en_US":"mean down time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Measures for availability related concepts.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Measures_for_availability_related_concepts",
+	"name":{
+		"defaultValue":"reference to Measures for availability related concepts",
+		"i18nValue":{
+			"en_US":"reference to Measures for availability related concepts",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

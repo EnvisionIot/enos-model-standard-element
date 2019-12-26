@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"list of the electrical parameters for which tests were made in assessing the outgoing quality of a component, together with the test limits for each.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrical_parameters_specified",
+	"name":{
+		"defaultValue":"electrical parameters specified",
+		"i18nValue":{
+			"en_US":"electrical parameters specified",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

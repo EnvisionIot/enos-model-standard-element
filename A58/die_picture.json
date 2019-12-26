@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a file or document containing a picture of the die which shows the positions of all pads.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_picture",
+	"name":{
+		"defaultValue":"die picture",
+		"i18nValue":{
+			"en_US":"die picture",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

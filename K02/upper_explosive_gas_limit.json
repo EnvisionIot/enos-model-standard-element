@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"concentration of flammable gas, vapour or mist in air, above which an explosive gas atmosphere will not be formed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"upper_explosive_gas_limit",
+	"name":{
+		"defaultValue":"upper explosive gas limit",
+		"i18nValue":{
+			"en_US":"upper explosive gas limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

@@ -1,0 +1,39 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"DCNPL":{
+				"defaultValue":"DC non-polarized",
+				"i18nValue":{}
+			},
+			"ACNPL":{
+				"defaultValue":"AC non-polarized",
+				"i18nValue":{}
+			},
+			"REM":{
+				"defaultValue":"DC remanent",
+				"i18nValue":{}
+			},
+			"POL":{
+				"defaultValue":"DC polarized",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of magnet system of a relay.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"magnet_system",
+	"name":{
+		"defaultValue":"magnet system",
+		"i18nValue":{
+			"en_US":"magnet system",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

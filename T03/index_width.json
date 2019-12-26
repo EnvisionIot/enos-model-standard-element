@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width as specified by level (miNomax) of an index feature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_width",
+	"name":{
+		"defaultValue":"index width",
+		"i18nValue":{
+			"en_US":"index width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

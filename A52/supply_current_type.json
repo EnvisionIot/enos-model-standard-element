@@ -1,0 +1,39 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"UNI":{
+				"defaultValue":"universal motor (ac or dc)",
+				"i18nValue":{}
+			},
+			"AC":{
+				"defaultValue":"ac",
+				"i18nValue":{}
+			},
+			"STP":{
+				"defaultValue":"stepping motor (pulse)",
+				"i18nValue":{}
+			},
+			"DC":{
+				"defaultValue":"dc",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the supply current type for which a motor has been designed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_current_type",
+	"name":{
+		"defaultValue":"supply current type",
+		"i18nValue":{
+			"en_US":"supply current type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

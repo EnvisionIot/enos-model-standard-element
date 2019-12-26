@@ -1,0 +1,35 @@
+{
+	"category":"A83",
+	"dataDefinition":{
+		"enumDesc":{
+			"MAINT":{
+				"defaultValue":"maintenance type",
+				"i18nValue":{}
+			},
+			"PROD":{
+				"defaultValue":"production type or current type",
+				"i18nValue":{}
+			},
+			"DEV":{
+				"defaultValue":"development type",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the status of an object according to the manufacturer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"object_status",
+	"name":{
+		"defaultValue":"object status",
+		"i18nValue":{
+			"en_US":"object status",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

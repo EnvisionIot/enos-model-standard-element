@@ -1,0 +1,103 @@
+{
+	"category":"Q56",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"screw, threaded stud",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"butt",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"C-bend",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"solder lug",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"faston plug",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"flat",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"gull wing",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"high current cable",
+				"i18nValue":{}
+			},
+			"I":{
+				"defaultValue":"insulated",
+				"i18nValue":{}
+			},
+			"J":{
+				"defaultValue":"J-bend",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"L-bend",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"no lead",
+				"i18nValue":{}
+			},
+			"P":{
+				"defaultValue":"pin or peg",
+				"i18nValue":{}
+			},
+			"Q":{
+				"defaultValue":"quick-connect",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"wrap-around",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"S-bend",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"through-hole",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"J-inverted",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"wire",
+				"i18nValue":{}
+			},
+			"Y":{
+				"defaultValue":"screw, internal thread",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"actual quantity of potential terminal positions which are occupied.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"actual_quantity_of_termination",
+	"name":{
+		"defaultValue":"actual quantity of termination",
+		"i18nValue":{
+			"en_US":"actual quantity of termination",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the conductor diameter which is connectable to an electrical contact.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connectable_conductor_diameter",
+	"name":{
+		"defaultValue":"connectable conductor diameter",
+		"i18nValue":{
+			"en_US":"connectable conductor diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

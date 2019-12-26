@@ -1,0 +1,19 @@
+{
+	"category":"F01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lifetime of the item which should not be exceeded in order to maintain the validity of the estimated failure rates due to random hardware failures, starting at date of production.\nNote 1 Overall lifetime covers also periods of no-use, e.g. storage.\r\n\r\nNote 2 Term corresponds to T_1 according to IEC  62061:2015, and to T_M according to ISO 13849-1:2015.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"overall_lifetime",
+	"name":{
+		"defaultValue":"overall lifetime",
+		"i18nValue":{
+			"en_US":"overall lifetime",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

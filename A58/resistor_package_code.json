@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the package or envelope type of a resistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"resistor_package_code",
+	"name":{
+		"defaultValue":"resistor package code",
+		"i18nValue":{
+			"en_US":"resistor package code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

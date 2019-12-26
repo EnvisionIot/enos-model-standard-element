@@ -1,0 +1,47 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"EARTH":{
+				"defaultValue":"earth contact",
+				"i18nValue":{}
+			},
+			"COVER":{
+				"defaultValue":"cover",
+				"i18nValue":{}
+			},
+			"SHIELD":{
+				"defaultValue":"shield",
+				"i18nValue":{}
+			},
+			"LATCH":{
+				"defaultValue":"latch",
+				"i18nValue":{}
+			},
+			"HOUSE":{
+				"defaultValue":"house",
+				"i18nValue":{}
+			},
+			"HANDLE":{
+				"defaultValue":"handle",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a component integrated with a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"integrated_component",
+	"name":{
+		"defaultValue":"integrated component",
+		"i18nValue":{
+			"en_US":"integrated component",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

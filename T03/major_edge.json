@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the edge of the square base plane of a right angular pyramid.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"major_edge",
+	"name":{
+		"defaultValue":"major edge",
+		"i18nValue":{
+			"en_US":"major edge",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum permissible power dissipation per output of an IC at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_dissipation_per_output",
+	"name":{
+		"defaultValue":"power dissipation per output",
+		"i18nValue":{
+			"en_US":"power dissipation per output",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

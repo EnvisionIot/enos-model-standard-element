@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of visible horizontal lines of a display tube.\nMeasured with the shrinking raster method at screen centre.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"vertical_resolution",
+	"name":{
+		"defaultValue":"vertical resolution",
+		"i18nValue":{
+			"en_US":"vertical resolution",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

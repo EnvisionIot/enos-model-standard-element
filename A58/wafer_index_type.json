@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"NOTCH":{
+				"defaultValue":"index in the form of a notch on the edge of the wafer",
+				"i18nValue":{}
+			},
+			"FLAT":{
+				"defaultValue":"index in the form of a flat on the edge of the wafer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of index present on a wafer which is used as a reference feature to determine its orientation.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"wafer_index_type",
+	"name":{
+		"defaultValue":"wafer index type",
+		"i18nValue":{
+			"en_US":"wafer index type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

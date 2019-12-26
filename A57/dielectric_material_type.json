@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CER":{
+				"defaultValue":"fixed ceramic capacitor",
+				"i18nValue":{}
+			},
+			"FLM":{
+				"defaultValue":"fixed film capacitor",
+				"i18nValue":{}
+			},
+			"AIR":{
+				"defaultValue":"fixed air capacitor",
+				"i18nValue":{}
+			},
+			"ELC":{
+				"defaultValue":"fixed electrolytic capacitor",
+				"i18nValue":{}
+			},
+			"MIX":{
+				"defaultValue":"fixed mixed-dielectric capacitor",
+				"i18nValue":{}
+			},
+			"MICA":{
+				"defaultValue":"fixed mica capacitor",
+				"i18nValue":{}
+			},
+			"PAP":{
+				"defaultValue":"fixed paper capacitor",
+				"i18nValue":{}
+			},
+			"GLS":{
+				"defaultValue":"fixed glass capacitor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of dielectric material of a fixed capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_material_type",
+	"name":{
+		"defaultValue":"dielectric material type",
+		"i18nValue":{
+			"en_US":"dielectric material type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

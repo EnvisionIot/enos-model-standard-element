@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"result of check for the product's compliance with the rules of  restriction of hazardous substances.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"result_of_check_for_restriction_of_hazardous_substances",
+	"name":{
+		"defaultValue":"result of check for restriction of hazardous substances",
+		"i18nValue":{
+			"en_US":"result of check for restriction of hazardous substances",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

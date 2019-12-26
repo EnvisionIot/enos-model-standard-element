@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expectation of the operating time to failure.\nNote 1 In the case of non-repairable items with an exponential distribution of operating times to failure (i.e. a constant failure rate) the MTTF is numerically equal to the reciprocal of the failure rate. This is also true for repairable items if after restoration they can be considered to be \"as-good-as-new\". \r\n\r\nNote 2 See also operating time to failure (IEV 192-05-01). \r\n\r\nNote 3 Term 'mean' is used as synonym  to the term arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_operating_time_to_failure",
+	"name":{
+		"defaultValue":"mean operating time to failure",
+		"i18nValue":{
+			"en_US":"mean operating time to failure",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

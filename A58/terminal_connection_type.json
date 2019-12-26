@@ -1,0 +1,51 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"soldered",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"welded",
+				"i18nValue":{}
+			},
+			"5":{
+				"defaultValue":"screwed",
+				"i18nValue":{}
+			},
+			"6":{
+				"defaultValue":"wire-wrapped",
+				"i18nValue":{}
+			},
+			"7":{
+				"defaultValue":"termi-point",
+				"i18nValue":{}
+			},
+			"8":{
+				"defaultValue":"insulation displacement connection",
+				"i18nValue":{}
+			},
+			"10":{
+				"defaultValue":"flat",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of connection a terminal or connector is being designed for.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_connection_type",
+	"name":{
+		"defaultValue":"terminal connection type",
+		"i18nValue":{
+			"en_US":"terminal connection type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"IWR":{
+				"defaultValue":"insulated wire (single conductor)",
+				"i18nValue":{}
+			},
+			"CBL":{
+				"defaultValue":"cable (multi-conductor)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the multiplicity of conductors of an insulated conductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"cable_or_wire",
+	"name":{
+		"defaultValue":"cable/wire",
+		"i18nValue":{
+			"en_US":"cable/wire",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

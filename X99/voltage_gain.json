@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the output voltage to the input voltage under the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"voltage_gain",
+	"name":{
+		"defaultValue":"voltage gain",
+		"i18nValue":{
+			"en_US":"voltage gain",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

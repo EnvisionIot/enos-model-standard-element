@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance in parallel with the motional arm of the equivalent circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"shunt_capacitance",
+	"name":{
+		"defaultValue":"shunt capacitance",
+		"i18nValue":{
+			"en_US":"shunt capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"pF",
+	"version":"1.0"
+}

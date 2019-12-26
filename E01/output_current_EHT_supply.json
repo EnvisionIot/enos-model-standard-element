@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum output current at the EHT supply output of a voltage multiplier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current_EHT_supply",
+	"name":{
+		"defaultValue":"output current EHT supply",
+		"i18nValue":{
+			"en_US":"output current EHT supply",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

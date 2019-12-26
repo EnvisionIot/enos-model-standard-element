@@ -1,0 +1,35 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"enumDesc":{
+			"RES":{
+				"defaultValue":"resistor",
+				"i18nValue":{}
+			},
+			"ZDIO":{
+				"defaultValue":"Zener diode",
+				"i18nValue":{}
+			},
+			"DIO":{
+				"defaultValue":"DC diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a device connected to the coil of a relay in order to limit the voltage transients to a prescribed value.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"coil_transient_suppression_device",
+	"name":{
+		"defaultValue":"coil transient suppression device",
+		"i18nValue":{
+			"en_US":"coil transient suppression device",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the encapsulation of an optoelectronic device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"optoelectronic_package",
+	"name":{
+		"defaultValue":"optoelectronic package",
+		"i18nValue":{
+			"en_US":"optoelectronic package",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum cycle time of the write enable signal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"write_cycle_time",
+	"name":{
+		"defaultValue":"write cycle time",
+		"i18nValue":{
+			"en_US":"write cycle time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

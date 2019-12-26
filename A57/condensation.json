@@ -1,0 +1,24 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"boolDesc":{
+			"true":"true",
+			"false":"false"
+		}
+	},
+	"dataType":"bool",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"physical process by which a vapour becomes a liquid or solid occurring due to ambient conditions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"condensation",
+	"name":{
+		"defaultValue":"condensation",
+		"i18nValue":{
+			"en_US":"condensation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

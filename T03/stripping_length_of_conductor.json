@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the stripping length which is needed to connect a conductor to an electric contact.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stripping_length_of_conductor",
+	"name":{
+		"defaultValue":"stripping length of conductor",
+		"i18nValue":{
+			"en_US":"stripping length of conductor",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

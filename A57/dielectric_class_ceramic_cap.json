@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CL2":{
+				"defaultValue":"class2 ceramic capacitor",
+				"i18nValue":{}
+			},
+			"CL1":{
+				"defaultValue":"class1 ceramic capacitor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the dielectric material class of a fixed ceramic capacitor (with regard to permittivity, losses and temperature stability).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_class_ceramic_cap",
+	"name":{
+		"defaultValue":"dielectric class (ceramic cap)",
+		"i18nValue":{
+			"en_US":"dielectric class (ceramic cap)",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

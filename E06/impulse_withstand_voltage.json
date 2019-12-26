@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of impulse voltage with specified pulse shape, applied between specified conductive parts of a relay, which does not cause breakdown.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"impulse_withstand_voltage",
+	"name":{
+		"defaultValue":"impulse withstand voltage",
+		"i18nValue":{
+			"en_US":"impulse withstand voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

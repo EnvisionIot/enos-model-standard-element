@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"absolute value of the maximum difference of the base-emitter voltages of a dual bipolar transistor at specified sum of emitter currents and equal collector-base voltage and at equal collector currents.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"difference_base-emitter_voltage",
+	"name":{
+		"defaultValue":"difference base-emitter voltage",
+		"i18nValue":{
+			"en_US":"difference base-emitter voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

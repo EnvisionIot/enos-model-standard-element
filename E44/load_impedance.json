@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"modulus of the complex impedance of a load connected to the output of an electric-electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"load_impedance",
+	"name":{
+		"defaultValue":"load impedance",
+		"i18nValue":{
+			"en_US":"load impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

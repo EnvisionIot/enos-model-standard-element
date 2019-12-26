@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal offset of the terminals of an electric, electronic or electromechanical component parallel to the y coordinate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"offset_y-axis",
+	"name":{
+		"defaultValue":"offset (y-axis)",
+		"i18nValue":{
+			"en_US":"offset (y-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,47 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"COIL":{
+				"defaultValue":"coil",
+				"i18nValue":{}
+			},
+			"SOL":{
+				"defaultValue":"Solenoids",
+				"i18nValue":{}
+			},
+			"CHOKE":{
+				"defaultValue":"choke",
+				"i18nValue":{}
+			},
+			"ANT":{
+				"defaultValue":"Antenna inductors",
+				"i18nValue":{}
+			},
+			"DFL":{
+				"defaultValue":"deflection coil",
+				"i18nValue":{}
+			},
+			"LINUNIT":{
+				"defaultValue":"LINUNIT",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the function or application for which the inductor has been developed initially.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"type_of_inductor",
+	"name":{
+		"defaultValue":"type of inductor",
+		"i18nValue":{
+			"en_US":"type of inductor",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

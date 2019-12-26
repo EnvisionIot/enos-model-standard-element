@@ -1,0 +1,90 @@
+{
+	"category":"K01",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mass",
+				"name":{
+					"defaultValue":"mass",
+					"i18nValue":{
+						"en_US":"mass",
+						"zh_CN":null
+					}
+				},
+				"unit":"kg"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"positive_tolerance",
+				"name":{
+					"defaultValue":"positive tolerance",
+					"i18nValue":{
+						"en_US":"positive tolerance",
+						"zh_CN":null
+					}
+				},
+				"unit":"g"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"negative_tolerance",
+				"name":{
+					"defaultValue":"negative tolerance",
+					"i18nValue":{
+						"en_US":"negative tolerance",
+						"zh_CN":null
+					}
+				},
+				"unit":"g"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mass of a product or product part.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"product_mass",
+	"name":{
+		"defaultValue":"product mass",
+		"i18nValue":{
+			"en_US":"product mass",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

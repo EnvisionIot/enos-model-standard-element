@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct voltage between drain and substrate of a field-effect transistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"drain-substrate_voltage_limit",
+	"name":{
+		"defaultValue":"drain-substrate voltage limit",
+		"i18nValue":{
+			"en_US":"drain-substrate voltage limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

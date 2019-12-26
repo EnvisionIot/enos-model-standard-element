@@ -1,0 +1,21 @@
+{
+	"category":"A22",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"coded designation of a signal class, based on the classification system defined in IEC 61175-1, Table 1.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_class_code",
+	"name":{
+		"defaultValue":"signal class code",
+		"i18nValue":{
+			"en_US":"signal class code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

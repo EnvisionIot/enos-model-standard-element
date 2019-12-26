@@ -1,0 +1,19 @@
+{
+	"category":"H01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"change of ambient temperature of the surrounding medium within a specified period of time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"change_rate_of_ambient_temperature",
+	"name":{
+		"defaultValue":"change rate of ambient temperature",
+		"i18nValue":{
+			"en_US":"change rate of ambient temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"K/h",
+	"version":"1.0"
+}

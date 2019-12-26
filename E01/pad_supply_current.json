@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"absolute maximum value of the current that should flow through a single bond site on a supply pad.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pad_supply_current",
+	"name":{
+		"defaultValue":"pad supply current",
+		"i18nValue":{
+			"en_US":"pad supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

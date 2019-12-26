@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code as required by a component manufacturer or supplier to identify the component when placing an order.\nThe order code may or may not be identical to to the type number. In some cases, it may consist of the type number supplemented by additional information such as value, rating, speed etc.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"ordering_code",
+	"name":{
+		"defaultValue":"ordering code",
+		"i18nValue":{
+			"en_US":"ordering code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

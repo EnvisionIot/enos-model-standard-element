@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code indicating the climatic category to which a resistor or capacitor belongs.\nThe category is indicated by a series of three sets of digits separated by oblique strokes corresponding respectively to the temperatures, both cold and hot, and to the number of days of exposure to damp heat (steady state) they will withstand.| (In the first set the digits denote the temperature below zero in Cel, unless otherwise indicated.)| -First set:   Two digits denoting the minimum ambient temperature of operation (cold test).| -Second set:   Three digits denoting the maximum temperature of operation (dry heat test). Where the temperature requires the use of only two digits, they shall be prefixed by the figure '0' to make up the three digit group.| -Third set:   Two digits denoting number of days of the damp heat steady state) test (Ca). Where the duration requires the use of only one digit, it shall be prefixed by the figure '0' to make up the two digit group.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"climatic_category",
+	"name":{
+		"defaultValue":"climatic category",
+		"i18nValue":{
+			"en_US":"climatic category",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

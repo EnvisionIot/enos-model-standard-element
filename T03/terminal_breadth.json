@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal breadth of the terminals of an electric, electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_breadth",
+	"name":{
+		"defaultValue":"terminal breadth",
+		"i18nValue":{
+			"en_US":"terminal breadth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

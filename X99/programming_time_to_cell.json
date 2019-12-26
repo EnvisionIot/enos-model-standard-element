@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time needed to write data into a page of the device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"programming_time_to_cell",
+	"name":{
+		"defaultValue":"programming time to cell",
+		"i18nValue":{
+			"en_US":"programming time to cell",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

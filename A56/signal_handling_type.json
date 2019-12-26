@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SIGT":{
+				"defaultValue":"small signal transistor",
+				"i18nValue":{}
+			},
+			"POWT":{
+				"defaultValue":"power signal transistor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the signal handling type of a transistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_handling_type",
+	"name":{
+		"defaultValue":"signal handling type",
+		"i18nValue":{
+			"en_US":"signal handling type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

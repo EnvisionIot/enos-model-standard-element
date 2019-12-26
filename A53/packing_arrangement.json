@@ -1,0 +1,47 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"ARR":{
+				"defaultValue":"arranged",
+				"i18nValue":{}
+			},
+			"TAP":{
+				"defaultValue":"taped",
+				"i18nValue":{}
+			},
+			"CON":{
+				"defaultValue":"tapered, concertina",
+				"i18nValue":{}
+			},
+			"WND":{
+				"defaultValue":"taped, wound",
+				"i18nValue":{}
+			},
+			"MET":{
+				"defaultValue":"metal strip",
+				"i18nValue":{}
+			},
+			"LSE":{
+				"defaultValue":"loose",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the arrangement of products in the first level packing.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packing_arrangement",
+	"name":{
+		"defaultValue":"packing arrangement",
+		"i18nValue":{
+			"en_US":"packing arrangement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

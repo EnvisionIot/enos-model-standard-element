@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":80
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the type of connector shell.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"shell_type",
+	"name":{
+		"defaultValue":"shell type",
+		"i18nValue":{
+			"en_US":"shell type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

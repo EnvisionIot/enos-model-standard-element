@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"single-phase",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"two-phase",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"three-phase",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of phases of the application mode of an EHT rectifier diode stack.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"EHT_stack_application",
+	"name":{
+		"defaultValue":"EHT stack application",
+		"i18nValue":{
+			"en_US":"EHT stack application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

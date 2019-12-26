@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"in a system of moist air, the ratio of the mass of water vapour present to the volume occupied by the mixture; that is, the density of the water vapour component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"absolute_humidity",
+	"name":{
+		"defaultValue":"absolute humidity",
+		"i18nValue":{
+			"en_US":"absolute humidity",
+			"zh_CN":null
+		}
+	},
+	"unit":"g/m³",
+	"version":"1.0"
+}

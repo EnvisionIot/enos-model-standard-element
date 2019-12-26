@@ -1,0 +1,19 @@
+{
+	"category":"F10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relative attenuation guaranteed in the specified range within the attenuation band scope.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"guaranteed_attenuation",
+	"name":{
+		"defaultValue":"guaranteed attenuation",
+		"i18nValue":{
+			"en_US":"guaranteed attenuation",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

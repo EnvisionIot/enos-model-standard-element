@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal current of a lamp at specified frequency and at the nominal voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"nominal_current",
+	"name":{
+		"defaultValue":"nominal current",
+		"i18nValue":{
+			"en_US":"nominal current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal height of a dot of a liquid crystal display module.\nThe height is measured in the vertical direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dot_height",
+	"name":{
+		"defaultValue":"dot height",
+		"i18nValue":{
+			"en_US":"dot height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) between parallel opposite sides of a hexagonal feature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hexagon_width",
+	"name":{
+		"defaultValue":"hexagon width",
+		"i18nValue":{
+			"en_US":"hexagon width",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,51 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"straight",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"90 deg bend",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"180 deg bend",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"SIL offset bend",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"DIL staggered bend",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"DIL staggered offset bend",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"QUIL staggered offset bend",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the terminal shape of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_shape_non-SMD",
+	"name":{
+		"defaultValue":"terminal shape non-SMD",
+		"i18nValue":{
+			"en_US":"terminal shape non-SMD",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

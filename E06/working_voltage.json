@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the working voltage of a voltage regulator diode or voltage reference diode at specified working current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"working_voltage",
+	"name":{
+		"defaultValue":"working voltage",
+		"i18nValue":{
+			"en_US":"working voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

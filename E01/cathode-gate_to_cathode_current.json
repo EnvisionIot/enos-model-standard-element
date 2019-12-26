@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the cathode-gate current that will trigger a tetrode thyristor, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cathode-gate_to_cathode_current",
+	"name":{
+		"defaultValue":"cathode-gate to cathode current",
+		"i18nValue":{
+			"en_US":"cathode-gate to cathode current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

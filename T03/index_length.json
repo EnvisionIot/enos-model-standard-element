@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of an index feature.\nOn cylindrical packages, the index length (e.g. tab) is measured from the overall diameter *D of the device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_length",
+	"name":{
+		"defaultValue":"index length",
+		"i18nValue":{
+			"en_US":"index length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

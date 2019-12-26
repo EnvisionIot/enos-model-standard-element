@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of interruptions  of a light beam at regular intervals, applied to an optoelectronic device, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"chopping_frequency",
+	"name":{
+		"defaultValue":"chopping frequency",
+		"i18nValue":{
+			"en_US":"chopping frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

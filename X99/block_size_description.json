@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"text specifying how many blocks compose a chip.\nBlock is a minimum unit of erasing data.\nIt is recommend to describe block size in the following method:  (memory storage area + redundancy area) bytes x page size ,such as (2048 + 64) bytes × 64 pages.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"block_size_description",
+	"name":{
+		"defaultValue":"block size description",
+		"i18nValue":{
+			"en_US":"block size description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

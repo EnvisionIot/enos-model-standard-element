@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the quotient of a wideband amplifier of: 1) the sum of frequency components measured at a specified TV channel arising from superposition of any three frequency components when a specified number of adjacent channels have an input signal resulting in an equal output voltage, to 2) the wanted output signal level at specified supply voltage, temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"composite_triple_beat",
+	"name":{
+		"defaultValue":"composite triple beat",
+		"i18nValue":{
+			"en_US":"composite triple beat",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

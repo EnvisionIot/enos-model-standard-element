@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"current flowing from power supply pins into the device when the output voltage is held at low-level without changing any input conditions.\nThe maximum current is applicable for all possible IC output states.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"low-level_quiescent_supply_current",
+	"name":{
+		"defaultValue":"low-level quiescent supply current",
+		"i18nValue":{
+			"en_US":"low-level quiescent supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E25",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the effective permeability of a soft magnetic part at specified frequency, ambient temperature and peak flux density.\nApplies to non-homogeneous cores, e.g. cores with an air gap.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"effective_permeability",
+	"name":{
+		"defaultValue":"effective permeability",
+		"i18nValue":{
+			"en_US":"effective permeability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

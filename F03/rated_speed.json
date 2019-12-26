@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal speed of a rotational ac asynchronous or dc motor at the rated input voltage and rated torque.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_speed",
+	"name":{
+		"defaultValue":"rated speed",
+		"i18nValue":{
+			"en_US":"rated speed",
+			"zh_CN":null
+		}
+	},
+	"unit":"rpm",
+	"version":"1.0"
+}

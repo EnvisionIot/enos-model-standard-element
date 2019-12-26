@@ -1,0 +1,47 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"T_tp":{
+				"defaultValue":"tie-point temperature",
+				"i18nValue":{}
+			},
+			"T_amb":{
+				"defaultValue":"ambient temperature",
+				"i18nValue":{}
+			},
+			"T_mb":{
+				"defaultValue":"mounting base temperature",
+				"i18nValue":{}
+			},
+			"T_case":{
+				"defaultValue":"case (envelope) temperature",
+				"i18nValue":{}
+			},
+			"T_h":{
+				"defaultValue":"heatsink temperature",
+				"i18nValue":{}
+			},
+			"T_j":{
+				"defaultValue":"junction temperature",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC code of the type of temperature indicating the specific part of a component, or its environment, to which it applies.\nThis data element to be used in combination with AAE685-005.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"temperature_type",
+	"name":{
+		"defaultValue":"temperature type",
+		"i18nValue":{
+			"en_US":"temperature type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum time for which the maximum temperature may be applied to a die device during assembly.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_temperature_time",
+	"name":{
+		"defaultValue":"maximum temperature time",
+		"i18nValue":{
+			"en_US":"maximum temperature time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

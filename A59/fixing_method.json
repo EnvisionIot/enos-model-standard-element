@@ -1,0 +1,51 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"PRS":{
+				"defaultValue":"pressed in",
+				"i18nValue":{}
+			},
+			"SOL":{
+				"defaultValue":"soldered",
+				"i18nValue":{}
+			},
+			"SCR":{
+				"defaultValue":"screwed",
+				"i18nValue":{}
+			},
+			"SNP":{
+				"defaultValue":"snapped in",
+				"i18nValue":{}
+			},
+			"ADH":{
+				"defaultValue":"adhered",
+				"i18nValue":{}
+			},
+			"RIV":{
+				"defaultValue":"riveted",
+				"i18nValue":{}
+			},
+			"WEL":{
+				"defaultValue":"welded",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the method of fixing a component to its counterpart.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fixing_method",
+	"name":{
+		"defaultValue":"fixing method",
+		"i18nValue":{
+			"en_US":"fixing method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

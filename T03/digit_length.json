@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of a digit of a liquid crystal display.\nThe length is measured in the horizontal direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"digit_length",
+	"name":{
+		"defaultValue":"digit length",
+		"i18nValue":{
+			"en_US":"digit length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

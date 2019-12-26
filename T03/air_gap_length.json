@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the (air) gap in the magnetic circuit of a soft magnetic part.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"air_gap_length",
+	"name":{
+		"defaultValue":"(air) gap length",
+		"i18nValue":{
+			"en_US":"(air) gap length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

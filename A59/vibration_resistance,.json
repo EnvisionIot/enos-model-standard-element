@@ -1,0 +1,71 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"11":{
+				"defaultValue":"100...2000Hz; 10 cycles; 0,75mm; 100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"1":{
+				"defaultValue":"10...55Hz; 10 cycles;0,35mm;50m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"12":{
+				"defaultValue":"100...2000Hz; 10 cycles;1,5mm;200m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"10...55Hz; 10 cycles;0,75mm;100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"10...500Hz; 10 cycles;0,35mm;50m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"4":{
+				"defaultValue":"10...500Hz; 10 cycles;0,75mm;100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"5":{
+				"defaultValue":"10...2000Hz; 10 cycles;0,75mm;100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"6":{
+				"defaultValue":"10...2000Hz; 10 cycles;1,5mm;200m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"7":{
+				"defaultValue":"55...500Hz; 10 cycles;0,35mm;50m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"8":{
+				"defaultValue":"55...500Hz; 10 cycles;0,75mm;100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"9":{
+				"defaultValue":"55...2000Hz; 10 cycles;0,75mm;100m/s**2; 2h",
+				"i18nValue":{}
+			},
+			"10":{
+				"defaultValue":"55...2000Hz; 10 cycles;1,5mm;200m/s**2; 2h",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the ability of a component to withstand specified severities of sinusoidal vibration in each of three mutually perpendicular directions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"vibration_resistance,",
+	"name":{
+		"defaultValue":"vibration resistance,",
+		"i18nValue":{
+			"en_US":"vibration resistance,",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

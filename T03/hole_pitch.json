@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal pitch of the holes of an electric/electronic or electromechanical component parallel to the x coordinate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hole_pitch",
+	"name":{
+		"defaultValue":"hole pitch",
+		"i18nValue":{
+			"en_US":"hole pitch",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

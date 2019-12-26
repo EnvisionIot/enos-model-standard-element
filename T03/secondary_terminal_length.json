@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) of the end of the shorter of two terminal leads from a reference plane.\nQ_2 is shorter than Q_1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"secondary_terminal_length",
+	"name":{
+		"defaultValue":"secondary terminal length",
+		"i18nValue":{
+			"en_US":"secondary terminal length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum  rms current which a component will withstand for a specified short time without suffering harmful effects, as a variable.\nThis may result from a short circuit due to a fault or an incorrect connection in an electric circuit or any other equivalent situations.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rated_short-time_thermal_current",
+	"name":{
+		"defaultValue":"rated short-time thermal current",
+		"i18nValue":{
+			"en_US":"rated short-time thermal current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

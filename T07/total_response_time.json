@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the sum of delay time, slope time and ripple time of a voltage amplifier under small-signal conditions and compensated for unity gain at reference conditions.\nThe ripple time is the time interval between the end of the slope time and that instance at which the magnitude of the output signal reaches, for the last time, a specified level range containing the final output signal level. This level range is called ripple tolerance, and generally is 0.1% of the final output signal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"total_response_time",
+	"name":{
+		"defaultValue":"total response time",
+		"i18nValue":{
+			"en_US":"total response time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

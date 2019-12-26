@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of ambient temperature delimited by minimum and maximum values within which the oscillator will continue to provide an output signal, though not necessarily within the specified tolerances, such as frequency, level and waveform.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operable_temperature_range",
+	"name":{
+		"defaultValue":"operable temperature range",
+		"i18nValue":{
+			"en_US":"operable temperature range",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"consumed current at which, by application of an external control voltage, the output is disabled while the oscillation of the crystal is maintained for the device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"disable_current",
+	"name":{
+		"defaultValue":"disable current",
+		"i18nValue":{
+			"en_US":"disable current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

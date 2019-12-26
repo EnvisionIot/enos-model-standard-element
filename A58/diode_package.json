@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the envelope of a diode or trigger device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"diode_package",
+	"name":{
+		"defaultValue":"diode package",
+		"i18nValue":{
+			"en_US":"diode package",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

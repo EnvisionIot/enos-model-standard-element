@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the shaft of a switch having rotary action measured from the tip of the shaft to the mounting surface.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"shaft_length",
+	"name":{
+		"defaultValue":"shaft length",
+		"i18nValue":{
+			"en_US":"shaft length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

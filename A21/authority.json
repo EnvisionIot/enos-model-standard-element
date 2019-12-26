@@ -1,0 +1,48 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"responsible party issuing the identifier or standardized information.\nThe standardization may be within a governmental organization, standards organization, or corporation.\n\"DUNS\" is an example for a unique company identifier.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"authority",
+	"name":{
+		"defaultValue":"authority",
+		"i18nValue":{
+			"en_US":"authority",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

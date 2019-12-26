@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal rms ac or dc current flowing through the heater of an electron tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"heater_current",
+	"name":{
+		"defaultValue":"heater current",
+		"i18nValue":{
+			"en_US":"heater current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"OP":{
+				"defaultValue":"output only",
+				"i18nValue":{}
+			},
+			"BI":{
+				"defaultValue":"bidirectional",
+				"i18nValue":{}
+			},
+			"IP":{
+				"defaultValue":"input only",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the direction of signal flow at a terminal.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_direction",
+	"name":{
+		"defaultValue":"signal direction",
+		"i18nValue":{
+			"en_US":"signal direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

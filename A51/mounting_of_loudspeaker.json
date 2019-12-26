@@ -1,0 +1,39 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"UNM":{
+				"defaultValue":"unmounted",
+				"i18nValue":{}
+			},
+			"BFL":{
+				"defaultValue":"baffle",
+				"i18nValue":{}
+			},
+			"HSF":{
+				"defaultValue":"half space free field",
+				"i18nValue":{}
+			},
+			"ENC":{
+				"defaultValue":"enclosure",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mounting arrangement of a loudspeaker.\nThe performance of a loudspeaker system is determined by the properties of the loudspeaker unit itself and its acoustic loading. The acoustic loading depends upon the mounting arrangements as there are: |a) a standard baffle or specified enclosure |b) in free air without a baffle or enclosure |c) in half space free-field, flush with the reflecting plane.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_of_loudspeaker",
+	"name":{
+		"defaultValue":"mounting of loudspeaker",
+		"i18nValue":{
+			"en_US":"mounting of loudspeaker",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

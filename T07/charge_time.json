@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the time after which a discharged secondary battery attains the fully charged state at specified ambient temperature and at specified direct current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"charge_time",
+	"name":{
+		"defaultValue":"charge time",
+		"i18nValue":{
+			"en_US":"charge time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

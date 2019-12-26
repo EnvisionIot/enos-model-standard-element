@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum temperature applied to a component during cycle stress.\nSee AAF277-002 for the maximum stress temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stress_temperature_min",
+	"name":{
+		"defaultValue":"stress temperature min",
+		"i18nValue":{
+			"en_US":"stress temperature min",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

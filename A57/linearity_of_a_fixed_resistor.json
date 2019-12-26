@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"LIN":{
+				"defaultValue":"linear",
+				"i18nValue":{}
+			},
+			"NLN":{
+				"defaultValue":"non-linear",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of linearity class to which a fixed resistor belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"linearity_of_a_fixed_resistor",
+	"name":{
+		"defaultValue":"linearity of a fixed resistor",
+		"i18nValue":{
+			"en_US":"linearity of a fixed resistor",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"quotient of the volume of oxygen and dry air, all volumes referring to the pressure and the temperature of the gas mixture.\ndry air contains roughly (by volume) 78% nitrogen, 21% oxygen, 0.93% argon, 0.038% carbon dioxide, and small amounts of other gases.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"volume_fraction_of_oxygen_in_air",
+	"name":{
+		"defaultValue":"volume fraction of oxygen in air",
+		"i18nValue":{
+			"en_US":"volume fraction of oxygen in air",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

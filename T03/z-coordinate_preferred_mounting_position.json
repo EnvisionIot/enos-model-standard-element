@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance on the z-axis of the direction of the preferred mounting position of a component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"z-coordinate_preferred_mounting_position",
+	"name":{
+		"defaultValue":"z-coordinate preferred mounting position",
+		"i18nValue":{
+			"en_US":"z-coordinate preferred mounting position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

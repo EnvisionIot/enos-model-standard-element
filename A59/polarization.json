@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"ADD":{
+				"defaultValue":"by additional means",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"with polarization",
+				"i18nValue":{}
+			},
+			"WO":{
+				"defaultValue":"without polarization",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the existence of a polarization.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"polarization",
+	"name":{
+		"defaultValue":"polarization",
+		"i18nValue":{
+			"en_US":"polarization",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

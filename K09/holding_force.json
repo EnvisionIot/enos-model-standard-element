@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum steady force that can be externally applied to the armature of an excited linear stepping motor without causing continuous stepping.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"holding_force",
+	"name":{
+		"defaultValue":"holding force",
+		"i18nValue":{
+			"en_US":"holding force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

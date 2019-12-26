@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed HIGH off-state dc output current, of a 3-state digital function of an IC, at the maximum supply voltage and in a temperature range between specified temperatures (T_1 and T_2).\nApplies to digital ICs with 3-state outputs. |It is assumed that the required external HIGH-state output voltage (V_OH or V_CC or V_DD) is applied, as well as the appropriate input condition (V_IL and/or V_IH).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"HIGH_off-state_output_current",
+	"name":{
+		"defaultValue":"HIGH off-state output current",
+		"i18nValue":{
+			"en_US":"HIGH off-state output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

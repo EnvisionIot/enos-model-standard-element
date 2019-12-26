@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"BIS":{
+				"defaultValue":"bistable",
+				"i18nValue":{}
+			},
+			"MON":{
+				"defaultValue":"monostable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the condition of a relay after the energising quantity is removed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"stability",
+	"name":{
+		"defaultValue":"stability",
+		"i18nValue":{
+			"en_US":"stability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

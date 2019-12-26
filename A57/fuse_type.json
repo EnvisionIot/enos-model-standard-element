@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CUR":{
+				"defaultValue":"current-activated fuses",
+				"i18nValue":{}
+			},
+			"THERM":{
+				"defaultValue":"thermally-activated fuses",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a fuse.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fuse_type",
+	"name":{
+		"defaultValue":"fuse type",
+		"i18nValue":{
+			"en_US":"fuse type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

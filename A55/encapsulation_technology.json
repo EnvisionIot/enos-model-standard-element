@@ -1,0 +1,47 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"LACQ":{
+				"defaultValue":"lacquered",
+				"i18nValue":{}
+			},
+			"WRAP":{
+				"defaultValue":"wrapped end-filled",
+				"i18nValue":{}
+			},
+			"MOULD":{
+				"defaultValue":"moulded",
+				"i18nValue":{}
+			},
+			"SLEEVE":{
+				"defaultValue":"sleeved",
+				"i18nValue":{}
+			},
+			"POTTED":{
+				"defaultValue":"potted",
+				"i18nValue":{}
+			},
+			"SEAL":{
+				"defaultValue":"sealed coat",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the encapsulation technology which has been applied in an electric, electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"encapsulation_technology",
+	"name":{
+		"defaultValue":"encapsulation technology",
+		"i18nValue":{
+			"en_US":"encapsulation technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

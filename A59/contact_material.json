@@ -1,0 +1,91 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"PdCu":{
+				"defaultValue":"palladium-copper alloy",
+				"i18nValue":{}
+			},
+			"AgPd/Au":{
+				"defaultValue":"silver-palladium alloy gold plated",
+				"i18nValue":{}
+			},
+			"AgPd":{
+				"defaultValue":"silver-palladium alloy",
+				"i18nValue":{}
+			},
+			"AuAg":{
+				"defaultValue":"gold-silver alloy",
+				"i18nValue":{}
+			},
+			"Ag":{
+				"defaultValue":"silver",
+				"i18nValue":{}
+			},
+			"PdNi":{
+				"defaultValue":"palladium-nickel alloy",
+				"i18nValue":{}
+			},
+			"AgCdO":{
+				"defaultValue":"silver-cadmium oxide",
+				"i18nValue":{}
+			},
+			"AgW":{
+				"defaultValue":"silver-tungsten alloy",
+				"i18nValue":{}
+			},
+			"AgNi/Au":{
+				"defaultValue":"silver-nickel alloy gold plated",
+				"i18nValue":{}
+			},
+			"AgCdO/Au":{
+				"defaultValue":"silver-cadmium oxide gold plated",
+				"i18nValue":{}
+			},
+			"Rh":{
+				"defaultValue":"rhodium",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"tungsten",
+				"i18nValue":{}
+			},
+			"AgSnO2":{
+				"defaultValue":"silver-tin-oxide",
+				"i18nValue":{}
+			},
+			"AgSnO2/Au":{
+				"defaultValue":"silver-tin-oxide gold plated",
+				"i18nValue":{}
+			},
+			"AgNi":{
+				"defaultValue":"silver-nickel alloy",
+				"i18nValue":{}
+			},
+			"Ag/Au":{
+				"defaultValue":"silver gold-plated",
+				"i18nValue":{}
+			},
+			"Rh/Au":{
+				"defaultValue":"rhodium gold plated",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the material forming the contact points of a relay.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"contact_material",
+	"name":{
+		"defaultValue":"contact material",
+		"i18nValue":{
+			"en_US":"contact material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

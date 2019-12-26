@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":2
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"alphabetic 2-character code for the identification of the country in which the good has been produced or manufactured according to criteria laid down for the application of custom tariff or quantitative restrictions , or any measure related to trade.\nThe provided value list for the alphabetic 2-character code is based on ISO 3166-1:2006. It is updated under http://www.iso.org/iso/iso_3166-1_database.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"country_of_origin",
+	"name":{
+		"defaultValue":"country of origin",
+		"i18nValue":{
+			"en_US":"country of origin",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"output current range that satisfies the specified the electrical characteristics.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"recommended_output_current",
+	"name":{
+		"defaultValue":"recommended output current",
+		"i18nValue":{
+			"en_US":"recommended output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

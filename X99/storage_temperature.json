@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"permissible temperature range at which the device may be stored without any voltage being applied.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"storage_temperature",
+	"name":{
+		"defaultValue":"storage temperature",
+		"i18nValue":{
+			"en_US":"storage temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

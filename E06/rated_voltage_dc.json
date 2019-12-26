@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum direct voltage which may be applied continuously to a capacitor at any operating ambient temperature below the rated temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_voltage_dc",
+	"name":{
+		"defaultValue":"rated voltage (dc)",
+		"i18nValue":{
+			"en_US":"rated voltage (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

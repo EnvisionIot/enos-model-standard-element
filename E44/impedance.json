@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the modulus of impedance of an inductor at specified frequency.\nApplies to beads threaded on a straight copper wire.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"impedance",
+	"name":{
+		"defaultValue":"impedance",
+		"i18nValue":{
+			"en_US":"impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

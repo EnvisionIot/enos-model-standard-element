@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"frequency obtainable from the quartz crystal oscillator as output.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_frequency",
+	"name":{
+		"defaultValue":"output frequency",
+		"i18nValue":{
+			"en_US":"output frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

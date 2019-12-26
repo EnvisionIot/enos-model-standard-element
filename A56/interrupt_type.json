@@ -1,0 +1,47 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"external":{
+				"defaultValue":"externally vectored",
+				"i18nValue":{}
+			},
+			"internal":{
+				"defaultValue":"internally vectored",
+				"i18nValue":{}
+			},
+			"software":{
+				"defaultValue":"software generated",
+				"i18nValue":{}
+			},
+			"non-mask":{
+				"defaultValue":"non-maskable",
+				"i18nValue":{}
+			},
+			"priority":{
+				"defaultValue":"priority",
+				"i18nValue":{}
+			},
+			"maskable":{
+				"defaultValue":"maskable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the interrupt type of a microcontroller or microprocessor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"interrupt_type",
+	"name":{
+		"defaultValue":"interrupt type",
+		"i18nValue":{
+			"en_US":"interrupt type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance of a variable capacitance diode, as a variable.\nThe specified diode capacitance has to be adjusted with the reverse voltage.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"diode_capacitance",
+	"name":{
+		"defaultValue":"diode capacitance",
+		"i18nValue":{
+			"en_US":"diode capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

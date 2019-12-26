@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mass fraction of dissolved salt material in seawater.\nThe Reference Composition Salinity S_R can be calculated from the salinity S in PSU (Practical Salinity Unit) using the dimensionless unit Practical Salinity Scale (PSS) as S_R =c·S with c = (35,16504/35) g/kg. For seawater of Reference Composition, S_R   gives the best current estimate of S_A . If composition anomalies are present, S_A can be calculated from the seawater density or estimated from a global mapping of the Absolute Salinity Anomaly dS = S_A - S_R .",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"absolute_salinity",
+	"name":{
+		"defaultValue":"absolute salinity",
+		"i18nValue":{
+			"en_US":"absolute salinity",
+			"zh_CN":null
+		}
+	},
+	"unit":"g/kg",
+	"version":"1.0"
+}

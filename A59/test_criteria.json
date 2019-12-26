@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"damage":{
+				"defaultValue":"no damage nor permanent malfunction to be observed",
+				"i18nValue":{}
+			},
+			"cont-open":{
+				"defaultValue":"no closed-contact circuit open for a duration exceeding 10?s",
+				"i18nValue":{}
+			},
+			"cont-close":{
+				"defaultValue":"no open-contact circuit closed for a period exceeding 10?s",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the criteria for evaluation of resistance of relays to shock and vibration.\nThe criterion 'cont-open' covers both of the other criteria, the criterion 'cont-close' covers the criterion 'damage'.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_criteria",
+	"name":{
+		"defaultValue":"test criteria",
+		"i18nValue":{
+			"en_US":"test criteria",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

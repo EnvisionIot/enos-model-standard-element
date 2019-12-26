@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal angle of the total rotation of the moving contact actuator of a rotary potentiometer or a variable power transformer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"total_mechanical_rotation",
+	"name":{
+		"defaultValue":"total mechanical rotation",
+		"i18nValue":{
+			"en_US":"total mechanical rotation",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,39 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"PMM":{
+				"defaultValue":"permanent magnet",
+				"i18nValue":{}
+			},
+			"ELM":{
+				"defaultValue":"electromagnet",
+				"i18nValue":{}
+			},
+			"HBD":{
+				"defaultValue":"hybrid",
+				"i18nValue":{}
+			},
+			"NOM":{
+				"defaultValue":"no magnet",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the magnet type of the iron armature of a motor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"magnet_type",
+	"name":{
+		"defaultValue":"magnet type",
+		"i18nValue":{
+			"en_US":"magnet type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

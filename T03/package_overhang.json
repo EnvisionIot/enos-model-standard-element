@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) from the end terminal true position to the extremity of the package.\nIn the case where the terminals extend beyond the package, Z shall be specified as zero. Negative dimensions shall not be used.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_overhang",
+	"name":{
+		"defaultValue":"package overhang",
+		"i18nValue":{
+			"en_US":"package overhang",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

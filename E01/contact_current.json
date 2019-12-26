@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dc or rms ac voltage across the contacts of a switch or relay, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"contact_current",
+	"name":{
+		"defaultValue":"contact current",
+		"i18nValue":{
+			"en_US":"contact current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

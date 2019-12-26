@@ -1,0 +1,43 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"PIN":{
+				"defaultValue":"pin plug or jack",
+				"i18nValue":{}
+			},
+			"ASSY":{
+				"defaultValue":"plug assembly",
+				"i18nValue":{}
+			},
+			"CMPLX":{
+				"defaultValue":"complex jack board",
+				"i18nValue":{}
+			},
+			"PWR":{
+				"defaultValue":"plug or jack for dc power",
+				"i18nValue":{}
+			},
+			"CONC":{
+				"defaultValue":"concentric plug or jack",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of plug or jack.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"plug_or_jack_type",
+	"name":{
+		"defaultValue":"plug/jack type",
+		"i18nValue":{
+			"en_US":"plug/jack type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

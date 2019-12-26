@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the current (rms if ac), which a previously closed contact circuit of a relay is capable of carrying at specified temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"limiting_continuous_current",
+	"name":{
+		"defaultValue":"limiting continuous current",
+		"i18nValue":{
+			"en_US":"limiting continuous current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

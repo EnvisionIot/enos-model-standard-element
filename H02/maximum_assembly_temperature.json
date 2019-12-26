@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum temperature to which the backside surface of a die device may be raised during assembly.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_assembly_temperature",
+	"name":{
+		"defaultValue":"maximum assembly temperature",
+		"i18nValue":{
+			"en_US":"maximum assembly temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

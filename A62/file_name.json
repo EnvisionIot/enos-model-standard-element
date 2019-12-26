@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"complete name of attached file.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"file_name",
+	"name":{
+		"defaultValue":"file name",
+		"i18nValue":{
+			"en_US":"file name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

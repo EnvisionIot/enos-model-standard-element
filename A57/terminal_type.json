@@ -1,0 +1,39 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"BRD":{
+				"defaultValue":"terminal board",
+				"i18nValue":{}
+			},
+			"ARRY":{
+				"defaultValue":"terminal array",
+				"i18nValue":{}
+			},
+			"ROD":{
+				"defaultValue":"terminal rod",
+				"i18nValue":{}
+			},
+			"SM":{
+				"defaultValue":"small terminal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of terminal.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_type",
+	"name":{
+		"defaultValue":"terminal type",
+		"i18nValue":{
+			"en_US":"terminal type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

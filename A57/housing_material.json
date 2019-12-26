@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CER":{
+				"defaultValue":"ceramic",
+				"i18nValue":{}
+			},
+			"PA":{
+				"defaultValue":"polyamide",
+				"i18nValue":{}
+			},
+			"DAP":{
+				"defaultValue":"diallylphthalate",
+				"i18nValue":{}
+			},
+			"PC":{
+				"defaultValue":"polycarbonate (makrolon)",
+				"i18nValue":{}
+			},
+			"PLA":{
+				"defaultValue":"plastic",
+				"i18nValue":{}
+			},
+			"PTFE":{
+				"defaultValue":"polytetrafluorethylene (teflon)",
+				"i18nValue":{}
+			},
+			"PPOX":{
+				"defaultValue":"polyphenyleneoxide (noryl)",
+				"i18nValue":{}
+			},
+			"MET":{
+				"defaultValue":"metal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the material of the housing or shell of a connector or switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"housing_material",
+	"name":{
+		"defaultValue":"housing material",
+		"i18nValue":{
+			"en_US":"housing material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum peak-to-peak input voltage of a voltage multiplier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_voltage_peak-to-peak",
+	"name":{
+		"defaultValue":"input voltage peak-to-peak",
+		"i18nValue":{
+			"en_US":"input voltage peak-to-peak",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

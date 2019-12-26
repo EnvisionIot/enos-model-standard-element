@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of the active preventive maintenance time taken to perform a preventive maintenance action.\nSee Figure 2 in the IEV 192-07-09:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"preventive_maintenance_action_time",
+	"name":{
+		"defaultValue":"preventive maintenance action time",
+		"i18nValue":{
+			"en_US":"preventive maintenance action time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the spurious signal at the output terminals of a comb filter at twice the delay time (tau) and relative to one tau signal at the output terminals at the nominal frequency and at specified reference conditions.\nReflections are measured using a 5 us long input burst signal.\nBypassed delay line (used as comb filter).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spurious_signal_level_2-tau",
+	"name":{
+		"defaultValue":"spurious signal level (2-tau)",
+		"i18nValue":{
+			"en_US":"spurious signal level (2-tau)",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

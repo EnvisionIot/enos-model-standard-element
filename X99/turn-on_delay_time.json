@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval between the start of a voltage applied to the gate terminal that switches the IGBT from the off-state to the on-state and the start of the rise of the collector current.\nUsually, the time is measured between points corresponding to 10 % of the input and output pulse amplitudes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"turn-on_delay_time",
+	"name":{
+		"defaultValue":"turn-on delay time",
+		"i18nValue":{
+			"en_US":"turn-on delay time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

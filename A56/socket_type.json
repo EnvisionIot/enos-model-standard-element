@@ -1,0 +1,63 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SREL":{
+				"defaultValue":"relay socket",
+				"i18nValue":{}
+			},
+			"SLAM":{
+				"defaultValue":"lamp socket",
+				"i18nValue":{}
+			},
+			"SBAT":{
+				"defaultValue":"battery socket",
+				"i18nValue":{}
+			},
+			"SOPT":{
+				"defaultValue":"LED socket",
+				"i18nValue":{}
+			},
+			"SFUS":{
+				"defaultValue":"fuse socket",
+				"i18nValue":{}
+			},
+			"STRA":{
+				"defaultValue":"transistor socket",
+				"i18nValue":{}
+			},
+			"STUB":{
+				"defaultValue":"tube socket",
+				"i18nValue":{}
+			},
+			"SIC":{
+				"defaultValue":"IC socket",
+				"i18nValue":{}
+			},
+			"SLCD":{
+				"defaultValue":"display socket",
+				"i18nValue":{}
+			},
+			"EDGE":{
+				"defaultValue":"printed board socket",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a connector socket.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"socket_type",
+	"name":{
+		"defaultValue":"socket type",
+		"i18nValue":{
+			"en_US":"socket type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

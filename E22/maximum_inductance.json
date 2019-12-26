@@ -1,0 +1,19 @@
+{
+	"category":"E22",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the maximum value of the range of values of inductance of a variable inductor at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_inductance",
+	"name":{
+		"defaultValue":"maximum inductance",
+		"i18nValue":{
+			"en_US":"maximum inductance",
+			"zh_CN":null
+		}
+	},
+	"unit":"H",
+	"version":"1.0"
+}

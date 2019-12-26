@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"combination of the reference to a coding system for case sizes and the code of a specific case size within that system of a component.\nExample of a format for the reference to a JEDEC publication: JESD30(PLCC).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"case_size",
+	"name":{
+		"defaultValue":"case size",
+		"i18nValue":{
+			"en_US":"case size",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,43 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"enumDesc":{
+			"NOR":{
+				"defaultValue":"NOR",
+				"i18nValue":{}
+			},
+			"Others":{
+				"defaultValue":"Others",
+				"i18nValue":{}
+			},
+			"OR":{
+				"defaultValue":"OR",
+				"i18nValue":{}
+			},
+			"AND":{
+				"defaultValue":"AND",
+				"i18nValue":{}
+			},
+			"NAND":{
+				"defaultValue":"NAND",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"type of logical gate used in the IC.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cell_type",
+	"name":{
+		"defaultValue":"cell type",
+		"i18nValue":{
+			"en_US":"cell type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

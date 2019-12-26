@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the edge of a N-edged regular column.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"edge-length",
+	"name":{
+		"defaultValue":"edge-length",
+		"i18nValue":{
+			"en_US":"edge-length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

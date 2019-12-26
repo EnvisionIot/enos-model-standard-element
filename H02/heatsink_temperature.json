@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"temperature of the heatsink of a transistor, diode, trigger device, optoelectronic device or IC, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"heatsink_temperature",
+	"name":{
+		"defaultValue":"heatsink temperature",
+		"i18nValue":{
+			"en_US":"heatsink temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

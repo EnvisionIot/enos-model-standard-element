@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the overtone multiple of the fundamental harmonic resonance in a whole number.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"overtone_order",
+	"name":{
+		"defaultValue":"overtone order",
+		"i18nValue":{
+			"en_US":"overtone order",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

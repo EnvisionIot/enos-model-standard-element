@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CONTACT":{
+				"defaultValue":"connector contact",
+				"i18nValue":{}
+			},
+			"SHELL":{
+				"defaultValue":"connector shell",
+				"i18nValue":{}
+			},
+			"ACCY":{
+				"defaultValue":"connector accessory",
+				"i18nValue":{}
+			},
+			"INSERT":{
+				"defaultValue":"connector insert",
+				"i18nValue":{}
+			},
+			"TOOL":{
+				"defaultValue":"connector tool",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a connector part.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connector_part_type",
+	"name":{
+		"defaultValue":"connector part type",
+		"i18nValue":{
+			"en_US":"connector part type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

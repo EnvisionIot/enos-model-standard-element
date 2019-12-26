@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description and explanation of designed-in testability features which may be needed and appropriate for customer testing of a die device.\nExamples of built-in testability features include redundancy, control fuses, error correction, ad-hoc structured boundary scan and built-in self-test. Such information shall only be supplied when it does not infringe the intellectual property rights of the supplier.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"testability_features",
+	"name":{
+		"defaultValue":"testability features",
+		"i18nValue":{
+			"en_US":"testability features",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"tolerance on the height of the bumps over the surface of a bumped die.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bump_height_tolerance",
+	"name":{
+		"defaultValue":"bump height tolerance",
+		"i18nValue":{
+			"en_US":"bump height tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

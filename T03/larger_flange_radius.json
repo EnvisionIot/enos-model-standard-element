@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"larger of the two radii as specified by level (miNomax) of a flange having an oval shape.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"larger_flange_radius",
+	"name":{
+		"defaultValue":"larger flange radius",
+		"i18nValue":{
+			"en_US":"larger flange radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc off-state current in the forward direction of a thyristor or triac at a specified high off-state voltage and a temperature of a temperature type.\nThis off-state voltage will be equal to V_D-max, V_DWM, or V_RDM (worst-case situation).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"off-state_current",
+	"name":{
+		"defaultValue":"off-state current",
+		"i18nValue":{
+			"en_US":"off-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistance that must be connected to the output of the LVDS oscillator to ensure generation of a square wave.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LVDS_load_condition",
+	"name":{
+		"defaultValue":"LVDS load condition",
+		"i18nValue":{
+			"en_US":"LVDS load condition",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

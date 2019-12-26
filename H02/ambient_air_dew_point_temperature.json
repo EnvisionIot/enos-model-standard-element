@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"temperature at which water vapour of the ambient air begins to deposit as a liquid at given ambient conditions of temperature and relative humidity.\nFor calculations of dew points of different medium see  www.vaisala.com/humiditycalculator/vaisala_humidity_calculator.html.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ambient_air_dew_point_temperature",
+	"name":{
+		"defaultValue":"ambient air dew point temperature",
+		"i18nValue":{
+			"en_US":"ambient air dew point temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

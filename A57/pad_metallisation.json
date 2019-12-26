@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material used to form the pads on a die to which connection is made.\nThe information given should include the materials used and the thickness of all layers.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pad_metallisation",
+	"name":{
+		"defaultValue":"pad metallisation",
+		"i18nValue":{
+			"en_US":"pad metallisation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of the circle upon which the terminal positions are located.\nWhere there is more than one terminal circle present, Φa is the diameter of the largest circle.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_circle_diameter",
+	"name":{
+		"defaultValue":"terminal circle diameter",
+		"i18nValue":{
+			"en_US":"terminal circle diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

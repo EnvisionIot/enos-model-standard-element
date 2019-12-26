@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance that must be connected to the output of the CMOS oscillator to ensure generation of a square wave.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"CMOS_load_condition",
+	"name":{
+		"defaultValue":"CMOS load condition",
+		"i18nValue":{
+			"en_US":"CMOS load condition",
+			"zh_CN":null
+		}
+	},
+	"unit":"pF",
+	"version":"1.0"
+}

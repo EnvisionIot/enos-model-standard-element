@@ -1,0 +1,67 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"ELOX":{
+				"defaultValue":"eloxated",
+				"i18nValue":{}
+			},
+			"Au":{
+				"defaultValue":"gold",
+				"i18nValue":{}
+			},
+			"PLA":{
+				"defaultValue":"plastic material",
+				"i18nValue":{}
+			},
+			"Zn":{
+				"defaultValue":"zinc",
+				"i18nValue":{}
+			},
+			"Ag":{
+				"defaultValue":"silver",
+				"i18nValue":{}
+			},
+			"RAW":{
+				"defaultValue":"raw (no add. finish)",
+				"i18nValue":{}
+			},
+			"Ni":{
+				"defaultValue":"nickel",
+				"i18nValue":{}
+			},
+			"Sn":{
+				"defaultValue":"tinned",
+				"i18nValue":{}
+			},
+			"RUB":{
+				"defaultValue":"rubber material",
+				"i18nValue":{}
+			},
+			"Cr":{
+				"defaultValue":"chromated",
+				"i18nValue":{}
+			},
+			"LAC":{
+				"defaultValue":"lacquered",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the finish of a housing or shell of a component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"housing_finish",
+	"name":{
+		"defaultValue":"housing finish",
+		"i18nValue":{
+			"en_US":"housing finish",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

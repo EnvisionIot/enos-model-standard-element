@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the guaranteed LOW-state dc output voltage of a digital function of an IC, at reference input voltages, specified supply voltage and output current, and in a temperature range between specified temperatures (T_1 and T_2).\nIt is required that the value of the reference input voltages is either zero (GND/V_SS) or equal to the supply voltage (V_CC/V_DD).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-state_output_voltage_ref",
+	"name":{
+		"defaultValue":"LOW-state output voltage ref",
+		"i18nValue":{
+			"en_US":"LOW-state output voltage ref",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

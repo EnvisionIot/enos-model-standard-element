@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the mass of ozone appearing in the surrounding environment to a specified unit volume.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ozone_concentration",
+	"name":{
+		"defaultValue":"ozone concentration",
+		"i18nValue":{
+			"en_US":"ozone concentration",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

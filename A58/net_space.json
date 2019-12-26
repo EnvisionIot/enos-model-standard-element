@@ -1,0 +1,19 @@
+{
+	"category":"A58",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"volume of a three-dimensional space defining the effective physical contours of a geometrical object.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"net_space",
+	"name":{
+		"defaultValue":"net space",
+		"i18nValue":{
+			"en_US":"net space",
+			"zh_CN":null
+		}
+	},
+	"unit":"m³",
+	"version":"1.0"
+}

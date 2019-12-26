@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall dimension as specified by level (miNomax) of the flange zone, excluding any fillet, measured in a perpendicular direction from the base plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_height",
+	"name":{
+		"defaultValue":"flange height",
+		"i18nValue":{
+			"en_US":"flange height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

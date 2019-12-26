@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"OCT":{
+				"defaultValue":"octal",
+				"i18nValue":{}
+			},
+			"DEC":{
+				"defaultValue":"decimal",
+				"i18nValue":{}
+			},
+			"BIN":{
+				"defaultValue":"binary",
+				"i18nValue":{}
+			},
+			"HEX":{
+				"defaultValue":"hexadecimal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the numeral system of a digital signal function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"numeral_system",
+	"name":{
+		"defaultValue":"numeral system",
+		"i18nValue":{
+			"en_US":"numeral system",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

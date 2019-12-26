@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"GAS":{
+				"defaultValue":"gas-filled spark gap",
+				"i18nValue":{}
+			},
+			"AIR":{
+				"defaultValue":"air spark gap",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of spark gap.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"spark_gap_type",
+	"name":{
+		"defaultValue":"spark gap type",
+		"i18nValue":{
+			"en_US":"spark gap type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

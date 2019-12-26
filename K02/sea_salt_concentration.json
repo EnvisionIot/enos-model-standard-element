@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"concentration of sea-salt aerosols in the atmosphere.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sea_salt_concentration",
+	"name":{
+		"defaultValue":"sea salt concentration",
+		"i18nValue":{
+			"en_US":"sea salt concentration",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material or process that is used for producing the integrated circuit.\nExamples of process technology are a process such as CMOS process or Bipolar process, and a semiconductor material such as Si (silicon), GaAs (gallium arsenide), SiC (silicon carbide), or GaN (Gallium Nitride).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"integrated_circuit_process_technology",
+	"name":{
+		"defaultValue":"integrated circuit process technology",
+		"i18nValue":{
+			"en_US":"integrated circuit process technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

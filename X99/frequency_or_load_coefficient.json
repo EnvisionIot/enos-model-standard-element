@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"fractional change in output frequency resulting from an incremental change in electrical load impedance, other parameters remaining unchanged.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_or_load_coefficient",
+	"name":{
+		"defaultValue":"frequency/load coefficient",
+		"i18nValue":{
+			"en_US":"frequency/load coefficient",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

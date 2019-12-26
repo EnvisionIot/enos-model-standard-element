@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the cathode-gate to cathode voltage that will trigger a tetrode thyristor, at specified conditons.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cathode-gate_trigger_voltage",
+	"name":{
+		"defaultValue":"cathode-gate trigger voltage",
+		"i18nValue":{
+			"en_US":"cathode-gate trigger voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

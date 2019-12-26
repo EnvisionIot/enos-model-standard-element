@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"THY":{
+				"defaultValue":"thyristors",
+				"i18nValue":{}
+			},
+			"TRI":{
+				"defaultValue":"triacs",
+				"i18nValue":{}
+			},
+			"DIA":{
+				"defaultValue":"diacs",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the function of a trigger device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"trigger_device_function",
+	"name":{
+		"defaultValue":"trigger device function",
+		"i18nValue":{
+			"en_US":"trigger device function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

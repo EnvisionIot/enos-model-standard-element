@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the dc current, equal to the arithmetic average of the currents into the differential input terminals of an operational amplifier in a quiescent state at reference conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"average_bias_current",
+	"name":{
+		"defaultValue":"average bias current",
+		"i18nValue":{
+			"en_US":"average bias current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the direct current into the emitter terminal of a bipolar transistor when it is biased in the reverse direction with respect to the base terminal and when the collector terminal is open-circuited, at specified values of emitter-base voltage and temperature of a temperature type.\nThe emitter terminal is considered to be biased in the reverse direction when it is made positive for NPN transistors or negative for PNP transistors with respect to the base terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"emitter_cut-off_current_I_EBO",
+	"name":{
+		"defaultValue":"emitter cut-off current I_EBO",
+		"i18nValue":{
+			"en_US":"emitter cut-off current I_EBO",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

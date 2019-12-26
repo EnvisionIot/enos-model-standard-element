@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the open circuit voltage of a battery.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"open-circuit_voltage",
+	"name":{
+		"defaultValue":"open-circuit voltage",
+		"i18nValue":{
+			"en_US":"open-circuit voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

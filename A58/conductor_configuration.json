@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"LITZ":{
+				"defaultValue":"litze conductor",
+				"i18nValue":{}
+			},
+			"TINSEL":{
+				"defaultValue":"tinsel conductor",
+				"i18nValue":{}
+			},
+			"BRAID":{
+				"defaultValue":"braided conductor",
+				"i18nValue":{}
+			},
+			"BUNCH":{
+				"defaultValue":"bunched conductor",
+				"i18nValue":{}
+			},
+			"SOLID":{
+				"defaultValue":"solid conductor",
+				"i18nValue":{}
+			},
+			"STRAND":{
+				"defaultValue":"stranded conductor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the configuration of a conductive part of a conductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductor_configuration",
+	"name":{
+		"defaultValue":"conductor configuration",
+		"i18nValue":{
+			"en_US":"conductor configuration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

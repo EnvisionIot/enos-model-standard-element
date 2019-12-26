@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting peak inrush current of a bridge rectifier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"peak_inrush_current_limit",
+	"name":{
+		"defaultValue":"peak inrush current limit",
+		"i18nValue":{
+			"en_US":"peak inrush current limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

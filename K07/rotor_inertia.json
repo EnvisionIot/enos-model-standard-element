@@ -1,0 +1,19 @@
+{
+	"category":"K07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal rotor moment of inertia of a rotational motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rotor_inertia",
+	"name":{
+		"defaultValue":"rotor inertia",
+		"i18nValue":{
+			"en_US":"rotor inertia",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m²",
+	"version":"1.0"
+}

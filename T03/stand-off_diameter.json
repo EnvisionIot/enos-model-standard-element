@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of the cross-section of the stand-off.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-off_diameter",
+	"name":{
+		"defaultValue":"stand-off diameter",
+		"i18nValue":{
+			"en_US":"stand-off diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

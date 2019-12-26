@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting non-repetitive peak input current flowing through a bridge rectifier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-rep_peak_input_current_limit",
+	"name":{
+		"defaultValue":"non-rep peak input current limit",
+		"i18nValue":{
+			"en_US":"non-rep peak input current limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

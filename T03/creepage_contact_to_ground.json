@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the minimum creepage distance between any contact of a connector and any material connected to the ground potential.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"creepage_contact_to_ground",
+	"name":{
+		"defaultValue":"creepage contact to ground",
+		"i18nValue":{
+			"en_US":"creepage contact to ground",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

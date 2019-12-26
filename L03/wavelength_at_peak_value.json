@@ -1,0 +1,19 @@
+{
+	"category":"L03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"wavelength of the intensity of a laser photoemitter or responsivity of a photosensor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"wavelength_at_peak_value",
+	"name":{
+		"defaultValue":"wavelength at peak value",
+		"i18nValue":{
+			"en_US":"wavelength at peak value",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

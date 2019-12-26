@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of the spindle of a rotary potentiometer.\nThe spindle length is measured with reference to the mounting surface of the potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spindle_length",
+	"name":{
+		"defaultValue":"spindle length",
+		"i18nValue":{
+			"en_US":"spindle length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

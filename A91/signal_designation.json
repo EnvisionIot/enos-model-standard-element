@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"unambiguous identifier of a signal within a system.\nNOTE 1...According to IEC 61175-1, the signal designation is composed of several data element types in the sequence: signal class code, basic signal name and short name. In this case the data element type signal designation need not be provided to avoid possible inconsistencies during transmission.||, NOTE 2...Instead of composing the signal designation by the previously indicated data element types, alternately a flat string may be provided using the data element type signal designation.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_designation",
+	"name":{
+		"defaultValue":"signal designation",
+		"i18nValue":{
+			"en_US":"signal designation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

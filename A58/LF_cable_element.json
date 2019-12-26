@@ -1,0 +1,63 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"3S":{
+				"defaultValue":"triples screened",
+				"i18nValue":{}
+			},
+			"1":{
+				"defaultValue":"singles",
+				"i18nValue":{}
+			},
+			"2S":{
+				"defaultValue":"pairs screened",
+				"i18nValue":{}
+			},
+			"1S":{
+				"defaultValue":"singles screened",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"pairs",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"triples",
+				"i18nValue":{}
+			},
+			"4":{
+				"defaultValue":"quads",
+				"i18nValue":{}
+			},
+			"5":{
+				"defaultValue":"quintuples",
+				"i18nValue":{}
+			},
+			"5S":{
+				"defaultValue":"quintuples screened",
+				"i18nValue":{}
+			},
+			"4S":{
+				"defaultValue":"quads screened",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the type of basic elements which an LF cable contains.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"LF_cable_element",
+	"name":{
+		"defaultValue":"LF cable element",
+		"i18nValue":{
+			"en_US":"LF cable element",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

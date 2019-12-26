@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"power consumption when the item is in a non-operating up state during non-required time and measured at rated ambient temperature and rated frequency.\n1  Zero power consumption is only possible if the item is directly disconnected from its power supply, i.e. by disconnecting via an additional switch-off unit.\r\n\r\n2  Power drain in the deenergized state results in thermal loss.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_drain_in_deenergized_state",
+	"name":{
+		"defaultValue":"power drain in deenergized state",
+		"i18nValue":{
+			"en_US":"power drain in deenergized state",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

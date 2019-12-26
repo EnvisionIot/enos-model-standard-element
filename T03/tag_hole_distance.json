@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) between the seating plane and the centre of a hole in the tag of a terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tag_hole_distance",
+	"name":{
+		"defaultValue":"tag hole distance",
+		"i18nValue":{
+			"en_US":"tag hole distance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

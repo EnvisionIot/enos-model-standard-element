@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code assigned by a certification body to uniquely identify a registered product, a registrant, or declaration of conformity within the domain of the certification body.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"registration_number",
+	"name":{
+		"defaultValue":"registration number",
+		"i18nValue":{
+			"en_US":"registration number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

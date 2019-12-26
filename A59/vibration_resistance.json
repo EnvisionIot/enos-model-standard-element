@@ -1,0 +1,59 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"20-gn":{
+				"defaultValue":"1,5mm / 196m/s**2",
+				"i18nValue":{}
+			},
+			"30-gn":{
+				"defaultValue":"2,0mm / 294m/s**2",
+				"i18nValue":{}
+			},
+			"0.5-gn":{
+				"defaultValue":"0,035mm / 4,9m/s**2",
+				"i18nValue":{}
+			},
+			"1-gn":{
+				"defaultValue":"0,075mm / 9,8m/s**2",
+				"i18nValue":{}
+			},
+			"2-gn":{
+				"defaultValue":"0,15mm / 19,6m/s**2",
+				"i18nValue":{}
+			},
+			"5-gn":{
+				"defaultValue":"0,35mm / 49m/s**2",
+				"i18nValue":{}
+			},
+			"50-gn":{
+				"defaultValue":"3,5mm / 490m/s**2",
+				"i18nValue":{}
+			},
+			"15-gn":{
+				"defaultValue":"1,0mm / 147m/s**2",
+				"i18nValue":{}
+			},
+			"10-gn":{
+				"defaultValue":"0,75mm / 98m/s**2",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the resistance of a relay to vibration for a specified pulse duration at specified test criteria.\nThe values listed represent the vibration amplitude below and - separated by a slash - the acceleration above the transition frequency (between 57 and 62 Hz).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"vibration_resistance",
+	"name":{
+		"defaultValue":"vibration resistance",
+		"i18nValue":{
+			"en_US":"vibration resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

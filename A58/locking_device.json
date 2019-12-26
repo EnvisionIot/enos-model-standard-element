@@ -1,0 +1,35 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"SCREW":{
+				"defaultValue":"screw",
+				"i18nValue":{}
+			},
+			"BAYON":{
+				"defaultValue":"bayonet",
+				"i18nValue":{}
+			},
+			"SNAP":{
+				"defaultValue":"snap (clic)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the locking device of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"locking_device",
+	"name":{
+		"defaultValue":"locking device",
+		"i18nValue":{
+			"en_US":"locking device",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

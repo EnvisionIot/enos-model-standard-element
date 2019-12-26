@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"type of package containing one or more integrated circuits for which a socket is intended.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"package_type",
+	"name":{
+		"defaultValue":"package type",
+		"i18nValue":{
+			"en_US":"package type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

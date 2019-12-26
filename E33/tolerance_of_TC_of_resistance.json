@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal tolerance on temperature coefficient of resistance for a resistor used for temperature sensing.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tolerance_of_TC_of_resistance",
+	"name":{
+		"defaultValue":"tolerance of TC of resistance",
+		"i18nValue":{
+			"en_US":"tolerance of TC of resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

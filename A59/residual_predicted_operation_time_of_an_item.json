@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"remaining service  time of an item which has been gained either by a mathematical model using service-life-determining measured data gathered during operation of the item, or on the basis of a broad treasure trove of experience with measured data of good as well as of damaged items of the same type, resulting at a given data and time.\nBy comparing  the residual predicted operation times along planned time intervals, a tendency can be observed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"residual_predicted_operation_time_of_an_item",
+	"name":{
+		"defaultValue":"residual predicted  operation time of an item",
+		"i18nValue":{
+			"en_US":"residual predicted  operation time of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

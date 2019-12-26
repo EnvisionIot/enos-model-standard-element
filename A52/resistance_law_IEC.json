@@ -1,0 +1,35 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"law-C":{
+				"defaultValue":"inverse logarithmic law",
+				"i18nValue":{}
+			},
+			"law-B":{
+				"defaultValue":"logarithmic law",
+				"i18nValue":{}
+			},
+			"law-A":{
+				"defaultValue":"linear law",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC code of the resistance law of a potentiometer.\nThe relationship of the measured resistance value between terminations a and b or of the output ratio U_ab/U_ac to the mechanical position of the moving contact.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"resistance_law_IEC",
+	"name":{
+		"defaultValue":"resistance law (IEC)",
+		"i18nValue":{
+			"en_US":"resistance law (IEC)",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

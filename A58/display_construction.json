@@ -1,0 +1,79 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"loose display, alphanumeric",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"loose display, multifunctional",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"loose display, segment",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"printed circuit board module, dot-matrix display",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"printed circuit board module, segment display",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"printed circuit board module, alphanumeric display",
+				"i18nValue":{}
+			},
+			"P":{
+				"defaultValue":"printed circuit board module, multifunctional display",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"module on glass, segment display",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"module on glass, alphanumeric display",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"module on glass, dot-matrix display",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"module on glass, multifunctional display",
+				"i18nValue":{}
+			},
+			"V":{
+				"defaultValue":"module on foil, multifunctional display",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"module on foil, dot-matrix display",
+				"i18nValue":{}
+			},
+			"Z":{
+				"defaultValue":"module on foil, shutter",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code denoting the layout and construction of a liquid crystal display.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"display_construction",
+	"name":{
+		"defaultValue":"display construction",
+		"i18nValue":{
+			"en_US":"display construction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

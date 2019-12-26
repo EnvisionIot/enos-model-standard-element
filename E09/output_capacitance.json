@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"parallel capacitance at output port of a 2-port SAW resonator.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_capacitance",
+	"name":{
+		"defaultValue":"output capacitance",
+		"i18nValue":{
+			"en_US":"output capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"pF",
+	"version":"1.0"
+}

@@ -1,0 +1,230 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"operating_time_to_failure_of_an_item",
+				"name":{
+					"defaultValue":"operating time to failure of an item",
+					"i18nValue":{
+						"en_US":"operating time to failure of an item",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"operating_time_to_first_failure_of_an_item",
+				"name":{
+					"defaultValue":"operating time to first failure of an item",
+					"i18nValue":{
+						"en_US":"operating time to first failure of an item",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"time_between_failures_of_an_item",
+				"name":{
+					"defaultValue":"time between failures of an item",
+					"i18nValue":{
+						"en_US":"time between failures of an item",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"operating_time_between_failures_of_an_item",
+				"name":{
+					"defaultValue":"operating time between failures of an item",
+					"i18nValue":{
+						"en_US":"operating time between failures of an item",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"reliability_measure",
+				"name":{
+					"defaultValue":"reliability measure",
+					"i18nValue":{
+						"en_US":"reliability measure",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"instantaneous_failure_rate",
+				"name":{
+					"defaultValue":"instantaneous failure rate",
+					"i18nValue":{
+						"en_US":"instantaneous failure rate",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"mean_failure_rate",
+				"name":{
+					"defaultValue":"mean failure rate",
+					"i18nValue":{
+						"en_US":"mean failure rate",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"instantaneous_failure_intensity",
+				"name":{
+					"defaultValue":"instantaneous failure intensity",
+					"i18nValue":{
+						"en_US":"instantaneous failure intensity",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"mean_failure_intensity",
+				"name":{
+					"defaultValue":"mean failure intensity",
+					"i18nValue":{
+						"en_US":"mean failure intensity",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"asymptotic_failure_intensity",
+				"name":{
+					"defaultValue":"asymptotic failure intensity",
+					"i18nValue":{
+						"en_US":"asymptotic failure intensity",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_operating_time_to_failure",
+				"name":{
+					"defaultValue":"mean operating time to failure",
+					"i18nValue":{
+						"en_US":"mean operating time to failure",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_operating_time_to_first_failure",
+				"name":{
+					"defaultValue":"mean operating time to first failure",
+					"i18nValue":{
+						"en_US":"mean operating time to first failure",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_operating_time_between_failures",
+				"name":{
+					"defaultValue":"mean operating time between failures",
+					"i18nValue":{
+						"en_US":"mean operating time between failures",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Measures for reliability related concepts.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Measures_for_reliability_related_concepts",
+	"name":{
+		"defaultValue":"reference to Measures for reliability related concepts",
+		"i18nValue":{
+			"en_US":"reference to Measures for reliability related concepts",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

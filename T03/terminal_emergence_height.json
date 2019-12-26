@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) from the seating plane to the underside of the terminals where they emerge from the package.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_emergence_height",
+	"name":{
+		"defaultValue":"terminal emergence height",
+		"i18nValue":{
+			"en_US":"terminal emergence height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

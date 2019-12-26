@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of environmental conditions and their severities to which a product may be exposed during transportation at a given location in accordance with IEC 60721-3-2.\nNote 1 In order to limit the possibilities to general cases, standard sets of class combinations may be selected from IEC 60721-3-2, Table 6. For a given location or product, reference may then be made to this standard, for example IE22. |\r\nNote 2 Only when conditions are considered not to be covered by this specification, reference should be made to the total set of classes, for example 2K2/2B2/2C2/2S2/2M1.|\r\nNote 3 If the classes in IEC 60721-3-1 do not cover the environmental conditions it is recommended to specify the relevant environmental conditions as specified under AAA650.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"environmental_condition_class_combinations_for_transportation",
+	"name":{
+		"defaultValue":"environmental condition class combinations for transportation",
+		"i18nValue":{
+			"en_US":"environmental condition class combinations for transportation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

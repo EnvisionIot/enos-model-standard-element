@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum output current at the focus supply output of a voltage multiplier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current_focus_supply",
+	"name":{
+		"defaultValue":"output current focus supply",
+		"i18nValue":{
+			"en_US":"output current focus supply",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

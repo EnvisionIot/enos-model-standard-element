@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum switching rate at which an unloaded stepping motor can start without losing steps.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pull-in_rate",
+	"name":{
+		"defaultValue":"pull-in rate",
+		"i18nValue":{
+			"en_US":"pull-in rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"step/s",
+	"version":"1.0"
+}

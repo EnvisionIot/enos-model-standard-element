@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the maximum voltage that may be appled across the terminals of a PTC thermistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_operating_voltage",
+	"name":{
+		"defaultValue":"maximum operating voltage",
+		"i18nValue":{
+			"en_US":"maximum operating voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

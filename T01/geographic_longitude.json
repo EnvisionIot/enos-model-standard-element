@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle between the plane of the reference meridian and the plane through the polar axis and the normal to the spheroid.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"geographic_longitude",
+	"name":{
+		"defaultValue":"geographic longitude",
+		"i18nValue":{
+			"en_US":"geographic longitude",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

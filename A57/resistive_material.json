@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"WW":{
+				"defaultValue":"wirewound",
+				"i18nValue":{}
+			},
+			"CER":{
+				"defaultValue":"wirewound, ceramic (rectangular)",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"carbon",
+				"i18nValue":{}
+			},
+			"MGL":{
+				"defaultValue":"metal glaze",
+				"i18nValue":{}
+			},
+			"MTL":{
+				"defaultValue":"metal",
+				"i18nValue":{}
+			},
+			"EN":{
+				"defaultValue":"wirewound, enamelled",
+				"i18nValue":{}
+			},
+			"CEM":{
+				"defaultValue":"wirewound, cemented",
+				"i18nValue":{}
+			},
+			"CERMET":{
+				"defaultValue":"ceramic/metal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the resistive material of a fixed linear or a variable resistor.\nFor potentiometers, the term cermet is used instead of metal glaze. |Cermet is an acronym for ceramic and metal. With this type, the resistive element is a metal glaze compound deposited on a ceramic substrate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"resistive_material",
+	"name":{
+		"defaultValue":"resistive material",
+		"i18nValue":{
+			"en_US":"resistive material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

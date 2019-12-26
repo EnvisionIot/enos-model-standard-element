@@ -1,0 +1,39 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"OTHER":{
+				"defaultValue":"other aspect",
+				"i18nValue":{}
+			},
+			"LOC":{
+				"defaultValue":"location aspect",
+				"i18nValue":{}
+			},
+			"PROD":{
+				"defaultValue":"product aspect",
+				"i18nValue":{}
+			},
+			"FCT":{
+				"defaultValue":"function aspect",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"specified way of viewing an object.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"aspect",
+	"name":{
+		"defaultValue":"aspect",
+		"i18nValue":{
+			"en_US":"aspect",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

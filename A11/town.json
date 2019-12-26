@@ -1,0 +1,21 @@
+{
+	"category":"A11",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designation of a municipality, village, town or city.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"town",
+	"name":{
+		"defaultValue":"town",
+		"i18nValue":{
+			"en_US":"town",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

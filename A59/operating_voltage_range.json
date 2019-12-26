@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"CL2":{
+				"defaultValue":"class 2, 85% to 110% of the rated voltage",
+				"i18nValue":{}
+			},
+			"CL1":{
+				"defaultValue":"class 1, 80% to 110 % of the rated voltage",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the range of the input voltage over which a relay performs its prescribed function.\nThis applies to the whole range of permissible ambient temperature.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"operating_voltage_range",
+	"name":{
+		"defaultValue":"operating voltage range",
+		"i18nValue":{
+			"en_US":"operating voltage range",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

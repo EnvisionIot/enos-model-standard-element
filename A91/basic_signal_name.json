@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short description of the active signal defining the special function of the signal, normally using standardized abbreviations or codes.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"basic_signal_name",
+	"name":{
+		"defaultValue":"basic signal name",
+		"i18nValue":{
+			"en_US":"basic signal name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

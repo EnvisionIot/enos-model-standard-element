@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal capacitance of a capacitive humidity sensor at reference conditions.\nReference conditions are: |T_amb = 25 Cel |RH_amb = 43 % |frequency = 100 kHz.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_capacitance",
+	"name":{
+		"defaultValue":"reference capacitance",
+		"i18nValue":{
+			"en_US":"reference capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

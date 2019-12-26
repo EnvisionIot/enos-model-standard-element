@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"UV":{
+				"defaultValue":"ultraviolet radiation",
+				"i18nValue":{}
+			},
+			"VIS":{
+				"defaultValue":"visible radiation",
+				"i18nValue":{}
+			},
+			"IR":{
+				"defaultValue":"infrared radiation",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of optical radiation to which a photosensor responds.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"radiation_type",
+	"name":{
+		"defaultValue":"radiation type",
+		"i18nValue":{
+			"en_US":"radiation type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

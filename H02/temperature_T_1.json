@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower temperature T_1 of the temperature range applied to a component, as a variable.\nSee AAE959-005 for upper temperature T_2. If T_2 is left blank the upper limit of the range is determined by the maximum operating temperature. Equal values of T_1 and T_2 may be used to indicate a single specific temperature.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"temperature_T_1",
+	"name":{
+		"defaultValue":"temperature T_1",
+		"i18nValue":{
+			"en_US":"temperature T_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

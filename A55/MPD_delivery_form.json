@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"form in which a minimally-packaged device is delivered to the user.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"MPD_delivery_form",
+	"name":{
+		"defaultValue":"MPD delivery form",
+		"i18nValue":{
+			"en_US":"MPD delivery form",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

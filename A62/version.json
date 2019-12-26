@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"manufacturing version of the product being declared.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"version",
+	"name":{
+		"defaultValue":"version",
+		"i18nValue":{
+			"en_US":"version",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

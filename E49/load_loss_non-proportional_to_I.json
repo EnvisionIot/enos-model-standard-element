@@ -1,0 +1,21 @@
+{
+	"category":"E49",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a document depicting the power loss of a component with losses not proportional to I² during the state under load up to the maximum possible continuous rms current (=  rated current) and measured at rated ambient temperature and at rated frequency.\n1 The power loss includes the losses of all current carrying paths of the component.\r\n2 The power loss curve in dependency of the variable load current can normally not be expressed by a formula and shall be depicted by a curve including all relevant service conditions, for example ambient temperature, frequency, under which the curve has been obtained.\r\n3 Power loss curves  at different service conditions can be obtained by modifying their values.\r\n4 Such curves ocurr for example in unbalanced states of an object.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"load_loss_non-proportional_to_I",
+	"name":{
+		"defaultValue":"load loss non-proportional to I²",
+		"i18nValue":{
+			"en_US":"load loss non-proportional to I²",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

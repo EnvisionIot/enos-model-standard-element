@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"LOW-level DC output current of a digital function of an integrated circuit, at specified conditions.\nRefers to the minimum current sinking capacity of the output of a digital IC, at which a specified output voltage (V_O = V_OL) is still maintained, while the inputs are either at zero (GND/V_SS) or at supply voltage level (V_CC/V_DD).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-level_output_current",
+	"name":{
+		"defaultValue":"LOW-level output current",
+		"i18nValue":{
+			"en_US":"LOW-level output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

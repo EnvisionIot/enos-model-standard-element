@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the direct voltage, on grid 2 of a monochrome display tube.\nAll voltages relative to grid 1 (cathode drive) to the cathode (grid drive).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"grid_2_voltage",
+	"name":{
+		"defaultValue":"grid 2 voltage",
+		"i18nValue":{
+			"en_US":"grid 2 voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

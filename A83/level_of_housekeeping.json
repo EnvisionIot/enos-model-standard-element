@@ -1,0 +1,35 @@
+{
+	"category":"A83",
+	"dataDefinition":{
+		"enumDesc":{
+			"poor":{
+				"defaultValue":"poor",
+				"i18nValue":{}
+			},
+			"fair":{
+				"defaultValue":"fair",
+				"i18nValue":{}
+			},
+			"good":{
+				"defaultValue":"good",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of frequency and effectivity of cleaning from dust  reducing risks of fire and explosions in accordance with IEC 60079-10-2, Annex C.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"level_of_housekeeping",
+	"name":{
+		"defaultValue":"level of housekeeping",
+		"i18nValue":{
+			"en_US":"level of housekeeping",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

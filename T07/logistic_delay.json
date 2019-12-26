@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"delay, excluding administrative delay, incurred for the provision of resources needed for a maintenance action to proceed or continue.\nSee Figure 2 in the IEV 192-07-13:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"logistic_delay",
+	"name":{
+		"defaultValue":"logistic delay",
+		"i18nValue":{
+			"en_US":"logistic delay",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

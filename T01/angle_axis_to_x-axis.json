@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the angle between the orientation of the axis of a constructive solid geometry primitive and the X-axis of the placement coordinate system.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"angle_axis_to_x-axis",
+	"name":{
+		"defaultValue":"angle axis to x-axis",
+		"i18nValue":{
+			"en_US":"angle axis to x-axis",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

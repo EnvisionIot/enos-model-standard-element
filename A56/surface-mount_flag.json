@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":1
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"flag to indicate whether the package is intended for surface-mount applications.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"surface-mount_flag",
+	"name":{
+		"defaultValue":"surface-mount flag",
+		"i18nValue":{
+			"en_US":"surface-mount flag",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

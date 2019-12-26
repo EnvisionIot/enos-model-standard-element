@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the diameter of the flange of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_diameter",
+	"name":{
+		"defaultValue":"flange diameter",
+		"i18nValue":{
+			"en_US":"flange diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

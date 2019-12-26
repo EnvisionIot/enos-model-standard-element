@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the diameter of the body of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"body_diameter",
+	"name":{
+		"defaultValue":"body diameter",
+		"i18nValue":{
+			"en_US":"body diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

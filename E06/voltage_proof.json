@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the voltage proof an EM component is designed for.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"voltage_proof",
+	"name":{
+		"defaultValue":"voltage proof",
+		"i18nValue":{
+			"en_US":"voltage proof",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"style of the operating shaft of a switch with rotary action.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"shaft_style",
+	"name":{
+		"defaultValue":"shaft style",
+		"i18nValue":{
+			"en_US":"shaft style",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the ac voltage that may be applied across the electrodes of a gas-filled spark gap without causing breakdown.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"withstanding_voltage",
+	"name":{
+		"defaultValue":"withstanding voltage",
+		"i18nValue":{
+			"en_US":"withstanding voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,83 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"GW550":{
+				"defaultValue":"glow wire 550Cel",
+				"i18nValue":{}
+			},
+			"GW650":{
+				"defaultValue":"glow wire 650Cel",
+				"i18nValue":{}
+			},
+			"NF30":{
+				"defaultValue":"needle flame 30s",
+				"i18nValue":{}
+			},
+			"GW750":{
+				"defaultValue":"glow wire 750Cel",
+				"i18nValue":{}
+			},
+			"NF20":{
+				"defaultValue":"needle flame 20s",
+				"i18nValue":{}
+			},
+			"GW850":{
+				"defaultValue":"glow wire 850Cel",
+				"i18nValue":{}
+			},
+			"GW960":{
+				"defaultValue":"glow wire 960Cel",
+				"i18nValue":{}
+			},
+			"NF10":{
+				"defaultValue":"needle flame 10s",
+				"i18nValue":{}
+			},
+			"NF60":{
+				"defaultValue":"needle flame 60s",
+				"i18nValue":{}
+			},
+			"UL94V-1":{
+				"defaultValue":"UL 94, Test V-1",
+				"i18nValue":{}
+			},
+			"UL94V-2":{
+				"defaultValue":"UL 94, Test V-2",
+				"i18nValue":{}
+			},
+			"UL94HB":{
+				"defaultValue":"UL 94, Test HB",
+				"i18nValue":{}
+			},
+			"UL94V-0":{
+				"defaultValue":"UL 94, Test V",
+				"i18nValue":{}
+			},
+			"NF120":{
+				"defaultValue":"needle flame 120s",
+				"i18nValue":{}
+			},
+			"NF5":{
+				"defaultValue":"needle flame 5s",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the resistance of a relay to ignition indicated by test procedure and severity.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"flammability",
+	"name":{
+		"defaultValue":"flammability",
+		"i18nValue":{
+			"en_US":"flammability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"factor by which the rated voltage has to be multiplied to obtain the value of the test voltage to be applied to a device under test.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"test_voltage_coefficient",
+	"name":{
+		"defaultValue":"test voltage coefficient",
+		"i18nValue":{
+			"en_US":"test voltage coefficient",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct anode current that can be controlled, i.e. interrupted, in the conducting state by reverse biasing of the gate-cathode voltage in a gate turn off thyristor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"controllable_anode_current",
+	"name":{
+		"defaultValue":"controllable anode current",
+		"i18nValue":{
+			"en_US":"controllable anode current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"typical value of the mean temperature coefficient of the remanence relative to the remanence at the reference temperature of a hard magnetic material over a temperature range, between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient_Br",
+	"name":{
+		"defaultValue":"temperature coefficient Br",
+		"i18nValue":{
+			"en_US":"temperature coefficient Br",
+			"zh_CN":null
+		}
+	},
+	"unit":"%/K",
+	"version":"1.0"
+}

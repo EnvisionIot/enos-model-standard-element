@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"vertical distance between the top of a snow layer and the horizontal ground beneath.\nThe layer is assumed to be evenly spread on the surface. When the snow is not uniformly distributed, snow depth is measured by taking an average of multiple measurements.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"depth_of_snow",
+	"name":{
+		"defaultValue":"depth of snow",
+		"i18nValue":{
+			"en_US":"depth of snow",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

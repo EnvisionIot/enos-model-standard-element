@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"manufacturer's type number code of a transistor with reverse polarity, complementary to the transistor under consideration.\nNPN (N-channel) equivalent of a PNP (P-channel) transistor and vice versa.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"complementary_type",
+	"name":{
+		"defaultValue":"complementary type",
+		"i18nValue":{
+			"en_US":"complementary type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"begin time t_1 of a time interval during which a quantity is applied to a product, as a variable.\nSee AAF313-005 for the end time t_2.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"time_t_1",
+	"name":{
+		"defaultValue":"time t_1",
+		"i18nValue":{
+			"en_US":"time t_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

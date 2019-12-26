@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal effective cross-sectional area of a soft magnetic part.\nThis is the cross-sectional area of a hypothetical equivalent toroidal core of the same material properties.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"effective_cross-sectional_area",
+	"name":{
+		"defaultValue":"effective cross-sectional area",
+		"i18nValue":{
+			"en_US":"effective cross-sectional area",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification allocated to a pad by the manufacturer in his data sheet.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"manufacturer_pad_identifier",
+	"name":{
+		"defaultValue":"manufacturer pad identifier",
+		"i18nValue":{
+			"en_US":"manufacturer pad identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mark that indicates whether the terminal pairs or terminal groups of one function or one component may be exchanged.\nRules should be established for the identification of swapable terminal pairs respectively terminal groups.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"swapability_indicator",
+	"name":{
+		"defaultValue":"swapability indicator",
+		"i18nValue":{
+			"en_US":"swapability indicator",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

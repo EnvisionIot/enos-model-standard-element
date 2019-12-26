@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Nominal value of the thickness of a rectangular contact of a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"male_contact_thickness",
+	"name":{
+		"defaultValue":"male contact thickness",
+		"i18nValue":{
+			"en_US":"male contact thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

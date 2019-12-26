@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"W":{
+				"defaultValue":"with protective earth",
+				"i18nValue":{}
+			},
+			"WO":{
+				"defaultValue":"without protective earth",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating a component having or having not a contact for protective earth.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"protective_earth",
+	"name":{
+		"defaultValue":"protective earth",
+		"i18nValue":{
+			"en_US":"protective earth",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

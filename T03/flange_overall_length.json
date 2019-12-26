@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall length as specified by level (miNomax) of the mounting flange.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_overall_length",
+	"name":{
+		"defaultValue":"flange overall length",
+		"i18nValue":{
+			"en_US":"flange overall length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

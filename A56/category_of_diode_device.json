@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"BRI":{
+				"defaultValue":"bridge rectifier",
+				"i18nValue":{}
+			},
+			"VMP":{
+				"defaultValue":"voltage multiplier",
+				"i18nValue":{}
+			},
+			"DIO":{
+				"defaultValue":"diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the category to which a diode device belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"category_of_diode_device",
+	"name":{
+		"defaultValue":"category of diode device",
+		"i18nValue":{
+			"en_US":"category of diode device",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

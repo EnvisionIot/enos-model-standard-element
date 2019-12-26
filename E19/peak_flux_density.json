@@ -1,0 +1,19 @@
+{
+	"category":"E19",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak magnetic flux density applied to a magnetic material, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"peak_flux_density",
+	"name":{
+		"defaultValue":"peak flux density",
+		"i18nValue":{
+			"en_US":"peak flux density",
+			"zh_CN":null
+		}
+	},
+	"unit":"T",
+	"version":"1.0"
+}

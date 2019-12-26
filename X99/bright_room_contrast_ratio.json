@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"contrast ratio with ambient illumination on the screen.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bright_room_contrast_ratio",
+	"name":{
+		"defaultValue":"bright room contrast ratio",
+		"i18nValue":{
+			"en_US":"bright room contrast ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage between gate and source terminals of a field-effect transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"gate-source_voltage",
+	"name":{
+		"defaultValue":"gate-source voltage",
+		"i18nValue":{
+			"en_US":"gate-source voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

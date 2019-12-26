@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limits to the value as specified by level (minmax) of the HIGH-to-LOW or LOW-to-HIGH level transition time which must be observed at the clock input of a memory device at specified supply voltage and in a temperature range between specified temperatures (T_1 and T_2).\nThe LOW voltage level is specified as VIL and the HIGH level as VIH.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"transition_time",
+	"name":{
+		"defaultValue":"transition time",
+		"i18nValue":{
+			"en_US":"transition time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

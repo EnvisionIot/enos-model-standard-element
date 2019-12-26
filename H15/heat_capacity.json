@@ -1,0 +1,19 @@
+{
+	"category":"H15",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal heat capacity of a PTC resistor or piezoelectric device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"heat_capacity",
+	"name":{
+		"defaultValue":"heat capacity",
+		"i18nValue":{
+			"en_US":"heat capacity",
+			"zh_CN":null
+		}
+	},
+	"unit":"J/K",
+	"version":"1.0"
+}

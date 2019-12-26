@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the thickness of the circuit board to which a connector may be attached.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"circuit_board_thickness",
+	"name":{
+		"defaultValue":"circuit board thickness",
+		"i18nValue":{
+			"en_US":"circuit board thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

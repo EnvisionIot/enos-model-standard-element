@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed total LOW-state dc supply current of a TTL digital IC at the maximum supply voltage.\nTotal LOW-state supply current per package. |Appropriate input signals (V_IH and/or V_IL) must be applied to obtain a LOW-state at all outputs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-state_supply_current",
+	"name":{
+		"defaultValue":"LOW-state supply current",
+		"i18nValue":{
+			"en_US":"LOW-state supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

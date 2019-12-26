@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the reverse gate current of a field-effect transistor with the drain short-circuited to the source and at specified gate-source voltage and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate_cut-off_current",
+	"name":{
+		"defaultValue":"gate cut-off current",
+		"i18nValue":{
+			"en_US":"gate cut-off current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

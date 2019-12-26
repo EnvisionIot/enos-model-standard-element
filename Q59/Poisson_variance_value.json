@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"variance in a Poisson probability distribution.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"Poisson_variance_value",
+	"name":{
+		"defaultValue":"Poisson variance value",
+		"i18nValue":{
+			"en_US":"Poisson variance value",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

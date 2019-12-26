@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"MULT":{
+				"defaultValue":"concentric multiple jack",
+				"i18nValue":{}
+			},
+			"PLUG":{
+				"defaultValue":"concentric plug",
+				"i18nValue":{}
+			},
+			"JACK":{
+				"defaultValue":"concentric jack",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of concentric plug or jack.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"concentric_plug_or_jack_type",
+	"name":{
+		"defaultValue":"concentric plug/jack type",
+		"i18nValue":{
+			"en_US":"concentric plug/jack type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

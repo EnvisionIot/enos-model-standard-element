@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum time interval between application of a signal that is maintained at an input terminal and a subsequent active transition of the corresponding timing pulse of a combinatorial, sequential or interface function of an IC in a temperature range between specified temperatures (T_1 and T_2).\n1 The set-up time is the actual time between two signals and may be insufficient to accomplish the intended result. A minimum value is specified that is the shortest interval for which correct operation of the digital circuit is guaranteed. |2 The set-up time may have a negative value, in which case the minimum limit defines the longest interval (between the active transition and the application of the other signal) for which interval correct operation of the digital circuit is guaranteed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"set-up_time",
+	"name":{
+		"defaultValue":"set-up time",
+		"i18nValue":{
+			"en_US":"set-up time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

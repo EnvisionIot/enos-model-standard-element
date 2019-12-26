@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"porosity type of the anode in an electrolytic capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"anode_type",
+	"name":{
+		"defaultValue":"anode type",
+		"i18nValue":{
+			"en_US":"anode type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

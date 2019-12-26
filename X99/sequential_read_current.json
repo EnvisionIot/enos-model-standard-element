@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum supply current in sequential read mode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sequential_read_current",
+	"name":{
+		"defaultValue":"sequential read current",
+		"i18nValue":{
+			"en_US":"sequential read current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

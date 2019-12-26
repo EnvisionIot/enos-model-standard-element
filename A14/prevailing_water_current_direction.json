@@ -1,0 +1,21 @@
+{
+	"category":"A14",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dominating horizontal main direction of the movement of the water current with the highest probability of occurrence.\nThe current direction is defined as ‘going to’ in contrast to wind and wave direction.\nIn practice the direction is applied in textual form either by abbreviations of the geographic directions or in full text (instead of being applied in nautical degree, i.e. degree relative to true north positive clockwise).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"prevailing_water_current_direction",
+	"name":{
+		"defaultValue":"prevailing water current direction",
+		"i18nValue":{
+			"en_US":"prevailing water current direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

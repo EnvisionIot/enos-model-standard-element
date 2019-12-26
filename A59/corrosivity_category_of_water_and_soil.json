@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"Im1":{
+				"defaultValue":"Im1",
+				"i18nValue":{}
+			},
+			"Im3":{
+				"defaultValue":"Im3",
+				"i18nValue":{}
+			},
+			"Im2":{
+				"defaultValue":"Im2",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"corrosivity categories for environments in water or soil in accordance with ISO 12944-2.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"corrosivity_category_of_water_and_soil",
+	"name":{
+		"defaultValue":"corrosivity category of water and soil",
+		"i18nValue":{
+			"en_US":"corrosivity category of water and soil",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

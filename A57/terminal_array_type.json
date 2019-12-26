@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"HARM":{
+				"defaultValue":"harmonica-type array",
+				"i18nValue":{}
+			},
+			"BLOCK":{
+				"defaultValue":"block-type array",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of terminal array.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_array_type",
+	"name":{
+		"defaultValue":"terminal array type",
+		"i18nValue":{
+			"en_US":"terminal array type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

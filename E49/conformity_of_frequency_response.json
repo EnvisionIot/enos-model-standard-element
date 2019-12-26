@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the gain difference of a wideband amplifier of the measured power gain and the theoretical calculated power gain with an optimised cable equivalent impedance at specified supply voltage, temperature of a temperature type and a frequency range between specified frequencies (f_1 and f_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"conformity_of_frequency_response",
+	"name":{
+		"defaultValue":"conformity of frequency response",
+		"i18nValue":{
+			"en_US":"conformity of frequency response",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

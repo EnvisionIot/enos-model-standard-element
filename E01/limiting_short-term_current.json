@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the current which a previously closed contact circuit of a relay is capable of carrying for a specified duration and at a specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"limiting_short-term_current",
+	"name":{
+		"defaultValue":"limiting short-term current",
+		"i18nValue":{
+			"en_US":"limiting short-term current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

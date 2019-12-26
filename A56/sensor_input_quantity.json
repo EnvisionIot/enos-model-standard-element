@@ -1,0 +1,51 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"PRS":{
+				"defaultValue":"pressure",
+				"i18nValue":{}
+			},
+			"HUM":{
+				"defaultValue":"relative humidity",
+				"i18nValue":{}
+			},
+			"MGN":{
+				"defaultValue":"magnetic field strength",
+				"i18nValue":{}
+			},
+			"NCL":{
+				"defaultValue":"nuclear",
+				"i18nValue":{}
+			},
+			"TMP":{
+				"defaultValue":"temperature",
+				"i18nValue":{}
+			},
+			"PRX":{
+				"defaultValue":"proximity",
+				"i18nValue":{}
+			},
+			"LGT":{
+				"defaultValue":"light",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the physical quantity which a sensor converts into an electric signal.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"sensor_input_quantity",
+	"name":{
+		"defaultValue":"sensor input quantity",
+		"i18nValue":{
+			"en_US":"sensor input quantity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

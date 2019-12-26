@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak value of a pulse current passed through an electric, electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"current_pulse",
+	"name":{
+		"defaultValue":"current (pulse)",
+		"i18nValue":{
+			"en_US":"current (pulse)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

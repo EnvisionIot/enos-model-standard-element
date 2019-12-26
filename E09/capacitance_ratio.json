@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the capacitance ratio of a tuning variable capacitance diode, within a reverse voltage range, specified by the reverse voltages (V_1 and V_2), and at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_ratio",
+	"name":{
+		"defaultValue":"capacitance ratio",
+		"i18nValue":{
+			"en_US":"capacitance ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

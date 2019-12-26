@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"proportion of faults that can be detected, under given conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fault_coverage",
+	"name":{
+		"defaultValue":"fault coverage",
+		"i18nValue":{
+			"en_US":"fault coverage",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

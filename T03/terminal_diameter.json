@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of the circumscribed circle containing the terminal.\nThe terminal need not have a circular cross-section.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_diameter",
+	"name":{
+		"defaultValue":"terminal diameter",
+		"i18nValue":{
+			"en_US":"terminal diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum voltage of a secondary battery during charge with a constant current of 0.1 times the value of the nominal capacity.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"voltage_during_charge",
+	"name":{
+		"defaultValue":"voltage during charge",
+		"i18nValue":{
+			"en_US":"voltage during charge",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

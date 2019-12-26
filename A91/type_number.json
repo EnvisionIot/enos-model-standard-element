@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"alphanumerical number given by the manufacturer to a a group or class of objects  that share particular qualities or features and are part of a larger group.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"type_number",
+	"name":{
+		"defaultValue":"type number",
+		"i18nValue":{
+			"en_US":"type number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

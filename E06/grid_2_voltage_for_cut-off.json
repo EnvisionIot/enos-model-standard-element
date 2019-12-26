@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the direct voltage on grid 2 with respect to grid 1 for visual extinction of the focused spot of a colour display tube at maximum cathode voltage.\nAdjustment procedure: |With all cathodes at maximum voltage, V_g2 is increased to a value at which one of the colours becomes just visible. Then the cathode voltages of the remaining guns are decreased until the other colours also become visible.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"grid_2_voltage_for_cut-off",
+	"name":{
+		"defaultValue":"grid 2 voltage for cut-off",
+		"i18nValue":{
+			"en_US":"grid 2 voltage for cut-off",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak-to-peak value of the ac square wave voltage applied to a liquid crystal display, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"operating_voltage",
+	"name":{
+		"defaultValue":"operating voltage",
+		"i18nValue":{
+			"en_US":"operating voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

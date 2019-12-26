@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"COM":{
+				"defaultValue":"common terminal",
+				"i18nValue":{}
+			},
+			"DIV":{
+				"defaultValue":"divider",
+				"i18nValue":{}
+			},
+			"TER":{
+				"defaultValue":"terminator",
+				"i18nValue":{}
+			},
+			"ISO":{
+				"defaultValue":"isolated",
+				"i18nValue":{}
+			},
+			"LAD":{
+				"defaultValue":"ladder",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of interconnection of fixed a linear resistor network.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"resistor_interconnection",
+	"name":{
+		"defaultValue":"resistor interconnection",
+		"i18nValue":{
+			"en_US":"resistor interconnection",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,67 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"01:02":{
+				"defaultValue":"2",
+				"i18nValue":{}
+			},
+			"01:01":{
+				"defaultValue":"DD = direct drive",
+				"i18nValue":{}
+			},
+			"0.180":{
+				"defaultValue":"200",
+				"i18nValue":{}
+			},
+			"01:32":{
+				"defaultValue":"32",
+				"i18nValue":{}
+			},
+			"01:16":{
+				"defaultValue":"16",
+				"i18nValue":{}
+			},
+			"01:04":{
+				"defaultValue":"4",
+				"i18nValue":{}
+			},
+			"0.208":{
+				"defaultValue":"240",
+				"i18nValue":{}
+			},
+			"01:03":{
+				"defaultValue":"3",
+				"i18nValue":{}
+			},
+			"0.111":{
+				"defaultValue":"100",
+				"i18nValue":{}
+			},
+			"01:08":{
+				"defaultValue":"8",
+				"i18nValue":{}
+			},
+			"0.086":{
+				"defaultValue":"64",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of addressing the liquid crystal display, i.e. the number of segments (with dot matrix displays, the picture elements or pixels) that are connected together, and is given in a ratio value.\n1. The number of common electrodes or segments per group determines the multiplex ratio. When the number of segments is n and the multiplex ratio is M then the number of connections used is n/M + M against n + 1 for direct drive. |2. Multiplex drive is when several electrodes of the segments and those of the back-planes are connected together.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"driving_method",
+	"name":{
+		"defaultValue":"driving method",
+		"i18nValue":{
+			"en_US":"driving method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

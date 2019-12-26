@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of electrical terminals of an electric/ electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_terminals",
+	"name":{
+		"defaultValue":"number of terminals",
+		"i18nValue":{
+			"en_US":"number of terminals",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

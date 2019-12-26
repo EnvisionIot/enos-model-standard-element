@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc output current of a semiconductor inductive proximity sensor at specified supply voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current",
+	"name":{
+		"defaultValue":"output current",
+		"i18nValue":{
+			"en_US":"output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

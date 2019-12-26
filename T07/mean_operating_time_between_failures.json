@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expectation of the duration of the operating time between failures \r\nNote 1 to entry:.\nNote 1 Mean operating time between failures should only be applied to repairable items. For non-repairable items, see mean operating time to failure, see IEV192-05-11:2015-02 \r\n\r\nNote 2 Terms 'mean' is used as synonym  to the term arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_operating_time_between_failures",
+	"name":{
+		"defaultValue":"mean operating time between failures",
+		"i18nValue":{
+			"en_US":"mean operating time between failures",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

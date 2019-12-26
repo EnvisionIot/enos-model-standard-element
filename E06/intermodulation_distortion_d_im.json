@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the intermodulation distortion of an rf bipolar power transistor measured according to the three-tone test method at specified sync output power, vision frequency, collector-emitter voltage, collector current and temperature of a temperature type.\nThree-tone test method: vision frequency f_v level = - 8dB sound carrier frequency f_v + 5.5 MHz level = - 7dB sideband signal f_v - 1.1 MHz level = - 16dB zero level 0dB corresponds to peak sync level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"intermodulation_distortion_d_im",
+	"name":{
+		"defaultValue":"intermodulation distortion d_im",
+		"i18nValue":{
+			"en_US":"intermodulation distortion d_im",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

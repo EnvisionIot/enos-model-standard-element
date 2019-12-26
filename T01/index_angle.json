@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle as specified by level (miNomax) of a chamfer used as an index feature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_angle",
+	"name":{
+		"defaultValue":"index angle",
+		"i18nValue":{
+			"en_US":"index angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

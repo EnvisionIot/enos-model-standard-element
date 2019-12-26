@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Load capacitance at the output of an electric, electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"load_capacitance",
+	"name":{
+		"defaultValue":"load capacitance",
+		"i18nValue":{
+			"en_US":"load capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

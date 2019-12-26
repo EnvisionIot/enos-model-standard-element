@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of the step-and-repeat dimensions of die on a wafer in the x direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"die_step_size_y",
+	"name":{
+		"defaultValue":"die step size y",
+		"i18nValue":{
+			"en_US":"die step size y",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

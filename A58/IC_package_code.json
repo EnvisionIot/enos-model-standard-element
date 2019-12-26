@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the package of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IC_package_code",
+	"name":{
+		"defaultValue":"IC package code",
+		"i18nValue":{
+			"en_US":"IC package code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

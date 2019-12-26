@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"national or regional applicable standards or guides concerning health and safety applicable during storage of a specific product type.\nspecial directives, guidelines, requirements etc may apply   requesting precautionary measures for  the storage of specific object types, e.g. lithium batteries.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"storage_regulations",
+	"name":{
+		"defaultValue":"storage regulations",
+		"i18nValue":{
+			"en_US":"storage regulations",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

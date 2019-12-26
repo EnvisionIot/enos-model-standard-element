@@ -1,0 +1,43 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"MPD":{
+				"defaultValue":"individual die in minimally packaged form",
+				"i18nValue":{}
+			},
+			"WAFER":{
+				"defaultValue":"unsawn wafer",
+				"i18nValue":{}
+			},
+			"SAWN":{
+				"defaultValue":"sawn wafer",
+				"i18nValue":{}
+			},
+			"BUMP":{
+				"defaultValue":"individual bumped die",
+				"i18nValue":{}
+			},
+			"BARE":{
+				"defaultValue":"individual die without connection structures",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mnemonic code for the form in which the die is supplied either in wafer form or as individual dice.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_form_code",
+	"name":{
+		"defaultValue":"supply form code",
+		"i18nValue":{
+			"en_US":"supply form code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

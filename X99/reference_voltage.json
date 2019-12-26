@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"stable voltage to be applied to the internal error amplifier that generates compensating current to move the output voltage toward design specification.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_voltage",
+	"name":{
+		"defaultValue":"reference voltage",
+		"i18nValue":{
+			"en_US":"reference voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

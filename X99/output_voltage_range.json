@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of output voltage within which the voltage satisfies the design specification.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_voltage_range",
+	"name":{
+		"defaultValue":"output voltage range",
+		"i18nValue":{
+			"en_US":"output voltage range",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

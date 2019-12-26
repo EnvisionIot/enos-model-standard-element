@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the quotient of a wideband amplifier of: 1) the amplitude of the frequency component arising by the superposition of two input signals with specified amplitude and frequency (or channel) measured at a specified frequency (or channel), and 2) the amplitude of one of two original frequencies at specified supply voltage, temperature and temperature type.\nMeasuring method:| V_p = V_o,   f_p = f_1   (channel p);| V_q = V_o,   f_q = f_2   (channel q).| 2nd-order beat measured at (f_1 + f_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"2nd-order_beat",
+	"name":{
+		"defaultValue":"2nd-order beat",
+		"i18nValue":{
+			"en_US":"2nd-order beat",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the instantaneous unavailability when the time tends to infinity.\nUnder certain conditions the steady state unavailability may be expressed as the ratio of the mean down time to the sum of the mean up time and mean down time.\nSee IEC 61703, Mathematical expressions for reliability, availability, maintainability and maintenance support terms.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"steady_state_unavailability",
+	"name":{
+		"defaultValue":"steady state unavailability",
+		"i18nValue":{
+			"en_US":"steady state unavailability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

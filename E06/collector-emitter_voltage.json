@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage between the collector and emitter terminals of a bipolar transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"collector-emitter_voltage",
+	"name":{
+		"defaultValue":"collector-emitter voltage",
+		"i18nValue":{
+			"en_US":"collector-emitter voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

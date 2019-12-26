@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":175
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"pattern of terminals on a grid array.\nThe terminal pattern is expressed as a sequence of 1s and 0s to represent the presence or absence respectively of terminals on a regular rectangular array.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_pattern",
+	"name":{
+		"defaultValue":"terminal pattern",
+		"i18nValue":{
+			"en_US":"terminal pattern",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

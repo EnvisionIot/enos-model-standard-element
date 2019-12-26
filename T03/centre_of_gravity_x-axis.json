@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the x-displacement of the centre of gravity of a component related to the reference point of that component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"centre_of_gravity_x-axis",
+	"name":{
+		"defaultValue":"centre of gravity (x-axis)",
+		"i18nValue":{
+			"en_US":"centre of gravity (x-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

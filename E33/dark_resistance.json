@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the dark resistance of a light dependent resistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dark_resistance",
+	"name":{
+		"defaultValue":"dark resistance",
+		"i18nValue":{
+			"en_US":"dark resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal diameter of the spindle of a rotary potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spindle_diameter",
+	"name":{
+		"defaultValue":"spindle diameter",
+		"i18nValue":{
+			"en_US":"spindle diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

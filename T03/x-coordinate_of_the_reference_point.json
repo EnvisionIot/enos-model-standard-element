@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the distance on the x-axis of the reference point to the zero-point.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"x-coordinate_of_the_reference_point",
+	"name":{
+		"defaultValue":"x-coordinate of the reference point",
+		"i18nValue":{
+			"en_US":"x-coordinate of the reference point",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

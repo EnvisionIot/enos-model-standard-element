@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mean of the highest one-third of individual wave heights measured in a given period of time.\nThe random nature of surface waves implies that individual waves can be substantially higher than the significant wave height. Highest individual waves in a typical storm with typical duration are approximately two times the significant wave height.\nWaves higher than roughly twice the significant wave height fall into the category of freak or rogue waves.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"significant_wave_height",
+	"name":{
+		"defaultValue":"significant wave height",
+		"i18nValue":{
+			"en_US":"significant wave height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

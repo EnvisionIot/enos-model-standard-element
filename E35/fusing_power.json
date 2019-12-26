@@ -1,0 +1,19 @@
+{
+	"category":"E35",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum power that make will ensure that a fusing resistor blows in the specified period of time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fusing_power",
+	"name":{
+		"defaultValue":"fusing power",
+		"i18nValue":{
+			"en_US":"fusing power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

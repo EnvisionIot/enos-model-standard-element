@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rms input voltage of a bridge rectifier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rms_input_voltage",
+	"name":{
+		"defaultValue":"rms input voltage",
+		"i18nValue":{
+			"en_US":"rms input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

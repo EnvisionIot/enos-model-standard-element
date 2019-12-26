@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal height of a digit of a liquid crystal display.\nThe height is measured in the vertical direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"digit_height",
+	"name":{
+		"defaultValue":"digit height",
+		"i18nValue":{
+			"en_US":"digit height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

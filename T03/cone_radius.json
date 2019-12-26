@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the radius of the cone on the axis at the top of a right circular cone.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cone_radius",
+	"name":{
+		"defaultValue":"cone radius",
+		"i18nValue":{
+			"en_US":"cone radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

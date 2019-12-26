@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the direct collector current in a photocoupler at open base and zero forward current and specified collector-emitter voltage and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cut-off_current_dark_I_CEO",
+	"name":{
+		"defaultValue":"cut-off current dark I_CEO",
+		"i18nValue":{
+			"en_US":"cut-off current dark I_CEO",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

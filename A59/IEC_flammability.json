@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"FH3":{
+				"defaultValue":"FH3",
+				"i18nValue":{}
+			},
+			"FV1":{
+				"defaultValue":"FV1",
+				"i18nValue":{}
+			},
+			"FH2":{
+				"defaultValue":"FH2",
+				"i18nValue":{}
+			},
+			"FV0":{
+				"defaultValue":"FV0",
+				"i18nValue":{}
+			},
+			"FV2":{
+				"defaultValue":"FV2",
+				"i18nValue":{}
+			},
+			"FH1":{
+				"defaultValue":"FH1",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC code of the flammability of a connector.\nFH = Flame Horizontal FV = Flame Vertical.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IEC_flammability",
+	"name":{
+		"defaultValue":"IEC flammability",
+		"i18nValue":{
+			"en_US":"IEC flammability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

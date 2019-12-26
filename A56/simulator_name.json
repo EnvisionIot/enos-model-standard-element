@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of a simulator software package with which a simulator model is intended to be used.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"simulator_name",
+	"name":{
+		"defaultValue":"simulator name",
+		"i18nValue":{
+			"en_US":"simulator name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

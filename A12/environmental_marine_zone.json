@@ -1,0 +1,43 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"enumDesc":{
+			"tidal zone":{
+				"defaultValue":"tidal zone",
+				"i18nValue":{}
+			},
+			"submerged zone":{
+				"defaultValue":"submerged zone",
+				"i18nValue":{}
+			},
+			"splash zone":{
+				"defaultValue":"splash zone",
+				"i18nValue":{}
+			},
+			"subsoil zone":{
+				"defaultValue":"subsoil zone",
+				"i18nValue":{}
+			},
+			"atmospheric zone":{
+				"defaultValue":"atmospheric zone",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of maritime zones depending on their horizontal layer from atmosphere to subsoil.\nCorrosion is not uniform over the structure’s surface. Pitting corrosion rates are generally higher than the uniform rates.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"environmental_marine_zone",
+	"name":{
+		"defaultValue":"environmental marine zone",
+		"i18nValue":{
+			"en_US":"environmental marine zone",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

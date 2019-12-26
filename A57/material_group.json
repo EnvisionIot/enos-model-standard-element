@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to a grouping of a number of materials that share at least one property in common under a generic name.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_group",
+	"name":{
+		"defaultValue":"material group",
+		"i18nValue":{
+			"en_US":"material group",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum time interval between the application of the RAS Row Address strobe) input pulse, other necessary inputs being already present, and the availability of valid data signals at an output of a DRAM.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"access_time_from_RAS",
+	"name":{
+		"defaultValue":"access time from RAS",
+		"i18nValue":{
+			"en_US":"access time from RAS",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum capability of a thyristor, triac or diode to absorb energy at specified time duration.\nWhen considered from the point of view of the circuit protected by a fuse, the value of the Joule-integral over the operating time of the fuse is referred to a specific energy, i.e. the energy released as heat in 1 ohm of circuit resistance.\nThe value is given for the selection of fuses.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"Joule-integral",
+	"name":{
+		"defaultValue":"Joule-integral",
+		"i18nValue":{
+			"en_US":"Joule-integral",
+			"zh_CN":null
+		}
+	},
+	"unit":"J",
+	"version":"1.0"
+}

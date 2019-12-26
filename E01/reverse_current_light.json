@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the reverse direct current in a photosensor diode at specified values of reverse voltage, irradiance of a specified wavelength and temperature of a temperature type.\nCalled light reverse current when irradiance occurs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reverse_current_light",
+	"name":{
+		"defaultValue":"reverse current light",
+		"i18nValue":{
+			"en_US":"reverse current light",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

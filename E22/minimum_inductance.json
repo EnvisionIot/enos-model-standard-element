@@ -1,0 +1,19 @@
+{
+	"category":"E22",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the minimum value of the range of values of inductance of a variable inductor at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minimum_inductance",
+	"name":{
+		"defaultValue":"minimum inductance",
+		"i18nValue":{
+			"en_US":"minimum inductance",
+			"zh_CN":null
+		}
+	},
+	"unit":"H",
+	"version":"1.0"
+}

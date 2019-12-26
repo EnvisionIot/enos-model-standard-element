@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Torque of a rotational motor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"torque",
+	"name":{
+		"defaultValue":"torque",
+		"i18nValue":{
+			"en_US":"torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

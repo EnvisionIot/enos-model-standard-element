@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"permissible ambient temperature range of a device while it is operating at the application of the specified voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_ambient_temperature",
+	"name":{
+		"defaultValue":"operating ambient temperature",
+		"i18nValue":{
+			"en_US":"operating ambient temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the frequency  at which the small-signal current gain has decreased to unity when the output is short-circuited at specified collector current and collector-emitter voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"transition_frequency",
+	"name":{
+		"defaultValue":"transition frequency",
+		"i18nValue":{
+			"en_US":"transition frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum time interval between the trailing edge of an asynchronous control input pulse and the reference point on the activating edge of a synchronous (clock) input pulse such that the combinatorial, sequential or interface function of an IC will respond to the synchronous input in a temperature range between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"recovery_time",
+	"name":{
+		"defaultValue":"recovery time",
+		"i18nValue":{
+			"en_US":"recovery time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

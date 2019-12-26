@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the force required to operate the adjuster of a slider potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"slide_force",
+	"name":{
+		"defaultValue":"slide force",
+		"i18nValue":{
+			"en_US":"slide force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

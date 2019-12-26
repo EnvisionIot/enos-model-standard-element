@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"current that is the sum of the switching current that charges the capacitances added to the gate outputs and the through current that occurs between the power supply and the ground pin, when the gates inside the circuit, including the output buffers, are inverted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_supply_current",
+	"name":{
+		"defaultValue":"operating supply current",
+		"i18nValue":{
+			"en_US":"operating supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

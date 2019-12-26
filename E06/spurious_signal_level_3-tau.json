@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum level of the spurious signal at the output terminals of a delay line measured at three times the delay time (tau) and relative to the one tau signal at the output terminals at the nominal frequency and at specified reference conditions.\nReflections are measured using a 5 us long input burst signal.\nThe one tau signal is the first burst appearing at the output terminals of a delay line at nominal delay with respect to the input signal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spurious_signal_level_3-tau",
+	"name":{
+		"defaultValue":"spurious signal level (3-tau)",
+		"i18nValue":{
+			"en_US":"spurious signal level (3-tau)",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

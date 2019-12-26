@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material class ID as defined in the IEC 62474 database.\nIf there is an inconistency between id and name, the id takes precedence.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_class_identifier",
+	"name":{
+		"defaultValue":"material class identifier",
+		"i18nValue":{
+			"en_US":"material class identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

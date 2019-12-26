@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"intended use of a substance which determines its relevence to a given scope and threshold for disclosure.\nThis use is defined in the scope of the underlying law or industry standard. Examples are batteries, textiles and wood.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reportable_application",
+	"name":{
+		"defaultValue":"reportable application",
+		"i18nValue":{
+			"en_US":"reportable application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

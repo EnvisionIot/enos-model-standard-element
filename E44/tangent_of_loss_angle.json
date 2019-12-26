@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"tangent of the loss angle of a capacitor at specified frequency and at reference conditions.\nThe tangent of the loss angle is equal to the equivalent series resistance divided by the capacitive reactance.\n(IEC 60418-3(III.9) (1976)): The rotor should be set at minimum and maximum positions for the tan delta test on variable capacitors. |IEC requires the voltage to be specified. |N.B. Reciprocal of tan delta is quality factor Q.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tangent_of_loss_angle",
+	"name":{
+		"defaultValue":"tangent of loss angle",
+		"i18nValue":{
+			"en_US":"tangent of loss angle",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

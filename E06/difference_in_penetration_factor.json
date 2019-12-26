@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the ratio of the change of gate-source voltage difference to the change of drain-gate voltage of a dual field-effect transistor at specified constant drain current, drain-gate voltage and temperature of temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"difference_in_penetration_factor",
+	"name":{
+		"defaultValue":"difference in penetration factor",
+		"i18nValue":{
+			"en_US":"difference in penetration factor",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/V",
+	"version":"1.0"
+}

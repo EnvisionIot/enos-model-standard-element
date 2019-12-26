@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum input voltage level of a combinatorial, sequential or interface function of an IC that, when crossed with a rising input voltage, enables an output to change its logic state in a temperature range between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"positive-going_threshold",
+	"name":{
+		"defaultValue":"positive-going threshold",
+		"i18nValue":{
+			"en_US":"positive-going threshold",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

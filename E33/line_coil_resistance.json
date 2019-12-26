@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal dc resistance of the line deflection coils of a deflection unit, connected in parallel.\nThe resistance may include the resistance of a series connected loss coil.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_coil_resistance",
+	"name":{
+		"defaultValue":"line coil resistance",
+		"i18nValue":{
+			"en_US":"line coil resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

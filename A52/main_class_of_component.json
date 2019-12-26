@@ -1,0 +1,39 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"EE":{
+				"defaultValue":"electric/electronic component",
+				"i18nValue":{}
+			},
+			"MP":{
+				"defaultValue":"magnetic part",
+				"i18nValue":{}
+			},
+			"EM":{
+				"defaultValue":"electromechanical component",
+				"i18nValue":{}
+			},
+			"ME":{
+				"defaultValue":"mechanical component",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the main functional class to which a component belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"main_class_of_component",
+	"name":{
+		"defaultValue":"main class of component",
+		"i18nValue":{
+			"en_US":"main class of component",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

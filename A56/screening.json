@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SEC":{
+				"defaultValue":"secondary",
+				"i18nValue":{}
+			},
+			"PRI":{
+				"defaultValue":"primary",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the screening of a transformer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"screening",
+	"name":{
+		"defaultValue":"screening",
+		"i18nValue":{
+			"en_US":"screening",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

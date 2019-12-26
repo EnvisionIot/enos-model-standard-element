@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the time required for the reverse current of a diode to recover to a specified value, when switched from a specified forward current to a specified reverse voltage, at specified conditions.\nThe reverse recovery time is measured as the time interval between t_0, the point where the forward current crosses the zero current axis, and the instant when for decreasing values of iR a line through the points for 0.9 I_RM and 0.25 I_RM crosses the zero current axis.\nAn alternative method for specifying the recovery value of i_R is to express it as a percentage (e.g. 10%) of the I_RM. The method used is normally described in the product specifying documentation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reverse_recovery_time",
+	"name":{
+		"defaultValue":"reverse recovery time",
+		"i18nValue":{
+			"en_US":"reverse recovery time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"period of time for which a  warranty period can be extended by the manufacturer or its representative.\na prolongation of a warranty period may be possible under conditions settled by the manufacturer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"prolongation_of_warranty_period_by_manufacturer",
+	"name":{
+		"defaultValue":"prolongation of warranty period by manufacturer",
+		"i18nValue":{
+			"en_US":"prolongation of warranty period by manufacturer",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

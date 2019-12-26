@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of that part of a terminal of a right angle or 45 degree connector that is beside the housing.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_length_beside_housing",
+	"name":{
+		"defaultValue":"terminal length beside housing",
+		"i18nValue":{
+			"en_US":"terminal length beside housing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum input capacitance at the gate of an N-channel field-effect transistor at specified drain current, drain-source voltage, gate-source voltage and frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_capacitance_at_gate",
+	"name":{
+		"defaultValue":"input capacitance at gate",
+		"i18nValue":{
+			"en_US":"input capacitance at gate",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

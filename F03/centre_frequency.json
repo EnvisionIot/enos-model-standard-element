@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the centre frequency  of a band pass or band stop filter.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"centre_frequency",
+	"name":{
+		"defaultValue":"centre frequency",
+		"i18nValue":{
+			"en_US":"centre frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

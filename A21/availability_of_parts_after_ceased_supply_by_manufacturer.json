@@ -1,0 +1,21 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"website with list of suppliers of spare and/or wear parts of the item, if the original manufacturer has ceased their supply.\nIn some countries this may be requested by law.\nIf a manufacturer stops supplying spare or wear parts of a given item, the allocation of its constructional data to public by the manufacturer needs to be free of rights  in order to allow a third party to run the risk of their remanufacture (e.g. by 3D printer).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"availability_of_parts_after_ceased_supply_by_manufacturer",
+	"name":{
+		"defaultValue":"availability of parts after ceased supply by manufacturer",
+		"i18nValue":{
+			"en_US":"availability of parts after ceased supply by manufacturer",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

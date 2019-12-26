@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"For a change-over make-before-break contact of a relay, the minimum time interval during which both contact circuits are closed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bridging_time",
+	"name":{
+		"defaultValue":"bridging time",
+		"i18nValue":{
+			"en_US":"bridging time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

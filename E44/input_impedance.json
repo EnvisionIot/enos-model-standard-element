@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the modulus of the input impedance of a filter or microphone at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_impedance",
+	"name":{
+		"defaultValue":"input impedance",
+		"i18nValue":{
+			"en_US":"input impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

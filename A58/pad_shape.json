@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"RECT":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"ELL":{
+				"defaultValue":"elliptical",
+				"i18nValue":{}
+			},
+			"CIRC":{
+				"defaultValue":"circular",
+				"i18nValue":{}
+			},
+			"POLY":{
+				"defaultValue":"polygonal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape of a bonding pad on a die.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pad_shape",
+	"name":{
+		"defaultValue":"pad shape",
+		"i18nValue":{
+			"en_US":"pad shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

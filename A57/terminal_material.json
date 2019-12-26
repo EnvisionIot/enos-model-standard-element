@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"NiSn":{
+				"defaultValue":"nickel-tin",
+				"i18nValue":{}
+			},
+			"AgPd":{
+				"defaultValue":"silver-palladium",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the terminal material of an electric-electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_material",
+	"name":{
+		"defaultValue":"terminal material",
+		"i18nValue":{
+			"en_US":"terminal material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

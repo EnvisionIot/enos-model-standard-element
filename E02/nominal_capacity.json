@@ -1,0 +1,19 @@
+{
+	"category":"E02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal capacity of a battery.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"nominal_capacity",
+	"name":{
+		"defaultValue":"nominal capacity",
+		"i18nValue":{
+			"en_US":"nominal capacity",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ah",
+	"version":"1.0"
+}

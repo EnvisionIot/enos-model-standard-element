@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal direct voltage at the terminals of a dc motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_input_voltage_dc",
+	"name":{
+		"defaultValue":"rated input voltage (dc)",
+		"i18nValue":{
+			"en_US":"rated input voltage (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

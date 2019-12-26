@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"height of the dust coat which may be formed on an object, e.g., equipment, by the surrounding environment.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dust_layer_thickness",
+	"name":{
+		"defaultValue":"dust layer thickness",
+		"i18nValue":{
+			"en_US":"dust layer thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

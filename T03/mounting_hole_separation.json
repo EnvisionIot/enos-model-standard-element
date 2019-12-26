@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) between the centres of two mounting holes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounting_hole_separation",
+	"name":{
+		"defaultValue":"mounting hole separation",
+		"i18nValue":{
+			"en_US":"mounting hole separation",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

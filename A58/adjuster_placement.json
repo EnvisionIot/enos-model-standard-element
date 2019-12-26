@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"LEFT":{
+				"defaultValue":"left -X axis",
+				"i18nValue":{}
+			},
+			"TOP":{
+				"defaultValue":"top +Z axis",
+				"i18nValue":{}
+			},
+			"BACK":{
+				"defaultValue":"back +Y axis",
+				"i18nValue":{}
+			},
+			"FRONT":{
+				"defaultValue":"front -Y axis",
+				"i18nValue":{}
+			},
+			"RIGHT":{
+				"defaultValue":"right +X axis",
+				"i18nValue":{}
+			},
+			"BOTTOM":{
+				"defaultValue":"bottom -Z axis",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the placement of an adjuster on an electric, electronic component for placement on printed-circuit boards.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"adjuster_placement",
+	"name":{
+		"defaultValue":"adjuster placement",
+		"i18nValue":{
+			"en_US":"adjuster placement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

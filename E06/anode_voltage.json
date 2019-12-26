@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the direct voltage on the anode of a display tube.\nAll voltages relative to grid 1 (cathode drive) or to cathode (grid drive).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"anode_voltage",
+	"name":{
+		"defaultValue":"anode voltage",
+		"i18nValue":{
+			"en_US":"anode voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

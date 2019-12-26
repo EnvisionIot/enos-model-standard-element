@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the x coordinate of the geometric centre of a pad referred to the geometric origin of the die as origin.\nFor polygonal pads, the geometric centre of the pad is taken as mid-way between the extremes of the x and y dimensions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pad_x_position",
+	"name":{
+		"defaultValue":"pad x position",
+		"i18nValue":{
+			"en_US":"pad x position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

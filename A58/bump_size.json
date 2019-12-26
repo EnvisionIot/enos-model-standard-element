@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the size, shape and height of the bumps on a bumped die.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"bump_size",
+	"name":{
+		"defaultValue":"bump size",
+		"i18nValue":{
+			"en_US":"bump size",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

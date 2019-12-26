@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the dielectric withstand voltage an EM component is designed for.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dielectric_withstand_voltage",
+	"name":{
+		"defaultValue":"dielectric withstand voltage",
+		"i18nValue":{
+			"en_US":"dielectric withstand voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

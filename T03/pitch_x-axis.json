@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal pitch of the terminals of an electric/electronic or electromechanical component parallel to the x coordinate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pitch_x-axis",
+	"name":{
+		"defaultValue":"pitch (x-axis)",
+		"i18nValue":{
+			"en_US":"pitch (x-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"delay to maintenance action incurred for administrative reasons.\nSee Figures 1 and 2 in the IEV 192-07-12:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"administrative_delay",
+	"name":{
+		"defaultValue":"administrative delay",
+		"i18nValue":{
+			"en_US":"administrative delay",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

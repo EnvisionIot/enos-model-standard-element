@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum non-repetitive peak reverse current of a stabiliser diode at specified virtual front time and virtual time to half-value.\n8/20 impulse:| 8 us virtual front time/ 20 us virtual time to half-value| 4/10 impulse:, 4 us virtual front time/ 10 us virtual time to half-value| 6/320 impulse:| 6 us virtual front time/ 320 us virtual time to half-value| 10/1000 impulse:| 10 us virtual front time/ 1000 us virtual time to half-value.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-repetitive_peak_reverse_current",
+	"name":{
+		"defaultValue":"non-repetitive peak reverse current",
+		"i18nValue":{
+			"en_US":"non-repetitive peak reverse current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

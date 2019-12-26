@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of variable elements (capacitors, resistors, power transformers) with a common actuating device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ganging_number",
+	"name":{
+		"defaultValue":"ganging number",
+		"i18nValue":{
+			"en_US":"ganging number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a second index feature.\nThis represents the length of a feature which, when taken with other index features on the package, allows for identification of package orientation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"other_index_length",
+	"name":{
+		"defaultValue":"other index length",
+		"i18nValue":{
+			"en_US":"other index length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"HORIZ":{
+				"defaultValue":"horizontal (parallel to mounting plane)",
+				"i18nValue":{}
+			},
+			"VERT":{
+				"defaultValue":"vertical (perpendicular to mounting plane)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the direction of insertion of a jack.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"direction_of_insertion",
+	"name":{
+		"defaultValue":"direction of insertion",
+		"i18nValue":{
+			"en_US":"direction of insertion",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"ADC":{
+				"defaultValue":"analogue-digital converter",
+				"i18nValue":{}
+			},
+			"DAC":{
+				"defaultValue":"digital-analogue converter",
+				"i18nValue":{}
+			},
+			"SPS":{
+				"defaultValue":"speech synthesizer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying an analogue/digital signal function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"AD_function",
+	"name":{
+		"defaultValue":"AD function",
+		"i18nValue":{
+			"en_US":"AD function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

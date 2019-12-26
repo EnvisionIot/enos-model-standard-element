@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expectation in a Poisson probability distribution.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"Poisson_expectation_value",
+	"name":{
+		"defaultValue":"Poisson expectation value",
+		"i18nValue":{
+			"en_US":"Poisson expectation value",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

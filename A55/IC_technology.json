@@ -1,0 +1,95 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"ASTTL":{
+				"defaultValue":"advanced Schottky TTL",
+				"i18nValue":{}
+			},
+			"HCMOS":{
+				"defaultValue":"high-speed CMOS",
+				"i18nValue":{}
+			},
+			"I2L":{
+				"defaultValue":"integrated injection logic",
+				"i18nValue":{}
+			},
+			"PMOS":{
+				"defaultValue":"P-type MOS (PMOS)",
+				"i18nValue":{}
+			},
+			"MIXMOS":{
+				"defaultValue":"NMOS and CMOS combined",
+				"i18nValue":{}
+			},
+			"NMOS":{
+				"defaultValue":"N-type MOS (NMOS)",
+				"i18nValue":{}
+			},
+			"ALS":{
+				"defaultValue":"advanced low power Schottky TTL",
+				"i18nValue":{}
+			},
+			"BIP":{
+				"defaultValue":"bipolar",
+				"i18nValue":{}
+			},
+			"ACL":{
+				"defaultValue":"advanced CMOS logic",
+				"i18nValue":{}
+			},
+			"STDTTL":{
+				"defaultValue":"standard TTL",
+				"i18nValue":{}
+			},
+			"TTL":{
+				"defaultValue":"transistor transistor logic (TTL)",
+				"i18nValue":{}
+			},
+			"ECL":{
+				"defaultValue":"emitter coupled logic (ECL)",
+				"i18nValue":{}
+			},
+			"LSTTL":{
+				"defaultValue":"low power Schottky TTL",
+				"i18nValue":{}
+			},
+			"MOS":{
+				"defaultValue":"metal oxide semiconductor (MOS)",
+				"i18nValue":{}
+			},
+			"BICMOS":{
+				"defaultValue":"bipolar and CMOS combined",
+				"i18nValue":{}
+			},
+			"CMOS":{
+				"defaultValue":"complementary MOS (CMOS)",
+				"i18nValue":{}
+			},
+			"FAST":{
+				"defaultValue":"Fast TTL",
+				"i18nValue":{}
+			},
+			"STTL":{
+				"defaultValue":"Schottky TTL",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the semiconductor technology of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IC_technology",
+	"name":{
+		"defaultValue":"IC technology",
+		"i18nValue":{
+			"en_US":"IC technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

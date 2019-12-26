@@ -1,0 +1,19 @@
+{
+	"category":"E45",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"modulus or absolute value as given by level (miNomax) of the admittance of an electric component having an admittance property.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"modulus_of_admittance",
+	"name":{
+		"defaultValue":"modulus of admittance",
+		"i18nValue":{
+			"en_US":"modulus of admittance",
+			"zh_CN":null
+		}
+	},
+	"unit":"S",
+	"version":"1.0"
+}

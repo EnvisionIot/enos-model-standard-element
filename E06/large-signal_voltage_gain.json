@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed ratio of the maximum output voltage swing to the change in input voltage, of a voltage amplifier at specified supply voltage and load resistance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"large-signal_voltage_gain",
+	"name":{
+		"defaultValue":"large-signal voltage gain",
+		"i18nValue":{
+			"en_US":"large-signal voltage gain",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

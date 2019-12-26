@@ -1,0 +1,39 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"RD":{
+				"defaultValue":"unidirectional (tape for radial leads)",
+				"i18nValue":{}
+			},
+			"AX":{
+				"defaultValue":"axial (tape for axial leads)",
+				"i18nValue":{}
+			},
+			"BL":{
+				"defaultValue":"blister (tape for SMD)",
+				"i18nValue":{}
+			},
+			"CB":{
+				"defaultValue":"cardboard (tape for SMD)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of taping for automatic handling of products.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"taping",
+	"name":{
+		"defaultValue":"taping",
+		"i18nValue":{
+			"en_US":"taping",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

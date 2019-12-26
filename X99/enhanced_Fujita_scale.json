@@ -1,0 +1,47 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"enumDesc":{
+			"EF-scale wind speed 111-135 mph":{
+				"defaultValue":"EF-scale wind speed 111-135 mph",
+				"i18nValue":{}
+			},
+			"EF-scale wind speed >200 mph":{
+				"defaultValue":"EF-scale wind speed >200 mph",
+				"i18nValue":{}
+			},
+			"EF-scale wind speed 65-85 mph":{
+				"defaultValue":"EF-scale wind speed 65-85 mph",
+				"i18nValue":{}
+			},
+			"EF-scale wind speed 136-165 mph":{
+				"defaultValue":"EF-scale wind speed 136-165 mph",
+				"i18nValue":{}
+			},
+			"EF-scale wind speed 166-200 mph":{
+				"defaultValue":"EF-scale wind speed 166-200 mph",
+				"i18nValue":{}
+			},
+			"EF-scale wind speed 86-110 mph":{
+				"defaultValue":"EF-scale wind speed 86-110 mph",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"coded classification of the strength of a tornado based on the caused damage.\nMostly used in North- and Central-America.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"enhanced_Fujita_scale",
+	"name":{
+		"defaultValue":"enhanced Fujita scale",
+		"i18nValue":{
+			"en_US":"enhanced Fujita scale",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

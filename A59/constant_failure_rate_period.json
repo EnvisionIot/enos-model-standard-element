@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval, in the life of a non-repairable item, during which its failure rate is considered to be constant.\nSee constant failure intensity period (IEV 192-02-29) for repairable items; see ADA143.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"constant_failure_rate_period",
+	"name":{
+		"defaultValue":"constant failure rate period",
+		"i18nValue":{
+			"en_US":"constant failure rate period",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

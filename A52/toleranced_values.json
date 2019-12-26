@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"TOLCAP":{
+				"defaultValue":"toleranced capacitance",
+				"i18nValue":{}
+			},
+			"TOLRES":{
+				"defaultValue":"toleranced resistance",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a feature class containing values with tolerances.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"toleranced_values",
+	"name":{
+		"defaultValue":"toleranced values",
+		"i18nValue":{
+			"en_US":"toleranced values",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

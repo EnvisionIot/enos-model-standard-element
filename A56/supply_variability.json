@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"FIX":{
+				"defaultValue":"fixed supply",
+				"i18nValue":{}
+			},
+			"VAR":{
+				"defaultValue":"variable supply",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating whether a power supply is fixed or variable.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_variability",
+	"name":{
+		"defaultValue":"supply variability",
+		"i18nValue":{
+			"en_US":"supply variability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

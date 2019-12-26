@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistance in the motional series arm of the equivalent circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"motional_resistance",
+	"name":{
+		"defaultValue":"motional resistance",
+		"i18nValue":{
+			"en_US":"motional resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

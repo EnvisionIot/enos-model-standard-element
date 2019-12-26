@@ -1,0 +1,55 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"orange":{
+				"defaultValue":"orange",
+				"i18nValue":{}
+			},
+			"green":{
+				"defaultValue":"green",
+				"i18nValue":{}
+			},
+			"super-red":{
+				"defaultValue":"super-red",
+				"i18nValue":{}
+			},
+			"yellow":{
+				"defaultValue":"yellow",
+				"i18nValue":{}
+			},
+			"infrared":{
+				"defaultValue":"infrared",
+				"i18nValue":{}
+			},
+			"standard-red":{
+				"defaultValue":"standard-red",
+				"i18nValue":{}
+			},
+			"hyper-red":{
+				"defaultValue":"hyper-red",
+				"i18nValue":{}
+			},
+			"ultra-red":{
+				"defaultValue":"ultra-red",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the colour of the light emitted by a LED or IRED.\nFor the relevant emitting material, see AAE563-005.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"LED_light_colour",
+	"name":{
+		"defaultValue":"LED light colour",
+		"i18nValue":{
+			"en_US":"LED light colour",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

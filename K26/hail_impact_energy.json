@@ -1,0 +1,19 @@
+{
+	"category":"K26",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"kinetic energy of hail to which a component, building, etc., may be exposed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hail_impact_energy",
+	"name":{
+		"defaultValue":"hail impact energy",
+		"i18nValue":{
+			"en_US":"hail impact energy",
+			"zh_CN":null
+		}
+	},
+	"unit":"J",
+	"version":"1.0"
+}

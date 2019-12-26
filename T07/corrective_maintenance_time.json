@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of the maintenance time taken to perform corrective maintenance, including technical delays and logistic delays inherent in corrective maintenance.\nSee Figures 1 and  2 in the IEV 192-07-07:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"corrective_maintenance_time",
+	"name":{
+		"defaultValue":"corrective maintenance time",
+		"i18nValue":{
+			"en_US":"corrective maintenance time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

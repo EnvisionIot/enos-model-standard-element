@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"input voltage applied to the frequency control terminal for controlling the output frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"control_voltage",
+	"name":{
+		"defaultValue":"control voltage",
+		"i18nValue":{
+			"en_US":"control voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"modulus or absolute value as given by level (miNomax) of the impedance of an electric component having an impedance property.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"modulus_of_impedance",
+	"name":{
+		"defaultValue":"modulus of impedance",
+		"i18nValue":{
+			"en_US":"modulus of impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

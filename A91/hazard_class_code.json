@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"codes used for designating hazard statements with respect to physical, health and environmental hazards emanating from the substance according to the type of risk involved.\n1 The hazard class of a substance cannot be derived from its UN number and needs to be looked up in UNECE Regulations on the transport of dangerous goods|\r\n2 Hazard class codes are associated with pictogramms for marking package of goods during transport and storage.\nUN Recommendations on the Transport of Dangerous Goods, Part 2 defines the hazard classes and their subdivisions; Part 3 contains a complete list of all UN numbers and their hazard class codes\r\n\r\nSee also UNECE Globally Harmonized System of Classification and Labelling of Chemicals \r\nGHS Rev.5, 2013.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"hazard_class_code",
+	"name":{
+		"defaultValue":"hazard class code",
+		"i18nValue":{
+			"en_US":"hazard class code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

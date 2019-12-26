@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum panel thickness for which an EM component has been designed to be mounted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"min_panel_thickness",
+	"name":{
+		"defaultValue":"min. panel thickness",
+		"i18nValue":{
+			"en_US":"min. panel thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

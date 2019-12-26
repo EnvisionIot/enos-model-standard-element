@@ -1,0 +1,76 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"date",
+				"defaultValue":null,
+				"identifier":"effective_date",
+				"name":{
+					"defaultValue":"effective date",
+					"i18nValue":{
+						"en_US":"effective date",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"date",
+				"defaultValue":null,
+				"identifier":"expiry_date",
+				"name":{
+					"defaultValue":"expiry date",
+					"i18nValue":{
+						"en_US":"expiry date",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Dated effectivity.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Dated_effectivity_class",
+	"name":{
+		"defaultValue":"reference to Dated effectivity class",
+		"i18nValue":{
+			"en_US":"reference to Dated effectivity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

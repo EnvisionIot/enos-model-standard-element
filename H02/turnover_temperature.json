@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the temperature corresponding to the peak frequency in the temperature characteristic graph by quadratic approximation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"turnover_temperature",
+	"name":{
+		"defaultValue":"turnover temperature",
+		"i18nValue":{
+			"en_US":"turnover temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

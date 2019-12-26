@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of active corrective maintenance time taken to complete fault localization.\nSee Figure 2 in the IEV 192-07-18:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fault_localization_time",
+	"name":{
+		"defaultValue":"fault localization time",
+		"i18nValue":{
+			"en_US":"fault localization time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

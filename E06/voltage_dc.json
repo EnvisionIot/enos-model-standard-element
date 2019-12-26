@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage applied to an electric, electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"voltage_dc",
+	"name":{
+		"defaultValue":"voltage (dc)",
+		"i18nValue":{
+			"en_US":"voltage (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal space between two adjacent dots of a liquid crystal display module.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dot_spacing",
+	"name":{
+		"defaultValue":"dot spacing",
+		"i18nValue":{
+			"en_US":"dot spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

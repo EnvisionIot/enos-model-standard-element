@@ -1,0 +1,31 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"NI":{
+				"defaultValue":"normal inductance",
+				"i18nValue":{}
+			},
+			"LI":{
+				"defaultValue":"low inductance",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the inductance level of a fixed resistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"inductance_level",
+	"name":{
+		"defaultValue":"inductance level",
+		"i18nValue":{
+			"en_US":"inductance level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

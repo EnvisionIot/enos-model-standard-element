@@ -1,0 +1,19 @@
+{
+	"category":"E46",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the quality factor of a resonator at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"quality_factor",
+	"name":{
+		"defaultValue":"quality factor",
+		"i18nValue":{
+			"en_US":"quality factor",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

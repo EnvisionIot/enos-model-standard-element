@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum temperature below which a magnetic material is ferromagnetic or ferrimagnetic and above which it is paramagnetic.\nThe change of state is not perfectly sharp, so the above definition may not give a value sufficiently defined for practical purposes. To get a more definite value, the graph of the square of the specific saturation magnetisation (i.e. sigma**2) as a function of temperature should be extrapolated to sigma**2 = 0. The Curie point may then be taken as the point where this extrapolation meets the temperature axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"Curie_temperature",
+	"name":{
+		"defaultValue":"Curie temperature",
+		"i18nValue":{
+			"en_US":"Curie temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

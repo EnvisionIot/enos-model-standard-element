@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) between the centres of terminal leads of an axial-leaded package after the leads have been bent at right angles.\nIt is assumed that the leads are bent symmetrically and equidistant from the ends of the body of the package.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bent_terminal_spacing",
+	"name":{
+		"defaultValue":"bent terminal spacing",
+		"i18nValue":{
+			"en_US":"bent terminal spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

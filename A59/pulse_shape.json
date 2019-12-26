@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1.2/50":{
+				"defaultValue":"1,2/50 's acc. IEC 60664-1",
+				"i18nValue":{}
+			},
+			"2/10":{
+				"defaultValue":"2/10 's acc. FCC68",
+				"i18nValue":{}
+			},
+			"10/160":{
+				"defaultValue":"10/160 's acc FCC 68",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the shape of the pulse for dielectric pulse tests on relays.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pulse_shape",
+	"name":{
+		"defaultValue":"pulse shape",
+		"i18nValue":{
+			"en_US":"pulse shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

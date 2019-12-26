@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"IRD":{
+				"defaultValue":"infrared emitting diode",
+				"i18nValue":{}
+			},
+			"LED":{
+				"defaultValue":"LED",
+				"i18nValue":{}
+			},
+			"LAS":{
+				"defaultValue":"laser",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the function type to which a photoemitter belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"photoemitter_function",
+	"name":{
+		"defaultValue":"photoemitter function",
+		"i18nValue":{
+			"en_US":"photoemitter function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

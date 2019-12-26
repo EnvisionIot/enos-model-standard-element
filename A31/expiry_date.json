@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date after which the status of the administered item will cease to be in force.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"expiry_date",
+	"name":{
+		"defaultValue":"expiry date",
+		"i18nValue":{
+			"en_US":"expiry date",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

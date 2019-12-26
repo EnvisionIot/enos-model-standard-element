@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a document or file containing a graphical representation of the outline drawing for a minimally-packaged die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"outline_drawing",
+	"name":{
+		"defaultValue":"outline drawing",
+		"i18nValue":{
+			"en_US":"outline drawing",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

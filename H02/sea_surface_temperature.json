@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"surface temperature of the surrounding sea water.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sea_surface_temperature",
+	"name":{
+		"defaultValue":"sea surface temperature",
+		"i18nValue":{
+			"en_US":"sea surface temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

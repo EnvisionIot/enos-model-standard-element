@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum to maximum distance by level minmax between the reference planes of the fixed and free connectors, within which the specified contact resistance will be met.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_range",
+	"name":{
+		"defaultValue":"contact range",
+		"i18nValue":{
+			"en_US":"contact range",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

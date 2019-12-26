@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle indicating the maximum rotation deviation from the y-axis within the y/x plane of the three-dimensional coordinate system, under which the device fulfils its terms of operation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounting_deviation_y_or_x",
+	"name":{
+		"defaultValue":"mounting deviation y/x",
+		"i18nValue":{
+			"en_US":"mounting deviation y/x",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

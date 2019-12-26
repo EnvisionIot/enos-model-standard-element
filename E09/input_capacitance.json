@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance between the input terminal and the reference ground terminal of an integrated circuit, at specified conditions.\nThe value is given at input voltage, supply voltage and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_capacitance",
+	"name":{
+		"defaultValue":"input capacitance",
+		"i18nValue":{
+			"en_US":"input capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

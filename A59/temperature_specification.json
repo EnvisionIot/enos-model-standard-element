@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"ambient only",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"cold, hot and ambient (three tests)",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"coverage to special requirements",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"hot and ambient (two tests)",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"no data available",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"full range to specification",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the basic temperature specification for tests applied to a die or wafer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"temperature_specification",
+	"name":{
+		"defaultValue":"temperature specification",
+		"i18nValue":{
+			"en_US":"temperature specification",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

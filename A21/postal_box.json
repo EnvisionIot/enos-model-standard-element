@@ -1,0 +1,21 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a post office box within the domain of a postal code.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"postal_box",
+	"name":{
+		"defaultValue":"postal box",
+		"i18nValue":{
+			"en_US":"postal box",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

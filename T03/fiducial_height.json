@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal width of a fiducial measured in a direction parallel to the y-axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fiducial_height",
+	"name":{
+		"defaultValue":"fiducial height",
+		"i18nValue":{
+			"en_US":"fiducial height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

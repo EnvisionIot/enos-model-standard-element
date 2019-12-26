@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rate of rise of the off-state voltage of a diac or thyristor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rate_of_rise_of_off-state_volt",
+	"name":{
+		"defaultValue":"rate of rise of off-state volt",
+		"i18nValue":{
+			"en_US":"rate of rise of off-state volt",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/s",
+	"version":"1.0"
+}

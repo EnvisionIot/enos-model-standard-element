@@ -1,0 +1,47 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"UVPLD":{
+				"defaultValue":"UV erasable PLD",
+				"i18nValue":{}
+			},
+			"EPLD":{
+				"defaultValue":"erasable PLD",
+				"i18nValue":{}
+			},
+			"OTPLD":{
+				"defaultValue":"one time programmable PLD",
+				"i18nValue":{}
+			},
+			"EEPLD":{
+				"defaultValue":"electrically erasable PLD",
+				"i18nValue":{}
+			},
+			"LDPLD":{
+				"defaultValue":"loadable PLD",
+				"i18nValue":{}
+			},
+			"MPLD":{
+				"defaultValue":"mask programmed PLD",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the programmability of a PLD.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"PLD_programmability",
+	"name":{
+		"defaultValue":"PLD programmability",
+		"i18nValue":{
+			"en_US":"PLD programmability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

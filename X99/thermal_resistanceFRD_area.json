@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum operating thermal resistance, between the FRD area junction and the case.\nThe FRD stands for fast recovery diode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_resistanceFRD_area",
+	"name":{
+		"defaultValue":"thermal resistance(FRD area)",
+		"i18nValue":{
+			"en_US":"thermal resistance(FRD area)",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C/W",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of a package, excluding terminals, measured in a plane parallel to the seating plane.\nΦD_2 is usually smaller than ΦD_1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_diameter",
+	"name":{
+		"defaultValue":"package diameter",
+		"i18nValue":{
+			"en_US":"package diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum equivalent series resistance of an electrolytic capacitor at specified frequency and at the reference conditions.\nThe ESR corresponds to the real part of the impedance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"equivalent_series_resistance",
+	"name":{
+		"defaultValue":"equivalent series resistance",
+		"i18nValue":{
+			"en_US":"equivalent series resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

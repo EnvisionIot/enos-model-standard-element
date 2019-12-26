@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of polluting liquids at a given location due to influences from external sources.\ne.g. oil, transformer oil, brake fluid, cooling fluid grease, fuel, battery electrolyte.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"contaminating_fluids",
+	"name":{
+		"defaultValue":"contaminating fluids",
+		"i18nValue":{
+			"en_US":"contaminating fluids",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

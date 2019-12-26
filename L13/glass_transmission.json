@@ -1,0 +1,19 @@
+{
+	"category":"L13",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal quantity of visible light relative to the quantity of generated light, transmitted through the screen of a display tube.\nMeasured at screen centre.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"glass_transmission",
+	"name":{
+		"defaultValue":"glass transmission",
+		"i18nValue":{
+			"en_US":"glass transmission",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

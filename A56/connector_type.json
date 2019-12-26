@@ -1,0 +1,59 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RECT":{
+				"defaultValue":"rectangular connector",
+				"i18nValue":{}
+			},
+			"SOCK":{
+				"defaultValue":"socket",
+				"i18nValue":{}
+			},
+			"MOD":{
+				"defaultValue":"modular connector",
+				"i18nValue":{}
+			},
+			"RF":{
+				"defaultValue":"rf connector",
+				"i18nValue":{}
+			},
+			"CIRC":{
+				"defaultValue":"circular connector",
+				"i18nValue":{}
+			},
+			"IC":{
+				"defaultValue":"connector for IC cards",
+				"i18nValue":{}
+			},
+			"TERM":{
+				"defaultValue":"terminal",
+				"i18nValue":{}
+			},
+			"JACK":{
+				"defaultValue":"plug or jack",
+				"i18nValue":{}
+			},
+			"PCB":{
+				"defaultValue":"connector for PCB",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a connector, according to its shape, application, mating part or the type of component to which it will be permanently attached.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connector_type",
+	"name":{
+		"defaultValue":"connector type",
+		"i18nValue":{
+			"en_US":"connector type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

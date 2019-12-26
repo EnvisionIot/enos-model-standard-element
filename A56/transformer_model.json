@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"BNC":{
+				"defaultValue":"bench (protective housing)",
+				"i18nValue":{}
+			},
+			"LBR":{
+				"defaultValue":"laboratory (bench model with handle, cable, fuse)",
+				"i18nValue":{}
+			},
+			"PNL":{
+				"defaultValue":"panel (not protected live parts)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the model of a variable power transformer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"transformer_model",
+	"name":{
+		"defaultValue":"transformer model",
+		"i18nValue":{
+			"en_US":"transformer model",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

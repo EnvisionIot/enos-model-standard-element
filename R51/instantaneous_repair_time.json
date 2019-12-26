@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the quotient of the conditional probability that the repair is completed within time interval (t, t + Δt) and Δt, when Δt tends to zero, given that the repair started at t = 0 and had not been completed before time t.\nNote 1 The instantaneous repair rate is related to repair time (IEV 192-07-19) and its constituent parts.\r\n\r\nNote 2 The unit of measurement of instantaneous repair rate is the unit of time to the power −1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"instantaneous_repair_time",
+	"name":{
+		"defaultValue":"instantaneous repair time",
+		"i18nValue":{
+			"en_US":"instantaneous repair time",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

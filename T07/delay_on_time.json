@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the time, measured between the 10% value of the input pulse which is switching-on the transistor, and the 10% value of the corresponding output pulse of a bipolar transistor at reference conditions.\nThe reference conditions at specifying times for bipolar transistors are normally:| - supply voltage| - collector current| - base current| - reference temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"delay_on_time",
+	"name":{
+		"defaultValue":"delay (on) time",
+		"i18nValue":{
+			"en_US":"delay (on) time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

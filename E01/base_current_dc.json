@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct base current of a bipolar transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"base_current_dc",
+	"name":{
+		"defaultValue":"base current (dc)",
+		"i18nValue":{
+			"en_US":"base current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum radial force on the spindle of a motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_radial_force",
+	"name":{
+		"defaultValue":"maximum radial force",
+		"i18nValue":{
+			"en_US":"maximum radial force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

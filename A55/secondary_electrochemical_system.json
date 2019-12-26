@@ -1,0 +1,47 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"Pb":{
+				"defaultValue":"lead -acid -sulphuric acid",
+				"i18nValue":{}
+			},
+			"AgZn":{
+				"defaultValue":"silver -zinc -alkaline",
+				"i18nValue":{}
+			},
+			"AgCd":{
+				"defaultValue":"silver -cadmium -alkaline",
+				"i18nValue":{}
+			},
+			"NiCd":{
+				"defaultValue":"nickel -cadmium -alkaline",
+				"i18nValue":{}
+			},
+			"NiZn":{
+				"defaultValue":"nickel -zinc -alkaline",
+				"i18nValue":{}
+			},
+			"NiFe":{
+				"defaultValue":"nickel -iron -alkaline",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the electrochemical system of a secondary battery.\nCode..........anode..........cathode..........electrolyte| NiCd..........nickel...........cadmium........alkaline| AgZn..........silver ...........zinc..................alkaline| Pb...............lead.............acid.................sulphuric acid| NiFe...........nickel...........iron.................alkaline| AgCd..........silver...........cadmium.......alkaline| NiZn...........nickel...........zinc.................alkaline.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"secondary_electrochemical_system",
+	"name":{
+		"defaultValue":"secondary electrochemical system",
+		"i18nValue":{
+			"en_US":"secondary electrochemical system",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

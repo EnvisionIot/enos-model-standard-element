@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"largest overall diameter as specified by level (miNomax) which includes all terminals which are presented for mounting radially.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"overall_diameter",
+	"name":{
+		"defaultValue":"overall diameter",
+		"i18nValue":{
+			"en_US":"overall diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

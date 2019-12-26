@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"details of any requirements or recommendations for underfill between a bumped die or a minimally-packaged device and its mounting surface.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"underfill",
+	"name":{
+		"defaultValue":"underfill",
+		"i18nValue":{
+			"en_US":"underfill",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

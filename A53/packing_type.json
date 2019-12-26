@@ -1,0 +1,63 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"AMM":{
+				"defaultValue":"ammo pack",
+				"i18nValue":{}
+			},
+			"TRA":{
+				"defaultValue":"tray",
+				"i18nValue":{}
+			},
+			"CON":{
+				"defaultValue":"container",
+				"i18nValue":{}
+			},
+			"CAS":{
+				"defaultValue":"cassette",
+				"i18nValue":{}
+			},
+			"BAG":{
+				"defaultValue":"bag",
+				"i18nValue":{}
+			},
+			"BOX":{
+				"defaultValue":"box",
+				"i18nValue":{}
+			},
+			"PAL":{
+				"defaultValue":"pallet",
+				"i18nValue":{}
+			},
+			"RL":{
+				"defaultValue":"reel",
+				"i18nValue":{}
+			},
+			"RAL":{
+				"defaultValue":"rail",
+				"i18nValue":{}
+			},
+			"BLI":{
+				"defaultValue":"blister",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the packing type at specified packing level for products.\nThe property must be used in conjunction with AAF270 (packing level).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packing_type",
+	"name":{
+		"defaultValue":"packing type",
+		"i18nValue":{
+			"en_US":"packing type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

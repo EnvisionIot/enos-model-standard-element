@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RISC":{
+				"defaultValue":"reduced instruction set computer",
+				"i18nValue":{}
+			},
+			"CISC":{
+				"defaultValue":"complex instruction set computer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the instruction set architecture of a microprocessor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"instruction_set_architecture",
+	"name":{
+		"defaultValue":"instruction set architecture",
+		"i18nValue":{
+			"en_US":"instruction set architecture",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

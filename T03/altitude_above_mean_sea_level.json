@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"vertical distance of a location above mean sea level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"altitude_above_mean_sea_level",
+	"name":{
+		"defaultValue":"altitude above mean sea level",
+		"i18nValue":{
+			"en_US":"altitude above mean sea level",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

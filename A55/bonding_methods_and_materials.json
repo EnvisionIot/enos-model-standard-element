@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of any special bonding methods to be used, together with information on suitable bonding materials where these methods and/or materials are required for correct operation of the die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"bonding_methods_and_materials",
+	"name":{
+		"defaultValue":"bonding methods and materials",
+		"i18nValue":{
+			"en_US":"bonding methods and materials",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

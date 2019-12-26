@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the gate voltage required to switch a thyristor or triac from the off-state to the on-state, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate_trigger_voltage",
+	"name":{
+		"defaultValue":"gate trigger voltage",
+		"i18nValue":{
+			"en_US":"gate trigger voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of input voltage that can be applied in a series regulator while enabling stable output.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"recommended_input_voltage",
+	"name":{
+		"defaultValue":"recommended input voltage",
+		"i18nValue":{
+			"en_US":"recommended input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

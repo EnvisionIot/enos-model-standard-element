@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum and typical ratio of the bending radius expressed as a multiple of the nominal outside diameter.\nThe allowed radius is defined as AAF470 and the outside diameter is defined as AAE022.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bending_radius_factor",
+	"name":{
+		"defaultValue":"bending radius factor",
+		"i18nValue":{
+			"en_US":"bending radius factor",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

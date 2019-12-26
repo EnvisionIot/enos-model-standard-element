@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum comb depth of a comb filter.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"comb_depth",
+	"name":{
+		"defaultValue":"comb depth",
+		"i18nValue":{
+			"en_US":"comb depth",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

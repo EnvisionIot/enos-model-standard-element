@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage between drain and source terminals of a field-effect transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"drain-source_voltage",
+	"name":{
+		"defaultValue":"drain-source voltage",
+		"i18nValue":{
+			"en_US":"drain-source voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

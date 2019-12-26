@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower tolerance of the rated capacitance of a fixed capacitor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_lower_tolerance",
+	"name":{
+		"defaultValue":"capacitance lower tolerance",
+		"i18nValue":{
+			"en_US":"capacitance lower tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

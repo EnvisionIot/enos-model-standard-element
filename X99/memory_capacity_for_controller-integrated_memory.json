@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum amount of data that can be stored in the device expresssed in the conventional unit of data retrieval and storage for a data controller.\nThe data are usually retrieved or stored by data controller in a multiple of bytes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"memory_capacity_for_controller-integrated_memory",
+	"name":{
+		"defaultValue":"memory capacity for controller-integrated memory",
+		"i18nValue":{
+			"en_US":"memory capacity for controller-integrated memory",
+			"zh_CN":null
+		}
+	},
+	"unit":"byte",
+	"version":"1.0"
+}

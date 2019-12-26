@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance between the centre of two adjacent pixels.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pixel_pitch",
+	"name":{
+		"defaultValue":"pixel pitch",
+		"i18nValue":{
+			"en_US":"pixel pitch",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

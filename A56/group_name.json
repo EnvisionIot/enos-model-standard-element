@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to a group of terminals or terminal groups for an integrated circuit or die device to distinguish it from all other groups for that device.\nFor definition of terminal groups, see AAD171.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"group_name",
+	"name":{
+		"defaultValue":"group name",
+		"i18nValue":{
+			"en_US":"group name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

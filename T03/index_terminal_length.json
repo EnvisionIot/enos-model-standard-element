@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a terminal which is longer than other terminals and is intended as an index reference.\nAn index terminal normally indicates terminal 1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_terminal_length",
+	"name":{
+		"defaultValue":"index terminal length",
+		"i18nValue":{
+			"en_US":"index terminal length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

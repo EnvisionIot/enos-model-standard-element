@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"constitution of the bulk material which forms the base of the die process technology where this is different from the substrate material on which the active die is formed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"bulk_material",
+	"name":{
+		"defaultValue":"bulk material",
+		"i18nValue":{
+			"en_US":"bulk material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

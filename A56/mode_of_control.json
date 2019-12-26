@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"R":{
+				"defaultValue":"reset",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"set",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"edge-triggered",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"level-triggered",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mode of control of a function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mode_of_control",
+	"name":{
+		"defaultValue":"mode of control",
+		"i18nValue":{
+			"en_US":"mode of control",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the peak envelope power of a bipolar transistor or wideband amplifier in SSB mode of operation, measured according to the two-signal method, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"peak_envelope_power",
+	"name":{
+		"defaultValue":"peak envelope power",
+		"i18nValue":{
+			"en_US":"peak envelope power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

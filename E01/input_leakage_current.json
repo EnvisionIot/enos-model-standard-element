@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC leakage current flowing through the input terminal of a digital function of an integrated circuit, at specified conditions.\nRequired input condition (V_I): For CMOS and HCMOS, zero (GND/V_SS) or supply voltage (V_CC/V_DD). For TTL, only valid for an input voltage equal to V_CC.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_leakage_current",
+	"name":{
+		"defaultValue":"input leakage current",
+		"i18nValue":{
+			"en_US":"input leakage current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

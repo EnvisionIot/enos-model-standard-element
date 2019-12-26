@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ambient air temperature outside any building or shelter.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ambient_outdoor_temperature",
+	"name":{
+		"defaultValue":"ambient outdoor temperature",
+		"i18nValue":{
+			"en_US":"ambient outdoor temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

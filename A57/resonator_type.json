@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"XTL":{
+				"defaultValue":"quartz-crystal resonator",
+				"i18nValue":{}
+			},
+			"MR":{
+				"defaultValue":"magnetostrictive resonator",
+				"i18nValue":{}
+			},
+			"PIEZO":{
+				"defaultValue":"piezo-electric ceramic resonator",
+				"i18nValue":{}
+			},
+			"SAW":{
+				"defaultValue":"surface-acoustic-wave resonator",
+				"i18nValue":{}
+			},
+			"CAV":{
+				"defaultValue":"cavity resonator",
+				"i18nValue":{}
+			},
+			"MECH":{
+				"defaultValue":"mechanical resonator",
+				"i18nValue":{}
+			},
+			"LCR":{
+				"defaultValue":"LC/CR resonator",
+				"i18nValue":{}
+			},
+			"DIEL":{
+				"defaultValue":"dielectric resonator",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of resonator.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"resonator_type",
+	"name":{
+		"defaultValue":"resonator type",
+		"i18nValue":{
+			"en_US":"resonator type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"G16",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rate per unit time at which airborne sound energy is radiated by a source.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sound_power",
+	"name":{
+		"defaultValue":"sound power",
+		"i18nValue":{
+			"en_US":"sound power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

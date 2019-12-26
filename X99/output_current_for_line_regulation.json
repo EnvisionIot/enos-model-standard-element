@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"output current to be kept constant as a prerequisite for the line regulation measurement.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current_for_line_regulation",
+	"name":{
+		"defaultValue":"output current for line regulation",
+		"i18nValue":{
+			"en_US":"output current for line regulation",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

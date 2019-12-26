@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the radius of a cylinder.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cylinder_radius",
+	"name":{
+		"defaultValue":"cylinder radius",
+		"i18nValue":{
+			"en_US":"cylinder radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

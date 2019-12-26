@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration of a maintenance action, excluding logistic delay.\nTechnical delays are included in the active maintenance time.\nSee Figure 2 in the IEV 192-07-0425.07.20182015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"active_maintenance_time",
+	"name":{
+		"defaultValue":"active maintenance time",
+		"i18nValue":{
+			"en_US":"active maintenance time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

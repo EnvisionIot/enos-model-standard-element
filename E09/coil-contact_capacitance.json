@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum parasitic capacitance between a contact member and the coil of a relay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"coil-contact_capacitance",
+	"name":{
+		"defaultValue":"coil-contact capacitance",
+		"i18nValue":{
+			"en_US":"coil-contact capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

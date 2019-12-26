@@ -1,0 +1,80 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"maxLength":null
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"file_name",
+				"name":{
+					"defaultValue":"file name",
+					"i18nValue":{
+						"en_US":"file name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":null
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"file_type",
+				"name":{
+					"defaultValue":"file type",
+					"i18nValue":{
+						"en_US":"file type",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"supplementary file added to the declaration.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"attachment",
+	"name":{
+		"defaultValue":"attachment",
+		"i18nValue":{
+			"en_US":"attachment",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

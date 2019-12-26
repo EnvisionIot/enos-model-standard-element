@@ -1,0 +1,19 @@
+{
+	"category":"H01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal tolerance on the thermal sensitivity index identifying a NTC thermistor.\nUsed only in cases of equal positive and negative tolerance values.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_sensitivity_tolerance",
+	"name":{
+		"defaultValue":"thermal sensitivity tolerance",
+		"i18nValue":{
+			"en_US":"thermal sensitivity tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

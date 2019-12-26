@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the dc voltage across a varistor when a current of 1 mdc is passed through it.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"varistor_voltage_at_1_mA",
+	"name":{
+		"defaultValue":"varistor voltage at 1 mA",
+		"i18nValue":{
+			"en_US":"varistor voltage at 1 mA",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the major dimension of the body of a rotary potentiometer measured in a direction perpendicular to the operating shaft.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"potentiometer_size",
+	"name":{
+		"defaultValue":"potentiometer size",
+		"i18nValue":{
+			"en_US":"potentiometer size",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

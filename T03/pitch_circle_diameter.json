@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal diameter of the pitch circle of the terminals of an electric, electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pitch_circle_diameter",
+	"name":{
+		"defaultValue":"pitch circle diameter",
+		"i18nValue":{
+			"en_US":"pitch circle diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"AQAP":{
+				"defaultValue":"Allied Quality Assurance Procedure",
+				"i18nValue":{}
+			},
+			"MIL":{
+				"defaultValue":"Military Standard (USA)",
+				"i18nValue":{}
+			},
+			"IECQ":{
+				"defaultValue":"IEC Quality Assessment System",
+				"i18nValue":{}
+			},
+			"CECC":{
+				"defaultValue":"Cenelec Electronic Components Committee",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"abbreviated name of the authority for quality certification of products.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"quality_approval_authority",
+	"name":{
+		"defaultValue":"quality approval authority",
+		"i18nValue":{
+			"en_US":"quality approval authority",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

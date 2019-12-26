@@ -1,0 +1,19 @@
+{
+	"category":"R71",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"positive value of the percentage tolerance on the nominal value of a characteristic property where positive and negative tolerance values are unequal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"positive_tolerance",
+	"name":{
+		"defaultValue":"positive tolerance",
+		"i18nValue":{
+			"en_US":"positive tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

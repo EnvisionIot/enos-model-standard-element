@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the height of the viewing area of a liquid crystal display module.\nThe height is measured in the vertical direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"viewing_area_height",
+	"name":{
+		"defaultValue":"viewing area height",
+		"i18nValue":{
+			"en_US":"viewing area height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

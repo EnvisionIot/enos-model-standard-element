@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of a dot of a liquid crystal display module.\nThe length is measured in the horizontal direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dot_length",
+	"name":{
+		"defaultValue":"dot length",
+		"i18nValue":{
+			"en_US":"dot length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"DIE":{
+				"defaultValue":"Die devices",
+				"i18nValue":{}
+			},
+			"PAK":{
+				"defaultValue":"Package outlines",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of geometry possessed by an electric-electronic component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"geometry_type",
+	"name":{
+		"defaultValue":"geometry type",
+		"i18nValue":{
+			"en_US":"geometry type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

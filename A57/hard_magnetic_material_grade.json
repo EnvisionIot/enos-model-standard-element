@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the grade of hard magnetic material according to the manufacturer.\nThe material grade code may be used to refer to the magnetic characteristics of a hard magnetic part.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"hard_magnetic_material_grade",
+	"name":{
+		"defaultValue":"hard magnetic material grade",
+		"i18nValue":{
+			"en_US":"hard magnetic material grade",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal density of a material.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"density",
+	"name":{
+		"defaultValue":"density",
+		"i18nValue":{
+			"en_US":"density",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

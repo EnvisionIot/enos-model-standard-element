@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum repetitive peak forward current flowing through a diode or diac at specified forward voltage.\nIncluding all repetitive transient currents.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_forward_current",
+	"name":{
+		"defaultValue":"repetitive peak forward current",
+		"i18nValue":{
+			"en_US":"repetitive peak forward current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

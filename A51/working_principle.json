@@ -1,0 +1,31 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"PE":{
+				"defaultValue":"piezoelectric",
+				"i18nValue":{}
+			},
+			"EL":{
+				"defaultValue":"electric",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the working principle of a delay line.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"working_principle",
+	"name":{
+		"defaultValue":"working principle",
+		"i18nValue":{
+			"en_US":"working principle",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

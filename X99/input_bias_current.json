@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"current equal to the arithmetic average of the currents into the differential input terminals of the device to attain zero output voltage at reference conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_bias_current",
+	"name":{
+		"defaultValue":"input bias current",
+		"i18nValue":{
+			"en_US":"input bias current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

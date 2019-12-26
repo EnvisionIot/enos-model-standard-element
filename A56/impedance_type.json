@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RES":{
+				"defaultValue":"resistive (tuned dipole)",
+				"i18nValue":{}
+			},
+			"CAP":{
+				"defaultValue":"capacitive (whip)",
+				"i18nValue":{}
+			},
+			"IND":{
+				"defaultValue":"inductive (ferroceptor)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the impedance type of an antenna.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"impedance_type",
+	"name":{
+		"defaultValue":"impedance type",
+		"i18nValue":{
+			"en_US":"impedance type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

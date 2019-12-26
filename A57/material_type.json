@@ -1,0 +1,47 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"OP":{
+				"defaultValue":"opticalc",
+				"i18nValue":{}
+			},
+			"PWL":{
+				"defaultValue":"printed-wiring laminate",
+				"i18nValue":{}
+			},
+			"TH":{
+				"defaultValue":"thermal-electric",
+				"i18nValue":{}
+			},
+			"MG":{
+				"defaultValue":"magnetic",
+				"i18nValue":{}
+			},
+			"DIEL":{
+				"defaultValue":"dielectric and insulating",
+				"i18nValue":{}
+			},
+			"ACO":{
+				"defaultValue":"acoustical",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of material.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_type",
+	"name":{
+		"defaultValue":"material type",
+		"i18nValue":{
+			"en_US":"material type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

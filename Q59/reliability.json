@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"estimated figure for the reliability of a component as supplied by the manufacturer.\nThe units in which the reliability is specified and the conditions for which the reliability estimate was made shall be given as conditions.\nTypical units may be Failures In Time (FIT).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reliability",
+	"name":{
+		"defaultValue":"reliability",
+		"i18nValue":{
+			"en_US":"reliability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

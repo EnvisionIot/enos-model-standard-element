@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"BND":{
+				"defaultValue":"bundled cable",
+				"i18nValue":{}
+			},
+			"FLT":{
+				"defaultValue":"flat cable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the configuration of a cable.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"cable_configuration",
+	"name":{
+		"defaultValue":"cable configuration",
+		"i18nValue":{
+			"en_US":"cable configuration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum torque that a rotational stepping motor can develop when starting at a given stepping rate without losing steps.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pull-in_torque",
+	"name":{
+		"defaultValue":"pull-in torque",
+		"i18nValue":{
+			"en_US":"pull-in torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

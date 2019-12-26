@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal duration of the endurance test according to IEC 60384-4(4.13)(1985) at the rated voltage (dc) and at specified ambient temperature, which a fixed electrolytic capacitor shall withstand.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"endurance",
+	"name":{
+		"defaultValue":"endurance",
+		"i18nValue":{
+			"en_US":"endurance",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal reversible variation in the nominal resistance of a temperature sensor at reference temperature and specified sensor current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient",
+	"name":{
+		"defaultValue":"temperature coefficient",
+		"i18nValue":{
+			"en_US":"temperature coefficient",
+			"zh_CN":null
+		}
+	},
+	"unit":"%/K",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal frequency  at which a resonator produces its maximum response.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resonant_frequency",
+	"name":{
+		"defaultValue":"resonant frequency",
+		"i18nValue":{
+			"en_US":"resonant frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

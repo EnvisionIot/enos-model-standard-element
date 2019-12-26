@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration between consecutive failures.\nThe time between failures includes the up time and the down time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"time_between_failures_of_an_item",
+	"name":{
+		"defaultValue":"time between failures of an item",
+		"i18nValue":{
+			"en_US":"time between failures of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

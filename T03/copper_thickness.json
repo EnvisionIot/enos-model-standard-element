@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal thickness of the copper cladding on a printed-wiring laminate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"copper_thickness",
+	"name":{
+		"defaultValue":"copper thickness",
+		"i18nValue":{
+			"en_US":"copper thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

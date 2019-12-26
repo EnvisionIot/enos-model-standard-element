@@ -1,0 +1,19 @@
+{
+	"category":"L29",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the radiant intensity of an infrared emitting diode at specified forward current and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"radiant_intensity",
+	"name":{
+		"defaultValue":"radiant intensity",
+		"i18nValue":{
+			"en_US":"radiant intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/sr",
+	"version":"1.0"
+}

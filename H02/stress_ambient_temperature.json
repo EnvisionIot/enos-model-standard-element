@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal ambient free air temperature applied to a component during high temperature life test.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stress_ambient_temperature",
+	"name":{
+		"defaultValue":"stress ambient temperature",
+		"i18nValue":{
+			"en_US":"stress ambient temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

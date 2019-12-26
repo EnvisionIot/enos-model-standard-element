@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"TEMP":{
+				"defaultValue":"temporary duty",
+				"i18nValue":{}
+			},
+			"CONT":{
+				"defaultValue":"continuous duty",
+				"i18nValue":{}
+			},
+			"INT":{
+				"defaultValue":"intermittent duty",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code which specifies the kind of duty cycle of relay operation.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"duty",
+	"name":{
+		"defaultValue":"duty",
+		"i18nValue":{
+			"en_US":"duty",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

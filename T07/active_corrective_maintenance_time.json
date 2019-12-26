@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of the active maintenance time taken to perform a corrective maintenance action.\nSee Figure 2 in the IEV 192-07-10:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"active_corrective_maintenance_time",
+	"name":{
+		"defaultValue":"active corrective maintenance time",
+		"i18nValue":{
+			"en_US":"active corrective maintenance time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

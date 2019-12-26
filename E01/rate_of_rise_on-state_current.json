@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting rate of rise of on-state current after triggering with a specified gate current to a specified on-state current at a stated rate of rise of the gate current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rate_of_rise_on-state_current",
+	"name":{
+		"defaultValue":"rate of rise on-state current",
+		"i18nValue":{
+			"en_US":"rate of rise on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/s",
+	"version":"1.0"
+}

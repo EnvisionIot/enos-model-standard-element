@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the ratio of the collector current to the specified diode forward current in a photocoupler, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"current_transfer_ratio",
+	"name":{
+		"defaultValue":"current transfer ratio",
+		"i18nValue":{
+			"en_US":"current transfer ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

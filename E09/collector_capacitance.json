@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the capacitance between collector and emitter terminals of a bipolar transistor at specified emitter current, collector-base voltage and frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_capacitance",
+	"name":{
+		"defaultValue":"collector capacitance",
+		"i18nValue":{
+			"en_US":"collector capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

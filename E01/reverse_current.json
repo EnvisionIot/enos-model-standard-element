@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum continuous reverse direct current of a diode, optoelectronic device, thyristor or triac at specified reverse voltage and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reverse_current",
+	"name":{
+		"defaultValue":"reverse current",
+		"i18nValue":{
+			"en_US":"reverse current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

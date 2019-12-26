@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the angle between mating direction and the axis of a conductor or cable outlet of a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"conductor_angle",
+	"name":{
+		"defaultValue":"conductor angle",
+		"i18nValue":{
+			"en_US":"conductor angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

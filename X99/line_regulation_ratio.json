@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio calculated as the change in the output voltage divided by the change in the input one, whilst the output current is kept constant.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_regulation_ratio",
+	"name":{
+		"defaultValue":"line regulation ratio",
+		"i18nValue":{
+			"en_US":"line regulation ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

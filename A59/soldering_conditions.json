@@ -1,0 +1,51 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"SMD-IR":{
+				"defaultValue":"SMT terminals at 215Cel / 40s, infrared",
+				"i18nValue":{}
+			},
+			"SMD-DW":{
+				"defaultValue":"SMT terminals at 260Cel / 10s, double wave",
+				"i18nValue":{}
+			},
+			"SI350":{
+				"defaultValue":"soldering iron at 350Cel /2s",
+				"i18nValue":{}
+			},
+			"SMD-VAP":{
+				"defaultValue":"SMT terminals at 215cel / 40s vapour phase",
+				"i18nValue":{}
+			},
+			"SB260":{
+				"defaultValue":"solder bath at 260Cel / 3s",
+				"i18nValue":{}
+			},
+			"SI300":{
+				"defaultValue":"soldering iron at 300Cel / 3s",
+				"i18nValue":{}
+			},
+			"SB350":{
+				"defaultValue":"solder bath at 350Cel / 3s",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the soldering conditions of a relay.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"soldering_conditions",
+	"name":{
+		"defaultValue":"soldering conditions",
+		"i18nValue":{
+			"en_US":"soldering conditions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

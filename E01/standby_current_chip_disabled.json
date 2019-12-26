@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum standby supply current of an SRAM with the chip disabled, at specified input voltage, in a temperature range between specified temperatures (T_1 and T_2).\nSome static RAM's (SRAMS) are selected on standby current. These selections have then as suffix L and LL. The symbols of the respective standby current are then S_BL and S_BLL.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"standby_current_chip_disabled",
+	"name":{
+		"defaultValue":"standby current chip disabled",
+		"i18nValue":{
+			"en_US":"standby current chip disabled",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

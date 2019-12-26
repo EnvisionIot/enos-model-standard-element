@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"geographical area comprised of two or more countries that have common characteristics that are different from those of surrounding areas.\nAreas that are distinguished within one country are referred to as country subdivisions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"region",
+	"name":{
+		"defaultValue":"region",
+		"i18nValue":{
+			"en_US":"region",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

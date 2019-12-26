@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"R":{
+				"defaultValue":"reflective, positive",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"reflective, negative",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"transmissive, positive",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"transmissive, negative",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"transflective, positive",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"transflective, negative",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the illumination and image mode of a liquid crystal display.\nThe mode in which the relevant data are made visible, viz:|  Reflective:   ambient light reflected by a diffuse reflector in the LCD.|Transmissive:   display lit from behind by an artificial light source.|Transflective:   combination of both above.|Positive:   image is black and remaining display area is grey when ON.|Negative:   image is grey and remaining display area is black when ON.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"illumination_mode",
+	"name":{
+		"defaultValue":"illumination mode",
+		"i18nValue":{
+			"en_US":"illumination mode",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

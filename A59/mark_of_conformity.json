@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"legally registered certification mark applied by or issued under the procedures of a third-party certification\r\nsystem for a product or service which is in conformity with specific standards or other technical specifications.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mark_of_conformity",
+	"name":{
+		"defaultValue":"mark of conformity",
+		"i18nValue":{
+			"en_US":"mark of conformity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

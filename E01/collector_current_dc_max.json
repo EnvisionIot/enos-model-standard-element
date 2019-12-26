@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum direct collector current of a bipolar transistor or optoelectronic device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_current_dc_max",
+	"name":{
+		"defaultValue":"collector current (dc) max",
+		"i18nValue":{
+			"en_US":"collector current (dc) max",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

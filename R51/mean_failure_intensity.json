@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average value of the instantaneous failure intensity over a given time interval (t1, t2).\nNote 1 The mean failure intensity is related to instantaneous failure intensity z(t) as follows:\r\n\r\nz¯(t1, t2)=1t2−t1∫  t2  t1z(t) dt\r\n\r\nNote 2 Terms 'mean' or 'average' are used as synonyms  to the term arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_failure_intensity",
+	"name":{
+		"defaultValue":"mean failure intensity",
+		"i18nValue":{
+			"en_US":"mean failure intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"a description of the disposition of the terminals on a minimally-packaged device that will allow a user to determine the position of all terminals on the device.\nWhere the terminals are not in a regular rectangular array, the information shall be a list of the coordinates of the geometric centres of all terminals with respect to the geometric origin.|Where information is not given in this form and where terminals are in a regular rectangular array, the information shall be given in such a form that there is sufficient information to deduce the geometric position of every terminal in the array:|a) terminal pitch - the distance between the centres of adjacent terminals. If the pitch is different for the length and width directions, both values shall be given.|b) terminal pattern - the pattern of occupied terminal positions shall be given either by an associated diagram or other representation.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_position",
+	"name":{
+		"defaultValue":"terminal position",
+		"i18nValue":{
+			"en_US":"terminal position",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

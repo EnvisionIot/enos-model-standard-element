@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum leakage current of a fixed electrolytic capacitor during continuous operation at the rated voltage at specified ambient temperature, determined according to IEC 60384-1(4.9) (1984).\nFor leakage current after a given duration: see AAE042-005.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"leakage_current_continuous",
+	"name":{
+		"defaultValue":"leakage current continuous",
+		"i18nValue":{
+			"en_US":"leakage current continuous",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

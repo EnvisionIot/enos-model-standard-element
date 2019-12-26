@@ -1,0 +1,19 @@
+{
+	"category":"T06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"quotient of the volume of nitrogen and dry air, all volumes referring to the pressure and the temperature of the gas mixture.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"volume_fraction_of_nitrogen_in_air",
+	"name":{
+		"defaultValue":"volume fraction of nitrogen in air",
+		"i18nValue":{
+			"en_US":"volume fraction of nitrogen in air",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

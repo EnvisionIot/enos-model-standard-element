@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"EHT":{
+				"defaultValue":"extra-high tension rectifier diode",
+				"i18nValue":{}
+			},
+			"EFF":{
+				"defaultValue":"efficiency diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the application of a rectifier diode.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"rectifier_diode_application",
+	"name":{
+		"defaultValue":"rectifier diode application",
+		"i18nValue":{
+			"en_US":"rectifier diode application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

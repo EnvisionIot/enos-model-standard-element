@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"trough-to-crest height of the surface elevation between two consecutive downward- crossings of the still water level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wave_height",
+	"name":{
+		"defaultValue":"wave height",
+		"i18nValue":{
+			"en_US":"wave height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

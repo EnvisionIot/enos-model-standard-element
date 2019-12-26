@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal frequency  of a delay line.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency",
+	"name":{
+		"defaultValue":"frequency",
+		"i18nValue":{
+			"en_US":"frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

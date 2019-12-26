@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"vertical distance from the ground to the position for which some quantity of interest is specified.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"height_of_location",
+	"name":{
+		"defaultValue":"height of location",
+		"i18nValue":{
+			"en_US":"height of location",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

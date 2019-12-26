@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time within which a fusing resistor should blow when a power not less than the specified fusing power is dissipated in it.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fusing_time",
+	"name":{
+		"defaultValue":"fusing time",
+		"i18nValue":{
+			"en_US":"fusing time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

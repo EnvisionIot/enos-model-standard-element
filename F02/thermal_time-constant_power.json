@@ -1,0 +1,19 @@
+{
+	"category":"F02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal time for the temperature of a thermistor element to change by 63.2% of the difference between its initial and final temperatures following an abrupt change in the power dissipated at constant ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_time-constant_power",
+	"name":{
+		"defaultValue":"thermal time-constant (power)",
+		"i18nValue":{
+			"en_US":"thermal time-constant (power)",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"shortest distance in air between two specified conductive parts of a relay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"clearance",
+	"name":{
+		"defaultValue":"clearance",
+		"i18nValue":{
+			"en_US":"clearance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

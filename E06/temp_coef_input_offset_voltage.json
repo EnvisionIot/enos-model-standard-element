@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the quotient, of the change of input offset voltage of an operational amplifier over the operating temperature range and at the nominal supply voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temp_coef_input_offset_voltage",
+	"name":{
+		"defaultValue":"temp coef input offset voltage",
+		"i18nValue":{
+			"en_US":"temp coef input offset voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/°C",
+	"version":"1.0"
+}

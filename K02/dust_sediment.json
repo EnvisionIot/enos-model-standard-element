@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"accumulation of rock and mineral particles transported by wind.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dust_sediment",
+	"name":{
+		"defaultValue":"dust sediment",
+		"i18nValue":{
+			"en_US":"dust sediment",
+			"zh_CN":null
+		}
+	},
+	"unit":"mg/(m³·h)",
+	"version":"1.0"
+}

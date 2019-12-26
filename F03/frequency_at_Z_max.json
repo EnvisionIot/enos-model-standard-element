@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal frequency  at which the modulus of impedance of an inductor reaches its maximum value.\nApplies to wound six-hole beads.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_at_Z_max",
+	"name":{
+		"defaultValue":"frequency at Z_max",
+		"i18nValue":{
+			"en_US":"frequency at Z_max",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum time between the instant the energising power is applied and the instant the relay completes the specified function.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operate_time",
+	"name":{
+		"defaultValue":"operate time",
+		"i18nValue":{
+			"en_US":"operate time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

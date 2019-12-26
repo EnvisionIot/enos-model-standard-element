@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the length of the radius of a sphere.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sphere_radius",
+	"name":{
+		"defaultValue":"sphere radius",
+		"i18nValue":{
+			"en_US":"sphere radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"frequency used to identify the quartz crystal device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"nominal_frequency",
+	"name":{
+		"defaultValue":"nominal frequency",
+		"i18nValue":{
+			"en_US":"nominal frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

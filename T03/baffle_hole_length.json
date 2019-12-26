@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"recommended nominal length of the baffle hole of a moving conductor loudspeaker.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"baffle_hole_length",
+	"name":{
+		"defaultValue":"baffle hole length",
+		"i18nValue":{
+			"en_US":"baffle hole length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"VTA":{
+				"defaultValue":"voltage amplifier",
+				"i18nValue":{}
+			},
+			"PWA":{
+				"defaultValue":"power amplifier",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the quantity which is amplified, identifying a low-frequency amplifier.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"amplified_quantity",
+	"name":{
+		"defaultValue":"amplified quantity",
+		"i18nValue":{
+			"en_US":"amplified quantity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

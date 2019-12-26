@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"codes which indicate connection interchangeability of a terminal with other terminals.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"swap_codes",
+	"name":{
+		"defaultValue":"swap codes",
+		"i18nValue":{
+			"en_US":"swap codes",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

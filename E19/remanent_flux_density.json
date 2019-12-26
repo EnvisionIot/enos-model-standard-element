@@ -1,0 +1,19 @@
+{
+	"category":"E19",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax), of the flux density remaining in a magnetised hard magnetic material when, in the absence of a self-demagnetising field, the magnetic field strength is brought to zero.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"remanent_flux_density",
+	"name":{
+		"defaultValue":"remanent flux density",
+		"i18nValue":{
+			"en_US":"remanent flux density",
+			"zh_CN":null
+		}
+	},
+	"unit":"T",
+	"version":"1.0"
+}

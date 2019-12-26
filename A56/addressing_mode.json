@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"direct a":{
+				"defaultValue":"direct address",
+				"i18nValue":{}
+			},
+			"indirect":{
+				"defaultValue":"indirect address",
+				"i18nValue":{}
+			},
+			"immediat":{
+				"defaultValue":"immediate address",
+				"i18nValue":{}
+			},
+			"indexed":{
+				"defaultValue":"indexed address",
+				"i18nValue":{}
+			},
+			"relative":{
+				"defaultValue":"relative address",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the addressing modes of a microcontroller or microprocessor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"addressing_mode",
+	"name":{
+		"defaultValue":"addressing mode",
+		"i18nValue":{
+			"en_US":"addressing mode",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":20
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"suffix to the drawing code which serves to identify a particular dimension set related to the drawing.\nThe suffix is a serial numeric, separated from the drawing reference by a solidus: thus BCY-W01/24.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"drawing_sequence_code",
+	"name":{
+		"defaultValue":"drawing sequence code",
+		"i18nValue":{
+			"en_US":"drawing sequence code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"TOL":{
+				"defaultValue":"toleranced value",
+				"i18nValue":{}
+			},
+			"CPLX":{
+				"defaultValue":"complex number value",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a main feature class.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"features",
+	"name":{
+		"defaultValue":"features",
+		"i18nValue":{
+			"en_US":"features",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

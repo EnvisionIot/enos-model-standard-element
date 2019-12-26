@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed dc test voltage across the shorted diode leads and the shorted transistor leads that a photocoupler must withstand for a specified duration.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"isolation_voltage_min",
+	"name":{
+		"defaultValue":"isolation voltage min",
+		"i18nValue":{
+			"en_US":"isolation voltage min",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

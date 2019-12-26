@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a stand-off feature.\nThis dimension applies to a separate stand-off or to the length of the wider section of shouldered terminations which have the effect of standing the component off from the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-off_length",
+	"name":{
+		"defaultValue":"stand-off length",
+		"i18nValue":{
+			"en_US":"stand-off length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

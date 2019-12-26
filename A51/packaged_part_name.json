@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"manufacturer's type number or part name for a packaged part equivalent to the die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packaged_part_name",
+	"name":{
+		"defaultValue":"packaged part name",
+		"i18nValue":{
+			"en_US":"packaged part name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

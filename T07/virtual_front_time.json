@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"virtual front time t_1 of an impulse applied to a stabiliser diode, as a variable.\nIf oscillations are present on the front, the 10% and 90% values should be derived from a mean curve drawn through these oscillations in an analogous manner to that used for oscillatory lightning impulses.\nThe difference between front times measured according to this definition and to that given in IEC 60060-1 (1989) for lightning impulses is generally less than 10%.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"virtual_front_time",
+	"name":{
+		"defaultValue":"virtual front time",
+		"i18nValue":{
+			"en_US":"virtual front time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

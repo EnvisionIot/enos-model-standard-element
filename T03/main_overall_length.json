@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"longest overall length as specified by level (miNomax) of a package measured from a reference plane excluding terminals but including slugs.\nG_1 is longer than G_2.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"main_overall_length",
+	"name":{
+		"defaultValue":"main overall length",
+		"i18nValue":{
+			"en_US":"main overall length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum spacing between adjacent conductive tracks on a printed wiring circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"track_spacing",
+	"name":{
+		"defaultValue":"track spacing",
+		"i18nValue":{
+			"en_US":"track spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

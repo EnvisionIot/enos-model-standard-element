@@ -1,0 +1,21 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"website with a permanently updated list of available service points in countries of sales for  repair, etc. of the product.\nThe list should also contain service providers independent of the manufacturer of the product.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"after-sales_service_points",
+	"name":{
+		"defaultValue":"after-sales service points",
+		"i18nValue":{
+			"en_US":"after-sales service points",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting value of the dc component of the voltage of a liquid crystal display.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dc_voltage_component",
+	"name":{
+		"defaultValue":"dc voltage component",
+		"i18nValue":{
+			"en_US":"dc voltage component",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

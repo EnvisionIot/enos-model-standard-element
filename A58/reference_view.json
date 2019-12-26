@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"SIDE":{
+				"defaultValue":"side",
+				"i18nValue":{}
+			},
+			"TOP":{
+				"defaultValue":"top",
+				"i18nValue":{}
+			},
+			"FRONT":{
+				"defaultValue":"front",
+				"i18nValue":{}
+			},
+			"BOTTOM":{
+				"defaultValue":"bottom",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the angle of vision on a component serving as standard for describing the component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_view",
+	"name":{
+		"defaultValue":"reference view",
+		"i18nValue":{
+			"en_US":"reference view",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

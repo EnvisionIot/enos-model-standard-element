@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"ROUND":{
+				"defaultValue":"round",
+				"i18nValue":{}
+			},
+			"OVAL":{
+				"defaultValue":"oval",
+				"i18nValue":{}
+			},
+			"RECTAN":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"SECTOR":{
+				"defaultValue":"sector",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape of a conductive part of a conductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductor_shape",
+	"name":{
+		"defaultValue":"conductor shape",
+		"i18nValue":{
+			"en_US":"conductor shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the body of a component in the x-direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"body_length",
+	"name":{
+		"defaultValue":"body length",
+		"i18nValue":{
+			"en_US":"body length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

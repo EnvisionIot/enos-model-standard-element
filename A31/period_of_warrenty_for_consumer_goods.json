@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"period of time for which a manufacturer or its representative is contractually committed to fulfill his warranty premises for consumer goods at intended use.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"period_of_warrenty_for_consumer_goods",
+	"name":{
+		"defaultValue":"period of warrenty for consumer goods",
+		"i18nValue":{
+			"en_US":"period of warrenty for consumer goods",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

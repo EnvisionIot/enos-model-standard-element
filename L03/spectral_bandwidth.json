@@ -1,0 +1,19 @@
+{
+	"category":"L03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal wavelength interval at which the responsivity of a photosensor or intensity of a photo-emitter is not less than half of its maximum value at specified ambient temperature.\nIntensity applies to photoemitters; responsivity, to photosensitive devices.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spectral_bandwidth",
+	"name":{
+		"defaultValue":"spectral bandwidth",
+		"i18nValue":{
+			"en_US":"spectral bandwidth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

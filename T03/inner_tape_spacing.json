@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal distance between the inside of the two tapes used for taped products with axial leads.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"inner_tape_spacing",
+	"name":{
+		"defaultValue":"inner tape spacing",
+		"i18nValue":{
+			"en_US":"inner tape spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

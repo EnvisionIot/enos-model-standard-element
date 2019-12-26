@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the edge of the square top plane of a right angular truncated pyramid.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minor_edge",
+	"name":{
+		"defaultValue":"minor edge",
+		"i18nValue":{
+			"en_US":"minor edge",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

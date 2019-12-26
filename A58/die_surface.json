@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"B":{
+				"defaultValue":"bottom surface",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"upper surface",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the surface of a die on which a pad is situated when pads exist on both surfaces.\nThe value may be blank when pads exist on only one surface of the die.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_surface",
+	"name":{
+		"defaultValue":"die surface",
+		"i18nValue":{
+			"en_US":"die surface",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

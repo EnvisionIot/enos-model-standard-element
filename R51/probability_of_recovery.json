@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"probability of performing as required within a specified time interval, under given conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"probability_of_recovery",
+	"name":{
+		"defaultValue":"probability of recovery",
+		"i18nValue":{
+			"en_US":"probability of recovery",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

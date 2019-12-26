@@ -1,0 +1,21 @@
+{
+	"category":"A11",
+	"dataDefinition":{
+		"maxLength":2000
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the procedures used in the test and evaluation of a die.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_procedure_description",
+	"name":{
+		"defaultValue":"test procedure description",
+		"i18nValue":{
+			"en_US":"test procedure description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

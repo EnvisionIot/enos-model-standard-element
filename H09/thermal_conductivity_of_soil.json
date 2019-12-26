@@ -1,0 +1,19 @@
+{
+	"category":"H09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of heat energy transferred per unit time and per unit surface area of the surrounding soil, divided by the temperature difference.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_conductivity_of_soil",
+	"name":{
+		"defaultValue":"thermal conductivity of soil",
+		"i18nValue":{
+			"en_US":"thermal conductivity of soil",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/(m·K)",
+	"version":"1.0"
+}

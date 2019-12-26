@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of a fiducial measured in a direction parallel to the x-axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fiducial_width",
+	"name":{
+		"defaultValue":"fiducial width",
+		"i18nValue":{
+			"en_US":"fiducial width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

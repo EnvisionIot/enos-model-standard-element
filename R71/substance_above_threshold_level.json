@@ -1,0 +1,31 @@
+{
+	"category":"R71",
+	"dataDefinition":{
+		"enumDesc":{
+			"above":{
+				"defaultValue":"above threshold",
+				"i18nValue":{}
+			},
+			"below or equal":{
+				"defaultValue":"below or equal threshold",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value stating substance contained in product is above or below stated threshold.\n“Not Applicable” or other explanatory text can be put in the “Comment” attribute field.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"substance_above_threshold_level",
+	"name":{
+		"defaultValue":"substance above threshold level",
+		"i18nValue":{
+			"en_US":"substance above threshold level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,43 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"BS":{
+				"defaultValue":"band stop",
+				"i18nValue":{}
+			},
+			"LP":{
+				"defaultValue":"low pass",
+				"i18nValue":{}
+			},
+			"HP":{
+				"defaultValue":"high pass",
+				"i18nValue":{}
+			},
+			"BP":{
+				"defaultValue":"band pass",
+				"i18nValue":{}
+			},
+			"AP":{
+				"defaultValue":"all pass",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the frequency application of a filter.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"frequency_application",
+	"name":{
+		"defaultValue":"frequency application",
+		"i18nValue":{
+			"en_US":"frequency application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

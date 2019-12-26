@@ -1,0 +1,31 @@
+{
+	"category":"A54",
+	"dataDefinition":{
+		"enumDesc":{
+			"horizontal":{
+				"defaultValue":"horizontal position",
+				"i18nValue":{}
+			},
+			"upright":{
+				"defaultValue":"upright position",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designed geometrical orientation of the packed object by the manufacturer during transportation or storage.\nThe orientation during transport or storage of an object is normally indicated outside at the package by grafical symbols.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"storage_or_transport_position",
+	"name":{
+		"defaultValue":"storage/transport position",
+		"i18nValue":{
+			"en_US":"storage/transport position",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

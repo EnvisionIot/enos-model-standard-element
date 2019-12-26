@@ -1,0 +1,19 @@
+{
+	"category":"H03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the temperature coefficient, relative to the nominal capacitance, of a fixed capacitor.\nThe temperature coefficient of variable capacitors is measured at rotor settings and temperatures as given in IEC 60418-1(III.13) (1974).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient_cap",
+	"name":{
+		"defaultValue":"temperature coefficient (cap)",
+		"i18nValue":{
+			"en_US":"temperature coefficient (cap)",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/K",
+	"version":"1.0"
+}

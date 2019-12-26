@@ -1,0 +1,59 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"projection tube",
+				"i18nValue":{}
+			},
+			"A":{
+				"defaultValue":"TV picture tube",
+				"i18nValue":{}
+			},
+			"Q":{
+				"defaultValue":"flying spot scanner",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"recording tube with fibre optic output",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"oscilloscope tube, single trace",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"oscilloscope tube, double trace",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"radar display tube",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"storage display tube",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"monitor tube",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Pro Electron/EIcode indicating the primary application of a display tube.\nIn the Pro Electron type designation code, the application code corresponds with the first (letter) symbol and shall consist of a single letter.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"application_code",
+	"name":{
+		"defaultValue":"application code",
+		"i18nValue":{
+			"en_US":"application code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

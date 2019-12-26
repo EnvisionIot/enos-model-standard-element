@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal upper frequency  of a signal transformer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"upper_frequency",
+	"name":{
+		"defaultValue":"upper frequency",
+		"i18nValue":{
+			"en_US":"upper frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

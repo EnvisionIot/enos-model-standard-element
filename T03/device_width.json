@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum overall width of a minimally-packaged die device.\nFor a device with terminals in a row or a few parallel rows, the length dimension is taken at right angles to the terminal rows. For other devices, the length is normally the smaller of length and with.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"device_width",
+	"name":{
+		"defaultValue":"device width",
+		"i18nValue":{
+			"en_US":"device width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

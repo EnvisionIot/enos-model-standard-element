@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of additional screening, including burn-in, that has been applied to a component before delivery.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"additional_screening",
+	"name":{
+		"defaultValue":"additional screening",
+		"i18nValue":{
+			"en_US":"additional screening",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

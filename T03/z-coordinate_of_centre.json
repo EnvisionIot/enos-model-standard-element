@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the distance on the z-axis of the centre of a sphere.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"z-coordinate_of_centre",
+	"name":{
+		"defaultValue":"z-coordinate of centre",
+		"i18nValue":{
+			"en_US":"z-coordinate of centre",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

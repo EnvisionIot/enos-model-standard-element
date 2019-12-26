@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum current that may flow continuously to the collector terminal at specified case temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_current_DC",
+	"name":{
+		"defaultValue":"collector current (DC)",
+		"i18nValue":{
+			"en_US":"collector current (DC)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

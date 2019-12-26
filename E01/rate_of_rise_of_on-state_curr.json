@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rate of rise of the on-state current in a thyristor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rate_of_rise_of_on-state_curr",
+	"name":{
+		"defaultValue":"rate of rise of on-state curr",
+		"i18nValue":{
+			"en_US":"rate of rise of on-state curr",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

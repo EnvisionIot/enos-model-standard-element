@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of pixels that compose a screen.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_pixels",
+	"name":{
+		"defaultValue":"number of pixels",
+		"i18nValue":{
+			"en_US":"number of pixels",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

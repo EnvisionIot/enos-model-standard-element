@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"operating time accumulated from the first use, or from restoration, until failure.\nSee also operating time IEV 192-02-05:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_time_to_failure_of_an_item",
+	"name":{
+		"defaultValue":"operating time to failure of an item",
+		"i18nValue":{
+			"en_US":"operating time to failure of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"substance name as defined in the IEC 62474 database.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substance_name",
+	"name":{
+		"defaultValue":"substance name",
+		"i18nValue":{
+			"en_US":"substance name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

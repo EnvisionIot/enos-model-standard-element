@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC voltage at the output terminal of a digital function of an integrated circuit that corresponds with a logic LOW level, at specified conditions.\nIt is required that the value of the logic input voltages falls within either the V_IH or the V_IL range.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-level_output_voltage",
+	"name":{
+		"defaultValue":"LOW-level output voltage",
+		"i18nValue":{
+			"en_US":"LOW-level output voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

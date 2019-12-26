@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"FM":{
+				"defaultValue":"front mounted",
+				"i18nValue":{}
+			},
+			"RM":{
+				"defaultValue":"rear mounted",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the direction of the mounting of a connector with its mounting flange behind/in front of the mounting surface when looking at the mating face.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_direction",
+	"name":{
+		"defaultValue":"mounting direction",
+		"i18nValue":{
+			"en_US":"mounting direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

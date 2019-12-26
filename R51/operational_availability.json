@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"availability experienced under actual conditions of operation and maintenance.\nOperational availability is determined considering down time due to failures and associated delays, but excluding external causes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operational_availability",
+	"name":{
+		"defaultValue":"operational availability",
+		"i18nValue":{
+			"en_US":"operational availability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material class name as defined in the IEC 62474 database.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_class_name",
+	"name":{
+		"defaultValue":"material class name",
+		"i18nValue":{
+			"en_US":"material class name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

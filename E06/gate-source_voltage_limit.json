@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct voltage between gate and source terminals of a field-effect transistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate-source_voltage_limit",
+	"name":{
+		"defaultValue":"gate-source voltage limit",
+		"i18nValue":{
+			"en_US":"gate-source voltage limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

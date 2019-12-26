@@ -1,0 +1,47 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"TPN":{
+				"defaultValue":"terminal exit position non SMD",
+				"i18nValue":{}
+			},
+			"MMT":{
+				"defaultValue":"mounting method",
+				"i18nValue":{}
+			},
+			"TSS":{
+				"defaultValue":"terminal shape SMD",
+				"i18nValue":{}
+			},
+			"BSH":{
+				"defaultValue":"body shape",
+				"i18nValue":{}
+			},
+			"TPS":{
+				"defaultValue":"terminal exit position SMD",
+				"i18nValue":{}
+			},
+			"TSN":{
+				"defaultValue":"terminal shape non SMD",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the basic aspect of the shape of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"basic_aspect",
+	"name":{
+		"defaultValue":"basic aspect",
+		"i18nValue":{
+			"en_US":"basic aspect",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

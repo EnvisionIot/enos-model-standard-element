@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the right angular wedge along the placement Y-axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wedge_y-size",
+	"name":{
+		"defaultValue":"wedge y-size",
+		"i18nValue":{
+			"en_US":"wedge y-size",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

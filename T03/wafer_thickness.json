@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal thickness of a semiconductor wafer containing die devices.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wafer_thickness",
+	"name":{
+		"defaultValue":"wafer thickness",
+		"i18nValue":{
+			"en_US":"wafer thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

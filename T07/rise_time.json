@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rise time of a step function change (10% to 90%) of a signal applied to an electric-electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rise_time",
+	"name":{
+		"defaultValue":"rise time",
+		"i18nValue":{
+			"en_US":"rise time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

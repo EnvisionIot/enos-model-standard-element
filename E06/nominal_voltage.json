@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal voltage of a lamp or fuse.\nIEC 60432 (3.2) (1973) :|If, for special reasons, lamps are marked with dual voltage, the rated voltage shall be taken as the mean of the voltage range.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"nominal_voltage",
+	"name":{
+		"defaultValue":"nominal voltage",
+		"i18nValue":{
+			"en_US":"nominal voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

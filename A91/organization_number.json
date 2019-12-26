@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"coded identification number assigned to an organization by a registration body.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"organization_number",
+	"name":{
+		"defaultValue":"organization number",
+		"i18nValue":{
+			"en_US":"organization number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

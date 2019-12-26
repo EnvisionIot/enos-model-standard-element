@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"ROM":{
+				"defaultValue":"read only memory Ics",
+				"i18nValue":{}
+			},
+			"REGI":{
+				"defaultValue":"registers",
+				"i18nValue":{}
+			},
+			"CCD":{
+				"defaultValue":"charge coupled device Ics",
+				"i18nValue":{}
+			},
+			"CAM":{
+				"defaultValue":"content addressable memory Ics",
+				"i18nValue":{}
+			},
+			"RAM":{
+				"defaultValue":"random access memory Ics",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the storage function of a digital IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"storage_function",
+	"name":{
+		"defaultValue":"storage function",
+		"i18nValue":{
+			"en_US":"storage function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the time an unloaded dc motor needs, starting from rest, to reach 63% of the unloaded speed at the rated input voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mechanical_time_constant",
+	"name":{
+		"defaultValue":"mechanical time constant",
+		"i18nValue":{
+			"en_US":"mechanical time constant",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the alternating voltage appearing in the output to the alternating input voltage at specified amplitude and frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ripple_rejection",
+	"name":{
+		"defaultValue":"ripple rejection",
+		"i18nValue":{
+			"en_US":"ripple rejection",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

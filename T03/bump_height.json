@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal height of the bumps on a bumped die measured as the perpendicular distance between the die surface and the plane surface on which the die is mounted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bump_height",
+	"name":{
+		"defaultValue":"bump height",
+		"i18nValue":{
+			"en_US":"bump height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

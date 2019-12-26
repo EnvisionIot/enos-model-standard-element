@@ -1,0 +1,19 @@
+{
+	"category":"J01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of words specifying the data storage capacity of a digital memory function on an IC.\nThe data storage capacity of a digital memory IC is sometimes referred to as -memory organisation- and (number of words) x (number of bits per word) |Examples: 256x1 : 256x4 : 1024x8 etc.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"storage_size",
+	"name":{
+		"defaultValue":"storage size",
+		"i18nValue":{
+			"en_US":"storage size",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the contact pitch of a connector in the y-direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_pitch_y-axis",
+	"name":{
+		"defaultValue":"contact pitch (y-axis)",
+		"i18nValue":{
+			"en_US":"contact pitch (y-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

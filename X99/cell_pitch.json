@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal spacing between two adjacent of subpixels in the plane of a plate.\nUsually metre [m] is used for the unit of measure.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cell_pitch",
+	"name":{
+		"defaultValue":"cell pitch",
+		"i18nValue":{
+			"en_US":"cell pitch",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

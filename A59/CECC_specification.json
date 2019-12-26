@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"CECC code of the specification in which an electric/ electronic or electromechanical component is released under the CECC quality assessment system.\nCECC = CENELEC Electronic Components Committee |CENELEC = European Committee for Electrotechnical Standardisation |Quality assessment: |The continuous surveillance of the manufacturer of a product to ensure that it conforms to the requirements of the specification to which it was made. |GEN = general |SEC = sectional |DET = detail.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"CECC_specification",
+	"name":{
+		"defaultValue":"CECC specification",
+		"i18nValue":{
+			"en_US":"CECC specification",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

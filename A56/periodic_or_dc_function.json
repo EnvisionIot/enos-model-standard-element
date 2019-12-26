@@ -1,0 +1,87 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"STA":{
+				"defaultValue":"voltage stabilizer",
+				"i18nValue":{}
+			},
+			"SQUARE":{
+				"defaultValue":"square wave oscillator (multivibrator)",
+				"i18nValue":{}
+			},
+			"PUL":{
+				"defaultValue":"pulse oscillator",
+				"i18nValue":{}
+			},
+			"MONO":{
+				"defaultValue":"monostable",
+				"i18nValue":{}
+			},
+			"SAW":{
+				"defaultValue":"sawtooth oscillator",
+				"i18nValue":{}
+			},
+			"MOTDRI":{
+				"defaultValue":"motor drive",
+				"i18nValue":{}
+			},
+			"PLL":{
+				"defaultValue":"phase locked loop",
+				"i18nValue":{}
+			},
+			"PPS":{
+				"defaultValue":"power pack system",
+				"i18nValue":{}
+			},
+			"MPVD":{
+				"defaultValue":"micro power voltage selector",
+				"i18nValue":{}
+			},
+			"REG":{
+				"defaultValue":"voltage or current regulator",
+				"i18nValue":{}
+			},
+			"SH":{
+				"defaultValue":"phase locked loop, sample and hold",
+				"i18nValue":{}
+			},
+			"POW":{
+				"defaultValue":"power supply",
+				"i18nValue":{}
+			},
+			"SIN":{
+				"defaultValue":"sinewave oscillator",
+				"i18nValue":{}
+			},
+			"TIM":{
+				"defaultValue":"timing device",
+				"i18nValue":{}
+			},
+			"SMPS":{
+				"defaultValue":"switch-mode power supply",
+				"i18nValue":{}
+			},
+			"OSC":{
+				"defaultValue":"oscillator",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying a periodic or dc function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"periodic_or_dc_function",
+	"name":{
+		"defaultValue":"periodic/dc function",
+		"i18nValue":{
+			"en_US":"periodic/dc function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

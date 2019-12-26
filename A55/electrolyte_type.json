@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"physical form of the electrolyte in an electrolytic capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrolyte_type",
+	"name":{
+		"defaultValue":"electrolyte type",
+		"i18nValue":{
+			"en_US":"electrolyte type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

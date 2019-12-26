@@ -1,0 +1,19 @@
+{
+	"category":"E45",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reactive or imaginary part as given by level (miNomax) of the admittance of an electric component having an admittance property.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"conductance",
+	"name":{
+		"defaultValue":"conductance",
+		"i18nValue":{
+			"en_US":"conductance",
+			"zh_CN":null
+		}
+	},
+	"unit":"S",
+	"version":"1.0"
+}

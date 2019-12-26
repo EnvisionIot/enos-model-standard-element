@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of a threaded stud used for mounting the package.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stud_thread_diameter",
+	"name":{
+		"defaultValue":"stud thread diameter",
+		"i18nValue":{
+			"en_US":"stud thread diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

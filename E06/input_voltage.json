@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dc input voltage of an IC, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"input_voltage",
+	"name":{
+		"defaultValue":"input voltage",
+		"i18nValue":{
+			"en_US":"input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

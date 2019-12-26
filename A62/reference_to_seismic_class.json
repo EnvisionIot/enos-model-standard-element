@@ -1,0 +1,92 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"horizontal_ground_acceleration",
+				"name":{
+					"defaultValue":"horizontal ground acceleration",
+					"i18nValue":{
+						"en_US":"horizontal ground acceleration",
+						"zh_CN":null
+					}
+				},
+				"unit":"m/s²"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"vertical_ground_acceleration",
+				"name":{
+					"defaultValue":"vertical ground acceleration",
+					"i18nValue":{
+						"en_US":"vertical ground acceleration",
+						"zh_CN":null
+					}
+				},
+				"unit":"m/s²"
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"seismic_qualification_standard",
+				"name":{
+					"defaultValue":"seismic qualification standard",
+					"i18nValue":{
+						"en_US":"seismic qualification standard",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class seimic.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_seismic_class",
+	"name":{
+		"defaultValue":"reference to seismic class",
+		"i18nValue":{
+			"en_US":"reference to seismic class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

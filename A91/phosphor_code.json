@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Pro Electron code of the phosphor type(s) of a display tube REMARK: For codes see table D in naming document.\n1. In the Pro Electron type designation code, the phosphor code corresponds with the fifth (letter) symbol, consisting of a single letter or a two-letter combination. |2. The table gives fluorescent and phosphorescent colours, CIE colour coordinates, persistence and comparable EIA designation. |3. The FIRST LETTER denotes the colour of the fluorescence (or phosphorescence in the case of very long persistence screens) according to the regions of the Kelly Chart; the fluorescent colour is that seen during continuous or pulsating excitation (e.g. raster display) and the phosphorescent colour is that seen after excitation has ceased. |The SECOND LETTER denotes other specific differences in screen properties. |4. For colour TV picture tubes, the phosphor is defined by the letter X or the letters XX. |For colour monitor tubes the phosphor (usually tri-colour) may be defined by the letter(s) X, XX or some other two-letter combination, excluding the letters I and O. |For monochrome TV picture tubes, the phosphor is defined by the letters WW. |For monochrome monitors, the phosphor may be defined by the letters WW or some other two-letter combination, excluding the letters I and O.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"phosphor_code",
+	"name":{
+		"defaultValue":"phosphor code",
+		"i18nValue":{
+			"en_US":"phosphor code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

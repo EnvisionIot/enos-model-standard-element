@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angular spacing as specified by level (miNomax) between the index feature and the first terminal true position on a terminal circle.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_datum_angle",
+	"name":{
+		"defaultValue":"index datum angle",
+		"i18nValue":{
+			"en_US":"index datum angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the output power of the oscillator with respect to the reference output value under specified conditions.\nThe reference value is 0 dBm at 1mW.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_level",
+	"name":{
+		"defaultValue":"output level",
+		"i18nValue":{
+			"en_US":"output level",
+			"zh_CN":null
+		}
+	},
+	"unit":"dBm",
+	"version":"1.0"
+}

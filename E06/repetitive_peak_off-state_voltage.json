@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting repetitive peak off-state voltage across a thyristor or triac including all repetitive voltages but excluding all non-repetitive transient voltages.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_off-state_voltage",
+	"name":{
+		"defaultValue":"repetitive peak off-state voltage",
+		"i18nValue":{
+			"en_US":"repetitive peak off-state voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

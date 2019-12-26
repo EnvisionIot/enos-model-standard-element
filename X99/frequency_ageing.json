@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum deviation of frequency from the initial frequency in evaluation during a specified period of time under the reference temperature and other specified conditions.\nThe default period is one year. If other periods are used, such as one day, one month, three years, ten years, or twenty years, they must be provided separately.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_ageing",
+	"name":{
+		"defaultValue":"frequency ageing",
+		"i18nValue":{
+			"en_US":"frequency ageing",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

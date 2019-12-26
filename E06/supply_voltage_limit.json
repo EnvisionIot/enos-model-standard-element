@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"permissible DC voltage that may be applied to the power supply pins of an integrated circuit.\nCommonly known supply voltage symbols: |V_CC for TTL, NMOS and HCMOS circuits |V_DD for CMOS circuits |V_P for analogue circuits |V_EE for ECL circuits.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_voltage_limit",
+	"name":{
+		"defaultValue":"supply voltage limit",
+		"i18nValue":{
+			"en_US":"supply voltage limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

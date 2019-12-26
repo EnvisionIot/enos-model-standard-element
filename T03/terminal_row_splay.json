@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) between the centres of the ends of two parallel rows of terminals prior to mounting.\nFor DIP packages, components are often supplied with the terminations splayedFor limits to the splay angle, see AXD051.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_row_splay",
+	"name":{
+		"defaultValue":"terminal row splay",
+		"i18nValue":{
+			"en_US":"terminal row splay",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

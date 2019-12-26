@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dc input current of an IC, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"input_current",
+	"name":{
+		"defaultValue":"input current",
+		"i18nValue":{
+			"en_US":"input current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

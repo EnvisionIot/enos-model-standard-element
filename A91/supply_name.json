@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to a terminal for the supply of power to a device.\nNames commonly used include Vcc, Vss, Vdd, GND, V+ and V-.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_name",
+	"name":{
+		"defaultValue":"supply name",
+		"i18nValue":{
+			"en_US":"supply name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

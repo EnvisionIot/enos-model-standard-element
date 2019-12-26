@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the distance on the x-axis of the centre of a sphere.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"x-coordinate_of_centre",
+	"name":{
+		"defaultValue":"x-coordinate of centre",
+		"i18nValue":{
+			"en_US":"x-coordinate of centre",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

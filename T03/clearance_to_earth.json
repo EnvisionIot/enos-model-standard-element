@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum clearance to earth of a power transformer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"clearance_to_earth",
+	"name":{
+		"defaultValue":"clearance to earth",
+		"i18nValue":{
+			"en_US":"clearance to earth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal diameter of a circular pad.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pad_diameter",
+	"name":{
+		"defaultValue":"pad diameter",
+		"i18nValue":{
+			"en_US":"pad diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

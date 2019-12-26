@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum access time interval, from address to output, of a memory function of an IC.\nIn the case of a dynamic RAM, it is the time interval (t_RAC) between row address strobe and output.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"access_time",
+	"name":{
+		"defaultValue":"access time",
+		"i18nValue":{
+			"en_US":"access time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

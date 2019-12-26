@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum output voltage at the EHT output of a voltage multiplier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_voltage_EHT_supply",
+	"name":{
+		"defaultValue":"output voltage EHT supply",
+		"i18nValue":{
+			"en_US":"output voltage EHT supply",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

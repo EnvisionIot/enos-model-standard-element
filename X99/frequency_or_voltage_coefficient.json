@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"fractional change in output frequency resulting from an incremental change in supply voltage, other parameters remaining unchanged.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_or_voltage_coefficient",
+	"name":{
+		"defaultValue":"frequency/voltage coefficient",
+		"i18nValue":{
+			"en_US":"frequency/voltage coefficient",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

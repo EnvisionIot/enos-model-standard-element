@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the programming voltage of an EPROM at the reference temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"programming_voltage",
+	"name":{
+		"defaultValue":"programming voltage",
+		"i18nValue":{
+			"en_US":"programming voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

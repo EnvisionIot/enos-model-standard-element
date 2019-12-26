@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal angle between the x-axis for the die and a radius drawn from the centre of the wafer to the mid-point of the index feature.\nThe angle shall be given to the nearest degree as a positive integer less than 360 measuring in a clockwise direction from the x-axis of the die.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wafer_index_orientation",
+	"name":{
+		"defaultValue":"wafer index orientation",
+		"i18nValue":{
+			"en_US":"wafer index orientation",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal horizontal pitch of the pixels of a colour display tube, determined by the distance between identical phosphor stripes or dots on the screen.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pixel_pitch_horizontal",
+	"name":{
+		"defaultValue":"pixel pitch horizontal",
+		"i18nValue":{
+			"en_US":"pixel pitch horizontal",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

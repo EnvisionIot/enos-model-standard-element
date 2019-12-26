@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to the identifier for the document from which a dimension set was taken.\nThe document may be a manufacturer's data sheet or data book or it may be a specification such as IECQ, CECC or MIL.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"source_document_identification",
+	"name":{
+		"defaultValue":"source document identification",
+		"i18nValue":{
+			"en_US":"source document identification",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

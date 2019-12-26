@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"difference between the input voltage and output voltage in a series regulator in order to satisfy the specified electrical characteristics.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dropout_voltage",
+	"name":{
+		"defaultValue":"dropout voltage",
+		"i18nValue":{
+			"en_US":"dropout voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"2":{
+				"defaultValue":"extended grade = from -40 Cel to +90 Cel.",
+				"i18nValue":{}
+			},
+			"10":{
+				"defaultValue":"commercial grade = from -25 Cel to +70 Cel.",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the quality grade (determined by the permissible storage temperature range) of a liquid crystal display.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"quality_grade",
+	"name":{
+		"defaultValue":"quality grade",
+		"i18nValue":{
+			"en_US":"quality grade",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"REC":{
+				"defaultValue":"rectangular shape",
+				"i18nValue":{}
+			},
+			"RND":{
+				"defaultValue":"round shape",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the outer shape of a contact of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"male_contact_shape",
+	"name":{
+		"defaultValue":"male contact shape",
+		"i18nValue":{
+			"en_US":"male contact shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

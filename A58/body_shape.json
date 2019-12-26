@@ -1,0 +1,67 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"elliptical shaped",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"horizontal cylindrical",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"vertical cylindrical",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"spherical",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"can shaped",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"vert cylindrical hex flange",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"vert cylindrical oval flange",
+				"i18nValue":{}
+			},
+			"J":{
+				"defaultValue":"vert cylindrical circ flange",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"rectangular rectangular flange",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"vert cylindrical rect flange",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape of the body of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"body_shape",
+	"name":{
+		"defaultValue":"body shape",
+		"i18nValue":{
+			"en_US":"body shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

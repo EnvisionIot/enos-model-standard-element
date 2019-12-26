@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"XOVER":{
+				"defaultValue":"power changeover socket",
+				"i18nValue":{}
+			},
+			"IN":{
+				"defaultValue":"power inlet socket",
+				"i18nValue":{}
+			},
+			"OUT":{
+				"defaultValue":"power outlet socket",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of socket intended for use in power applications.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"power_socket_type",
+	"name":{
+		"defaultValue":"power socket type",
+		"i18nValue":{
+			"en_US":"power socket type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

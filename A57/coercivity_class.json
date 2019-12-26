@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"SFT":{
+				"defaultValue":"soft magnetic (low coercivity)",
+				"i18nValue":{}
+			},
+			"HRD":{
+				"defaultValue":"hard magnetic (high coercivity)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the coercivity class of a magnetic part or magnetic material.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"coercivity_class",
+	"name":{
+		"defaultValue":"coercivity class",
+		"i18nValue":{
+			"en_US":"coercivity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

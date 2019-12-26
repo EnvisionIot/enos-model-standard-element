@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting voltage between emitter and base terminals of a bipolar transistor, at open collector terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"emitter-base_voltage_V_EBO",
+	"name":{
+		"defaultValue":"emitter-base voltage V_EBO",
+		"i18nValue":{
+			"en_US":"emitter-base voltage V_EBO",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

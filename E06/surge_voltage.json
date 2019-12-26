@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the surge voltage range for a capacitor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"surge_voltage",
+	"name":{
+		"defaultValue":"surge voltage",
+		"i18nValue":{
+			"en_US":"surge voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

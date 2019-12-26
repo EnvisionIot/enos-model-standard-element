@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"C3":{
+				"defaultValue":"C3",
+				"i18nValue":{}
+			},
+			"C4":{
+				"defaultValue":"C4",
+				"i18nValue":{}
+			},
+			"C5-I":{
+				"defaultValue":"C5-I",
+				"i18nValue":{}
+			},
+			"C5-M":{
+				"defaultValue":"C5-M",
+				"i18nValue":{}
+			},
+			"C1":{
+				"defaultValue":"C1",
+				"i18nValue":{}
+			},
+			"C2":{
+				"defaultValue":"C2",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"corrosivity categories for atmospheric environments in accordance with  ISO 12944-2.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"atmospheric_corrosivity_category",
+	"name":{
+		"defaultValue":"atmospheric corrosivity category",
+		"i18nValue":{
+			"en_US":"atmospheric corrosivity category",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

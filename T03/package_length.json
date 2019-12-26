@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall length as specified by level (miNomax) of a package excluding terminals and slugs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_length",
+	"name":{
+		"defaultValue":"package length",
+		"i18nValue":{
+			"en_US":"package length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

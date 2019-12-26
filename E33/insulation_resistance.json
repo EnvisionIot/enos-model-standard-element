@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum resistance between one terminal or several terminals connected together and the case or enclosure of a component at specified voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"insulation_resistance",
+	"name":{
+		"defaultValue":"insulation resistance",
+		"i18nValue":{
+			"en_US":"insulation resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

@@ -1,0 +1,55 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"B":{
+				"defaultValue":"burn-in (100%)",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"radiation",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"special stress tests at wafer probe",
+				"i18nValue":{}
+			},
+			"V":{
+				"defaultValue":"visual inspection",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"no data available",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"special KGD test, wafer level",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"lot-acceptance testing",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"scanning electron microscope",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the basic options of test, inspection and burn-in applied to a die or wafer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"process_options",
+	"name":{
+		"defaultValue":"process options",
+		"i18nValue":{
+			"en_US":"process options",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

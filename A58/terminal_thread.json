@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designation of the thread of a terminal.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_thread",
+	"name":{
+		"defaultValue":"terminal thread",
+		"i18nValue":{
+			"en_US":"terminal thread",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

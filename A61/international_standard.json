@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to an international standard describing a component.\nExamples of formats for reference to IEC publications: | IEC 60147-1D (VI.1.5.1) (1978) = IEC publication | IEC/TC47(CO)797(5.1) (1981) = Publ. of Central office | IEC/TC47(Sec)797(5.1) (1981) = Publ of Secretariat |Examples of formats for reference to ISO publications: | ISO9999 (1985) = ISO publication | ISO/DP999 (1985) = Draft proposal | ISO/DIS9999 (1985) = Draft Intern. standard.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"international_standard",
+	"name":{
+		"defaultValue":"international standard",
+		"i18nValue":{
+			"en_US":"international standard",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

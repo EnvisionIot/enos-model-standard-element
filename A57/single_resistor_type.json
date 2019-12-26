@@ -1,0 +1,47 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CHIP":{
+				"defaultValue":"fixed chip resistor",
+				"i18nValue":{}
+			},
+			"LP":{
+				"defaultValue":"fixed low-power resistor",
+				"i18nValue":{}
+			},
+			"FUS":{
+				"defaultValue":"fixed fusing resistor",
+				"i18nValue":{}
+			},
+			"PREC":{
+				"defaultValue":"fixed precision resistor",
+				"i18nValue":{}
+			},
+			"PWR":{
+				"defaultValue":"fixed power resistor",
+				"i18nValue":{}
+			},
+			"THERM":{
+				"defaultValue":"fixed thermostat resistor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of single linear resistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"single_resistor_type",
+	"name":{
+		"defaultValue":"single resistor type",
+		"i18nValue":{
+			"en_US":"single resistor type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

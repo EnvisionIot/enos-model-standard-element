@@ -1,0 +1,19 @@
+{
+	"category":"T10",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the motion of the tidal current driven by astronomical tides to a specified unit time and measured during a given period of time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tidal_current_speed",
+	"name":{
+		"defaultValue":"tidal current speed",
+		"i18nValue":{
+			"en_US":"tidal current speed",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s",
+	"version":"1.0"
+}

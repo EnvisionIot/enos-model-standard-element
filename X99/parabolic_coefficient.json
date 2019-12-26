@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"coefficient of the second order variable of the quadratic curve used for the approximation of the temperature frequency characteristic graph.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"parabolic_coefficient",
+	"name":{
+		"defaultValue":"parabolic coefficient",
+		"i18nValue":{
+			"en_US":"parabolic coefficient",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/(°C)²",
+	"version":"1.0"
+}

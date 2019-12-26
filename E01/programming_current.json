@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the current sinked by the programming input of an EPROM during programming at the reference temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"programming_current",
+	"name":{
+		"defaultValue":"programming current",
+		"i18nValue":{
+			"en_US":"programming current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

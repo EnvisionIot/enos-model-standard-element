@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"mm":{
+				"defaultValue":"millimetre",
+				"i18nValue":{}
+			},
+			"mil":{
+				"defaultValue":"mil (1.0E-3 inch)",
+				"i18nValue":{}
+			},
+			"μm":{
+				"defaultValue":"micrometre (micron)",
+				"i18nValue":{}
+			},
+			"m":{
+				"defaultValue":"metre",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the units in which die dimensions are given.\nTo comply with IEC 61360, the units should be given in metres (m) and these will be the default units.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"geometric_units",
+	"name":{
+		"defaultValue":"geometric units",
+		"i18nValue":{
+			"en_US":"geometric units",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

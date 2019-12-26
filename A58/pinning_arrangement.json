@@ -1,0 +1,39 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"STA":{
+				"defaultValue":"staggered",
+				"i18nValue":{}
+			},
+			"CON":{
+				"defaultValue":"concentric",
+				"i18nValue":{}
+			},
+			"SQU":{
+				"defaultValue":"square",
+				"i18nValue":{}
+			},
+			"CIR":{
+				"defaultValue":"circular",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the pinning arrangement of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pinning_arrangement",
+	"name":{
+		"defaultValue":"pinning arrangement",
+		"i18nValue":{
+			"en_US":"pinning arrangement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

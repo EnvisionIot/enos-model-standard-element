@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"thermal power loss caused by the over- current in a short-circuit or in a situation equivalent to a short-circuit measured at  given duration and at rated ambient temperature.\nExamples for situations equivalent to a short circuit:\r\n- transformer with the second winding short-circuited;\r\n- motor with rotor blocked caused by operational or fault events.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"short-circuit_power_loss",
+	"name":{
+		"defaultValue":"short-circuit power loss",
+		"i18nValue":{
+			"en_US":"short-circuit power loss",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

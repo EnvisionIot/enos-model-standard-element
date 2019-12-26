@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"total value as specified by level (typmax) of the dc current passing through all terminals of an integrated circuit connected to the same supply voltage.\nThe values are given for the maximum value of the corresponding supply voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_current",
+	"name":{
+		"defaultValue":"supply current",
+		"i18nValue":{
+			"en_US":"supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

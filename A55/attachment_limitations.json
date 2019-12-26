@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of any limitations on the methods or processes used for attaching the die device.\nFor example, any areas on the chip where it is not allowed to apply ultrasonic power or pressure.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"attachment_limitations",
+	"name":{
+		"defaultValue":"attachment limitations",
+		"i18nValue":{
+			"en_US":"attachment limitations",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

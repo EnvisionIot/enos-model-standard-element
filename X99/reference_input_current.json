@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"bias current at the reference terminal necessary to drive the internal transistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_input_current",
+	"name":{
+		"defaultValue":"reference input current",
+		"i18nValue":{
+			"en_US":"reference input current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

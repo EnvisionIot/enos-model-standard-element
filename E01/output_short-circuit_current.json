@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the output current of a digital TTL IC, when an output is short-circuited, at maximum supply voltage, and in a temperature range between specified temperatures (T_1 and T_2).\n1 Not more than one output should be shorted at a time. |2 The duration of the short-circuit should not exceed one second.\nThe output short-circuit current was intended originally to reassure the TTL user that the device would withstand accidental grounding e.g. during in-circuit testing. |This parameter has become a measure of the ability of the circuit to charge the line capacitance and is used to calculate propagation delays. |In CMOS devices there is no need to specify this parameter because the purely capacitive loads allow extrapolation of the ac parameters to calculate the increase in propagation delay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_short-circuit_current",
+	"name":{
+		"defaultValue":"output short-circuit current",
+		"i18nValue":{
+			"en_US":"output short-circuit current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

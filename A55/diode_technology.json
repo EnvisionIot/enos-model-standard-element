@@ -1,0 +1,39 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"PIN":{
+				"defaultValue":"pin diode",
+				"i18nValue":{}
+			},
+			"SCH":{
+				"defaultValue":"Schottky diode",
+				"i18nValue":{}
+			},
+			"AVA":{
+				"defaultValue":"avalanche diode",
+				"i18nValue":{}
+			},
+			"TUN":{
+				"defaultValue":"tunnel diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of technology of a diode.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"diode_technology",
+	"name":{
+		"defaultValue":"diode technology",
+		"i18nValue":{
+			"en_US":"diode technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

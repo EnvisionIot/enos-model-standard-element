@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"TUBE":{
+				"defaultValue":"semi air-spaced dielectric, tube/thread",
+				"i18nValue":{}
+			},
+			"FOAM":{
+				"defaultValue":"semi air-spaced dielectric, foam",
+				"i18nValue":{}
+			},
+			"AIR":{
+				"defaultValue":"air-spaced dielectric",
+				"i18nValue":{}
+			},
+			"SEMAIR":{
+				"defaultValue":"semi-air-spaced dielectric",
+				"i18nValue":{}
+			},
+			"SOLID":{
+				"defaultValue":"solid dielectric",
+				"i18nValue":{}
+			},
+			"THREAD":{
+				"defaultValue":"semi air-spaced dielectric, thread",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the construction of the dielectric of an RF cable.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_construction",
+	"name":{
+		"defaultValue":"dielectric construction",
+		"i18nValue":{
+			"en_US":"dielectric construction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

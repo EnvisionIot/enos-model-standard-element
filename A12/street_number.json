@@ -1,0 +1,21 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of an entrance to a building related to a domain defined by the street as issued by the local authorities.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"street_number",
+	"name":{
+		"defaultValue":"street number",
+		"i18nValue":{
+			"en_US":"street number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

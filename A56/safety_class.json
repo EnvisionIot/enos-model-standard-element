@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"U":{
+				"defaultValue":"shock danger on failure; <=125 V mains voltage",
+				"i18nValue":{}
+			},
+			"X1":{
+				"defaultValue":"no shock danger on failure; >1.2 kV pulse",
+				"i18nValue":{}
+			},
+			"Y":{
+				"defaultValue":"shock danger on failure; 125-250 V mains voltage",
+				"i18nValue":{}
+			},
+			"X2":{
+				"defaultValue":"no shock danger on failure; <=1.2 kV pulse",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the safety/voltage class of a fixed capacitor for radio interference suppression.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"safety_class",
+	"name":{
+		"defaultValue":"safety class",
+		"i18nValue":{
+			"en_US":"safety class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

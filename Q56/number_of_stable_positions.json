@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of stable positions of a switch.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_stable_positions",
+	"name":{
+		"defaultValue":"number of stable positions",
+		"i18nValue":{
+			"en_US":"number of stable positions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

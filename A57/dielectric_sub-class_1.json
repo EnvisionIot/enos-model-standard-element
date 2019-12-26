@@ -1,0 +1,43 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"1A":{
+				"defaultValue":"1A",
+				"i18nValue":{}
+			},
+			"1B":{
+				"defaultValue":"1B",
+				"i18nValue":{}
+			},
+			"1C":{
+				"defaultValue":"1C",
+				"i18nValue":{}
+			},
+			"1D":{
+				"defaultValue":"1D",
+				"i18nValue":{}
+			},
+			"1F":{
+				"defaultValue":"1F",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the sub-class of a fixed class1 ceramic capacitor, as determined by the temperature coefficient and its tolerance.\nFirst (numeric) character is always 1 (see AAE038-005). Second (alphabetic) character indicates tolerance on temperature coefficient of capacitance: | sub-class code.................A......................B......................F......................C......................D | temp. coeff. ......................tolerance* ......tolerance*......tolerance*| +100 to -220....................+/-15.................+/- 30| -330 to -470.....................+/-30.................+/- 60| -750 to -1000...................+/-60.................+/-120.............+/- 250| -1500....................................................................................+/- 250| -2200 to -3300....................................................................+/- 500| -4700....................................................................................+/-1000| -5600....................................................................................+/-1000| +140 > TC > -1000.......................................................................................C| +250 > TC > -1750................................................................................................................D| tolerance* : tolerance on temperature coefficient in 10**-6/K, |For the meaning of the values, see table II of IEC 60384-8 (1979).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_sub-class_1",
+	"name":{
+		"defaultValue":"dielectric sub-class 1",
+		"i18nValue":{
+			"en_US":"dielectric sub-class 1",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

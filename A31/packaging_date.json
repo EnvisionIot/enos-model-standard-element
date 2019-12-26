@@ -1,0 +1,21 @@
+{
+	"category":"A31",
+	"dataDefinition":{
+		"maxLength":10
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date associated with a group of specimens considered as one object to identify the specimens that are manufactured together under assumed identical conditions and in a limited time interval.\nNotation following YYYY-MM-DD.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packaging_date",
+	"name":{
+		"defaultValue":"packaging date",
+		"i18nValue":{
+			"en_US":"packaging date",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

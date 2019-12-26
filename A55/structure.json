@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"structure of a resistor intended for high-power applications.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"structure",
+	"name":{
+		"defaultValue":"structure",
+		"i18nValue":{
+			"en_US":"structure",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

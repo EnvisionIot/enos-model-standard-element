@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CER":{
+				"defaultValue":"ceramic",
+				"i18nValue":{}
+			},
+			"RES":{
+				"defaultValue":"rare earth",
+				"i18nValue":{}
+			},
+			"STA":{
+				"defaultValue":"steel alloy",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the material type of the magnet of a moving conductor loudspeaker.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"magnet_material",
+	"name":{
+		"defaultValue":"magnet material",
+		"i18nValue":{
+			"en_US":"magnet material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"P-channel",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"N-channel",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the material type of the channel(s) of a field-effect transistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"channel_type",
+	"name":{
+		"defaultValue":"channel type",
+		"i18nValue":{
+			"en_US":"channel type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

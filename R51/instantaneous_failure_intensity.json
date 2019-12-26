@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the quotient of the mean number of failures of a repairable item within time interval (t, t + Δt), by Δt, when Δt tends to zero \r\n\r\nz(t)=limΔt→0+E[N(t+Δt)−N(t)]Δt\r\nz(t)=limΔt→0+E[N(t+Δt)−N(t)]Δt\r\nwhere N(t) is the number of failures in the time interval (0, t), where E denotes the expectation.\nOther terms used for failure intensity are “rate of occurrence of failures”, and “failure frequency”.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"instantaneous_failure_intensity",
+	"name":{
+		"defaultValue":"instantaneous failure intensity",
+		"i18nValue":{
+			"en_US":"instantaneous failure intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

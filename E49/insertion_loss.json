@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the insertion loss of a delay line.\nInsertion loss |The ratio, generally expressed in decibels, of the power at a point in a transmission path to the power at the same point after insertion of a two-port electrical network into the transmission path ahead of this point. |NOTE - If the ratio defining the insertion loss is less than one, its decibel value is negative, and its converse or opposite decibel value called 'insertion gain' may be used.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"insertion_loss",
+	"name":{
+		"defaultValue":"insertion loss",
+		"i18nValue":{
+			"en_US":"insertion loss",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

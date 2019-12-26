@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"probability that an item is not in a state to perform as required at a given instant.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"instantaneous_unavailability",
+	"name":{
+		"defaultValue":"instantaneous unavailability",
+		"i18nValue":{
+			"en_US":"instantaneous unavailability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

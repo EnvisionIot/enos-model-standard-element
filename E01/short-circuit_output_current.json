@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"current that flows through the output pins when the outputs have been shorted to the ground under the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"short-circuit_output_current",
+	"name":{
+		"defaultValue":"short-circuit output current",
+		"i18nValue":{
+			"en_US":"short-circuit output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

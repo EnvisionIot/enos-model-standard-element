@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"HORIZ":{
+				"defaultValue":"horizontal (side adjustment)",
+				"i18nValue":{}
+			},
+			"VERT":{
+				"defaultValue":"vertical (top adjustment)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the direction of operation of a preset potentiometer relative to the surface on which it is mounted.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"adjustment_direction",
+	"name":{
+		"defaultValue":"adjustment direction",
+		"i18nValue":{
+			"en_US":"adjustment direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

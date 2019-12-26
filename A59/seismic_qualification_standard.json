@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to the international standard used for the earthquake engineering of components.\nfor example IEEE 693, IEC 61463, IEC 62271-207.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"seismic_qualification_standard",
+	"name":{
+		"defaultValue":"seismic qualification standard",
+		"i18nValue":{
+			"en_US":"seismic qualification standard",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

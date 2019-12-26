@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"power consumption of the crystal unit or crystal loop in the crystal oscillator circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"level_of_drive",
+	"name":{
+		"defaultValue":"level of drive",
+		"i18nValue":{
+			"en_US":"level of drive",
+			"zh_CN":null
+		}
+	},
+	"unit":"µW",
+	"version":"1.0"
+}

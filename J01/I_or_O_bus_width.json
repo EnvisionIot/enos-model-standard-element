@@ -1,0 +1,19 @@
+{
+	"category":"J01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width of the address bus of a microcontroller or microprocessor, to supply an address for I/O purposes.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"I_or_O_bus_width",
+	"name":{
+		"defaultValue":"I/O bus width",
+		"i18nValue":{
+			"en_US":"I/O bus width",
+			"zh_CN":null
+		}
+	},
+	"unit":"bit",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum supply current in erase mode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"erase_current",
+	"name":{
+		"defaultValue":"erase current",
+		"i18nValue":{
+			"en_US":"erase current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

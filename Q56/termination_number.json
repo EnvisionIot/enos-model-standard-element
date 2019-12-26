@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"numeric value which identifies the termination uniquely for each device.\nWhere the manufacturer has allocated a unique number to each terminal, that numbering identification should be used. |When that is not the case, for devices with terminals around the periphery, numbers should be allocated in an anticlockwise direction starting with the terminal nearest to the top left-hand corner of the die as viewed from the side containing the terminals.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"termination_number",
+	"name":{
+		"defaultValue":"termination number",
+		"i18nValue":{
+			"en_US":"termination number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

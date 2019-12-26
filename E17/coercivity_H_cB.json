@@ -1,0 +1,19 @@
+{
+	"category":"E17",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the magnetic field strength applied to a hard magnetic material, necessary to bring the flux density from saturation to zero by a monotonically changing field.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"coercivity_H_cB",
+	"name":{
+		"defaultValue":"coercivity H_cB",
+		"i18nValue":{
+			"en_US":"coercivity H_cB",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m",
+	"version":"1.0"
+}

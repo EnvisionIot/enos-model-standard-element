@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the temperature of the substrate of an inductive proximity sensor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"substrate_temperature",
+	"name":{
+		"defaultValue":"substrate temperature",
+		"i18nValue":{
+			"en_US":"substrate temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

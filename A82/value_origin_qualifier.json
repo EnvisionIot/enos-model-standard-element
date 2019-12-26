@@ -1,0 +1,39 @@
+{
+	"category":"A82",
+	"dataDefinition":{
+		"enumDesc":{
+			"SET":{
+				"defaultValue":"set",
+				"i18nValue":{}
+			},
+			"EST":{
+				"defaultValue":"estimated",
+				"i18nValue":{}
+			},
+			"MEA":{
+				"defaultValue":"measured",
+				"i18nValue":{}
+			},
+			"CALC":{
+				"defaultValue":"calculated",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"qualifier that specifies the type of data capturing or generation for the provided value.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"value_origin_qualifier",
+	"name":{
+		"defaultValue":"value origin qualifier",
+		"i18nValue":{
+			"en_US":"value origin qualifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

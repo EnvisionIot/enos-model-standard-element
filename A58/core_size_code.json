@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape and size of the core or core halves of a soft magnetic part.\nCode composition:| E-cores :   letter E followed by nominal length/width in mm.| EC-cores :   letters EC followed by nominal length in mm| ETD-cores :   letters ETD followed by nominal length in mm| P-cores :   letter P followed by nominal outer diameter/nominal length in mm| RM-cores :   letters RM followed by nominal sidelength of base square in mm| X-cores :   letter X followed by nominal sidelength of base square in mm| Code extension:| Codes may be extended by adding other nominal e.g. height and width.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"core_size_code",
+	"name":{
+		"defaultValue":"core size code",
+		"i18nValue":{
+			"en_US":"core size code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

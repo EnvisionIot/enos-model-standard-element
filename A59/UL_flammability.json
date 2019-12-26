@@ -1,0 +1,67 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"94HBF-1":{
+				"defaultValue":"94HBF-1",
+				"i18nValue":{}
+			},
+			"94HBF-2":{
+				"defaultValue":"94HBF-2",
+				"i18nValue":{}
+			},
+			"94V-0":{
+				"defaultValue":"94V-0",
+				"i18nValue":{}
+			},
+			"94V-1":{
+				"defaultValue":"94V-1",
+				"i18nValue":{}
+			},
+			"94VTM-0":{
+				"defaultValue":"94VTM-0",
+				"i18nValue":{}
+			},
+			"94-5V":{
+				"defaultValue":"94-5V",
+				"i18nValue":{}
+			},
+			"94HBF":{
+				"defaultValue":"94HBF",
+				"i18nValue":{}
+			},
+			"94VTM-1":{
+				"defaultValue":"94VTM-1",
+				"i18nValue":{}
+			},
+			"94VTM-2":{
+				"defaultValue":"94VTM-2",
+				"i18nValue":{}
+			},
+			"94V-2":{
+				"defaultValue":"94V-2",
+				"i18nValue":{}
+			},
+			"94HB":{
+				"defaultValue":"94HB",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"UL code of the flammability of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"UL_flammability",
+	"name":{
+		"defaultValue":"UL flammability",
+		"i18nValue":{
+			"en_US":"UL flammability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

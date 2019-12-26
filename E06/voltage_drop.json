@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc or ac rms voltage across a fuse-link at the rated current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"voltage_drop",
+	"name":{
+		"defaultValue":"voltage drop",
+		"i18nValue":{
+			"en_US":"voltage drop",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

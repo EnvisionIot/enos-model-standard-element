@@ -1,0 +1,51 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"OO":{
+				"defaultValue":"on/off indication",
+				"i18nValue":{}
+			},
+			"BAR":{
+				"defaultValue":"barrier",
+				"i18nValue":{}
+			},
+			"KNOB":{
+				"defaultValue":"knob",
+				"i18nValue":{}
+			},
+			"RING":{
+				"defaultValue":"blocking ring",
+				"i18nValue":{}
+			},
+			"LED":{
+				"defaultValue":"light emitting diode",
+				"i18nValue":{}
+			},
+			"LAMP":{
+				"defaultValue":"lamp",
+				"i18nValue":{}
+			},
+			"PLATE":{
+				"defaultValue":"insulating plate",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a component integrated with a switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"integrated_function",
+	"name":{
+		"defaultValue":"integrated function",
+		"i18nValue":{
+			"en_US":"integrated function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

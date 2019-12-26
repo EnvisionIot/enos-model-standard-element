@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"typical resistance at the output of a voltage amplifier at reference conditions.\nThis is the resistance looking into the output terminal with the output at null. |This parameter is defined only under small-signal conditions at frequencies above a few hundred cycles to eliminate the influence of drift and thermal feedback.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_resistance",
+	"name":{
+		"defaultValue":"output resistance",
+		"i18nValue":{
+			"en_US":"output resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum time interval that must elapse between successive random read/write operations for a DRAM.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"random_read_or_write_cycle_time",
+	"name":{
+		"defaultValue":"random read/write cycle time",
+		"i18nValue":{
+			"en_US":"random read/write cycle time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

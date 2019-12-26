@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum number of cycles per unit of time at which a relay may operate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_of_operation",
+	"name":{
+		"defaultValue":"frequency of operation",
+		"i18nValue":{
+			"en_US":"frequency of operation",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/s",
+	"version":"1.0"
+}

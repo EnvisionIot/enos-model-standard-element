@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum cycle of the read enable signal during a sequential data access.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"read_cycle_time",
+	"name":{
+		"defaultValue":"read cycle time",
+		"i18nValue":{
+			"en_US":"read cycle time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

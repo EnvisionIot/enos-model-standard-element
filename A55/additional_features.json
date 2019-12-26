@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of features that are incorporated in a switch in addition to the switching action.\nAdditional features may include such items as indicator lamps, locking mechanisms, earthing terminal etc.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"additional_features",
+	"name":{
+		"defaultValue":"additional features",
+		"i18nValue":{
+			"en_US":"additional features",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

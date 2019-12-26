@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a document or file that contains either a map of a wafer containing die devices, indicating the quality or performance levels of each, or a key to the corresponding marks used on the die on the wafer itself.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"wafer_map",
+	"name":{
+		"defaultValue":"wafer map",
+		"i18nValue":{
+			"en_US":"wafer map",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

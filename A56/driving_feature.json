@@ -1,0 +1,63 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SQUARE":{
+				"defaultValue":"square",
+				"i18nValue":{}
+			},
+			"HEXSKT":{
+				"defaultValue":"hexagon socket",
+				"i18nValue":{}
+			},
+			"SUPA":{
+				"defaultValue":"supadrive",
+				"i18nValue":{}
+			},
+			"TORX":{
+				"defaultValue":"torx",
+				"i18nValue":{}
+			},
+			"PHILL":{
+				"defaultValue":"phillips",
+				"i18nValue":{}
+			},
+			"SLOT":{
+				"defaultValue":"slotted",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"supadrive, type X",
+				"i18nValue":{}
+			},
+			"HEX":{
+				"defaultValue":"hexagon",
+				"i18nValue":{}
+			},
+			"POZI":{
+				"defaultValue":"pozidrive",
+				"i18nValue":{}
+			},
+			"CROSDR":{
+				"defaultValue":"crossed recessed",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the driving feature of a component.\nFor electric-electronic components the values hexagon, crossed recessed and slotted are valid.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"driving_feature",
+	"name":{
+		"defaultValue":"driving feature",
+		"i18nValue":{
+			"en_US":"driving feature",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

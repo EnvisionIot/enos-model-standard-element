@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the torque required to operate the shaft of a rotary potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rotation_torque",
+	"name":{
+		"defaultValue":"rotation torque",
+		"i18nValue":{
+			"en_US":"rotation torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

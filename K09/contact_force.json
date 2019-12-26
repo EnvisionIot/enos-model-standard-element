@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the normal force which exists between engaged contact surfaces.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_force",
+	"name":{
+		"defaultValue":"contact force",
+		"i18nValue":{
+			"en_US":"contact force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

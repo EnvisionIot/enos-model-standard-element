@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal radius of the screen of a display tube at screen centre.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"screen_curvature_radius",
+	"name":{
+		"defaultValue":"screen curvature radius",
+		"i18nValue":{
+			"en_US":"screen curvature radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

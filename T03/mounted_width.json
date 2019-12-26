@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"overall width, as specified by level (miNomax), in the package width direction which includes the package width and any terminals which are bent to be perpendicular to the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounted_width",
+	"name":{
+		"defaultValue":"mounted width",
+		"i18nValue":{
+			"en_US":"mounted width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

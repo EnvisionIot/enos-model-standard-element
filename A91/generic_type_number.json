@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"that part of the type number of a component which identifies its generic function.\nFor many semiconductor devices, the generic type number is that part of the manufacturer's full type number with the omission of manufacturer-specific prefixes and suffixes that identify package and performance variants.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"generic_type_number",
+	"name":{
+		"defaultValue":"generic type number",
+		"i18nValue":{
+			"en_US":"generic type number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

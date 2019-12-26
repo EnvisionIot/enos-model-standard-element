@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"imaginary part of an impedance X=Im(Z#0331).\nThe reactance of a series-resonant circuit is X=ωL−1/ωC, where L is inductance, C is capacitance, and ω is angular frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reactance",
+	"name":{
+		"defaultValue":"reactance",
+		"i18nValue":{
+			"en_US":"reactance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

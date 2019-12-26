@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum time interval between the instant when the on-state current has decreased to zero after external switching of the anode-cathode voltage and the instant when the specified on-state voltage which the thyristor is capable of supporting without turning on, passes through zero with a specified rate of rise of on-state voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"commutated_turn-off_time",
+	"name":{
+		"defaultValue":"commutated turn-off time",
+		"i18nValue":{
+			"en_US":"commutated turn-off time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

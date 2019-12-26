@@ -1,0 +1,95 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"DEC":{
+				"defaultValue":"decoder",
+				"i18nValue":{}
+			},
+			"MOD":{
+				"defaultValue":"modulator",
+				"i18nValue":{}
+			},
+			"AMP":{
+				"defaultValue":"amplifier",
+				"i18nValue":{}
+			},
+			"DCC":{
+				"defaultValue":"dc controlled amplifier",
+				"i18nValue":{}
+			},
+			"PREAMP":{
+				"defaultValue":"preamplifier",
+				"i18nValue":{}
+			},
+			"FIL":{
+				"defaultValue":"filter",
+				"i18nValue":{}
+			},
+			"TUN":{
+				"defaultValue":"tuner",
+				"i18nValue":{}
+			},
+			"DEM":{
+				"defaultValue":"demodulator",
+				"i18nValue":{}
+			},
+			"FS":{
+				"defaultValue":"frequency synthesizer",
+				"i18nValue":{}
+			},
+			"BDP":{
+				"defaultValue":"band-pass amplifier",
+				"i18nValue":{}
+			},
+			"SUP":{
+				"defaultValue":"interference suppression filter",
+				"i18nValue":{}
+			},
+			"COMP":{
+				"defaultValue":"comparator",
+				"i18nValue":{}
+			},
+			"RED":{
+				"defaultValue":"noise reduction filtter",
+				"i18nValue":{}
+			},
+			"DOLBY":{
+				"defaultValue":"Dolby noise reduction filter",
+				"i18nValue":{}
+			},
+			"ENC":{
+				"defaultValue":"encoder",
+				"i18nValue":{}
+			},
+			"MIX":{
+				"defaultValue":"mixer",
+				"i18nValue":{}
+			},
+			"OPAMP":{
+				"defaultValue":"operational amplifier",
+				"i18nValue":{}
+			},
+			"PRESC":{
+				"defaultValue":"prescaler",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying an analogue signal function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"analogue_function",
+	"name":{
+		"defaultValue":"analogue function",
+		"i18nValue":{
+			"en_US":"analogue function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

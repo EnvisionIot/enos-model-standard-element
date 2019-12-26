@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum width of a conductive track on a printed wiring circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"track_width",
+	"name":{
+		"defaultValue":"track width",
+		"i18nValue":{
+			"en_US":"track width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

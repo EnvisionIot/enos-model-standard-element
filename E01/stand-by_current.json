@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"consumed current at which, by application of an external control voltage, the oscillation of the crystal is stopped for the device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-by_current",
+	"name":{
+		"defaultValue":"stand-by current",
+		"i18nValue":{
+			"en_US":"stand-by current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

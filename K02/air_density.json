@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mass per unit volume of air.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"air_density",
+	"name":{
+		"defaultValue":"air density",
+		"i18nValue":{
+			"en_US":"air density",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

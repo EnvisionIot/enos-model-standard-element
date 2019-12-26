@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC current flowing through the input terminal of a digital function of an integrated circuit, when the input voltage corresponds to a logic HIGH level, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"HIGH-level_input_current",
+	"name":{
+		"defaultValue":"HIGH-level input current",
+		"i18nValue":{
+			"en_US":"HIGH-level input current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

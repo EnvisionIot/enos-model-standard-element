@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"proportion of detected faults that can be successfully corrected.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repair_coverage",
+	"name":{
+		"defaultValue":"repair coverage",
+		"i18nValue":{
+			"en_US":"repair coverage",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal height of a character of a liquid crystal display module.\nThe height is measured in the vertical direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"character_height",
+	"name":{
+		"defaultValue":"character height",
+		"i18nValue":{
+			"en_US":"character height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"SREL":{
+				"defaultValue":"synchronous reluctance",
+				"i18nValue":{}
+			},
+			"ASYN":{
+				"defaultValue":"asynchronous",
+				"i18nValue":{}
+			},
+			"SYN":{
+				"defaultValue":"synchronous",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the synchronism of an ac motor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"ac_motor_synchronism",
+	"name":{
+		"defaultValue":"ac motor synchronism",
+		"i18nValue":{
+			"en_US":"ac motor synchronism",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

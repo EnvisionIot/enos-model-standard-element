@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of temperature variance as measured on the enclosure surface, specified by the minimum and maximum values, within which the quartz crystal device can be kept in storage without deterioration or damage to its performance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"storage_temperature_range",
+	"name":{
+		"defaultValue":"storage temperature range",
+		"i18nValue":{
+			"en_US":"storage temperature range",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

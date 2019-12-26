@@ -1,0 +1,19 @@
+{
+	"category":"F10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference value of the relative attenuation used to define the pass bandwidth.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"relative_attenuation_of_pass_bandwidth",
+	"name":{
+		"defaultValue":"relative attenuation of pass bandwidth",
+		"i18nValue":{
+			"en_US":"relative attenuation of pass bandwidth",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

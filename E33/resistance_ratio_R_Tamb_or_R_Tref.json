@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the ratio of the ohmic resistances of a temperature sensor at specified ambient temperature and its resistance at the reference temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resistance_ratio_R_Tamb_or_R_Tref",
+	"name":{
+		"defaultValue":"resistance ratio R_Tamb}/R_Tref}",
+		"i18nValue":{
+			"en_US":"resistance ratio R_Tamb}/R_Tref}",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

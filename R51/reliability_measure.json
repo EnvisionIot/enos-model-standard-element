@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"probability of performing as required for the time interval (t1, t2), under given conditions.\nNote 1 Given conditions include aspects that affect reliability, such as: mode of operation; stress levels; environmental conditions; and maintenance, where applicable. \r\n\r\nNote 2 It is usually assumed that the item is in a state to perform as required at the beginning of the time interval. \r\n\r\nNote 3 When t1 = 0 and t2 = t, then R(0, t) is denoted simply as R(t) and termed the reliability function, or survival function of the item. \r\n\r\nNote 4 See also reliability of an item IEV 192-01-24:2015-02.\nSee IEC 61703, Mathematical expressions for reliability, availability, maintainability and maintenance support terms, for more details.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reliability_measure",
+	"name":{
+		"defaultValue":"reliability measure",
+		"i18nValue":{
+			"en_US":"reliability measure",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

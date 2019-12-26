@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the height of a layer of water being converted from the liquid into a solid state to a specified unit time during a freezing process.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ice_formation_intensity",
+	"name":{
+		"defaultValue":"ice formation intensity",
+		"i18nValue":{
+			"en_US":"ice formation intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm/h",
+	"version":"1.0"
+}

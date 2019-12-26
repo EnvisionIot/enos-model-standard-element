@@ -1,0 +1,19 @@
+{
+	"category":"E37",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"scalar or tensor quantity the product of which by the electric field strength in the water is equal to the electric current density at a given reference temperature of the water.\nFor an isotropic medium the conductivity is a scalar quantity; for an anisotropic medium it is a tensor quantity.\nFor reference purposes conductivity values are provided at a reference temperature of 20 °C.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"electric_conductivity_of_water",
+	"name":{
+		"defaultValue":"electric conductivity of water",
+		"i18nValue":{
+			"en_US":"electric conductivity of water",
+			"zh_CN":null
+		}
+	},
+	"unit":"S/m",
+	"version":"1.0"
+}

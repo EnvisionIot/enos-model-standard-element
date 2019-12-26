@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum standby supply current of a digital combinatorial, sequential or interface IC with the output enabled.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"standby_current_enabled",
+	"name":{
+		"defaultValue":"standby current enabled",
+		"i18nValue":{
+			"en_US":"standby current enabled",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

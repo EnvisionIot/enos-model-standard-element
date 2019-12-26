@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the static ratio of the collector current to the base current of a bipolar transistor in common emitter configuration, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dc_current_gain",
+	"name":{
+		"defaultValue":"dc current gain",
+		"i18nValue":{
+			"en_US":"dc current gain",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

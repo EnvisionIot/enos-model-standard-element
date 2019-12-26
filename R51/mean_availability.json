@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average value of the instantaneous availability over a given time interval (t1, t2).\nNote 1 The mean availability is related to the instantaneous availability A(t) as:\r\n\r\nA¯¯¯(t1, t2)=1t2−t1∫ t2 t1A(t) dt\r\n\r\nNote 2 Terms 'mean' or 'average' are used as synonyms  to the arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_availability",
+	"name":{
+		"defaultValue":"mean availability",
+		"i18nValue":{
+			"en_US":"mean availability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

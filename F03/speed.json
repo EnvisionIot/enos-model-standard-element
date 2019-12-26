@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Speed of a rotational motor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"speed",
+	"name":{
+		"defaultValue":"speed",
+		"i18nValue":{
+			"en_US":"speed",
+			"zh_CN":null
+		}
+	},
+	"unit":"rpm",
+	"version":"1.0"
+}

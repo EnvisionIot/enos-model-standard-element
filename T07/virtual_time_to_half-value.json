@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"virtual time to half-value t_2 of an impulse current applied to a stabiliser diode, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"virtual_time_to_half-value",
+	"name":{
+		"defaultValue":"virtual time to half-value",
+		"i18nValue":{
+			"en_US":"virtual time to half-value",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

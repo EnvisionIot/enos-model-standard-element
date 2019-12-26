@@ -1,0 +1,55 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"level 1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"level 2",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"level 3",
+				"i18nValue":{}
+			},
+			"4":{
+				"defaultValue":"level 4",
+				"i18nValue":{}
+			},
+			"5":{
+				"defaultValue":"level 5",
+				"i18nValue":{}
+			},
+			"6":{
+				"defaultValue":"level 6",
+				"i18nValue":{}
+			},
+			"5a":{
+				"defaultValue":"level 5a",
+				"i18nValue":{}
+			},
+			"2a":{
+				"defaultValue":"level 2a",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code giving the sensitivity of moisture ingress for a packaged integrated circuit or am minimally-packaged die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"moisture_sensitivity_level",
+	"name":{
+		"defaultValue":"moisture sensitivity level",
+		"i18nValue":{
+			"en_US":"moisture sensitivity level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

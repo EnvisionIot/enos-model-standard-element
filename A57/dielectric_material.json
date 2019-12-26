@@ -1,0 +1,51 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CER":{
+				"defaultValue":"ceramic",
+				"i18nValue":{}
+			},
+			"MIC":{
+				"defaultValue":"mica",
+				"i18nValue":{}
+			},
+			"WOO":{
+				"defaultValue":"wood",
+				"i18nValue":{}
+			},
+			"CLO":{
+				"defaultValue":"cloth",
+				"i18nValue":{}
+			},
+			"GLA":{
+				"defaultValue":"glass",
+				"i18nValue":{}
+			},
+			"PAP":{
+				"defaultValue":"paper",
+				"i18nValue":{}
+			},
+			"RUB":{
+				"defaultValue":"rubber",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of a dielectric material.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_material",
+	"name":{
+		"defaultValue":"dielectric material",
+		"i18nValue":{
+			"en_US":"dielectric material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

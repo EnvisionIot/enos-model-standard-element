@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"Au":{
+				"defaultValue":"gold",
+				"i18nValue":{}
+			},
+			"Pd":{
+				"defaultValue":"palladium",
+				"i18nValue":{}
+			},
+			"Zn":{
+				"defaultValue":"zinc",
+				"i18nValue":{}
+			},
+			"Ag":{
+				"defaultValue":"silver",
+				"i18nValue":{}
+			},
+			"CuZn":{
+				"defaultValue":"brass",
+				"i18nValue":{}
+			},
+			"PCuSn":{
+				"defaultValue":"phosphor bronze",
+				"i18nValue":{}
+			},
+			"Ni":{
+				"defaultValue":"nickel",
+				"i18nValue":{}
+			},
+			"Sn":{
+				"defaultValue":"tin",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the finish material of the contacts of a connector, relay or switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"contact_finish",
+	"name":{
+		"defaultValue":"contact finish",
+		"i18nValue":{
+			"en_US":"contact finish",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

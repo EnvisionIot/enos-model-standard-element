@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"MOSFET":{
+				"defaultValue":"metal oxide semiconductor FET",
+				"i18nValue":{}
+			},
+			"JFET":{
+				"defaultValue":"junction FET",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the technology of a field-effect transistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"FET-technology",
+	"name":{
+		"defaultValue":"FET-technology",
+		"i18nValue":{
+			"en_US":"FET-technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

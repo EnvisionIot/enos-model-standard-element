@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"upper tolerance of the rated capacitance of a fixed capacitor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_upper_tolerance",
+	"name":{
+		"defaultValue":"capacitance upper tolerance",
+		"i18nValue":{
+			"en_US":"capacitance upper tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

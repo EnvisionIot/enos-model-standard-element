@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum difference between the positive-going and negative-going threshold voltages of a combinatorial, sequential or interface function of an IC in a temperature range between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hysteresis",
+	"name":{
+		"defaultValue":"hysteresis",
+		"i18nValue":{
+			"en_US":"hysteresis",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

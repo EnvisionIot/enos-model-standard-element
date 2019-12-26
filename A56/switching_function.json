@@ -1,0 +1,99 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"BB":{
+				"defaultValue":"G break-break",
+				"i18nValue":{}
+			},
+			"MM":{
+				"defaultValue":"F make-make",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"B break (on-off)",
+				"i18nValue":{}
+			},
+			"BMM":{
+				"defaultValue":"L break-make-make",
+				"i18nValue":{}
+			},
+			"MMB":{
+				"defaultValue":"J make-make-break",
+				"i18nValue":{}
+			},
+			"DBDM-T":{
+				"defaultValue":"W DB double make (terminal on armature)",
+				"i18nValue":{}
+			},
+			"DM":{
+				"defaultValue":"X double make",
+				"i18nValue":{}
+			},
+			"BM":{
+				"defaultValue":"C break-make (change-over)",
+				"i18nValue":{}
+			},
+			"BBM":{
+				"defaultValue":"H break-break-make",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"A make (off-on)",
+				"i18nValue":{}
+			},
+			"MNM":{
+				"defaultValue":"K two-way make normally open",
+				"i18nValue":{}
+			},
+			"DM-T":{
+				"defaultValue":"U double make (terminal on armature)",
+				"i18nValue":{}
+			},
+			"MB":{
+				"defaultValue":"D make-break",
+				"i18nValue":{}
+			},
+			"BMB":{
+				"defaultValue":"E break-make-break",
+				"i18nValue":{}
+			},
+			"BNB":{
+				"defaultValue":"M two-way break normally closed",
+				"i18nValue":{}
+			},
+			"DBDM":{
+				"defaultValue":"Z double break double make",
+				"i18nValue":{}
+			},
+			"MBM":{
+				"defaultValue":"I make-break-make",
+				"i18nValue":{}
+			},
+			"DB-T":{
+				"defaultValue":"V double break (terminal on armature)",
+				"i18nValue":{}
+			},
+			"DB":{
+				"defaultValue":"Y double break",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the switching function of the contact assembly of a relay or switch.\nNot all values apply to switches.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"switching_function",
+	"name":{
+		"defaultValue":"switching function",
+		"i18nValue":{
+			"en_US":"switching function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

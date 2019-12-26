@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the peak-to-peak output voltage of a voltage amplifier over the operating temperature range, at specified load resistance and supply voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_voltage_peak-to-peak",
+	"name":{
+		"defaultValue":"output voltage peak-to-peak",
+		"i18nValue":{
+			"en_US":"output voltage peak-to-peak",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

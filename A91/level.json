@@ -1,0 +1,43 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"minTyp":{
+				"defaultValue":"minimum/typical",
+				"i18nValue":{}
+			},
+			"miNoMax":{
+				"defaultValue":"minimum/nominal/maximum",
+				"i18nValue":{}
+			},
+			"typMax":{
+				"defaultValue":"typical/maximum",
+				"i18nValue":{}
+			},
+			"minMax":{
+				"defaultValue":"minimum/maximum",
+				"i18nValue":{}
+			},
+			"minTypMax":{
+				"defaultValue":"minimum/typical/maximum",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Abbreviated name of the value level of a physical quantity, distinguishing it from other possible or allowed values of the same quantity.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"level",
+	"name":{
+		"defaultValue":"level",
+		"i18nValue":{
+			"en_US":"level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

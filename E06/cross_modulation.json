@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the cross modulation measured at the output of a wideband amplifier when a specified number of carrier frequencies, with each an equal output voltage, is applied to the input of the module at specified supply voltage, temperature of a temperature type.\n1 All carrier frequencies are switched on/off with a duty cycle of 50% and a repetition frequency of: |15.750 kHz for 60 Hz mains frequencies and |15.625 kHz for 50 Hz mains frequencies. |2 100% is specified as 0 dB| 1% is specified as -40 dB.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cross_modulation",
+	"name":{
+		"defaultValue":"cross modulation",
+		"i18nValue":{
+			"en_US":"cross modulation",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

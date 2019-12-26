@@ -1,0 +1,19 @@
+{
+	"category":"K15",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the air pressure to a specified period of time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"change_rate_of_atmospheric_pressure",
+	"name":{
+		"defaultValue":"change rate of atmospheric pressure",
+		"i18nValue":{
+			"en_US":"change rate of atmospheric pressure",
+			"zh_CN":null
+		}
+	},
+	"unit":"Pa/h",
+	"version":"1.0"
+}

@@ -1,0 +1,47 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"HYB":{
+				"defaultValue":"hybrid",
+				"i18nValue":{}
+			},
+			"RF":{
+				"defaultValue":"radio frequency",
+				"i18nValue":{}
+			},
+			"PUL":{
+				"defaultValue":"pulse",
+				"i18nValue":{}
+			},
+			"ROT":{
+				"defaultValue":"rotary",
+				"i18nValue":{}
+			},
+			"LF":{
+				"defaultValue":"low-frequency",
+				"i18nValue":{}
+			},
+			"WB":{
+				"defaultValue":"wide-band",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a signal transformer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_transformer_type",
+	"name":{
+		"defaultValue":"signal transformer type",
+		"i18nValue":{
+			"en_US":"signal transformer type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

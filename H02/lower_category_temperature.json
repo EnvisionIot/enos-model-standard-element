@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower category (ambient) temperature of a component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"lower_category_temperature",
+	"name":{
+		"defaultValue":"lower category temperature",
+		"i18nValue":{
+			"en_US":"lower category temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

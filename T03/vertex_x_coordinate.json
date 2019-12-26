@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the x coordinate of a vertex of a polygonal pad relative to the centre of the pad.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"vertex_x_coordinate",
+	"name":{
+		"defaultValue":"vertex x coordinate",
+		"i18nValue":{
+			"en_US":"vertex x coordinate",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

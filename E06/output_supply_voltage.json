@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC voltage range and typical value for which an integrated circuit device operates normally when applied to the output stage.\nCommonly known supply voltage symbols:\nVCCO for TTL, NMOS and HCMOS circuits\nVDDO for CMOS circuits.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_supply_voltage",
+	"name":{
+		"defaultValue":"output supply voltage",
+		"i18nValue":{
+			"en_US":"output supply voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

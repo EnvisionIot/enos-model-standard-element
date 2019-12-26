@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date when the status of the administered item will come into force.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"effective_date",
+	"name":{
+		"defaultValue":"effective date",
+		"i18nValue":{
+			"en_US":"effective date",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

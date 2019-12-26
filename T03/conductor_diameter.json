@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the diameter of a conductive part of a round conductor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"conductor_diameter",
+	"name":{
+		"defaultValue":"conductor diameter",
+		"i18nValue":{
+			"en_US":"conductor diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

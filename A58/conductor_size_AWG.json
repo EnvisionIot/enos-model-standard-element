@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"AWG code of the size of a conductive part of a conductor.\nFor values see Standard nominal diameters and cross sectional areas of solid round wires.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductor_size_AWG",
+	"name":{
+		"defaultValue":"conductor size AWG",
+		"i18nValue":{
+			"en_US":"conductor size AWG",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

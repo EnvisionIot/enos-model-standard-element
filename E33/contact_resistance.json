@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum resistance of a mated set of contacts of a connector, relay or switch.\nMeasuring procedure according IEC 60255-7(23) (1991).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_resistance",
+	"name":{
+		"defaultValue":"contact resistance",
+		"i18nValue":{
+			"en_US":"contact resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

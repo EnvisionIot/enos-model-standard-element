@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"insulating material group 1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"insulating material group 2",
+				"i18nValue":{}
+			},
+			"3a":{
+				"defaultValue":"insulating material group 3a",
+				"i18nValue":{}
+			},
+			"3b":{
+				"defaultValue":"insulating material group 3b",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"standardized code indicating the group of the insulating material an EM component is made from.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"insulating_material_group",
+	"name":{
+		"defaultValue":"insulating material group",
+		"i18nValue":{
+			"en_US":"insulating material group",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

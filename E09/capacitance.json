@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the capacitance between the electrodes of a spark gap at specified frequency and temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance",
+	"name":{
+		"defaultValue":"capacitance",
+		"i18nValue":{
+			"en_US":"capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

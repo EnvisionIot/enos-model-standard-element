@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Nominal value of the diameter of a round contact of a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"male_contact_diameter",
+	"name":{
+		"defaultValue":"male contact diameter",
+		"i18nValue":{
+			"en_US":"male contact diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

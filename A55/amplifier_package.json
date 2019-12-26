@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the package of an amplifier.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"amplifier_package",
+	"name":{
+		"defaultValue":"amplifier package",
+		"i18nValue":{
+			"en_US":"amplifier package",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

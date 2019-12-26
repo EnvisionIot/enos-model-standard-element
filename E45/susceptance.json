@@ -1,0 +1,19 @@
+{
+	"category":"E45",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistive or real part as given by level (miNomax) of the admittance of an electric component having an admittance property.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"susceptance",
+	"name":{
+		"defaultValue":"susceptance",
+		"i18nValue":{
+			"en_US":"susceptance",
+			"zh_CN":null
+		}
+	},
+	"unit":"S",
+	"version":"1.0"
+}

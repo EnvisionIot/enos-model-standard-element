@@ -1,0 +1,87 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"PP":{
+				"defaultValue":"polypropylene",
+				"i18nValue":{}
+			},
+			"PTFE":{
+				"defaultValue":"polytetrafluoroethylene",
+				"i18nValue":{}
+			},
+			"POLY":{
+				"defaultValue":"polymer",
+				"i18nValue":{}
+			},
+			"PAPER":{
+				"defaultValue":"paper",
+				"i18nValue":{}
+			},
+			"PFA":{
+				"defaultValue":"perfluoro alkoxyl alkane",
+				"i18nValue":{}
+			},
+			"RUBBER":{
+				"defaultValue":"rubber",
+				"i18nValue":{}
+			},
+			"E/TFE":{
+				"defaultValue":"ethylene/tetrafluoroethylene",
+				"i18nValue":{}
+			},
+			"PUR":{
+				"defaultValue":"polyurethane",
+				"i18nValue":{}
+			},
+			"FEP":{
+				"defaultValue":"fluoroepoxy",
+				"i18nValue":{}
+			},
+			"PA":{
+				"defaultValue":"polyamide",
+				"i18nValue":{}
+			},
+			"ENAM":{
+				"defaultValue":"enamel",
+				"i18nValue":{}
+			},
+			"PE":{
+				"defaultValue":"polyethylene",
+				"i18nValue":{}
+			},
+			"ECTFE":{
+				"defaultValue":"ethyl cellulose tetrafluoroethylene",
+				"i18nValue":{}
+			},
+			"UP":{
+				"defaultValue":"unsaturated polyester",
+				"i18nValue":{}
+			},
+			"PVC":{
+				"defaultValue":"polyvinylchloride",
+				"i18nValue":{}
+			},
+			"TEXTILE":{
+				"defaultValue":"textile",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ISO code of the material of the insulating layer of an insulated conductor.\nOnly the polymers are coded according to ISO.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"insulating_material",
+	"name":{
+		"defaultValue":"insulating material",
+		"i18nValue":{
+			"en_US":"insulating material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

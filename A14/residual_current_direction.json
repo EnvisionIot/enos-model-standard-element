@@ -1,0 +1,21 @@
+{
+	"category":"A14",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direction of the horizontal movement of the current driven by non-tidal mechanisms.\nThe current direction is defined as “going to” in contrast to wind and wave direction.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"residual_current_direction",
+	"name":{
+		"defaultValue":"residual current direction",
+		"i18nValue":{
+			"en_US":"residual current direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

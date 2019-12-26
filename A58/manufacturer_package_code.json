@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code by which the manufacturer identifies the package style or a specific dimension set.\nIf necessary, a code may be supplemented by descriptive text to distinguish variants.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"manufacturer_package_code",
+	"name":{
+		"defaultValue":"manufacturer package code",
+		"i18nValue":{
+			"en_US":"manufacturer package code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

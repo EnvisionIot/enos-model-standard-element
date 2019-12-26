@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":7
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of the page in the source document on which the dimension set is given.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"source_document_page",
+	"name":{
+		"defaultValue":"source document page",
+		"i18nValue":{
+			"en_US":"source document page",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

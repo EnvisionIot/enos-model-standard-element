@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mark that indicates whether the terminals of one function or one component may be exchanged.\nRules should be established for the identification of permutable terminals.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"permutability_indicator",
+	"name":{
+		"defaultValue":"permutability indicator",
+		"i18nValue":{
+			"en_US":"permutability indicator",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

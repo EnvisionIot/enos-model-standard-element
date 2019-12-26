@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a card providing structured information  about the first activity steps to be done, and which specific equipment is required after an accident with dangerous goods when no substance specific information is at hand by the manufacturer.\nThe ERI card is directed to fire brigades or other authorities or organizations with safety functions and is based on the UN Recommendations on the Transport of Dangerous Goods and UNECE -European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), 2015.\nThe ERI Cards may be downloaded from CEFIC web site.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"ERI_card_number",
+	"name":{
+		"defaultValue":"ERI card number",
+		"i18nValue":{
+			"en_US":"ERI card number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

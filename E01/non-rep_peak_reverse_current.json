@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"non-repetitive peak reverse current of a stabiliser diode, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"non-rep_peak_reverse_current",
+	"name":{
+		"defaultValue":"non-rep peak reverse current",
+		"i18nValue":{
+			"en_US":"non-rep peak reverse current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

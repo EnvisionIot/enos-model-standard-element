@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"positive value of the absolute tolerance on the nominal value of the capacitance of an electric component where positive and negative tolerance values are unequal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"positive_capacitance_tolerance",
+	"name":{
+		"defaultValue":"positive capacitance tolerance",
+		"i18nValue":{
+			"en_US":"positive capacitance tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

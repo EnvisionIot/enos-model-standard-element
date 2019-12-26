@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the angle between the axis of the cone and the generator of the conical surface of a right circular cone.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"semi_angle",
+	"name":{
+		"defaultValue":"semi angle",
+		"i18nValue":{
+			"en_US":"semi angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"upper category (ambient) temperature of a component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"upper_category_temperature",
+	"name":{
+		"defaultValue":"upper category temperature",
+		"i18nValue":{
+			"en_US":"upper category temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

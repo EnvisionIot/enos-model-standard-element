@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage between the source and the substrate of a field-effect transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"source-substrate_voltage",
+	"name":{
+		"defaultValue":"source-substrate voltage",
+		"i18nValue":{
+			"en_US":"source-substrate voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

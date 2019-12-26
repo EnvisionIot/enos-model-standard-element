@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle as specified by level (miNomax) between the terminal and the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"angular_terminal_spread",
+	"name":{
+		"defaultValue":"angular terminal spread",
+		"i18nValue":{
+			"en_US":"angular terminal spread",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

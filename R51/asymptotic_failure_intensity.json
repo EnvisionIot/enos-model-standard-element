@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the instantaneous failure intensity z(t), when time t tends to infinity.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"asymptotic_failure_intensity",
+	"name":{
+		"defaultValue":"asymptotic failure intensity",
+		"i18nValue":{
+			"en_US":"asymptotic failure intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

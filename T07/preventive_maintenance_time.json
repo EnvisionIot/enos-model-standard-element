@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of the maintenance time taken to perform preventive maintenance, including technical delays and logistic delays inherent in preventive maintenance.\nSee Figures 1 and  2 in the IEV 192-07-05.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"preventive_maintenance_time",
+	"name":{
+		"defaultValue":"preventive maintenance time",
+		"i18nValue":{
+			"en_US":"preventive maintenance time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

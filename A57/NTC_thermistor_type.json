@@ -1,0 +1,27 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CURR":{
+				"defaultValue":"current control NTC thermistor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the application type of a NTC thermistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"NTC_thermistor_type",
+	"name":{
+		"defaultValue":"NTC thermistor type",
+		"i18nValue":{
+			"en_US":"NTC thermistor type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

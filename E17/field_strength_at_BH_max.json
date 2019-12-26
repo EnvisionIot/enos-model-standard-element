@@ -1,0 +1,19 @@
+{
+	"category":"E17",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the magnetic field strength at which the BH product of a hard magnetic material is maximum.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"field_strength_at_BH_max",
+	"name":{
+		"defaultValue":"field strength at (BH)_max",
+		"i18nValue":{
+			"en_US":"field strength at (BH)_max",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m",
+	"version":"1.0"
+}

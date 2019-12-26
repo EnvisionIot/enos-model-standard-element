@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CNT":{
+				"defaultValue":"connecting wire",
+				"i18nValue":{}
+			},
+			"WND":{
+				"defaultValue":"winding wire",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the application of an insulated wire.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"wire_application",
+	"name":{
+		"defaultValue":"wire application",
+		"i18nValue":{
+			"en_US":"wire application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

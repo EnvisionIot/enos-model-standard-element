@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"RF":{
+				"defaultValue":"radio frequency",
+				"i18nValue":{}
+			},
+			"ANT":{
+				"defaultValue":"antenna inductor",
+				"i18nValue":{}
+			},
+			"LF":{
+				"defaultValue":"low-frequency",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a variable inductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"variable_inductor_type",
+	"name":{
+		"defaultValue":"variable inductor type",
+		"i18nValue":{
+			"en_US":"variable inductor type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

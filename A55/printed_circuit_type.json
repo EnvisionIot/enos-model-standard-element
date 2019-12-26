@@ -1,0 +1,59 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"SDR":{
+				"defaultValue":"single- or double-sided rigid",
+				"i18nValue":{}
+			},
+			"CER":{
+				"defaultValue":"ceramic-based",
+				"i18nValue":{}
+			},
+			"DFR":{
+				"defaultValue":"double-sided flex-rigid",
+				"i18nValue":{}
+			},
+			"MLR":{
+				"defaultValue":"multi-layer rigid",
+				"i18nValue":{}
+			},
+			"SDF":{
+				"defaultValue":"single- or double-sided flexible",
+				"i18nValue":{}
+			},
+			"MLF":{
+				"defaultValue":"multi-layer flexible",
+				"i18nValue":{}
+			},
+			"MFR":{
+				"defaultValue":"multi-layer flex-rigid",
+				"i18nValue":{}
+			},
+			"BUP":{
+				"defaultValue":"build-up",
+				"i18nValue":{}
+			},
+			"MET":{
+				"defaultValue":"metal-based",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of printed wiring circuit or board.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"printed_circuit_type",
+	"name":{
+		"defaultValue":"printed circuit type",
+		"i18nValue":{
+			"en_US":"printed circuit type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

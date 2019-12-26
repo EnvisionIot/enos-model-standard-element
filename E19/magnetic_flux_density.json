@@ -1,0 +1,19 @@
+{
+	"category":"E19",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the magnetic flux density of a soft magnetic material at specified frequency, ambient temperature and peak magnetic field strength.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"magnetic_flux_density",
+	"name":{
+		"defaultValue":"magnetic flux density",
+		"i18nValue":{
+			"en_US":"magnetic flux density",
+			"zh_CN":null
+		}
+	},
+	"unit":"T",
+	"version":"1.0"
+}

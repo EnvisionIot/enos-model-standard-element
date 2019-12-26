@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the y coordinate of a vertex of a polygonal pad relative to the centre of the pad.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"vertex_y_coordinate",
+	"name":{
+		"defaultValue":"vertex y coordinate",
+		"i18nValue":{
+			"en_US":"vertex y coordinate",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

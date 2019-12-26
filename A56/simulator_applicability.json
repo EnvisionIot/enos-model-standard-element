@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"set containing the list of identities of the terminals or terminal groups to which a simulator model applies.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"simulator_applicability",
+	"name":{
+		"defaultValue":"simulator applicability",
+		"i18nValue":{
+			"en_US":"simulator applicability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

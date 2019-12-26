@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"repairable":{
+				"defaultValue":"repairable",
+				"i18nValue":{}
+			},
+			"repairable by authorized service point":{
+				"defaultValue":"repairable by authorized service point",
+				"i18nValue":{}
+			},
+			"repairable by free service point":{
+				"defaultValue":"repairable by free service point",
+				"i18nValue":{}
+			},
+			"non-repairable":{
+				"defaultValue":"non-repairable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"statement of the manufacturer whether the item is repairable or not; if repairable, recommendation provided by whom.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reparability_information_of_an_item",
+	"name":{
+		"defaultValue":"reparability information of an item",
+		"i18nValue":{
+			"en_US":"reparability information of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,144 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"last_name",
+				"name":{
+					"defaultValue":"last name",
+					"i18nValue":{
+						"en_US":"last name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"first_name",
+				"name":{
+					"defaultValue":"first name",
+					"i18nValue":{
+						"en_US":"first name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"middle_name",
+				"name":{
+					"defaultValue":"middle name",
+					"i18nValue":{
+						"en_US":"middle name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"prefix_title",
+				"name":{
+					"defaultValue":"prefix title",
+					"i18nValue":{
+						"en_US":"prefix title",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"suffix_title",
+				"name":{
+					"defaultValue":"suffix title",
+					"i18nValue":{
+						"en_US":"suffix title",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":255
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"digital_signature",
+				"name":{
+					"defaultValue":"digital signature",
+					"i18nValue":{
+						"en_US":"digital signature",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Person identification.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Person_identification_class",
+	"name":{
+		"defaultValue":"reference to Person identification class",
+		"i18nValue":{
+			"en_US":"reference to Person identification class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

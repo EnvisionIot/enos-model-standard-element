@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"PELL":{
+				"defaultValue":"thermal pellet",
+				"i18nValue":{}
+			},
+			"ELEM":{
+				"defaultValue":"thermal element",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the active element in a thermally-activated fuse.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"active_element",
+	"name":{
+		"defaultValue":"active element",
+		"i18nValue":{
+			"en_US":"active element",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

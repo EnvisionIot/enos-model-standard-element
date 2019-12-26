@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time needed to automatically erase a specific block of data from the device under the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"block_erasing_time",
+	"name":{
+		"defaultValue":"block erasing time",
+		"i18nValue":{
+			"en_US":"block erasing time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

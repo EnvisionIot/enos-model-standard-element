@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the category voltage range for a capacitor.\nThe category voltage represents the range of permissible operating voltages at all temperatures within the category temperature range.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"category_voltage",
+	"name":{
+		"defaultValue":"category voltage",
+		"i18nValue":{
+			"en_US":"category voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

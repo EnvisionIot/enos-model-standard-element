@@ -1,0 +1,19 @@
+{
+	"category":"H08",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"solar radiation energy received on a given surface area in a given time.\nIrradiation is the time integral of irradiance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"solar_irradiation",
+	"name":{
+		"defaultValue":"solar irradiation",
+		"i18nValue":{
+			"en_US":"solar irradiation",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/m²",
+	"version":"1.0"
+}

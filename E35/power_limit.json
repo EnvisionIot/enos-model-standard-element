@@ -1,0 +1,19 @@
+{
+	"category":"E35",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum power dissipated by a semiconductor device under typical worst-case conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_limit",
+	"name":{
+		"defaultValue":"power limit",
+		"i18nValue":{
+			"en_US":"power limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"A32",
+	"dataDefinition":null,
+	"dataType":"timestamp",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"quantitative expression marking an instant within a calendar day by the duration elapsed after midnight in the\r\nlocal standard time.\na) The representation of a value assigned to a time of day shall correspond to the complete representation according to ISO 8601, 5.3.1.1, expressing the local time of the day in the extended format : hh:mm:ss\r\n\r\nb) When it is required to indicate the time of the day in Coordinated Universal Time (UTC), the representation specified under a) shall be used, followed immediately, without spaces, by the UTC designator [Z] according to ISO 8601,  in the extended format: hh:mm:ssZ\r\nc) When it is required to indicate local time and the difference between local time and UTC, the representation of the difference shall be expressed according to ISO 8601, using the extended format: hh:mm:ss+hh:mm\r\n\r\nThe representation of the difference can be expressed in hours and minutes, or hours only. It shall be expressed as positive (i.e. with the leading plus sign [+]) if the local time is ahead of\r\nor equal to UTC and as negative (i.e. with the leading minus sign [–]) if it is behind UTC. The minutes component of the difference may only be omitted if the time difference is exactly an integral number of hours.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"standard_time_of_day",
+	"name":{
+		"defaultValue":"standard time of day",
+		"i18nValue":{
+			"en_US":"standard time of day",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

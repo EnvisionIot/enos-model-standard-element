@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the height of a layer of soil being converted into a frozen state to a specified unit time during a freezing process.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frost_formation_intensity",
+	"name":{
+		"defaultValue":"frost formation intensity",
+		"i18nValue":{
+			"en_US":"frost formation intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm/h",
+	"version":"1.0"
+}

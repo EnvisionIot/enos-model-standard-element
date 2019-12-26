@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Name of the accessory of a soft magnetic part to be used in the assembly of inductors and transformers.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"accessory_name",
+	"name":{
+		"defaultValue":"accessory name",
+		"i18nValue":{
+			"en_US":"accessory name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E25",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the tangent of the magnetic loss angle divided by the relative permeability of a soft magnetic material at specified ambient temperature and frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"loss_factor",
+	"name":{
+		"defaultValue":"loss factor",
+		"i18nValue":{
+			"en_US":"loss factor",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

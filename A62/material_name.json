@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name or unique identifier of the material within the product.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_name",
+	"name":{
+		"defaultValue":"material name",
+		"i18nValue":{
+			"en_US":"material name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

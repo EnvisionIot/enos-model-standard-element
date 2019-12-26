@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum peak value of the collector current of a bipolar transistor during a specified duration.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_current_peak_value",
+	"name":{
+		"defaultValue":"collector current peak value",
+		"i18nValue":{
+			"en_US":"collector current peak value",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

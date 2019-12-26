@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the frequency  at which the modulus of the voltage open-loop amplification of a voltage amplifier is equal to unity at reference conditions.\nFor amplifiers having 6 dB-per-octave rolloff, the frequency is also called unity gain bandwidth.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"unity-gain_frequency",
+	"name":{
+		"defaultValue":"unity-gain frequency",
+		"i18nValue":{
+			"en_US":"unity-gain frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of a file containing a model which may be used for simulating some aspect of the behaviour of an electronic device.\nThe file name should include the file extension as appropriate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"simulator_model_file",
+	"name":{
+		"defaultValue":"simulator model file",
+		"i18nValue":{
+			"en_US":"simulator model file",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

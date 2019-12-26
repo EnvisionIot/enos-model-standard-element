@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the quotient of the conditional probability that the failure of a non-repairable item occurs within time interval (t, t + Δt) by Δt, when Δt tends to zero, given that failure has not occurred within time interval (0, t) \r\n\r\nλ(t)=limΔt→01Δt F(t+Δt)–F(t)R(t)=f(t)R(t)\r\nλ(t)=limΔt→01Δt F(t+Δt)–F(t)R(t)=f(t)R(t)\r\n \r\nwhere F(t) and f(t) are, respectively, the distribution function and the probability density at the failure instant, and where R(t) is the reliability function, related to the reliability R(t1, t2) by R(t) = R(0, t).\nNote 1 See IEC 61703, Mathematical expressions for reliability, availability, maintainability and maintenance support terms, for more detail. \r\n\r\nNote 2 Other terms used for instantaneous failure rate are: “hazard function”; “hazard rate”; and “force of mortality” (abbreviation FOM).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"instantaneous_failure_rate",
+	"name":{
+		"defaultValue":"instantaneous failure rate",
+		"i18nValue":{
+			"en_US":"instantaneous failure rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

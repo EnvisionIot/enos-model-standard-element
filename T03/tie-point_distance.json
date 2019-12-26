@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance measured along the leads from tie point to the body of a diode, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"tie-point_distance",
+	"name":{
+		"defaultValue":"tie-point distance",
+		"i18nValue":{
+			"en_US":"tie-point distance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

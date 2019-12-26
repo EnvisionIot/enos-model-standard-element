@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"Zone 22":{
+				"defaultValue":"Zone 22",
+				"i18nValue":{}
+			},
+			"Zone 21":{
+				"defaultValue":"Zone 21",
+				"i18nValue":{}
+			},
+			"Zone 20":{
+				"defaultValue":"Zone 20",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of an area in which an explosive dust atmosphere is present, or may be expected to be present, in quantities such as to require special precautions for the construction, installation and use of electrical apparatus.\nIEC 61241-10 gives a classification of hazardous areas containing explosive dust atmospheres (see IEV 426-03-23, 426-03-24, and 426-03-25).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"hazardous_dust_area_class",
+	"name":{
+		"defaultValue":"hazardous dust area class",
+		"i18nValue":{
+			"en_US":"hazardous dust area class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

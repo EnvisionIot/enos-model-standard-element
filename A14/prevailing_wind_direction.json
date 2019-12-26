@@ -1,0 +1,21 @@
+{
+	"category":"A14",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dominating horizontal direction of the movement of the wind with the highest probability of occurrence at a given altitude above mean sea level and measured at a given period of time.\nWave and wind direction is expressed as ‘coming from’.\nIn practice the direction is applied in textual form either by abbreviations of the geographic directions or in full text (instead of being applied in nautical degree, i.e., degree relative to true north positive clockwise).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"prevailing_wind_direction",
+	"name":{
+		"defaultValue":"prevailing wind direction",
+		"i18nValue":{
+			"en_US":"prevailing wind direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

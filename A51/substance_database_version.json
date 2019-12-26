@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"version of the IEC Database which contains the list of reportable substances.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substance_database_version",
+	"name":{
+		"defaultValue":"substance database version",
+		"i18nValue":{
+			"en_US":"substance database version",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

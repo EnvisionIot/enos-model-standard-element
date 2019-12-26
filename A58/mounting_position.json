@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"VER":{
+				"defaultValue":"vertical version",
+				"i18nValue":{}
+			},
+			"HOR":{
+				"defaultValue":"horizontal version",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the (intended) mounting position of a potentiometer with printed wiring pins.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_position",
+	"name":{
+		"defaultValue":"mounting position",
+		"i18nValue":{
+			"en_US":"mounting position",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

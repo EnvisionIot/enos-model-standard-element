@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"absolute value of the error in the threshold value of the voltage at the falling edge that generates a reset signal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"detection_voltage_accuracy",
+	"name":{
+		"defaultValue":"detection voltage accuracy",
+		"i18nValue":{
+			"en_US":"detection voltage accuracy",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

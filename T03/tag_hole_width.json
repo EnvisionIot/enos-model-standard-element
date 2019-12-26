@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"smallest dimension as specified by level (miNomax) of a non-circular hole in a terminal tag or slug.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tag_hole_width",
+	"name":{
+		"defaultValue":"tag hole width",
+		"i18nValue":{
+			"en_US":"tag hole width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

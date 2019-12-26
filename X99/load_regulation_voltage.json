@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"change in the output voltage, whilst the load current is varied with the input voltage being kept stable near the set nominal value of the device.\nNOTE 1 This property shows a capability of the regulator device to keep the output voltage constant despite a change in the load current.||NOTE 2 The change of voltage is measured corresponding to the change in the load current from that at maximum load time (thus minimum current) to that at minimum load (thus maximum current) time.||NOTE 3 The actual input voltage slightly differs from the set nominal value, due to the voltage dividing effect caused by the output load and an internal impedance, which is small but existing in an actual regulator device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"load_regulation_voltage",
+	"name":{
+		"defaultValue":"load regulation voltage",
+		"i18nValue":{
+			"en_US":"load regulation voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

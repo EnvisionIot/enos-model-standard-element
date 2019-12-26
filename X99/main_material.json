@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"die material of which the semiconductor device is constructed.\nTypical materials are Si, Ge, SiC, GaAs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"main_material",
+	"name":{
+		"defaultValue":"main material",
+		"i18nValue":{
+			"en_US":"main material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

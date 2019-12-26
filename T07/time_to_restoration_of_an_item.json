@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval, from the instant of failure, until restoration.\nIf the instant of failure is indeterminate, the time interval is assumed to commence upon failure detection.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"time_to_restoration_of_an_item",
+	"name":{
+		"defaultValue":"time to restoration of an item",
+		"i18nValue":{
+			"en_US":"time to restoration of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

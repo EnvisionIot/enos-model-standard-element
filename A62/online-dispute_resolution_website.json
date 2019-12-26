@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"website managed by a public authority dedicated to helping consumers and traders resolve their disputes out-of-court.\n1 The EC website  http://ec.europa.eu/consumers/odr/  , can be used if you live in the EU and the trader is based in the EU. In some countries you can also use this site if you are a trader and you want to complain about a consumer over a good or service you sold online.\r\n2 In case of problems with something bought online, you can use this site to try to reach an out-of-court settlement.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"online-dispute_resolution_website",
+	"name":{
+		"defaultValue":"online-dispute resolution website",
+		"i18nValue":{
+			"en_US":"online-dispute resolution website",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

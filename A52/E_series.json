@@ -1,0 +1,51 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"E6":{
+				"defaultValue":"E6",
+				"i18nValue":{}
+			},
+			"E96":{
+				"defaultValue":"E96",
+				"i18nValue":{}
+			},
+			"E192":{
+				"defaultValue":"E192",
+				"i18nValue":{}
+			},
+			"E24":{
+				"defaultValue":"E24",
+				"i18nValue":{}
+			},
+			"E12":{
+				"defaultValue":"E12",
+				"i18nValue":{}
+			},
+			"E48":{
+				"defaultValue":"E48",
+				"i18nValue":{}
+			},
+			"E3":{
+				"defaultValue":"E3",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC code which identifies the preferred value series to which the resistance of a resistor or the capacitance of a capacitor belongs.\nThe E192 series is composed of rounded values of the theoretical numbers 10**n/192 in which the exponent n is a whole positive or negative number. |The E96 series is derived from the E192 series by omitting alternate terms. |The E48 series is derived from the E96 series by omitting alternate terms. |The E24 series is composed of rounded values of the theoretical numbers 10**n/24 in which the exponent n is a whole positive or negative number.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"E_series",
+	"name":{
+		"defaultValue":"E series",
+		"i18nValue":{
+			"en_US":"E series",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

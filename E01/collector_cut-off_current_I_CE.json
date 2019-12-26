@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the direct current into the collector terminal of a bipolar transistor when it is biased in the reverse direction with respect to the emitter terminal and when the base terminal is short-circuited to the emitter terminal, at specified values of collector-emitter voltage and temperature of a temperature type.\nThe collector terminal is considered to be biased in the reverse direction when it is made positive for NPN transistors or negative for PNP transistors with respect to the emitter terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_cut-off_current_I_CE",
+	"name":{
+		"defaultValue":"collector cut-off current I_CE",
+		"i18nValue":{
+			"en_US":"collector cut-off current I_CE",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

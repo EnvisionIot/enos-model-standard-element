@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the breadth of the flange of a component in the y-direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_breadth",
+	"name":{
+		"defaultValue":"flange breadth",
+		"i18nValue":{
+			"en_US":"flange breadth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

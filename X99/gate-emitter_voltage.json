@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum allowable voltage between the gate and the emitter with the collector emitter short-circuited.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate-emitter_voltage",
+	"name":{
+		"defaultValue":"gate-emitter voltage",
+		"i18nValue":{
+			"en_US":"gate-emitter voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

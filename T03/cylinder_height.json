@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the distance between the two planar circular faces of a cylinder.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cylinder_height",
+	"name":{
+		"defaultValue":"cylinder height",
+		"i18nValue":{
+			"en_US":"cylinder height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

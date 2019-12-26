@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the sub-class of a fixed class2 ceramic capacitor, as determined by the temperature characteristic of capacitance.\nFirst (numeric) character is always 2 (see AAE038-005). Second (alphabetic) character indicates maximum capacitance change in per cent with respect to C_R at 20 deg C:| U_dc = 0..........U_dc = U_R(dc)| B: +/-10..........+10/-15;| C: +/-20..........+20/-30;| D: +20/-30......+20/-40;| E: +20/-56......+20/-70;| F: +30/-80......+30/-90;| R: +/-15..........+15/-40;| X: +/-15..........+15/-25.|| Third (numeric) character indicates temperature range:| 1: -55/ +125 deg C;| 2: -55/ +85 deg C;| 3: -40/ +85 deg C;| 4: -25/ +85 deg C;| 6: +10/ +85 deg C.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dielectric_sub-class_2",
+	"name":{
+		"defaultValue":"dielectric sub-class 2",
+		"i18nValue":{
+			"en_US":"dielectric sub-class 2",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

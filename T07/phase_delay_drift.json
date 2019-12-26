@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum phase delay drift of a delay line relative to the phase delay time at 25 Cel over the operating temperature range.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"phase_delay_drift",
+	"name":{
+		"defaultValue":"phase delay drift",
+		"i18nValue":{
+			"en_US":"phase delay drift",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the cross-sectional area of the maximum connectable conductor (rigid or flexible).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_cross-sectional_area",
+	"name":{
+		"defaultValue":"rated cross-sectional area",
+		"i18nValue":{
+			"en_US":"rated cross-sectional area",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"smaller of the two radii as specified by level (miNomax) of a flange having an oval shape.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"smaller_flange_radius",
+	"name":{
+		"defaultValue":"smaller flange radius",
+		"i18nValue":{
+			"en_US":"smaller flange radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

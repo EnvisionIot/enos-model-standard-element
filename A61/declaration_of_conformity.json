@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"publicly accessible attestation of conformity, commonly available on websites.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"declaration_of_conformity",
+	"name":{
+		"defaultValue":"declaration of conformity",
+		"i18nValue":{
+			"en_US":"declaration of conformity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum repetitive peak output current of a bridge rectifier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_output_current",
+	"name":{
+		"defaultValue":"repetitive peak output current",
+		"i18nValue":{
+			"en_US":"repetitive peak output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

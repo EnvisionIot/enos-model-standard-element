@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of mechanical  transactions of an item ranging from one defined status in a different one, induced by an external control information.\nExample of item type:  valve, relay,  switch, ….",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"number_of_operation_transactions",
+	"name":{
+		"defaultValue":"number of operation transactions",
+		"i18nValue":{
+			"en_US":"number of operation transactions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

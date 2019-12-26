@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"standard deviation in a Normal (Laplace-Gauss) probability distribution.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"normal_standard_deviation",
+	"name":{
+		"defaultValue":"normal standard deviation",
+		"i18nValue":{
+			"en_US":"normal standard deviation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

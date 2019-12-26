@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"substance, that is a chemical element or a compound in its natural state or obtained by any production process, including any additive necessary to preserve the stability of the products and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition, or a preparation, that is a mixture or solution composed of two or more substances.\nAn alloy, i.e. metallic mixture, composed of at least two components, of which at least one is a metal, is a preparation.||NOTE 2 The inclusion of impurities in the classification and the explicit specification of the individual constituents (including impurities) of substances and preparations are governed by regulations, e.g. in the European Union and in the European Economy Area in Annex VI of Directive 67/548/EEC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material",
+	"name":{
+		"defaultValue":"material",
+		"i18nValue":{
+			"en_US":"material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

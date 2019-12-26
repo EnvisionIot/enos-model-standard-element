@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date when the product was checked with respect to the rules of  restriction of hazardous substances.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"date_of_check_for_restriction_of_hazardous_substances",
+	"name":{
+		"defaultValue":"date of check for restriction of hazardous substances",
+		"i18nValue":{
+			"en_US":"date of check for restriction of hazardous substances",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

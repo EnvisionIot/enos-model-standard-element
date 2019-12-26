@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"group of products each of which contains effectively identical substances or materials at identical concentration levels.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"product_family_name",
+	"name":{
+		"defaultValue":"product family name",
+		"i18nValue":{
+			"en_US":"product family name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum length as specified by level of the non-threaded portion of a stud used for mounting the package.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-threaded_stud_length",
+	"name":{
+		"defaultValue":"non-threaded stud length",
+		"i18nValue":{
+			"en_US":"non-threaded stud length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

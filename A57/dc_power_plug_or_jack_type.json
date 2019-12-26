@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CAR":{
+				"defaultValue":"car plug",
+				"i18nValue":{}
+			},
+			"PLUG":{
+				"defaultValue":"dc power plug",
+				"i18nValue":{}
+			},
+			"JACK":{
+				"defaultValue":"dc power jack",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of plug or jack intended for use in dc power applications.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dc_power_plug_or_jack_type",
+	"name":{
+		"defaultValue":"dc power plug/jack type",
+		"i18nValue":{
+			"en_US":"dc power plug/jack type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

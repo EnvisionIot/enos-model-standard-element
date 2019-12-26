@@ -1,0 +1,19 @@
+{
+	"category":"R54",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"percentage of the mass for a product, product part, material class, material, substance group or substance.\nAs defined in section 4 of IEC 62474:2012.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"relative_mass_value_percent",
+	"name":{
+		"defaultValue":"relative mass value (percent)",
+		"i18nValue":{
+			"en_US":"relative mass value (percent)",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

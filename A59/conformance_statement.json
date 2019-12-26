@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"list of marks of conformity, technical approval or authorization  to which the manufacturer or supplier claims conformance with, exclusively associated with the referred object of interest and  independent whether the conformities, approvals or authorizations have been received by a first-, second- or third-party assessment.\nThe entry is under the exclusive responsibility of the manufacturer or his legal representative.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conformance_statement",
+	"name":{
+		"defaultValue":"conformance statement",
+		"i18nValue":{
+			"en_US":"conformance statement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length of a rectangular or elliptical pad measured in a direction parallel to the x-axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pad_length",
+	"name":{
+		"defaultValue":"pad length",
+		"i18nValue":{
+			"en_US":"pad length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

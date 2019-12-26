@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short title for the procedures used in the test and evaluation of a die.\nThis is a short name for a procedure described more fully in AAD060-001.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_name",
+	"name":{
+		"defaultValue":"test name",
+		"i18nValue":{
+			"en_US":"test name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

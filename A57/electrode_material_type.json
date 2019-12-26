@@ -1,0 +1,39 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"NSAl":{
+				"defaultValue":"non-solid aluminium",
+				"i18nValue":{}
+			},
+			"Al":{
+				"defaultValue":"aluminium",
+				"i18nValue":{}
+			},
+			"Ta":{
+				"defaultValue":"tantalum",
+				"i18nValue":{}
+			},
+			"SAl":{
+				"defaultValue":"solid aluminium",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of electrode material of an electrolytic capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrode_material_type",
+	"name":{
+		"defaultValue":"electrode material type",
+		"i18nValue":{
+			"en_US":"electrode material type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

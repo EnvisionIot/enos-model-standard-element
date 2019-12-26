@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"constitution of the bulk material which forms the base of the die process technology.\nIn most cases the substrate is composed of a single material such as silicon.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substrate_material",
+	"name":{
+		"defaultValue":"substrate material",
+		"i18nValue":{
+			"en_US":"substrate material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

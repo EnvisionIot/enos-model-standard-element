@@ -1,0 +1,19 @@
+{
+	"category":"H21",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the state quantity equal to the sum of the internal energy U of the (ambient air) system and the product of pressure p and volume V of the (ambient air) system, thus H=U+pV to the unit of mass.\nUsed for the design of HVAC equipment.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"specific_ambient_enthalpy",
+	"name":{
+		"defaultValue":"specific ambient enthalpy",
+		"i18nValue":{
+			"en_US":"specific ambient enthalpy",
+			"zh_CN":null
+		}
+	},
+	"unit":"J/kg",
+	"version":"1.0"
+}

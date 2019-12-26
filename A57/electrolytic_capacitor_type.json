@@ -1,0 +1,39 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"NTAN":{
+				"defaultValue":"non-solid tantalum electrolytic",
+				"i18nValue":{}
+			},
+			"NAL":{
+				"defaultValue":"non-solid aluminium electrolytic",
+				"i18nValue":{}
+			},
+			"STAN":{
+				"defaultValue":"solid tantalum electrolytic",
+				"i18nValue":{}
+			},
+			"SAL":{
+				"defaultValue":"solid aluminium electrolytic",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of electrolytic capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrolytic_capacitor_type",
+	"name":{
+		"defaultValue":"electrolytic capacitor type",
+		"i18nValue":{
+			"en_US":"electrolytic capacitor type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

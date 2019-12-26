@@ -1,0 +1,19 @@
+{
+	"category":"F01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration of time measured from the instant of application of power to the instant at which the crystal oscillator outputs the specified level of signal in agreement with the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"start-up_time",
+	"name":{
+		"defaultValue":"start-up time",
+		"i18nValue":{
+			"en_US":"start-up time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

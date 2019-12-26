@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"no training lessons or online trainings will be available beyond this date.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"end_of_training",
+	"name":{
+		"defaultValue":"end of training",
+		"i18nValue":{
+			"en_US":"end of training",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

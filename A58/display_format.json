@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"portrait":{
+				"defaultValue":"portrait (vertical)",
+				"i18nValue":{}
+			},
+			"landscape":{
+				"defaultValue":"landscape (horizontal)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Name of the display format for which the deflection unit of a monitor display tube is designed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"display_format",
+	"name":{
+		"defaultValue":"display format",
+		"i18nValue":{
+			"en_US":"display format",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"STRAI":{
+				"defaultValue":"180 degree (straight)",
+				"i18nValue":{}
+			},
+			"DEG":{
+				"defaultValue":"45 degree",
+				"i18nValue":{}
+			},
+			"RIGHT":{
+				"defaultValue":"90 degree (right angle)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the angle between terminal and contact of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal-to-contact_angle",
+	"name":{
+		"defaultValue":"terminal-to-contact angle",
+		"i18nValue":{
+			"en_US":"terminal-to-contact angle",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

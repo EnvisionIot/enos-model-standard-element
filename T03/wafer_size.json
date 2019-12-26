@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter of the wafer on which the die are fabricated.\nSince this is only a nominal value for information purposes, inch dimensions should be converted at the rate of 25mm to one inch.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wafer_size",
+	"name":{
+		"defaultValue":"wafer size",
+		"i18nValue":{
+			"en_US":"wafer size",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

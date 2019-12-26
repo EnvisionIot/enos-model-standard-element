@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the rated impulse voltage an EM component is designed for.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_impulse_voltage",
+	"name":{
+		"defaultValue":"rated impulse voltage",
+		"i18nValue":{
+			"en_US":"rated impulse voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

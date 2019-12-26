@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identifier of the documented system in accordance with which classification is made.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"classification_system",
+	"name":{
+		"defaultValue":"classification system",
+		"i18nValue":{
+			"en_US":"classification system",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

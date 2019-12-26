@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"MUL":{
+				"defaultValue":"multiple bus structure (Harvard)",
+				"i18nValue":{}
+			},
+			"SIN":{
+				"defaultValue":"single bus structure (von Neumann)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the bus structure of a microprocessor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"bus_structure",
+	"name":{
+		"defaultValue":"bus structure",
+		"i18nValue":{
+			"en_US":"bus structure",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

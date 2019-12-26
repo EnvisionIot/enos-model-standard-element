@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"quality level of a component as supplied by the manufacturer.\nThe units in which the quality is specified shall be given as a condition.\nTypical units may be defects per million (dpm) or percentage AQL.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"outgoing_quality_level",
+	"name":{
+		"defaultValue":"outgoing quality level",
+		"i18nValue":{
+			"en_US":"outgoing quality level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

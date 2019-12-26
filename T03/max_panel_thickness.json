@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum panel thickness for which an EM component has been designed to be mounted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"max_panel_thickness",
+	"name":{
+		"defaultValue":"max. panel thickness",
+		"i18nValue":{
+			"en_US":"max. panel thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

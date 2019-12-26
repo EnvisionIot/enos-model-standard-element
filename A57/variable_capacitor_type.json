@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"TRIM":{
+				"defaultValue":"trimmer capacitor",
+				"i18nValue":{}
+			},
+			"PRESET":{
+				"defaultValue":"pre-set capacitor",
+				"i18nValue":{}
+			},
+			"TUNE":{
+				"defaultValue":"tuning capacitor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of variable capacitor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"variable_capacitor_type",
+	"name":{
+		"defaultValue":"variable capacitor type",
+		"i18nValue":{
+			"en_US":"variable capacitor type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

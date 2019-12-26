@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"LS":{
+				"defaultValue":"speaker terminal",
+				"i18nValue":{}
+			},
+			"GND":{
+				"defaultValue":"earth terminal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of small terminal.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"small_terminal_type",
+	"name":{
+		"defaultValue":"small terminal type",
+		"i18nValue":{
+			"en_US":"small terminal type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

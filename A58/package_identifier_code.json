@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":20
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"suffix to the IEC 60191 code which may be used to distinguish among different specific.\nThe suffix may consist of an IEC standard designation, a national standard designation or any other user-specified coding scheme.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"package_identifier_code",
+	"name":{
+		"defaultValue":"package identifier code",
+		"i18nValue":{
+			"en_US":"package identifier code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

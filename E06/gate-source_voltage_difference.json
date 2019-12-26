@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum absolute value of the difference in direct gate-source voltages of a dual field-effect transistor at specified drain current and drain-gate voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate-source_voltage_difference",
+	"name":{
+		"defaultValue":"gate-source voltage difference",
+		"i18nValue":{
+			"en_US":"gate-source voltage difference",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

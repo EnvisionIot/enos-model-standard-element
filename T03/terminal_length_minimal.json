@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the length of the terminals of an electric-electronic or electromechanical component extending below the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_length_minimal",
+	"name":{
+		"defaultValue":"terminal length minimal",
+		"i18nValue":{
+			"en_US":"terminal length minimal",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

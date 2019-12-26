@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the specific current consumption of the activated display area of a liquid crystal display at specified driving method, drive frequency of 32 Hz, typical value of the operating voltage and an ambient temperature of 25 Cel.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"specific_current_consumption",
+	"name":{
+		"defaultValue":"specific current consumption",
+		"i18nValue":{
+			"en_US":"specific current consumption",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m²",
+	"version":"1.0"
+}

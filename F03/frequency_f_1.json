@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower frequency f_1  of the frequency range applied to an electric-electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"frequency_f_1",
+	"name":{
+		"defaultValue":"frequency f_1",
+		"i18nValue":{
+			"en_US":"frequency f_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

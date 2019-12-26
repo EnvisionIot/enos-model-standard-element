@@ -1,0 +1,21 @@
+{
+	"category":"A31",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date on which a simulator model file was created or released for use.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"simulator_model_file_date",
+	"name":{
+		"defaultValue":"simulator model file date",
+		"i18nValue":{
+			"en_US":"simulator model file date",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

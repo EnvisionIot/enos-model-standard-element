@@ -1,0 +1,19 @@
+{
+	"category":"K01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"weight of the equipment when in a usable or ready-to-use state, i.e. in the basic state it is delivered in.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"weight_of_device_for_use_in_waste_of_electrical_and_electronic_equipment_reporting_procedures",
+	"name":{
+		"defaultValue":"weight of device for use in waste of electrical and electronic equipment reporting procedures",
+		"i18nValue":{
+			"en_US":"weight of device for use in waste of electrical and electronic equipment reporting procedures",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg",
+	"version":"1.0"
+}

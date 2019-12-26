@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the gate current required to switch a thyristor or triac from the off-state to the on-state, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate_trigger_current",
+	"name":{
+		"defaultValue":"gate trigger current",
+		"i18nValue":{
+			"en_US":"gate trigger current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width as specified by level (miNomax) of a slug.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"slug_width",
+	"name":{
+		"defaultValue":"slug width",
+		"i18nValue":{
+			"en_US":"slug width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

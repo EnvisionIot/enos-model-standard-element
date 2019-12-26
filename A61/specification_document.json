@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to an international, regional, national standard, regulation, directive, or organization based specification etc to which an object shall be made.\nADA081 to be used in conjunction with ADA082.\nExamples of formats for reference to specifications:, IEC 81346-2:2009; ISO 9000:2005; BS EN 61175:2006; ANSI/API STD 614 PT 1:2007; MIL-STD-704F:2004;VDE 0100-100:2009; UL 1004-4:2015; SN 20512:2011.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"specification_document",
+	"name":{
+		"defaultValue":"specification document",
+		"i18nValue":{
+			"en_US":"specification document",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

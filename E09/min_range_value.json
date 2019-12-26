@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of nominal capacitance of a capacitor that is available within a specific E-series.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"min_range_value",
+	"name":{
+		"defaultValue":"min range value",
+		"i18nValue":{
+			"en_US":"min range value",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

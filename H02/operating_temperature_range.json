@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of temperature variance, over which the quartz crystal device will function maintaining its specified characteristics within the specified tolerances.\nFor crystal units, the temperature shall be measured on the enclosure.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_temperature_range",
+	"name":{
+		"defaultValue":"operating temperature range",
+		"i18nValue":{
+			"en_US":"operating temperature range",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

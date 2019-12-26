@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting long term average anode current of a display tube.\n'long term' means that the image is stationary for an indefinite period of time, as during the display of test pictures, computer images, teletext data or stationary television scenes lasting longer than 30 seconds.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"anode_current_average",
+	"name":{
+		"defaultValue":"anode current average",
+		"i18nValue":{
+			"en_US":"anode current average",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

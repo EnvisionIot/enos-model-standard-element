@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification of legally binding editions of directives or standards specifying emission limits for the protection of nature and humans concerning the pollution of air, water and soil.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"applicable_industrial_emission_directives",
+	"name":{
+		"defaultValue":"applicable industrial emission directives",
+		"i18nValue":{
+			"en_US":"applicable industrial emission directives",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

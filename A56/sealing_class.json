@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"DUSTP":{
+				"defaultValue":"dust-proof seal",
+				"i18nValue":{}
+			},
+			"SEAL":{
+				"defaultValue":"fully sealed",
+				"i18nValue":{}
+			},
+			"OPEN":{
+				"defaultValue":"open - no sealing",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the sealing provided to protect the slider contact area from the environment.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"sealing_class",
+	"name":{
+		"defaultValue":"sealing class",
+		"i18nValue":{
+			"en_US":"sealing class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

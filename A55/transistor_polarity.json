@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"PNP":{
+				"defaultValue":"positive-negative-positive",
+				"i18nValue":{}
+			},
+			"NPN":{
+				"defaultValue":"negative-positive-negative",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"abbreviated name of the type of semiconductor material forming the junctions of a bipolar transistor.\nN-type:   Extrinsic semiconductor in which the conduction electron density exceeds the mobile hole density.| P-type:   Extrinsic semiconductor in which the mobile hole density exceeds the conduction electron density.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"transistor_polarity",
+	"name":{
+		"defaultValue":"transistor polarity",
+		"i18nValue":{
+			"en_US":"transistor polarity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

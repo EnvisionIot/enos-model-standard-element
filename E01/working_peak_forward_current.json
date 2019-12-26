@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum working peak forward current of an efficiency diode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"working_peak_forward_current",
+	"name":{
+		"defaultValue":"working peak forward current",
+		"i18nValue":{
+			"en_US":"working peak forward current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

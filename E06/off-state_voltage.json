@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting continuous voltage between the thyristor or triac anode and cathode in the off state, excluding repetitive and non-repetitive voltages.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"off-state_voltage",
+	"name":{
+		"defaultValue":"off-state voltage",
+		"i18nValue":{
+			"en_US":"off-state voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

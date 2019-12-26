@@ -1,0 +1,31 @@
+{
+	"category":"R71",
+	"dataDefinition":{
+		"enumDesc":{
+			"above":{
+				"defaultValue":"above threshold",
+				"i18nValue":{}
+			},
+			"below or equal":{
+				"defaultValue":"below or equal threshold",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value stating substance group contained in product is above or below stated threshold.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"substance_group_above_threshold_level",
+	"name":{
+		"defaultValue":"substance group above threshold level",
+		"i18nValue":{
+			"en_US":"substance group above threshold level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

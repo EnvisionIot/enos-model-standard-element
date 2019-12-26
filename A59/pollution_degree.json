@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"pollution degree 1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"pollution degree 2",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"pollution degree 3",
+				"i18nValue":{}
+			},
+			"4":{
+				"defaultValue":"pollution degree 4",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the standardized pollution degree an EM component can perform.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pollution_degree",
+	"name":{
+		"defaultValue":"pollution degree",
+		"i18nValue":{
+			"en_US":"pollution degree",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the force required to over-ride the end stops of a slider potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"lever_stop_force",
+	"name":{
+		"defaultValue":"lever stop force",
+		"i18nValue":{
+			"en_US":"lever stop force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

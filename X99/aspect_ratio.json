@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of screen width to screen height.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"aspect_ratio",
+	"name":{
+		"defaultValue":"aspect ratio",
+		"i18nValue":{
+			"en_US":"aspect ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

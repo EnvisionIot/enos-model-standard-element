@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"category of electrical and electronic equipment set out in Annex I or III [of directive 2012/19/EU], as appropriate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"device_type_as_listed_in_waste_of_electrical_and_electronic_equipment_directive",
+	"name":{
+		"defaultValue":"device type as listed in waste of electrical and electronic equipment directive",
+		"i18nValue":{
+			"en_US":"device type as listed in waste of electrical and electronic equipment directive",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

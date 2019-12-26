@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"EEPROM":{
+				"defaultValue":"electrically erasable PROM",
+				"i18nValue":{}
+			},
+			"OTPROM":{
+				"defaultValue":"one time programmable ROM",
+				"i18nValue":{}
+			},
+			"EPROM":{
+				"defaultValue":"erasable PROM",
+				"i18nValue":{}
+			},
+			"MROM":{
+				"defaultValue":"mask programmed ROM",
+				"i18nValue":{}
+			},
+			"UVPROM":{
+				"defaultValue":"UV erasable PROM",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the programmability of a ROM.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"ROM_programmability",
+	"name":{
+		"defaultValue":"ROM programmability",
+		"i18nValue":{
+			"en_US":"ROM programmability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting rms on-state current flowing from the anode to the cathode in a thyristor or triac.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rms_on-state_current",
+	"name":{
+		"defaultValue":"rms on-state current",
+		"i18nValue":{
+			"en_US":"rms on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum current that may flow as a pulse to the collector terminal at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector_current_pulse",
+	"name":{
+		"defaultValue":"collector current (pulse)",
+		"i18nValue":{
+			"en_US":"collector current (pulse)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

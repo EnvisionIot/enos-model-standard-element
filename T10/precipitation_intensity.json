@@ -1,0 +1,19 @@
+{
+	"category":"T10",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"accumulated height of rain, snow, hail, or volcanic ashes falling on a horizontal surface without drain per time period.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"precipitation_intensity",
+	"name":{
+		"defaultValue":"precipitation intensity",
+		"i18nValue":{
+			"en_US":"precipitation intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm/h",
+	"version":"1.0"
+}

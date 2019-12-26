@@ -1,0 +1,19 @@
+{
+	"category":"F13",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum pass-band attenuation of a band pass filter.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pass-band_attenuation",
+	"name":{
+		"defaultValue":"pass-band attenuation",
+		"i18nValue":{
+			"en_US":"pass-band attenuation",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

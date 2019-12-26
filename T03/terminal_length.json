@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a terminal available for mounting measured from the seating plane.\nThe symbol l is generally used for the length of terminals which are not rigid and not in fixed positions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_length",
+	"name":{
+		"defaultValue":"terminal length",
+		"i18nValue":{
+			"en_US":"terminal length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

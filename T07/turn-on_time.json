@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the time elapsing between the start (10%) of the input pulse train and the moment the corresponding luminance is 90% of its maximum value, of a liquid crystal display at specified driving method, typical operating voltage, drive frequency of 32 Hz and a specified ambient temperature.\nt_on is the time elapsing between the start of the input pulse train and the moment when the corresponding luminance is 90% of its maximum value. |t_on is also the sum of t_d, or t_d(on), and t_r (t_d being the delay time and t_r being the rise time).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"turn-on_time",
+	"name":{
+		"defaultValue":"turn-on time",
+		"i18nValue":{
+			"en_US":"turn-on time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

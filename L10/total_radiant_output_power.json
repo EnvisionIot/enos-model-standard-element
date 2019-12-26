@@ -1,0 +1,19 @@
+{
+	"category":"L10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"typical total radiant output power of an infrared emitting diode at specified forward current and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"total_radiant_output_power",
+	"name":{
+		"defaultValue":"total radiant output power",
+		"i18nValue":{
+			"en_US":"total radiant output power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

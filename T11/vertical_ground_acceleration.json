@@ -1,0 +1,19 @@
+{
+	"category":"T11",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak value of the acceleration in vertical direction on the ground of a given geographic area  to which an object, e.g. a component, building, may be exposed during an earthquake.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"vertical_ground_acceleration",
+	"name":{
+		"defaultValue":"vertical ground acceleration",
+		"i18nValue":{
+			"en_US":"vertical ground acceleration",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s²",
+	"version":"1.0"
+}

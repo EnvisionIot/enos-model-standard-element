@@ -1,0 +1,19 @@
+{
+	"category":"F01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum time from the instant at which the fusing current is exceeded to the instant at which arcing begins.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fuse_pre-arcing_time",
+	"name":{
+		"defaultValue":"fuse pre-arcing time",
+		"i18nValue":{
+			"en_US":"fuse pre-arcing time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

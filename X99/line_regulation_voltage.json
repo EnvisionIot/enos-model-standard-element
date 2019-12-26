@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"change in the output voltage corresponding to a change in the input voltage where the output current is kept constant.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_regulation_voltage",
+	"name":{
+		"defaultValue":"line regulation voltage",
+		"i18nValue":{
+			"en_US":"line regulation voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

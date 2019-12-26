@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"finish applied to the surface of the substrate of a die opposite to that to which the connections are made.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"backside_finish",
+	"name":{
+		"defaultValue":"backside finish",
+		"i18nValue":{
+			"en_US":"backside finish",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

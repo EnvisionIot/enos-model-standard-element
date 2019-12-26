@@ -1,0 +1,192 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"country_name",
+				"name":{
+					"defaultValue":"country name",
+					"i18nValue":{
+						"en_US":"country name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"postal_code",
+				"name":{
+					"defaultValue":"postal code",
+					"i18nValue":{
+						"en_US":"postal code",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"region",
+				"name":{
+					"defaultValue":"region",
+					"i18nValue":{
+						"en_US":"region",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"town",
+				"name":{
+					"defaultValue":"town",
+					"i18nValue":{
+						"en_US":"town",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"street",
+				"name":{
+					"defaultValue":"street",
+					"i18nValue":{
+						"en_US":"street",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":8
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"street_number",
+				"name":{
+					"defaultValue":"street number",
+					"i18nValue":{
+						"en_US":"street number",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"internal_location",
+				"name":{
+					"defaultValue":"internal location",
+					"i18nValue":{
+						"en_US":"internal location",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"premises_name",
+				"name":{
+					"defaultValue":"premises name",
+					"i18nValue":{
+						"en_US":"premises name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"country_subdivision",
+				"name":{
+					"defaultValue":"country subdivision",
+					"i18nValue":{
+						"en_US":"country subdivision",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Physical address.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Physical_address_class",
+	"name":{
+		"defaultValue":"reference to Physical address class",
+		"i18nValue":{
+			"en_US":"reference to Physical address class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

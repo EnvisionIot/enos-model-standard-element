@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the limiting direct input voltage applied to an IC.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_voltage_limit",
+	"name":{
+		"defaultValue":"input voltage limit",
+		"i18nValue":{
+			"en_US":"input voltage limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

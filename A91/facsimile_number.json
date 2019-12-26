@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a facsimile system in a domain at which facsimiles can be received.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"facsimile_number",
+	"name":{
+		"defaultValue":"facsimile number",
+		"i18nValue":{
+			"en_US":"facsimile number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

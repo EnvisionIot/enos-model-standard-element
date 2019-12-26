@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"no product or product version  in stock beyond this date.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"end_of_stock_date",
+	"name":{
+		"defaultValue":"end of stock date",
+		"i18nValue":{
+			"en_US":"end of stock date",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

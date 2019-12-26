@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum amount of data that can be stored in the device expressed as amount of information in the basic information unit.\nThe data is expressed in the multiples of bits.\n\"Bit\" is originally a portmanteau word for the basic information unit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"memory_capacity",
+	"name":{
+		"defaultValue":"memory capacity",
+		"i18nValue":{
+			"en_US":"memory capacity",
+			"zh_CN":null
+		}
+	},
+	"unit":"bit",
+	"version":"1.0"
+}

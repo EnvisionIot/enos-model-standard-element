@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to that part of a system, assembly, sub-assembly or component whose material make-up is to be declared in a materials declaration list.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"construction_element",
+	"name":{
+		"defaultValue":"construction element",
+		"i18nValue":{
+			"en_US":"construction element",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal pulse voltage at the terminals of a stepping motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_input_voltage_pulse",
+	"name":{
+		"defaultValue":"rated input voltage (pulse)",
+		"i18nValue":{
+			"en_US":"rated input voltage (pulse)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

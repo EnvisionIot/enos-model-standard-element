@@ -1,0 +1,59 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"PULL":{
+				"defaultValue":"push-pull",
+				"i18nValue":{}
+			},
+			"CORD":{
+				"defaultValue":"cord-operated",
+				"i18nValue":{}
+			},
+			"MEM":{
+				"defaultValue":"membrane",
+				"i18nValue":{}
+			},
+			"ROCKER":{
+				"defaultValue":"rocker button",
+				"i18nValue":{}
+			},
+			"SLIDE":{
+				"defaultValue":"slide",
+				"i18nValue":{}
+			},
+			"LEVER":{
+				"defaultValue":"lever/toggle",
+				"i18nValue":{}
+			},
+			"TUMBLE":{
+				"defaultValue":"tumbler",
+				"i18nValue":{}
+			},
+			"ROTARY":{
+				"defaultValue":"rotary",
+				"i18nValue":{}
+			},
+			"PUSH":{
+				"defaultValue":"push-button",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the actuator of a mechanical switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"switch_actuation",
+	"name":{
+		"defaultValue":"switch actuation",
+		"i18nValue":{
+			"en_US":"switch actuation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

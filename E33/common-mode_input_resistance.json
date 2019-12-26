@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum resistance between the inputs in parallel and the electrical reference point of a differential amplifier at reference conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"common-mode_input_resistance",
+	"name":{
+		"defaultValue":"common-mode input resistance",
+		"i18nValue":{
+			"en_US":"common-mode input resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

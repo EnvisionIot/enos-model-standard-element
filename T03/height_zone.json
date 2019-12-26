@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"height as specified by level (miNomax) of a zone within which a flexible lead may be bent to emerge parallel to the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"height_zone",
+	"name":{
+		"defaultValue":"height zone",
+		"i18nValue":{
+			"en_US":"height zone",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

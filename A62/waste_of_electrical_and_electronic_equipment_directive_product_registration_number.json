@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"national identification code of the product for purposes of monitoring amounts of waste according to directive 2012/19/EU of the European Union on waste of electrical and electronic equipment.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"waste_of_electrical_and_electronic_equipment_directive_product_registration_number",
+	"name":{
+		"defaultValue":"waste of electrical and electronic equipment directive product registration number",
+		"i18nValue":{
+			"en_US":"waste of electrical and electronic equipment directive product registration number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

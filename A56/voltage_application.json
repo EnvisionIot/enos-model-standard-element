@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"AC":{
+				"defaultValue":"ac, designed essentially for alternating voltages",
+				"i18nValue":{}
+			},
+			"PL":{
+				"defaultValue":"pulse, for use with current or voltage pulses",
+				"i18nValue":{}
+			},
+			"DC":{
+				"defaultValue":"dc, designed essentially for direct voltages",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the voltage application(s) for which a fixed film capacitor is designed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"voltage_application",
+	"name":{
+		"defaultValue":"voltage application",
+		"i18nValue":{
+			"en_US":"voltage application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

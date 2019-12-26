@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a standard dimension set taken from a standards document.\nSee AAG071 for identity of the standards document.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"standard_package_code",
+	"name":{
+		"defaultValue":"standard package code",
+		"i18nValue":{
+			"en_US":"standard package code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

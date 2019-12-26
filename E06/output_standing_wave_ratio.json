@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum voltage standing wave ratio at the output of an amplifier at specified values of supply voltage, temperature of a temperature type and frequency range between specified frequencies (f_1 and f_2).\nThe source and load impedance are assumed to be equal to the characteristic impedance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_standing_wave_ratio",
+	"name":{
+		"defaultValue":"output standing wave ratio",
+		"i18nValue":{
+			"en_US":"output standing wave ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

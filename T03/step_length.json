@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length between adjacent step positions of a linear stepping motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"step_length",
+	"name":{
+		"defaultValue":"step length",
+		"i18nValue":{
+			"en_US":"step length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

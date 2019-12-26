@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identifier of a specific signal connection.\nIn IEC 61175 Ed.2, the name \"signal variant ID\" instead of signal connection identifier\" was used.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_connection_identifier",
+	"name":{
+		"defaultValue":"signal connection identifier",
+		"i18nValue":{
+			"en_US":"signal connection identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

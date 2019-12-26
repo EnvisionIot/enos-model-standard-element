@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the third order intermodulation distortion of a bipolar rf power transistor measured according to the two-tone test method at specified peak envelope power, frequency, collector-emitter voltage, collector current and temperature of a temperature type.\nTwo-tone test method: |f_1 = 28.000 MHz, V_1 = V_o - 6dB f_2 = 28.001 MHz, V_2 = V_o - 6dB |measured harmonic component is: (f_2 + 1 kHz) - (f_1 - 1 kHz) = 3 kHz.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"intermodulation_distortion_d_3",
+	"name":{
+		"defaultValue":"intermodulation distortion d_3",
+		"i18nValue":{
+			"en_US":"intermodulation distortion d_3",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

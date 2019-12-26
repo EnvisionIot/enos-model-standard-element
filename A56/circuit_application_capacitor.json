@@ -1,0 +1,63 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"TIM":{
+				"defaultValue":"timing",
+				"i18nValue":{}
+			},
+			"DEL":{
+				"defaultValue":"delay",
+				"i18nValue":{}
+			},
+			"DFL":{
+				"defaultValue":"deflection",
+				"i18nValue":{}
+			},
+			"SMT":{
+				"defaultValue":"smoothing",
+				"i18nValue":{}
+			},
+			"DCL":{
+				"defaultValue":"decoupling",
+				"i18nValue":{}
+			},
+			"TUN":{
+				"defaultValue":"tuning",
+				"i18nValue":{}
+			},
+			"RIS":{
+				"defaultValue":"radio-interference-suppression",
+				"i18nValue":{}
+			},
+			"CPL":{
+				"defaultValue":"coupling",
+				"i18nValue":{}
+			},
+			"FLT":{
+				"defaultValue":"filtering",
+				"i18nValue":{}
+			},
+			"TC":{
+				"defaultValue":"temperature-compensating",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the circuit application(s) for which a fixed capacitor is designed.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"circuit_application_capacitor",
+	"name":{
+		"defaultValue":"circuit application (capacitor)",
+		"i18nValue":{
+			"en_US":"circuit application (capacitor)",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

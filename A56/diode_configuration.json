@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CAn":{
+				"defaultValue":"n-diodes common anode",
+				"i18nValue":{}
+			},
+			"SIN":{
+				"defaultValue":"single diode",
+				"i18nValue":{}
+			},
+			"SEn":{
+				"defaultValue":"n-diodes separated",
+				"i18nValue":{}
+			},
+			"CCn":{
+				"defaultValue":"n-diodes common cathode",
+				"i18nValue":{}
+			},
+			"SCn":{
+				"defaultValue":"n-diodes series connected",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mode of configuration of a breakover diode, rectifier diode, signal diode or variable capacitance diode.\nn is marked for the values 2 up to and including 9.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"diode_configuration",
+	"name":{
+		"defaultValue":"diode configuration",
+		"i18nValue":{
+			"en_US":"diode configuration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

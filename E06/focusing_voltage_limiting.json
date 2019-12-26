@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"design maximum limiting value of the direct voltage, on grid 3 with respect to grid 1, for focusing of a colour display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"focusing_voltage_limiting",
+	"name":{
+		"defaultValue":"focusing voltage limiting",
+		"i18nValue":{
+			"en_US":"focusing voltage limiting",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

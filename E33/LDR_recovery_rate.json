@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum recovery rate of the resistance of a light dependent resistor from light to dark, after a specified duration, initial illuminance level and colour temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LDR_recovery_rate",
+	"name":{
+		"defaultValue":"LDR recovery rate",
+		"i18nValue":{
+			"en_US":"LDR recovery rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω/s",
+	"version":"1.0"
+}

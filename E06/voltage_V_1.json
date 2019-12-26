@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower voltage V_1 of the voltage range applied to an electric-electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"voltage_V_1",
+	"name":{
+		"defaultValue":"voltage V_1",
+		"i18nValue":{
+			"en_US":"voltage V_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

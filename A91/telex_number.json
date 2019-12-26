@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a telex system within a domain at which telex messages can be received.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"telex_number",
+	"name":{
+		"defaultValue":"telex number",
+		"i18nValue":{
+			"en_US":"telex number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

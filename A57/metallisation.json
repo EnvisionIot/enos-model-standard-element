@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the metal layers forming the pad on a die device to which external connection is made.\nThe description should include the nature of the materials forming each layer of the metallisation and the nominal thickness of each layer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"metallisation",
+	"name":{
+		"defaultValue":"metallisation",
+		"i18nValue":{
+			"en_US":"metallisation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

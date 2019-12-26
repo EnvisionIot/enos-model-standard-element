@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"operating nominal force on the actuator of a mechanical switch to cause it to change position.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"actuating_force",
+	"name":{
+		"defaultValue":"actuating force",
+		"i18nValue":{
+			"en_US":"actuating force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

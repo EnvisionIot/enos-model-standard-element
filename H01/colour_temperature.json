@@ -1,0 +1,19 @@
+{
+	"category":"H01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"colour temperature of light applied to a light dependent resistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"colour_temperature",
+	"name":{
+		"defaultValue":"colour temperature",
+		"i18nValue":{
+			"en_US":"colour temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"K",
+	"version":"1.0"
+}

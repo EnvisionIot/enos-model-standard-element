@@ -1,0 +1,426 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"maintainability_measure",
+				"name":{
+					"defaultValue":"maintainability measure",
+					"i18nValue":{
+						"en_US":"maintainability measure",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"maintenance_time",
+				"name":{
+					"defaultValue":"maintenance time",
+					"i18nValue":{
+						"en_US":"maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"maintenance_man-hours",
+				"name":{
+					"defaultValue":"maintenance man-hours",
+					"i18nValue":{
+						"en_US":"maintenance man-hours",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"active_maintenance_time",
+				"name":{
+					"defaultValue":"active maintenance time",
+					"i18nValue":{
+						"en_US":"active maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"preventive_maintenance_time",
+				"name":{
+					"defaultValue":"preventive maintenance time",
+					"i18nValue":{
+						"en_US":"preventive maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"time_to_restoration_of_an_item",
+				"name":{
+					"defaultValue":"time to restoration of an item",
+					"i18nValue":{
+						"en_US":"time to restoration of an item",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"corrective_maintenance_time",
+				"name":{
+					"defaultValue":"corrective maintenance time",
+					"i18nValue":{
+						"en_US":"corrective maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"active_preventive_maintenance_time",
+				"name":{
+					"defaultValue":"active preventive maintenance time",
+					"i18nValue":{
+						"en_US":"active preventive maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"preventive_maintenance_action_time",
+				"name":{
+					"defaultValue":"preventive maintenance action time",
+					"i18nValue":{
+						"en_US":"preventive maintenance action time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"active_corrective_maintenance_time",
+				"name":{
+					"defaultValue":"active corrective maintenance time",
+					"i18nValue":{
+						"en_US":"active corrective maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"fault_detection_time",
+				"name":{
+					"defaultValue":"fault detection time",
+					"i18nValue":{
+						"en_US":"fault detection time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"administrative_delay",
+				"name":{
+					"defaultValue":"administrative delay",
+					"i18nValue":{
+						"en_US":"administrative delay",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"logistic_delay",
+				"name":{
+					"defaultValue":"logistic delay",
+					"i18nValue":{
+						"en_US":"logistic delay",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"fault_correction_time",
+				"name":{
+					"defaultValue":"fault correction time",
+					"i18nValue":{
+						"en_US":"fault correction time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"technical_delay",
+				"name":{
+					"defaultValue":"technical delay",
+					"i18nValue":{
+						"en_US":"technical delay",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"function_checkout_time",
+				"name":{
+					"defaultValue":"function checkout time",
+					"i18nValue":{
+						"en_US":"function checkout time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"fault_diagnosis_time",
+				"name":{
+					"defaultValue":"fault diagnosis time",
+					"i18nValue":{
+						"en_US":"fault diagnosis time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"fault_localization_time",
+				"name":{
+					"defaultValue":"fault localization time",
+					"i18nValue":{
+						"en_US":"fault localization time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"repair_time",
+				"name":{
+					"defaultValue":"repair time",
+					"i18nValue":{
+						"en_US":"repair time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"instantaneous_repair_time",
+				"name":{
+					"defaultValue":"instantaneous repair time",
+					"i18nValue":{
+						"en_US":"instantaneous repair time",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_repair_time",
+				"name":{
+					"defaultValue":"mean repair time",
+					"i18nValue":{
+						"en_US":"mean repair time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_active_corrective_maintenance_time",
+				"name":{
+					"defaultValue":"mean active corrective maintenance time",
+					"i18nValue":{
+						"en_US":"mean active corrective maintenance time",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_time_to_restoration",
+				"name":{
+					"defaultValue":"mean time to restoration",
+					"i18nValue":{
+						"en_US":"mean time to restoration",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"fault_coverage",
+				"name":{
+					"defaultValue":"fault coverage",
+					"i18nValue":{
+						"en_US":"fault coverage",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"repair_coverage",
+				"name":{
+					"defaultValue":"repair coverage",
+					"i18nValue":{
+						"en_US":"repair coverage",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_administrative_delay",
+				"name":{
+					"defaultValue":"mean administrative delay",
+					"i18nValue":{
+						"en_US":"mean administrative delay",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"mean_logistic_delay",
+				"name":{
+					"defaultValue":"mean logistic delay",
+					"i18nValue":{
+						"en_US":"mean logistic delay",
+						"zh_CN":null
+					}
+				},
+				"unit":"h"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Measures for maintainability and maintenance support related concepts.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Measures_for_maintainability_and_maintenance_support_related_concepts",
+	"name":{
+		"defaultValue":"reference to Measures for maintainability and maintenance support related concepts",
+		"i18nValue":{
+			"en_US":"reference to Measures for maintainability and maintenance support related concepts",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

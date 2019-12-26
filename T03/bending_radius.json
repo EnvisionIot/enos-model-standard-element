@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value, as specified by the manufacturer, of the maximum allowed radius (in m) when bending a conductor or connector into a curve.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bending_radius",
+	"name":{
+		"defaultValue":"bending radius",
+		"i18nValue":{
+			"en_US":"bending radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

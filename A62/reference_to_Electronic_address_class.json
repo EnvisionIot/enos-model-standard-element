@@ -1,0 +1,144 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"electronic_mail_address",
+				"name":{
+					"defaultValue":"electronic mail address",
+					"i18nValue":{
+						"en_US":"electronic mail address",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"telephone_number",
+				"name":{
+					"defaultValue":"telephone number",
+					"i18nValue":{
+						"en_US":"telephone number",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"mobile_phone_number",
+				"name":{
+					"defaultValue":"mobile phone number",
+					"i18nValue":{
+						"en_US":"mobile phone number",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"facsimile_number",
+				"name":{
+					"defaultValue":"facsimile number",
+					"i18nValue":{
+						"en_US":"facsimile number",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"telex_number",
+				"name":{
+					"defaultValue":"telex number",
+					"i18nValue":{
+						"en_US":"telex number",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":256
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"uniform_resource_locator",
+				"name":{
+					"defaultValue":"uniform resource locator",
+					"i18nValue":{
+						"en_US":"uniform resource locator",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Electronic address.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Electronic_address_class",
+	"name":{
+		"defaultValue":"reference to Electronic address class",
+		"i18nValue":{
+			"en_US":"reference to Electronic address class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to national and/or local regulations, classifying areas with respect to the protection of groundwater.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"groundwater_protection_class",
+	"name":{
+		"defaultValue":"groundwater protection class",
+		"i18nValue":{
+			"en_US":"groundwater protection class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

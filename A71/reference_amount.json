@@ -1,0 +1,21 @@
+{
+	"category":"A71",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"amount of the declared product sample including its unit of measure.\nTo make a declaration for a product that does not have a fixed mass one must specify the unit type (for example, cm, m, cm², m², cm³, l, m³, etc.) and provide the mass of 1 unit type of the product. For example, the mass of 1 m of copper wire, the mass of 1 m² of steel sheet, the mass of 1 litre of paint. For discrete parts (e.g. resistors, capacitors, screws, housings), one should set the unit type to 'each'. See IEC TR 62474-1, 3.2.10 (to be published).\nIEC62474_DeveloperTable_X4.00_20140405:2014: unit of measure used for one product as declared.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_amount",
+	"name":{
+		"defaultValue":"reference amount",
+		"i18nValue":{
+			"en_US":"reference amount",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

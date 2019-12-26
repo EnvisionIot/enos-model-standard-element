@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum length of the body of an electric/ electronic or electromechanical component with axial leads, including the lacquered part of the leads.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"lacquered_length",
+	"name":{
+		"defaultValue":"lacquered length",
+		"i18nValue":{
+			"en_US":"lacquered length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

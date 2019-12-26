@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"size code of a capacitor package intended for surface mounting.\nThe code is formed from the nominal length followed by the nominal width both expressed in units of 0.1mm.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"size_code",
+	"name":{
+		"defaultValue":"size code",
+		"i18nValue":{
+			"en_US":"size code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

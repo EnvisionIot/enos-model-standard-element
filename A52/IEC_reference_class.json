@@ -1,0 +1,39 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"GEO":{
+				"defaultValue":"geometry",
+				"i18nValue":{}
+			},
+			"FEA":{
+				"defaultValue":"features",
+				"i18nValue":{}
+			},
+			"MA":{
+				"defaultValue":"material",
+				"i18nValue":{}
+			},
+			"CO":{
+				"defaultValue":"component",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the main class in the IEC reference collection to which an item belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IEC_reference_class",
+	"name":{
+		"defaultValue":"IEC reference class",
+		"i18nValue":{
+			"en_US":"IEC reference class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

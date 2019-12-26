@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum number of cycles of a relay until failure at specified contact voltage, contact current and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"electrical_endurance",
+	"name":{
+		"defaultValue":"electrical endurance",
+		"i18nValue":{
+			"en_US":"electrical endurance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

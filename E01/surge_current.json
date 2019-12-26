@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the pulse current which can be passed through a gas-filled spark gap.\nTest measurements are made with pulse waveforms of 8μs to 20μs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"surge_current",
+	"name":{
+		"defaultValue":"surge current",
+		"i18nValue":{
+			"en_US":"surge current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

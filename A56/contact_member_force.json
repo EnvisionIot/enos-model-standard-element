@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"REED":{
+				"defaultValue":"reed (magnetic)",
+				"i18nValue":{}
+			},
+			"THER":{
+				"defaultValue":"thermal electrical relay",
+				"i18nValue":{}
+			},
+			"EM":{
+				"defaultValue":"electromechanical relay",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the kind of force applied to the contact member of a relay.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"contact_member_force",
+	"name":{
+		"defaultValue":"contact member force",
+		"i18nValue":{
+			"en_US":"contact member force",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

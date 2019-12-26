@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a flange measured in the direction of the package length.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_length",
+	"name":{
+		"defaultValue":"flange length",
+		"i18nValue":{
+			"en_US":"flange length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"L10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal equivalent noise power (NEP) of an infrared radiation photosensor, at specified wavelength, chopping frequency and bandwidth.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"equivalent_noise_irradiation",
+	"name":{
+		"defaultValue":"equivalent noise irradiation",
+		"i18nValue":{
+			"en_US":"equivalent noise irradiation",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/(Hz^-1/2)",
+	"version":"1.0"
+}

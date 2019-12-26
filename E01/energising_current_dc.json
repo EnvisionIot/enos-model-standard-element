@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal dc current which, when applied to the coil of a relay, enables it to operate at the reference temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"energising_current_dc",
+	"name":{
+		"defaultValue":"energising current (dc)",
+		"i18nValue":{
+			"en_US":"energising current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

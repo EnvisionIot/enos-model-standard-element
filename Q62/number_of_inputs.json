@@ -1,0 +1,19 @@
+{
+	"category":"Q62",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Number of inputs of a function of an IC.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_inputs",
+	"name":{
+		"defaultValue":"number of inputs",
+		"i18nValue":{
+			"en_US":"number of inputs",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

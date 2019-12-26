@@ -1,0 +1,19 @@
+{
+	"category":"K26",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"kinetic energy of a moving foreign object to which a component, building, etc., may be exposed.\nFor an object being subject of testing, the impact energy is the total strain energy absorbed until the fracture of the material.\nshock resistance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"impact_energy",
+	"name":{
+		"defaultValue":"impact energy",
+		"i18nValue":{
+			"en_US":"impact energy",
+			"zh_CN":null
+		}
+	},
+	"unit":"J",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of a dc voltage connected to the supply terminal of an integrated circuit.\nFor a fixed supply, the nominal value is given with the minimum and maximum giving the maximum permissible excursions from that value. |For a variable supply voltage, the minimum and maximum values are the permissible extremes of the range of supply voltages.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_voltage",
+	"name":{
+		"defaultValue":"supply voltage",
+		"i18nValue":{
+			"en_US":"supply voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

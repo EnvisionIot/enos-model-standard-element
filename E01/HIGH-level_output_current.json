@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"HIGH-level DC output current of a digital function of an integrated circuit, at specified conditions.\nRefers to the minimum current sourcing capacity of the output of a digital IC, at which a specified output voltage (V_O = V_OH) is still maintained, while the inputs are either at zero (GND/V_SS) or at supply voltage level (V_CC/V_DD).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"HIGH-level_output_current",
+	"name":{
+		"defaultValue":"HIGH-level output current",
+		"i18nValue":{
+			"en_US":"HIGH-level output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

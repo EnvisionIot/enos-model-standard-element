@@ -1,0 +1,19 @@
+{
+	"category":"F02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal thermal time constant of a thermistor.\nIEC 60539 (4.20) (1976) |The time required for the temperature of a thermistor to change by 63.2% of the difference between its initial and final temperatures when subjected to a step function change in temperature under zero-power conditions (for measuring conditions, see Sub-clause 12.7).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_time_constant",
+	"name":{
+		"defaultValue":"thermal time constant",
+		"i18nValue":{
+			"en_US":"thermal time constant",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

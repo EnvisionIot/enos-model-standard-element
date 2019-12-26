@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed total HIGH-state dc supply current, of a TTL digital IC, at the maximum supply voltage.\nTotal HIGH-state supply current per package. |Appropriate input signals (V_IH and/or V_IL) must be applied to obtain a HIGH-state at all outputs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"HIGH-state_supply_current",
+	"name":{
+		"defaultValue":"HIGH-state supply current",
+		"i18nValue":{
+			"en_US":"HIGH-state supply current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

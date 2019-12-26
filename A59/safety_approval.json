@@ -1,0 +1,91 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"OEVE":{
+				"defaultValue":"Oesterreichischer Elektrotechnischer Verein",
+				"i18nValue":{}
+			},
+			"EI":{
+				"defaultValue":"Elektriska Inspektorated (Finland)",
+				"i18nValue":{}
+			},
+			"SEV":{
+				"defaultValue":"Schweizerischer Elektrotechnischer Verein",
+				"i18nValue":{}
+			},
+			"BEAB(BSI)":{
+				"defaultValue":"British Electrical Approvals Board",
+				"i18nValue":{}
+			},
+			"KEMA":{
+				"defaultValue":"Keuring van Elektrotechnische Materialen",
+				"i18nValue":{}
+			},
+			"MED":{
+				"defaultValue":"Medizin Geraete Verordnung (West Germany)",
+				"i18nValue":{}
+			},
+			"SEMKO":{
+				"defaultValue":"Svenska Elektriska Materielkontrollanstalten",
+				"i18nValue":{}
+			},
+			"CEBEC":{
+				"defaultValue":"Comite Electrotechnique Belge (Belgium)",
+				"i18nValue":{}
+			},
+			"DEMKO":{
+				"defaultValue":"Danmarks Elektriske Materiellkontrol",
+				"i18nValue":{}
+			},
+			"CSA":{
+				"defaultValue":"Canadian Standards Association",
+				"i18nValue":{}
+			},
+			"LCIE":{
+				"defaultValue":"Laboratoire Central Industries Electrique",
+				"i18nValue":{}
+			},
+			"NEMKO":{
+				"defaultValue":"Norges Elektriske Materiellkontrol (Norway)",
+				"i18nValue":{}
+			},
+			"HHS":{
+				"defaultValue":"Health and human services (USA)",
+				"i18nValue":{}
+			},
+			"JIS":{
+				"defaultValue":"Japanese Industrial Standards (Committee)",
+				"i18nValue":{}
+			},
+			"VDE":{
+				"defaultValue":"Verband Deutscher Elektrotechnischer Verein",
+				"i18nValue":{}
+			},
+			"UL":{
+				"defaultValue":"Underwriters' Laboratories Inc. (USA)",
+				"i18nValue":{}
+			},
+			"ROV":{
+				"defaultValue":"Rontgen Verordnung (West Germany)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"abbreviated name of the office which has approved the safety of an electric, electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"safety_approval",
+	"name":{
+		"defaultValue":"safety approval",
+		"i18nValue":{
+			"en_US":"safety approval",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

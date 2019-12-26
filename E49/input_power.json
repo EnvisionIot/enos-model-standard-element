@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal electric power supplied to a motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_power",
+	"name":{
+		"defaultValue":"input power",
+		"i18nValue":{
+			"en_US":"input power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"perpendicular distance as specified by level (miNomax) between the seating plane and the base plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-off_height",
+	"name":{
+		"defaultValue":"stand-off height",
+		"i18nValue":{
+			"en_US":"stand-off height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

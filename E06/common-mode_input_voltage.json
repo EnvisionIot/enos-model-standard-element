@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum common-mode input voltage applied to a differential amplifier which, if exceeded, may cause the amplifier to cease to function within specification.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"common-mode_input_voltage",
+	"name":{
+		"defaultValue":"common-mode input voltage",
+		"i18nValue":{
+			"en_US":"common-mode input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

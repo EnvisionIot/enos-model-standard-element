@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rms sinusoidal voltage applied to an electric, electronic or electromechanical component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"voltage_ac",
+	"name":{
+		"defaultValue":"voltage (ac)",
+		"i18nValue":{
+			"en_US":"voltage (ac)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

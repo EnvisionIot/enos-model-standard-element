@@ -1,0 +1,51 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"OCT":{
+				"defaultValue":"octagonal",
+				"i18nValue":{}
+			},
+			"RCT":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"CRC":{
+				"defaultValue":"circular",
+				"i18nValue":{}
+			},
+			"SQR":{
+				"defaultValue":"square",
+				"i18nValue":{}
+			},
+			"CRE":{
+				"defaultValue":"circular with ears",
+				"i18nValue":{}
+			},
+			"ELT":{
+				"defaultValue":"elliptical",
+				"i18nValue":{}
+			},
+			"ELE":{
+				"defaultValue":"elliptical with ears",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the outer shape of the flange of a moving conductor loudspeaker.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"shape_of_flange",
+	"name":{
+		"defaultValue":"shape of flange",
+		"i18nValue":{
+			"en_US":"shape of flange",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

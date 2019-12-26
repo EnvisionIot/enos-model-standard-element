@@ -1,0 +1,35 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"conformity level 1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"conformity level 2",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"conformity level 3",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code to indicate the level of conformity with a relevant part of ES 59008 as defined in ES 59008-1.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conformity_level",
+	"name":{
+		"defaultValue":"conformity level",
+		"i18nValue":{
+			"en_US":"conformity level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

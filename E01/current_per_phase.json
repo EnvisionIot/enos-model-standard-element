@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal rms input current of a linear stepping motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"current_per_phase",
+	"name":{
+		"defaultValue":"current per phase",
+		"i18nValue":{
+			"en_US":"current per phase",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

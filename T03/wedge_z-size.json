@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the right angular wedge along the placement Z-axis.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wedge_z-size",
+	"name":{
+		"defaultValue":"wedge z-size",
+		"i18nValue":{
+			"en_US":"wedge z-size",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

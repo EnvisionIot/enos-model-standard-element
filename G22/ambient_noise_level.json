@@ -1,0 +1,19 @@
+{
+	"category":"G22",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"encompassing sound, at a given place, being usually a composite of sounds from many sources near and far.\nThe ambient noise level is normally specified as a reference level to study new intrusive sound sources. After their installation the ambient noise level will be measured again in order to identify possible differences in the ambient noise levels before and after the installation of additional sound forces.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ambient_noise_level",
+	"name":{
+		"defaultValue":"ambient noise level",
+		"i18nValue":{
+			"en_US":"ambient noise level",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

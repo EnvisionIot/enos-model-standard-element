@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the step interval of die patterns on a wafer measured in the direction of the y axis of the coordinate system established for the wafer.\nThe width of the die will normally be closely related to the step interval but the precise value depends on width of saw cuts, tolerances etc.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"die_step_dimension_y",
+	"name":{
+		"defaultValue":"die step dimension y",
+		"i18nValue":{
+			"en_US":"die step dimension y",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E44",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the modulus of the characteristic impedance of a pair of conductors of a cable or of a radio-frequency connector at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"characteristic_impedance",
+	"name":{
+		"defaultValue":"characteristic impedance",
+		"i18nValue":{
+			"en_US":"characteristic impedance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

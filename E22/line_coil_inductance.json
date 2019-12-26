@@ -1,0 +1,19 @@
+{
+	"category":"E22",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal inductance of the line deflection coils of a deflection unit, connected in parallel.\nThe inductance may include a series-connected loss coil.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_coil_inductance",
+	"name":{
+		"defaultValue":"line coil inductance",
+		"i18nValue":{
+			"en_US":"line coil inductance",
+			"zh_CN":null
+		}
+	},
+	"unit":"H",
+	"version":"1.0"
+}

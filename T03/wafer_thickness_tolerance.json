@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal tolerance on the thickness of a semiconductor wafer containing die devices.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wafer_thickness_tolerance",
+	"name":{
+		"defaultValue":"wafer thickness tolerance",
+		"i18nValue":{
+			"en_US":"wafer thickness tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

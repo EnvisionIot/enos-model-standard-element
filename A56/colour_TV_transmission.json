@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"NTSC":{
+				"defaultValue":"National Television System Committee",
+				"i18nValue":{}
+			},
+			"PAL":{
+				"defaultValue":"Phase Alternating Line",
+				"i18nValue":{}
+			},
+			"MULTI":{
+				"defaultValue":"multi-standard system",
+				"i18nValue":{}
+			},
+			"SECAM":{
+				"defaultValue":"Sequential Colour And Memory",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of colour television transmission applying to a delay line or IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"colour_TV_transmission",
+	"name":{
+		"defaultValue":"colour TV transmission",
+		"i18nValue":{
+			"en_US":"colour TV transmission",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

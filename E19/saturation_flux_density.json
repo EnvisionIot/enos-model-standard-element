@@ -1,0 +1,19 @@
+{
+	"category":"E19",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"typical value of the magnetic flux density at saturation of a soft magnetic material at specified ambient temperature.\n1 Saturation: |The state of a material subjected to an external magnetic field so strong that the magnetic polarisation cannot be substantially increased by increasing that field. |IEC 60050 (901.02.20) (1973) |2 The saturation magnetisation is equal to the spontaneous magnetisation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"saturation_flux_density",
+	"name":{
+		"defaultValue":"saturation flux density",
+		"i18nValue":{
+			"en_US":"saturation flux density",
+			"zh_CN":null
+		}
+	},
+	"unit":"T",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E25",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the loss factor due to hysteresis divided by the peak value of the flux density of a soft magnetic material, operating in the Rayleigh region, at specified ambient temperature and frequency.\nRayleigh region: In the graphic representation of the relation between the magnetic flux density and the magnetic field strength in a material, a region near the origin within which the flux density can be described by a quadratic function of the field strength.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hysteresis_material_constant",
+	"name":{
+		"defaultValue":"hysteresis material constant",
+		"i18nValue":{
+			"en_US":"hysteresis material constant",
+			"zh_CN":null
+		}
+	},
+	"unit":"T⁻¹",
+	"version":"1.0"
+}

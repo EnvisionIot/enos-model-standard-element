@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal force of a linear motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_force",
+	"name":{
+		"defaultValue":"rated force",
+		"i18nValue":{
+			"en_US":"rated force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

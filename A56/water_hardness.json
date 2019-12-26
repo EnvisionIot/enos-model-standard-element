@@ -1,0 +1,19 @@
+{
+	"category":"A56",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the amount of calcium and magnesium ions to a unit volume of water.\nwater hardness contains more or less lime scale and may affect the product function and application.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"water_hardness",
+	"name":{
+		"defaultValue":"water hardness",
+		"i18nValue":{
+			"en_US":"water hardness",
+			"zh_CN":null
+		}
+	},
+	"unit":"mmol/l",
+	"version":"1.0"
+}

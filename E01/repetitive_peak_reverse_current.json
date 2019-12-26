@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the repetitive peak reverse current of a rectifier diode when switched from a specified forward current to a specified reverse voltage, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_reverse_current",
+	"name":{
+		"defaultValue":"repetitive peak reverse current",
+		"i18nValue":{
+			"en_US":"repetitive peak reverse current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

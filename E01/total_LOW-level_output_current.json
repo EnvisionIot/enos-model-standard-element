@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"sum of all LOW-level DC output currents of a digital function of an integrated circuit, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"total_LOW-level_output_current",
+	"name":{
+		"defaultValue":"total LOW-level output current",
+		"i18nValue":{
+			"en_US":"total LOW-level output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

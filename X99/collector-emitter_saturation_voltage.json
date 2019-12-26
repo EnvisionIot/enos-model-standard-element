@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"collector-emitter voltage above which the collector current is essentially independent of the gate-emitter voltage, at specified collector current.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_saturation_voltage",
+	"name":{
+		"defaultValue":"collector-emitter saturation voltage",
+		"i18nValue":{
+			"en_US":"collector-emitter saturation voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

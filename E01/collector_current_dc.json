@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct collector current of a bipolar transistor or transistor part of an electronic device, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"collector_current_dc",
+	"name":{
+		"defaultValue":"collector current (dc)",
+		"i18nValue":{
+			"en_US":"collector current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

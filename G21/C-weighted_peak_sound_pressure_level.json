@@ -1,0 +1,19 @@
+{
+	"category":"G21",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"highest value reached by the sound pressure level variing with time.\nthe C-weighting filter gives essentially equal weight to all frequencies across a defined frequency range. It is used to characterize the effect of sources of sound that are impulsive or impactive in nature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"C-weighted_peak_sound_pressure_level",
+	"name":{
+		"defaultValue":"C-weighted peak sound pressure level",
+		"i18nValue":{
+			"en_US":"C-weighted peak sound pressure level",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

@@ -1,0 +1,71 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"INV":{
+				"defaultValue":"inverting",
+				"i18nValue":{}
+			},
+			"BUF":{
+				"defaultValue":"buffered",
+				"i18nValue":{}
+			},
+			"NONINV":{
+				"defaultValue":"non-inverting",
+				"i18nValue":{}
+			},
+			"TOTEM":{
+				"defaultValue":"totem pole",
+				"i18nValue":{}
+			},
+			"ADDRES":{
+				"defaultValue":"addressable",
+				"i18nValue":{}
+			},
+			"DARL":{
+				"defaultValue":"darlington",
+				"i18nValue":{}
+			},
+			"UNBUF":{
+				"defaultValue":"unbuffered",
+				"i18nValue":{}
+			},
+			"I2C":{
+				"defaultValue":"I2C-bus capability",
+				"i18nValue":{}
+			},
+			"3-ST":{
+				"defaultValue":"three-state",
+				"i18nValue":{}
+			},
+			"O-COL":{
+				"defaultValue":"open collector",
+				"i18nValue":{}
+			},
+			"O-DRN":{
+				"defaultValue":"open drain",
+				"i18nValue":{}
+			},
+			"LTCH":{
+				"defaultValue":"latching",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the input or output characteristic of a digital IC function.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"input_or_output_characteristic",
+	"name":{
+		"defaultValue":"input/output characteristic",
+		"i18nValue":{
+			"en_US":"input/output characteristic",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

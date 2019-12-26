@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"tolerance on the length and width dimensions of a die.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"size_tolerance",
+	"name":{
+		"defaultValue":"size tolerance",
+		"i18nValue":{
+			"en_US":"size tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

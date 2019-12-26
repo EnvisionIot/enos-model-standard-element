@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average level of the sea surface over a relatively short period (usually in the range of 10-30 minutes), being  used to distinguish water level variations (surges, tides) from shorter-period sea surface waves.\nAs with the water current, one can distinguish between tidal and non-tidal “surge” components of still water level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"still_water_level",
+	"name":{
+		"defaultValue":"still water level",
+		"i18nValue":{
+			"en_US":"still water level",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,119 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SSB":{
+				"defaultValue":"single sideband AM",
+				"i18nValue":{}
+			},
+			"VSB":{
+				"defaultValue":"vestigial sideband AM",
+				"i18nValue":{}
+			},
+			"DSBSC":{
+				"defaultValue":"double sideband suppressed carrier AM",
+				"i18nValue":{}
+			},
+			"FM":{
+				"defaultValue":"frequency modulation",
+				"i18nValue":{}
+			},
+			"PTM":{
+				"defaultValue":"pulse time modulation",
+				"i18nValue":{}
+			},
+			"DM":{
+				"defaultValue":"delta modulation",
+				"i18nValue":{}
+			},
+			"PDSK":{
+				"defaultValue":"differential phase shift keying",
+				"i18nValue":{}
+			},
+			"PSK":{
+				"defaultValue":"phase shift keying",
+				"i18nValue":{}
+			},
+			"AM":{
+				"defaultValue":"amplitude modulation",
+				"i18nValue":{}
+			},
+			"PPM":{
+				"defaultValue":"pulse position modulation",
+				"i18nValue":{}
+			},
+			"QPSK":{
+				"defaultValue":"quadrature phase shift keying",
+				"i18nValue":{}
+			},
+			"DSB":{
+				"defaultValue":"double sideband AM",
+				"i18nValue":{}
+			},
+			"PFM":{
+				"defaultValue":"pulse frequency modulation",
+				"i18nValue":{}
+			},
+			"PDM":{
+				"defaultValue":"pulse duration modulation",
+				"i18nValue":{}
+			},
+			"ASK":{
+				"defaultValue":"amplitude shift keying",
+				"i18nValue":{}
+			},
+			"ISB":{
+				"defaultValue":"independent sideband AM",
+				"i18nValue":{}
+			},
+			"PCM":{
+				"defaultValue":"pulse code modulation",
+				"i18nValue":{}
+			},
+			"PDCM":{
+				"defaultValue":"differential pulse code modulation",
+				"i18nValue":{}
+			},
+			"n-FSK":{
+				"defaultValue":"n-condition frequency shift keying",
+				"i18nValue":{}
+			},
+			"QAM":{
+				"defaultValue":"quadrature AM",
+				"i18nValue":{}
+			},
+			"PAM":{
+				"defaultValue":"pulse amplitude modulation",
+				"i18nValue":{}
+			},
+			"PM":{
+				"defaultValue":"phase modulation",
+				"i18nValue":{}
+			},
+			"FSK":{
+				"defaultValue":"frequency shift keying",
+				"i18nValue":{}
+			},
+			"MPSK":{
+				"defaultValue":"multiple phase shift keying",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard abbreviation of the type of modulation for the application of an electric-electronic component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"modulation_method",
+	"name":{
+		"defaultValue":"modulation method",
+		"i18nValue":{
+			"en_US":"modulation method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

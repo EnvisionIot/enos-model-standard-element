@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expectation of the time to restoration.\nNote 1 IEC 60050-191:1990 (withdrawn; replaced by IEC 60050-192:2015) defined the term ”mean time to recovery” as a synonym, but restoration and recovery are not synonyms.\r\n \r\nNote 2 Term 'mean' is used as synonym  to the term arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_time_to_restoration",
+	"name":{
+		"defaultValue":"mean time to restoration",
+		"i18nValue":{
+			"en_US":"mean time to restoration",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"temperature of the tie point of a voltage regulator diode, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"tie_point_temperature",
+	"name":{
+		"defaultValue":"tie point temperature",
+		"i18nValue":{
+			"en_US":"tie point temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

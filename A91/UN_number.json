@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identifying number of hazardous substances  and articles, such as explosives, flammable liquids, toxic substances, etc., considered as dangerous goods due to its risks  in the context of international transport.\n1 The referred regulation provides help for classify, mark, pack, label and document goods as being dangerous for transportation|\r\n2 The UN number corresponds to the lower number on all orange-coloured warnings signs found at transportations of hazardous goods. The upper number on the warning signs corresponds to the hazard identification number. The prefixes UN is odften not presented.\n1 Some hazardous substances have their own UN numbers (e.g. acrylamide has UN2074), while sometimes groups of chemicals or products with similar properties have a common UN number (e.g. flammable liquids, not otherwise specified, have UN1993). A chemical in its solid state may have a different UN number than the liquid phase if their hazardous properties differ significantly; substances with different levels of purity (or concentration in solution) may also receive different UN numbers.\r\n2 Regional authorities may use additional numbers, e.g. the NA-number (North-America number), syn. DOT number, issued by the United States Department of Transportation,  deviating from the UN number, indicating substances or its combinations which are not listed in the UN number list, starting with NA8000.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"UN_number",
+	"name":{
+		"defaultValue":"UN number",
+		"i18nValue":{
+			"en_US":"UN number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

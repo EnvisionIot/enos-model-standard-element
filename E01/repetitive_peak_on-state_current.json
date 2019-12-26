@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting peak on-state current, including all repetitive transient currents, in a triac or thyristor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_on-state_current",
+	"name":{
+		"defaultValue":"repetitive peak on-state current",
+		"i18nValue":{
+			"en_US":"repetitive peak on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

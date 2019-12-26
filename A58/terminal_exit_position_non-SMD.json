@@ -1,0 +1,67 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"axial",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"radial",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"two terminals on axis",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"two terminals offset",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"diagonal",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"on circle",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"four (x+y)",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"upper",
+				"i18nValue":{}
+			},
+			"J":{
+				"defaultValue":"one row",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"dual",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"grid array",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the exit position of the terminals of electric/electronic or electromechanical components.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_exit_position_non-SMD",
+	"name":{
+		"defaultValue":"terminal exit position non-SMD",
+		"i18nValue":{
+			"en_US":"terminal exit position non-SMD",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H08",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the radiation consisting of directly and/or indirectly ionizing particles of the atmosphere to a specified unit area.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ionizing_radiation_intensity",
+	"name":{
+		"defaultValue":"ionizing radiation intensity",
+		"i18nValue":{
+			"en_US":"ionizing radiation intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/m²",
+	"version":"1.0"
+}

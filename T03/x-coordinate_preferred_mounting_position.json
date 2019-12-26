@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance on the x-axis of the direction of the preferred mounting position of a component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"x-coordinate_preferred_mounting_position",
+	"name":{
+		"defaultValue":"x-coordinate preferred mounting position",
+		"i18nValue":{
+			"en_US":"x-coordinate preferred mounting position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

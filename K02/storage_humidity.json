@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the storage ambient humidity relative to saturation humidity of a humidity sensor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"storage_humidity",
+	"name":{
+		"defaultValue":"storage humidity",
+		"i18nValue":{
+			"en_US":"storage humidity",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

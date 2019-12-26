@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the outside diameter of a component with a body of circular cross-section.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"outside_diameter",
+	"name":{
+		"defaultValue":"outside diameter",
+		"i18nValue":{
+			"en_US":"outside diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

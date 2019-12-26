@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"ADM":{
+				"defaultValue":"admittance",
+				"i18nValue":{}
+			},
+			"IMP":{
+				"defaultValue":"impedance",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a feature class containing values expressed as complex numbers.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"complex_numbers",
+	"name":{
+		"defaultValue":"complex numbers",
+		"i18nValue":{
+			"en_US":"complex numbers",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

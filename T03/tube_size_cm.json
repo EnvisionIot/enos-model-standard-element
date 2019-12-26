@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal overall outer diagonal of the glass envelope of a display tube, used as product identification.\nIn the Pro Electron type designation code for display tubes other than TV picture and monitor tubes, the face diagonal corresponds with the first number. |For TV picture tubes and monitor tubes see AAE592-005.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"tube_size_cm",
+	"name":{
+		"defaultValue":"tube size (cm)",
+		"i18nValue":{
+			"en_US":"tube size (cm)",
+			"zh_CN":null
+		}
+	},
+	"unit":"cm",
+	"version":"1.0"
+}

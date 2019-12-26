@@ -1,0 +1,21 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short title for the form of packing used for supply of a die or wafer.\nThis is a short title for the form described more fully in AAD088-001.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_packing",
+	"name":{
+		"defaultValue":"supply packing",
+		"i18nValue":{
+			"en_US":"supply packing",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

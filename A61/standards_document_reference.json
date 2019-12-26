@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identity of a standards document that contains lists of dimension sets for electric or electronic components.\nThe standard may be international, such as IEC 60191, or a corresponding national standard, such as JEDEC JESD95, BS3934 etc.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"standards_document_reference",
+	"name":{
+		"defaultValue":"standards document reference",
+		"i18nValue":{
+			"en_US":"standards document reference",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

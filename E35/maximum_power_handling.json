@@ -1,0 +1,19 @@
+{
+	"category":"E35",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the power which may be handled or transmitted by a microwave component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maximum_power_handling",
+	"name":{
+		"defaultValue":"maximum power handling",
+		"i18nValue":{
+			"en_US":"maximum power handling",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

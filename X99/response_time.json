@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time between the moment at which the input voltage reaches the comparative voltage and the moment at which the output voltage reaches 50% of the output voltage level under the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"response_time",
+	"name":{
+		"defaultValue":"response time",
+		"i18nValue":{
+			"en_US":"response time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

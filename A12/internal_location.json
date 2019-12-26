@@ -1,0 +1,21 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"organization-defined address for internal mail delivery.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"internal_location",
+	"name":{
+		"defaultValue":"internal location",
+		"i18nValue":{
+			"en_US":"internal location",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

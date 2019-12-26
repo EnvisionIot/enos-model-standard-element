@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"fraction of die as specified by level (minTyp) which function according to specification on delivery to a customer.\nFor low defect rates, yield and DPM are related by the formula yield = 100 - DPM/1.0E4.\nWhere a minimum figure is quoted, this will normally be a guarantee of delivered quality. Where a typical figure is given this is to be interpreted as an average for the processes employed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"die_yield",
+	"name":{
+		"defaultValue":"die yield",
+		"i18nValue":{
+			"en_US":"die yield",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

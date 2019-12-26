@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"tolerance on the thickness of a die or wafer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thickness_tolerance",
+	"name":{
+		"defaultValue":"thickness tolerance",
+		"i18nValue":{
+			"en_US":"thickness tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

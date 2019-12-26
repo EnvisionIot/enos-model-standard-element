@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of a character of a liquid crystal display module.\nThe length is measured in the horizontal direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"character_length",
+	"name":{
+		"defaultValue":"character length",
+		"i18nValue":{
+			"en_US":"character length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"power loss of a component with linear  losses proportional to I during the state under load at maximum possible continuous rms current (=  rated current) and  measured at rated ambient temperature and at rated frequency.\n1 The power loss includes the losses of all current carrying paths of the component\r\n2 The power loss curve under variable load can be expressed by the formula P= bI with b as constant. \r\n3 The total load loss curve  including  no-load loss (constant a) and the variable load loss can be expressed by the formula P=a+bI.\nintermediate power loss at different load currents can be mathematically derived.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"linear_load_loss",
+	"name":{
+		"defaultValue":"linear load loss",
+		"i18nValue":{
+			"en_US":"linear load loss",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

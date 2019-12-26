@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length in the positive X direction of the smaller surface of the wedge.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ltx",
+	"name":{
+		"defaultValue":"ltx",
+		"i18nValue":{
+			"en_US":"ltx",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

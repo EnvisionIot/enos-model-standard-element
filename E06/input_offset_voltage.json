@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the dc voltage, required to be applied between the input terminals of an operational amplifier, to cause zero output voltage at reference conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_offset_voltage",
+	"name":{
+		"defaultValue":"input offset voltage",
+		"i18nValue":{
+			"en_US":"input offset voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

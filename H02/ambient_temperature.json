@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"temperature of the air or other media in the immediate vicinity of the apparatus or component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ambient_temperature",
+	"name":{
+		"defaultValue":"ambient temperature",
+		"i18nValue":{
+			"en_US":"ambient temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

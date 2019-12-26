@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":80
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the type of connector accessory.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"accessory_type",
+	"name":{
+		"defaultValue":"accessory type",
+		"i18nValue":{
+			"en_US":"accessory type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

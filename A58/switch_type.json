@@ -1,0 +1,43 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"SPST":{
+				"defaultValue":"single pole, single throw",
+				"i18nValue":{}
+			},
+			"SPDT":{
+				"defaultValue":"single pole, double throw",
+				"i18nValue":{}
+			},
+			"DPDT":{
+				"defaultValue":"double pole, double throw",
+				"i18nValue":{}
+			},
+			"NONE":{
+				"defaultValue":"no switch",
+				"i18nValue":{}
+			},
+			"DPST":{
+				"defaultValue":"double pole, single throw",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of switch included with a power socket.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"switch_type",
+	"name":{
+		"defaultValue":"switch type",
+		"i18nValue":{
+			"en_US":"switch type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

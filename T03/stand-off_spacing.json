@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"linear spacing as specified by level (miMomax) between true positions of centres of stand-offs.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-off_spacing",
+	"name":{
+		"defaultValue":"stand-off spacing",
+		"i18nValue":{
+			"en_US":"stand-off spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

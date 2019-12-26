@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"MIL code of the specification in which an electric, electronic or electromechanical component is released under the MIL quality assessment system.\nMIL : Military specification or standard (USA) |Quality assessment : The continuous surveillance of the manufacturer of a product to ensure that it conforms to the requirements of the specification to which it was made.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"MIL_specification",
+	"name":{
+		"defaultValue":"MIL specification",
+		"i18nValue":{
+			"en_US":"MIL specification",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CTV":{
+				"defaultValue":"colour television",
+				"i18nValue":{}
+			},
+			"VCR":{
+				"defaultValue":"video cassette recorder",
+				"i18nValue":{}
+			},
+			"VLP":{
+				"defaultValue":"video long play",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the recommended application of a delay line.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"delay_line_application",
+	"name":{
+		"defaultValue":"delay line application",
+		"i18nValue":{
+			"en_US":"delay line application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

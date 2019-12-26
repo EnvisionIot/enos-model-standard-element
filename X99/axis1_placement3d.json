@@ -1,0 +1,90 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"x-coordinate_position_location",
+				"name":{
+					"defaultValue":"x-coordinate position location",
+					"i18nValue":{
+						"en_US":"x-coordinate position location",
+						"zh_CN":null
+					}
+				},
+				"unit":"m"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"y-coordinate_position_location",
+				"name":{
+					"defaultValue":"y-coordinate position location",
+					"i18nValue":{
+						"en_US":"y-coordinate position location",
+						"zh_CN":null
+					}
+				},
+				"unit":"m"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"z-coordinate_position_location",
+				"name":{
+					"defaultValue":"z-coordinate position location",
+					"i18nValue":{
+						"en_US":"z-coordinate position location",
+						"zh_CN":null
+					}
+				},
+				"unit":"m"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"axis having its origin at a specified three-dimensional Cartesian point.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"axis1_placement3d",
+	"name":{
+		"defaultValue":"axis1_placement3d",
+		"i18nValue":{
+			"en_US":"axis1_placement3d",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1a":{
+				"defaultValue":"1a",
+				"i18nValue":{}
+			},
+			"1":{
+				"defaultValue":"1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"2",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"3",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the performance class of a connector.\nPerformance class is the combination of mechanical endurance and climatic category.| performance class...mechanical endurance...climatic category...min/max/days| 1....................................500......................................55/125/56| 1a..................................500......................................65/125/65| 2....................................400......................................55/125/00| 3....................................50.........................................55/125/00.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"performance_class",
+	"name":{
+		"defaultValue":"performance class",
+		"i18nValue":{
+			"en_US":"performance class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

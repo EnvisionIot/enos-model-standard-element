@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"Y":{
+				"defaultValue":"with built-in fuse",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"no built-in fuse",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"indication (Y or N) as to whether a solid tantalum capacitor contains a built-in fuse.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"built-in_fuse",
+	"name":{
+		"defaultValue":"built-in fuse",
+		"i18nValue":{
+			"en_US":"built-in fuse",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

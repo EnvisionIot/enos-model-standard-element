@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the direct voltage, on grid 4 with respect to grid 1, for focusing of a monochrome display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"focusing_voltage",
+	"name":{
+		"defaultValue":"focusing voltage",
+		"i18nValue":{
+			"en_US":"focusing voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

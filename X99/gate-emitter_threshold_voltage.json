@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"gate-emitter voltage at which the collector current is at specified low (absolute) value.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gate-emitter_threshold_voltage",
+	"name":{
+		"defaultValue":"gate-emitter threshold voltage",
+		"i18nValue":{
+			"en_US":"gate-emitter threshold voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

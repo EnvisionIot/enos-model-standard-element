@@ -1,0 +1,19 @@
+{
+	"category":"E17",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the magnetic field strength at saturation magnetisation of a hard magnetic material.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"saturation_field_strength",
+	"name":{
+		"defaultValue":"saturation field strength",
+		"i18nValue":{
+			"en_US":"saturation field strength",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m",
+	"version":"1.0"
+}

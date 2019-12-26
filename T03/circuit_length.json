@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length of a printed wiring circuit as given by level (miNomax).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"circuit_length",
+	"name":{
+		"defaultValue":"circuit length",
+		"i18nValue":{
+			"en_US":"circuit length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the frequency  of a bipolar transistor at which the small-signal current gain is 3 dB below its value at low frequencies at specified collector current and collector-emitter voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cut-off_frequency",
+	"name":{
+		"defaultValue":"cut-off frequency",
+		"i18nValue":{
+			"en_US":"cut-off frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

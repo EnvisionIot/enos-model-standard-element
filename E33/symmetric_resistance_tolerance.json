@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"absolute tolerance on the nominal value of the resistance of an electric component where both positive and negative tolerance values are equal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"symmetric_resistance_tolerance",
+	"name":{
+		"defaultValue":"symmetric resistance tolerance",
+		"i18nValue":{
+			"en_US":"symmetric resistance tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

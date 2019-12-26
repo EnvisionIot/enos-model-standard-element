@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a zone in the direction of the package length which includes the package length, package irregularities and the uncontrolled part of any terminals which are presented for mounting in the length direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_length_zone",
+	"name":{
+		"defaultValue":"package length zone",
+		"i18nValue":{
+			"en_US":"package length zone",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

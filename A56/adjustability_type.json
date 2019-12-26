@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"FIX":{
+				"defaultValue":"fixed",
+				"i18nValue":{}
+			},
+			"VAR":{
+				"defaultValue":"variable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of mechanical adjustability identifying an inductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"adjustability_type",
+	"name":{
+		"defaultValue":"adjustability type",
+		"i18nValue":{
+			"en_US":"adjustability type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the lower effective frequency  of a loudspeaker, microphone or antenna.\nFor a loudspeaker, the -10 dB frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"effective_frequency_f_e1",
+	"name":{
+		"defaultValue":"effective frequency f_e1",
+		"i18nValue":{
+			"en_US":"effective frequency f_e1",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

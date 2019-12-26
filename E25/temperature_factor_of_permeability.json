@@ -1,0 +1,19 @@
+{
+	"category":"E25",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the negative of the change in the permeability due to a change in temperature, divided by that change in temperature of a soft magnetic material at specified frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_factor_of_permeability",
+	"name":{
+		"defaultValue":"temperature factor of permeability",
+		"i18nValue":{
+			"en_US":"temperature factor of permeability",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/K",
+	"version":"1.0"
+}

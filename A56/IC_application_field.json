@@ -1,0 +1,159 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RR":{
+				"defaultValue":"radio receiver",
+				"i18nValue":{}
+			},
+			"DCOM":{
+				"defaultValue":"data communications",
+				"i18nValue":{}
+			},
+			"TV":{
+				"defaultValue":"television receiver",
+				"i18nValue":{}
+			},
+			"V-DEFL":{
+				"defaultValue":"television reciever vertical deflection",
+				"i18nValue":{}
+			},
+			"VCR":{
+				"defaultValue":"video recorder",
+				"i18nValue":{}
+			},
+			"CLWTCH":{
+				"defaultValue":"clocks and watches",
+				"i18nValue":{}
+			},
+			"MTR":{
+				"defaultValue":"multi-tone ringer",
+				"i18nValue":{}
+			},
+			"E/W":{
+				"defaultValue":"television receiver east/west correction",
+				"i18nValue":{}
+			},
+			"AUD":{
+				"defaultValue":"audio",
+				"i18nValue":{}
+			},
+			"DIAL":{
+				"defaultValue":"dialler",
+				"i18nValue":{}
+			},
+			"TXT":{
+				"defaultValue":"teletext",
+				"i18nValue":{}
+			},
+			"CREC":{
+				"defaultValue":"video camera-recorder",
+				"i18nValue":{}
+			},
+			"SPS":{
+				"defaultValue":"speech synthesizer",
+				"i18nValue":{}
+			},
+			"VERT":{
+				"defaultValue":"television reciever vertical synchronisation",
+				"i18nValue":{}
+			},
+			"AUT":{
+				"defaultValue":"automotive",
+				"i18nValue":{}
+			},
+			"CD":{
+				"defaultValue":"audio compact disc",
+				"i18nValue":{}
+			},
+			"MOB":{
+				"defaultValue":"mobile telephony",
+				"i18nValue":{}
+			},
+			"GP":{
+				"defaultValue":"general purpose",
+				"i18nValue":{}
+			},
+			"HOR":{
+				"defaultValue":"television reciever horizontal synchronisation",
+				"i18nValue":{}
+			},
+			"TCOM":{
+				"defaultValue":"telecommunications",
+				"i18nValue":{}
+			},
+			"AO":{
+				"defaultValue":"application field",
+				"i18nValue":{}
+			},
+			"CAM":{
+				"defaultValue":"video camera",
+				"i18nValue":{}
+			},
+			"DIS":{
+				"defaultValue":"video display",
+				"i18nValue":{}
+			},
+			"VID":{
+				"defaultValue":"video",
+				"i18nValue":{}
+			},
+			"RC":{
+				"defaultValue":"radio recorder",
+				"i18nValue":{}
+			},
+			"REC":{
+				"defaultValue":"audio recorder",
+				"i18nValue":{}
+			},
+			"GAM":{
+				"defaultValue":"video game",
+				"i18nValue":{}
+			},
+			"PASY":{
+				"defaultValue":"paging system",
+				"i18nValue":{}
+			},
+			"CAR":{
+				"defaultValue":"car radio",
+				"i18nValue":{}
+			},
+			"HAID":{
+				"defaultValue":"hearing aid",
+				"i18nValue":{}
+			},
+			"ARI":{
+				"defaultValue":"traffic warning system",
+				"i18nValue":{}
+			},
+			"TEL":{
+				"defaultValue":"telephony",
+				"i18nValue":{}
+			},
+			"REM":{
+				"defaultValue":"remote control",
+				"i18nValue":{}
+			},
+			"SYNC":{
+				"defaultValue":"television reciever synchronization",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the equipment in which an application oriented IC is used.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"IC_application_field",
+	"name":{
+		"defaultValue":"IC application field",
+		"i18nValue":{
+			"en_US":"IC application field",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

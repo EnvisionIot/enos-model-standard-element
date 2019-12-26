@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"CLIM":{
+				"defaultValue":"climatic test",
+				"i18nValue":{}
+			},
+			"LOAD":{
+				"defaultValue":"load test",
+				"i18nValue":{}
+			},
+			"OVERL":{
+				"defaultValue":"short time overload",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of stability test to which a component is submitted.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"stability_test",
+	"name":{
+		"defaultValue":"stability test",
+		"i18nValue":{
+			"en_US":"stability test",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

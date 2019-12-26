@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"contrast ratio measured in a dark room ambient, typically less than 1 lx.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dark_room_contrast_ratio",
+	"name":{
+		"defaultValue":"dark room contrast ratio",
+		"i18nValue":{
+			"en_US":"dark room contrast ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

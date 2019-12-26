@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the overall diameter of a connector with a circular or near-circular cross-section.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connector_diameter",
+	"name":{
+		"defaultValue":"connector diameter",
+		"i18nValue":{
+			"en_US":"connector diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

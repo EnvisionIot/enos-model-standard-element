@@ -1,0 +1,131 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"RES":{
+				"defaultValue":"resistor",
+				"i18nValue":{}
+			},
+			"TRA":{
+				"defaultValue":"transistor",
+				"i18nValue":{}
+			},
+			"ANT":{
+				"defaultValue":"antenna",
+				"i18nValue":{}
+			},
+			"TRG":{
+				"defaultValue":"trigger device",
+				"i18nValue":{}
+			},
+			"SPARK":{
+				"defaultValue":"spark gaps",
+				"i18nValue":{}
+			},
+			"OPT":{
+				"defaultValue":"optoelectronic device",
+				"i18nValue":{}
+			},
+			"IC":{
+				"defaultValue":"integrated circuit",
+				"i18nValue":{}
+			},
+			"TFM":{
+				"defaultValue":"transformer",
+				"i18nValue":{}
+			},
+			"PWC":{
+				"defaultValue":"printed wiring components",
+				"i18nValue":{}
+			},
+			"DID":{
+				"defaultValue":"diode device",
+				"i18nValue":{}
+			},
+			"OSC":{
+				"defaultValue":"oscillator",
+				"i18nValue":{}
+			},
+			"TUB":{
+				"defaultValue":"tube",
+				"i18nValue":{}
+			},
+			"AMP":{
+				"defaultValue":"amplifier",
+				"i18nValue":{}
+			},
+			"MIC":{
+				"defaultValue":"microwave components",
+				"i18nValue":{}
+			},
+			"FIL":{
+				"defaultValue":"filter",
+				"i18nValue":{}
+			},
+			"DEL":{
+				"defaultValue":"delay line",
+				"i18nValue":{}
+			},
+			"LCD":{
+				"defaultValue":"liquid crystal display",
+				"i18nValue":{}
+			},
+			"TUN":{
+				"defaultValue":"tuner",
+				"i18nValue":{}
+			},
+			"CAP":{
+				"defaultValue":"capacitor",
+				"i18nValue":{}
+			},
+			"BAT":{
+				"defaultValue":"battery",
+				"i18nValue":{}
+			},
+			"PE":{
+				"defaultValue":"piezoelectric device",
+				"i18nValue":{}
+			},
+			"CND":{
+				"defaultValue":"conductor",
+				"i18nValue":{}
+			},
+			"FIBOPTIC":{
+				"defaultValue":"fibre optics",
+				"i18nValue":{}
+			},
+			"LAM":{
+				"defaultValue":"lamp",
+				"i18nValue":{}
+			},
+			"RESON":{
+				"defaultValue":"resonators",
+				"i18nValue":{}
+			},
+			"SEN":{
+				"defaultValue":"sensor",
+				"i18nValue":{}
+			},
+			"IND":{
+				"defaultValue":"inductor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the category to which an electric-electronic component belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"category_EE_component",
+	"name":{
+		"defaultValue":"category EE component",
+		"i18nValue":{
+			"en_US":"category EE component",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

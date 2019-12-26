@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc switching current of a switch or relay at resistive load.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_current_dc",
+	"name":{
+		"defaultValue":"contact current (dc)",
+		"i18nValue":{
+			"en_US":"contact current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

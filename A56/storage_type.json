@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"EEPROM":{
+				"defaultValue":"electrically erasable ROM",
+				"i18nValue":{}
+			},
+			"MROM":{
+				"defaultValue":"mask programmed ROM",
+				"i18nValue":{}
+			},
+			"UVPROM":{
+				"defaultValue":"UV erasable ROM",
+				"i18nValue":{}
+			},
+			"RAM":{
+				"defaultValue":"RAM",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of on-chip storage of a microcontroller.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"storage_type",
+	"name":{
+		"defaultValue":"storage type",
+		"i18nValue":{
+			"en_US":"storage type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

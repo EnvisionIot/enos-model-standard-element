@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":175
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the physical form of a die or wafer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_type_description",
+	"name":{
+		"defaultValue":"die type description",
+		"i18nValue":{
+			"en_US":"die type description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

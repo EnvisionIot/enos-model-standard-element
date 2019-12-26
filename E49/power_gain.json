@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the ratio of the output power to the input power of a bipolar transistor or wideband amplifier at specified supply voltage, frequency, output power and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_gain",
+	"name":{
+		"defaultValue":"power gain",
+		"i18nValue":{
+			"en_US":"power gain",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

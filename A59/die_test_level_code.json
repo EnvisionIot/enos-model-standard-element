@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code or designation given by a manufacturer to the schedule of tests applied to assess the performance characteristics and to conduct burn-in for a die.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_test_level_code",
+	"name":{
+		"defaultValue":"die test level code",
+		"i18nValue":{
+			"en_US":"die test level code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

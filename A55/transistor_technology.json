@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"FET":{
+				"defaultValue":"field-effect transistor",
+				"i18nValue":{}
+			},
+			"BIP":{
+				"defaultValue":"bipolar transistor",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the technology to which a transistor belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"transistor_technology",
+	"name":{
+		"defaultValue":"transistor technology",
+		"i18nValue":{
+			"en_US":"transistor technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

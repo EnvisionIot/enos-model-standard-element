@@ -1,0 +1,21 @@
+{
+	"category":"A13",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designation of a road.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"street",
+	"name":{
+		"defaultValue":"street",
+		"i18nValue":{
+			"en_US":"street",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

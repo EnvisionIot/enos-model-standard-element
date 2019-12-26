@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"HEAT":{
+				"defaultValue":"heating element",
+				"i18nValue":{}
+			},
+			"SENS":{
+				"defaultValue":"temperature sensing",
+				"i18nValue":{}
+			},
+			"PROT":{
+				"defaultValue":"overload protection",
+				"i18nValue":{}
+			},
+			"DEGA":{
+				"defaultValue":"degaussing colour TV tubes (dual PTC)",
+				"i18nValue":{}
+			},
+			"MOTOR":{
+				"defaultValue":"motor starting",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a PTC thermistor identifying its application.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"PTC_application",
+	"name":{
+		"defaultValue":"PTC application",
+		"i18nValue":{
+			"en_US":"PTC application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

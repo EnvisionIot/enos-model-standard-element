@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum opening in an edge connector to receive the metal-clad base material of a printed board including conductive layer or layers but excluding additional plating.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connector_opening",
+	"name":{
+		"defaultValue":"connector opening",
+		"i18nValue":{
+			"en_US":"connector opening",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

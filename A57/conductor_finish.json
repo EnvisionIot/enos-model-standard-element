@@ -1,0 +1,35 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"Ag":{
+				"defaultValue":"silver",
+				"i18nValue":{}
+			},
+			"Ni":{
+				"defaultValue":"nickel",
+				"i18nValue":{}
+			},
+			"Sn":{
+				"defaultValue":"tin",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the finish material of a conductive part of a conductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductor_finish",
+	"name":{
+		"defaultValue":"conductor finish",
+		"i18nValue":{
+			"en_US":"conductor finish",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

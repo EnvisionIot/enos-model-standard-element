@@ -1,0 +1,55 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"ELM":{
+				"defaultValue":"electromagnetic loudspeaker",
+				"i18nValue":{}
+			},
+			"MGS":{
+				"defaultValue":"magnetostriction loudspeaker",
+				"i18nValue":{}
+			},
+			"ION":{
+				"defaultValue":"ionic loudspeaker",
+				"i18nValue":{}
+			},
+			"MGD":{
+				"defaultValue":"magnetodynamic loudspeaker",
+				"i18nValue":{}
+			},
+			"MVC":{
+				"defaultValue":"moving conductor loudspeaker",
+				"i18nValue":{}
+			},
+			"PXE":{
+				"defaultValue":"piezoelectric loudspeaker",
+				"i18nValue":{}
+			},
+			"ELS":{
+				"defaultValue":"electrostatic loudspeaker",
+				"i18nValue":{}
+			},
+			"PNM":{
+				"defaultValue":"pneumatic loudspeaker",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the transducer principle of a loudspeaker.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"transducer_principle",
+	"name":{
+		"defaultValue":"transducer principle",
+		"i18nValue":{
+			"en_US":"transducer principle",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E43",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as given by level (miNomax) of the phase angle of a complex electrical quantity.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"phase_angle",
+	"name":{
+		"defaultValue":"phase angle",
+		"i18nValue":{
+			"en_US":"phase angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"rad",
+	"version":"1.0"
+}

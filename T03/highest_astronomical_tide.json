@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"highest water level as result of astronomical prediction measured at a given period of time.\nThe lowest and the highest astronomical tide are measured over a reference time period and are changing from year to year.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"highest_astronomical_tide",
+	"name":{
+		"defaultValue":"highest astronomical tide",
+		"i18nValue":{
+			"en_US":"highest astronomical tide",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

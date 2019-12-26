@@ -1,0 +1,19 @@
+{
+	"category":"E25",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the relative permeability of a soft magnetic material, obtained from the peak value of the flux density and the applied alternating field strength, at specified frequency, ambient temperature and peak magnetic flux density.\n1 The peak values apply to the actual waveforms. |2 The material is assumed to be in a cyclic magnetic condition.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"amplitude_permeability",
+	"name":{
+		"defaultValue":"amplitude permeability",
+		"i18nValue":{
+			"en_US":"amplitude permeability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

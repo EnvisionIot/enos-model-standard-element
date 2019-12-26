@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"8048 enh":{
+				"defaultValue":"enhanced instruction set 8048",
+				"i18nValue":{}
+			},
+			"8048":{
+				"defaultValue":"instruction set 8048",
+				"i18nValue":{}
+			},
+			"68000":{
+				"defaultValue":"instruction set 68000",
+				"i18nValue":{}
+			},
+			"8051":{
+				"defaultValue":"instruction set 8051",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the instruction set of an IC microcontroller or microprocessor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"instruction_set",
+	"name":{
+		"defaultValue":"instruction set",
+		"i18nValue":{
+			"en_US":"instruction set",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"Q51",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of basic elements in a cable.\nThe type of basic element is defined by AAF253-005 and AAF256-005.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_cable_elements",
+	"name":{
+		"defaultValue":"number of cable elements",
+		"i18nValue":{
+			"en_US":"number of cable elements",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

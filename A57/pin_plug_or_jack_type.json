@@ -1,0 +1,39 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"MULT":{
+				"defaultValue":"pin multiple jack",
+				"i18nValue":{}
+			},
+			"PLUG":{
+				"defaultValue":"pin plug",
+				"i18nValue":{}
+			},
+			"SHLD":{
+				"defaultValue":"shielded pin jack",
+				"i18nValue":{}
+			},
+			"JACK":{
+				"defaultValue":"pin jack",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of pin plug or jack.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pin_plug_or_jack_type",
+	"name":{
+		"defaultValue":"pin plug/jack type",
+		"i18nValue":{
+			"en_US":"pin plug/jack type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

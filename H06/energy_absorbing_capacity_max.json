@@ -1,0 +1,19 @@
+{
+	"category":"H06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting energy content, of a pulse current with specified virtual front time and virtual time to half-value, that can be absorbed by a varistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"energy_absorbing_capacity_max",
+	"name":{
+		"defaultValue":"energy absorbing capacity max",
+		"i18nValue":{
+			"en_US":"energy absorbing capacity max",
+			"zh_CN":null
+		}
+	},
+	"unit":"J",
+	"version":"1.0"
+}

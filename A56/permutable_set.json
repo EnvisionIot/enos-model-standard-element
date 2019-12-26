@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"set of terminals or terminal groups on an integrated circuit or die device that may be permuted or mutually interchanged, either logically or physically, without affecting the operation of the device.\nGroups or terminals are referenced by their names. |Permutations are subject to the following rules : |Rule B1. Content - The elements forming a permutation may be terminal identifiers or group identifiers but not a mixture of the two. A permutation must contain at least two elements. |Rule B2. Uniqueness - All elements within a permutation must be unique. A permutation may not contain groups that refer directly or indirectly to the same element. |Rule B3. Ordering - the order of elements within a permutation is not important.\nFor definition of terminal groups, see AAD171 and for definition of group names, see AAD172.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"permutable_set",
+	"name":{
+		"defaultValue":"permutable set",
+		"i18nValue":{
+			"en_US":"permutable set",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

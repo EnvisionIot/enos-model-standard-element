@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the dc voltage which the insulation of an insulated conductor can withstand.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"test_voltage_minimum",
+	"name":{
+		"defaultValue":"test voltage minimum",
+		"i18nValue":{
+			"en_US":"test voltage minimum",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

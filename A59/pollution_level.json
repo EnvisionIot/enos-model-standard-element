@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"Pollution degree 1":{
+				"defaultValue":"Pollution degree 1",
+				"i18nValue":{}
+			},
+			"Pollution degree 4":{
+				"defaultValue":"Pollution degree 4",
+				"i18nValue":{}
+			},
+			"Pollution degree 3":{
+				"defaultValue":"Pollution degree 3",
+				"i18nValue":{}
+			},
+			"Pollution degree 2":{
+				"defaultValue":"Pollution degree 2",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of polluted ambience of a location in accordance with IEC 60071-2, table 1.\nbased on the given value the use of a minimum nominal specific creepage distance  for bushings is recommended.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pollution_level",
+	"name":{
+		"defaultValue":"pollution level",
+		"i18nValue":{
+			"en_US":"pollution level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

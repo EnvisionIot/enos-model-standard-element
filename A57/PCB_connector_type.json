@@ -1,0 +1,43 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"BTC":{
+				"defaultValue":"board-to-cable",
+				"i18nValue":{}
+			},
+			"BTB":{
+				"defaultValue":"Board-to-board",
+				"i18nValue":{}
+			},
+			"FPC":{
+				"defaultValue":"FPC/FFC",
+				"i18nValue":{}
+			},
+			"JUMP":{
+				"defaultValue":"PCB jumper",
+				"i18nValue":{}
+			},
+			"EDGE":{
+				"defaultValue":"card edge connectors",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of connector intended for use with PC boards.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"PCB_connector_type",
+	"name":{
+		"defaultValue":"PCB connector type",
+		"i18nValue":{
+			"en_US":"PCB connector type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

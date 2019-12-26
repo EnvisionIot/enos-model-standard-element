@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting non-repetitive value of a pulse current through a varistor, with specified virtual front time and virtual time to half-value.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-rep_varistor_peak_current",
+	"name":{
+		"defaultValue":"non-rep varistor peak current",
+		"i18nValue":{
+			"en_US":"non-rep varistor peak current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

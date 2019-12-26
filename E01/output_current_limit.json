@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting dc output current of a digital function of an IC.\nFor ICs containing protection diodes, clamping occurs when the applied output voltage exceeds the supply voltage, or drops below GND or V_SS level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_current_limit",
+	"name":{
+		"defaultValue":"output current limit",
+		"i18nValue":{
+			"en_US":"output current limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

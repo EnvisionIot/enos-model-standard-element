@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum number of engagements and separations that the connector can withstand without electrical load.\nAfter test the connector shall fulfil requirements stated in IEC 60169-1(17) (1987).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mechanical_endurance",
+	"name":{
+		"defaultValue":"mechanical endurance",
+		"i18nValue":{
+			"en_US":"mechanical endurance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

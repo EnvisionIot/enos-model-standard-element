@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct current flowing through a diode or diode part of an electronic device, in the forward direction, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"forward_current",
+	"name":{
+		"defaultValue":"forward current",
+		"i18nValue":{
+			"en_US":"forward current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of a file containing an image of the fiducial on the die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fiducial_file_name",
+	"name":{
+		"defaultValue":"fiducial file name",
+		"i18nValue":{
+			"en_US":"fiducial file name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

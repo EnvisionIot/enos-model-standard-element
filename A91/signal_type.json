@@ -1,0 +1,63 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"analogue signal",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"digital bidirectional",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"test point",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"unknown connection",
+				"i18nValue":{}
+			},
+			"V":{
+				"defaultValue":"supply voltage",
+				"i18nValue":{}
+			},
+			"G":{
+				"defaultValue":"ground",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"internally connected",
+				"i18nValue":{}
+			},
+			"I":{
+				"defaultValue":"digital input",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"not connected",
+				"i18nValue":{}
+			},
+			"O":{
+				"defaultValue":"digital output",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of signal associated with a terminal.\nThe value shows whether the signal is analogue or digital, or whether connection to the terminal provides a supply or non-logic function etc.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_type",
+	"name":{
+		"defaultValue":"signal type",
+		"i18nValue":{
+			"en_US":"signal type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

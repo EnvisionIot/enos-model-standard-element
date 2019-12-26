@@ -1,0 +1,19 @@
+{
+	"category":"K01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"additive, non-negative scalar quantity, characterizing a particle or a sample of matter in the phenomena of inertia and gravitation.\nNOTE 1  Due to the equivalence between mass and energy, the mass of a system depends on the binding energy between its parts, thus the mass of a stable system is always less than the sum of masses of its parts. In classical mechanics, the mass corresponding to binding energy is considered to be negiligible. From the point of view of the general theory of relativity, inertial mass of a system in motion and heavy mass of the system in gravitation are equivalent.|| NOTE 2  Mass is one of the seven base quantities in the iinternational System of Quantities, ISQ, on which the International System of Units, SI, is based. The coherent SI unit of mass is kilogram, kg (see IEC 60050-112, 112-02-06). A non-SI unit accepted for use with the SI is tonne, or metric ton, symbol t (1t:= 1 000 kg).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mass",
+	"name":{
+		"defaultValue":"mass",
+		"i18nValue":{
+			"en_US":"mass",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg",
+	"version":"1.0"
+}

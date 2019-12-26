@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material used to form the leads on a die with attached lead frame.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"lead-frame_material",
+	"name":{
+		"defaultValue":"lead-frame material",
+		"i18nValue":{
+			"en_US":"lead-frame material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

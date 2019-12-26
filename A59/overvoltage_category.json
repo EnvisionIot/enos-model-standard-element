@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"overvoltage category 1",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"overvoltage category 2",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"overvoltage category 3",
+				"i18nValue":{}
+			},
+			"4":{
+				"defaultValue":"overvoltage category 4",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the standardized overvoltage category an EM component can perform.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"overvoltage_category",
+	"name":{
+		"defaultValue":"overvoltage category",
+		"i18nValue":{
+			"en_US":"overvoltage category",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

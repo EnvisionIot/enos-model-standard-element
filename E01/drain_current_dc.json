@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct current flowing through the drain of a field-effect transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"drain_current_dc",
+	"name":{
+		"defaultValue":"drain current (dc)",
+		"i18nValue":{
+			"en_US":"drain current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

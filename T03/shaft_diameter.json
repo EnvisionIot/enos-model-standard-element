@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the diameter of the shaft of a switch having rotary action.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"shaft_diameter",
+	"name":{
+		"defaultValue":"shaft diameter",
+		"i18nValue":{
+			"en_US":"shaft diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

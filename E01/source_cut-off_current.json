@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed source cut-off current of a field-effect transistor at specified drain-source voltage, drain-gate voltage and drain-substrate voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"source_cut-off_current",
+	"name":{
+		"defaultValue":"source cut-off current",
+		"i18nValue":{
+			"en_US":"source cut-off current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

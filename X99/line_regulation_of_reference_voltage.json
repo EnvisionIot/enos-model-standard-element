@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of change of the reference voltage versus that of the input voltage.\nThe reference voltage is measured in millivolt (mV) and the input voltage is measured in volt (V).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"line_regulation_of_reference_voltage",
+	"name":{
+		"defaultValue":"line regulation of reference voltage",
+		"i18nValue":{
+			"en_US":"line regulation of reference voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

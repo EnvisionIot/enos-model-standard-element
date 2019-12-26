@@ -1,0 +1,19 @@
+{
+	"category":"H01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the mean temperature sensitivity index of an NTC thermistor between 25 and 85 Cel.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_sensitivity_index_B25_or_85",
+	"name":{
+		"defaultValue":"thermal sensitivity index B25/85",
+		"i18nValue":{
+			"en_US":"thermal sensitivity index B25/85",
+			"zh_CN":null
+		}
+	},
+	"unit":"K",
+	"version":"1.0"
+}

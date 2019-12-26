@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the minimum cross-sectional area of a soft magnetic part.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minimum_cross-sectional_area",
+	"name":{
+		"defaultValue":"minimum cross-sectional area",
+		"i18nValue":{
+			"en_US":"minimum cross-sectional area",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

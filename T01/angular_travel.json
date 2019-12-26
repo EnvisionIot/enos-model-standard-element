@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal angular distance between adjacent positions of a switch with rotary operation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"angular_travel",
+	"name":{
+		"defaultValue":"angular travel",
+		"i18nValue":{
+			"en_US":"angular travel",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

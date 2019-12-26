@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum duration of storage at specified ambient temperature at the end of which a cell or battery retains 80% of its original capacity.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"storage_life",
+	"name":{
+		"defaultValue":"storage life",
+		"i18nValue":{
+			"en_US":"storage life",
+			"zh_CN":null
+		}
+	},
+	"unit":"d",
+	"version":"1.0"
+}

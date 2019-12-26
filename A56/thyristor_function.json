@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"FTO":{
+				"defaultValue":"fast turn off thyristors",
+				"i18nValue":{}
+			},
+			"GTO":{
+				"defaultValue":"gate turn off thyristors",
+				"i18nValue":{}
+			},
+			"RVB":{
+				"defaultValue":"reverse blocking thyristors",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the function of a thyristor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"thyristor_function",
+	"name":{
+		"defaultValue":"thyristor function",
+		"i18nValue":{
+			"en_US":"thyristor function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

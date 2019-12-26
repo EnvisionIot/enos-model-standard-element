@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal total width of the substrate of an hybrid inductive proximity detector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"substrate_width",
+	"name":{
+		"defaultValue":"substrate width",
+		"i18nValue":{
+			"en_US":"substrate width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

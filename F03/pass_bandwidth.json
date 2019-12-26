@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum separation of frequencies between which the attenuation of a quartz crystal filter shall be equal to or less than a specified value.\nThe separation is expressed as the deviation from the nominal frequency by a pair of values, one defining the upper frequency and the other defining the lower frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pass_bandwidth",
+	"name":{
+		"defaultValue":"pass bandwidth",
+		"i18nValue":{
+			"en_US":"pass bandwidth",
+			"zh_CN":null
+		}
+	},
+	"unit":"kHz",
+	"version":"1.0"
+}

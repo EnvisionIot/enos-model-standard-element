@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date at which the item was produced, being ready for use.\nProduce' is a wider term, than 'manufacture'. Agricultural products are not manufactured.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"date_of_production",
+	"name":{
+		"defaultValue":"date of production",
+		"i18nValue":{
+			"en_US":"date of production",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

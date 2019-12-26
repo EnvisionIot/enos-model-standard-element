@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"units in which the outgoing quality level of a component is given.\nTypical units may be defects per million (dpm) or percentage AQL.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"quality_level_units",
+	"name":{
+		"defaultValue":"quality level units",
+		"i18nValue":{
+			"en_US":"quality level units",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum continuous rms current per contact of a connector, all contacts loaded, at specified ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_current",
+	"name":{
+		"defaultValue":"rated current",
+		"i18nValue":{
+			"en_US":"rated current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a geographical area within a domain, e.g. a country, by a local postal service for sorting mail.\nAlthough postal codes are usually assigned to geographical areas, special codes may be assigned to individual addresses or to organizations receiving large volumes of mail, such as government agencies and large commercial companies.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"postal_code",
+	"name":{
+		"defaultValue":"postal code",
+		"i18nValue":{
+			"en_US":"postal code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

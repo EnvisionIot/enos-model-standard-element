@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the summation of the quotients of the elements of the magnetic path length over the corresponding cross-sectional areas of a soft magnetic part.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"core_factor_C_1",
+	"name":{
+		"defaultValue":"core factor C_1",
+		"i18nValue":{
+			"en_US":"core factor C_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/m",
+	"version":"1.0"
+}

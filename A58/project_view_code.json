@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"REAR":{
+				"defaultValue":"view from the rear",
+				"i18nValue":{}
+			},
+			"BELOW":{
+				"defaultValue":"view from below",
+				"i18nValue":{}
+			},
+			"LEFT":{
+				"defaultValue":"view from the left",
+				"i18nValue":{}
+			},
+			"FRONT":{
+				"defaultValue":"view from the front",
+				"i18nValue":{}
+			},
+			"RIGHT":{
+				"defaultValue":"view from the right",
+				"i18nValue":{}
+			},
+			"ABOVE":{
+				"defaultValue":"view from above",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"coded abbreviation of the two dimensional projection view of an item.\nThe reference point for all projection views shall be defined as the centre of the view from the front at the seating plane.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"project_view_code",
+	"name":{
+		"defaultValue":"project view code",
+		"i18nValue":{
+			"en_US":"project view code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

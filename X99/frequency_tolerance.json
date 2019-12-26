@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum permissible deviation from the nominal frequency of the quartz crystal device when operating under the specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_tolerance",
+	"name":{
+		"defaultValue":"frequency tolerance",
+		"i18nValue":{
+			"en_US":"frequency tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

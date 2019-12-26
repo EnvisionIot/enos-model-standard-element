@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of active corrective maintenance time taken to perform fault correction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fault_correction_time",
+	"name":{
+		"defaultValue":"fault correction time",
+		"i18nValue":{
+			"en_US":"fault correction time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

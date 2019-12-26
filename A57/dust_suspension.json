@@ -1,0 +1,19 @@
+{
+	"category":"A57",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"amount of particles in suspension in a gas that would have a gravitational settling velocity in air greater than 0,25 m/s.\nEquivalent aerodynamic diameter of dust is generally included between 100 μm to 2 mm.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"dust_suspension",
+	"name":{
+		"defaultValue":"dust suspension",
+		"i18nValue":{
+			"en_US":"dust suspension",
+			"zh_CN":null
+		}
+	},
+	"unit":"mg/m³",
+	"version":"1.0"
+}

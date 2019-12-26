@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower tolerance percentage of the rated capacitance of a fixed capacitor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_lower_tolerance_percent",
+	"name":{
+		"defaultValue":"capacitance lower tolerance (%)",
+		"i18nValue":{
+			"en_US":"capacitance lower tolerance (%)",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

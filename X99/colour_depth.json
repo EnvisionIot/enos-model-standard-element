@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of bits used to indicate the colour of a single pixel.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"colour_depth",
+	"name":{
+		"defaultValue":"colour depth",
+		"i18nValue":{
+			"en_US":"colour depth",
+			"zh_CN":null
+		}
+	},
+	"unit":"bit",
+	"version":"1.0"
+}

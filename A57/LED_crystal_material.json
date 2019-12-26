@@ -1,0 +1,51 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"GaAsP":{
+				"defaultValue":"GaAsP",
+				"i18nValue":{}
+			},
+			"GaP(ZnO)":{
+				"defaultValue":"GaP(ZnO)",
+				"i18nValue":{}
+			},
+			"GaAsP/GaP":{
+				"defaultValue":"GaAsP/GaP",
+				"i18nValue":{}
+			},
+			"GaP":{
+				"defaultValue":"GaP",
+				"i18nValue":{}
+			},
+			"GaAlAs":{
+				"defaultValue":"GaAlAs",
+				"i18nValue":{}
+			},
+			"GaAs":{
+				"defaultValue":"GaAs",
+				"i18nValue":{}
+			},
+			"GaPAs":{
+				"defaultValue":"GaPAs",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"abbreviated name of the crystal material of a photoemitter.\nFor the resulting colours, see AAE564-005.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"LED_crystal_material",
+	"name":{
+		"defaultValue":"LED crystal material",
+		"i18nValue":{
+			"en_US":"LED crystal material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,59 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"E":{
+				"defaultValue":"electrical",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"functional",
+				"i18nValue":{}
+			},
+			"MS":{
+				"defaultValue":"solid",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"wave propagation",
+				"i18nValue":{}
+			},
+			"MG":{
+				"defaultValue":"gaseous",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"linkage",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"matter(material)",
+				"i18nValue":{}
+			},
+			"ML":{
+				"defaultValue":"liquid",
+				"i18nValue":{}
+			},
+			"O":{
+				"defaultValue":"optical fibre",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of connect node of a component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connect-node_code",
+	"name":{
+		"defaultValue":"connect-node code",
+		"i18nValue":{
+			"en_US":"connect-node code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

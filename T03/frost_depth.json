@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"depth into soil that frost has penetrated at any given time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frost_depth",
+	"name":{
+		"defaultValue":"frost depth",
+		"i18nValue":{
+			"en_US":"frost depth",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

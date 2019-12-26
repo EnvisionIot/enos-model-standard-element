@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal torque of a rotational motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_torque",
+	"name":{
+		"defaultValue":"rated torque",
+		"i18nValue":{
+			"en_US":"rated torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

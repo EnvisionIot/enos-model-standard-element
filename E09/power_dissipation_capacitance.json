@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"equivalent internal capacitance, calculated by measuring the operating current with no load capacitance, at specified conditions.\nThe equivalent capacitance is used to determine the unloaded dynamic power dissipation P_D per logic function of an IC (Formula: P_D = C_PD * V_CC^2 * f_i * N with N = number of inputs switching).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_dissipation_capacitance",
+	"name":{
+		"defaultValue":"power dissipation capacitance",
+		"i18nValue":{
+			"en_US":"power dissipation capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

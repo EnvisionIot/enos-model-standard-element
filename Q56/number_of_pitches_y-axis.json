@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of pitches between the terminals of an electric/electronic or electromechanical component parallel to the y-coordinate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_pitches_y-axis",
+	"name":{
+		"defaultValue":"number of pitches (y-axis)",
+		"i18nValue":{
+			"en_US":"number of pitches (y-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

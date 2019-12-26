@@ -1,0 +1,19 @@
+{
+	"category":"H08",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the heating power to a specified receiving unit area, produced  by an external source and being directed towards a component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"heat_radiation_intensity",
+	"name":{
+		"defaultValue":"heat radiation intensity",
+		"i18nValue":{
+			"en_US":"heat radiation intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/m²",
+	"version":"1.0"
+}

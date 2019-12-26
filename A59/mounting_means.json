@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"FLG":{
+				"defaultValue":"flange",
+				"i18nValue":{}
+			},
+			"TER":{
+				"defaultValue":"terminal",
+				"i18nValue":{}
+			},
+			"BRC":{
+				"defaultValue":"bracket",
+				"i18nValue":{}
+			},
+			"STD":{
+				"defaultValue":"stud",
+				"i18nValue":{}
+			},
+			"SCR":{
+				"defaultValue":"screw",
+				"i18nValue":{}
+			},
+			"NUT":{
+				"defaultValue":"nut",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the mounting means provided by a component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_means",
+	"name":{
+		"defaultValue":"mounting means",
+		"i18nValue":{
+			"en_US":"mounting means",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

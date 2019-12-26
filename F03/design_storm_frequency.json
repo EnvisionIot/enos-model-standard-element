@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"recurrence interval of a storm that does not exceed the design load for a storm drainage system or flood protection project.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"design_storm_frequency",
+	"name":{
+		"defaultValue":"design storm frequency",
+		"i18nValue":{
+			"en_US":"design storm frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/y",
+	"version":"1.0"
+}

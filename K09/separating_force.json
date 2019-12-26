@@ -1,0 +1,19 @@
+{
+	"category":"K09",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum force required to separate a connector from its mating part.\nThis force includes the effect of a coupling, locking or similar device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"separating_force",
+	"name":{
+		"defaultValue":"separating force",
+		"i18nValue":{
+			"en_US":"separating force",
+			"zh_CN":null
+		}
+	},
+	"unit":"N",
+	"version":"1.0"
+}

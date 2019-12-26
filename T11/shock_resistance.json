@@ -1,0 +1,19 @@
+{
+	"category":"T11",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ability of a component to withstand specified severities of shock.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"shock_resistance",
+	"name":{
+		"defaultValue":"shock resistance",
+		"i18nValue":{
+			"en_US":"shock resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s²",
+	"version":"1.0"
+}

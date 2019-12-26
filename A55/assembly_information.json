@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of any procedures a user may require or precautions that must be observed when assembling a die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"assembly_information",
+	"name":{
+		"defaultValue":"assembly information",
+		"i18nValue":{
+			"en_US":"assembly information",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

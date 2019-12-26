@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"operating time accumulated from the first use until failure.\nNote 1 Operating time to first failure is a special case of operating time to failure (IEV 192-05-01). \r\n\r\nNote 2 In the case of non-repairable items, the operating time to first failure is the operating time to failure (IEV 192-05-01:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_time_to_first_failure_of_an_item",
+	"name":{
+		"defaultValue":"operating time to first failure of an item",
+		"i18nValue":{
+			"en_US":"operating time to first failure of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

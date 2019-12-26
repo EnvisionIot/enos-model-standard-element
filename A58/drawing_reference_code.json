@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":7
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to the identity of the drawing on which the dimension set is based.\nThe drawing reference code is made up of four fields with one separator :terminal position (one letter)package style (two letters)- (hyphen separator)terminal shape (one letter)numeric sequence code (two digits).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"drawing_reference_code",
+	"name":{
+		"defaultValue":"drawing reference code",
+		"i18nValue":{
+			"en_US":"drawing reference code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

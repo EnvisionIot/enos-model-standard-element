@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"ROT":{
+				"defaultValue":"rotary",
+				"i18nValue":{}
+			},
+			"SLD":{
+				"defaultValue":"slide",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the moving contact actuator type of a potentiometer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"actuator_type",
+	"name":{
+		"defaultValue":"actuator type",
+		"i18nValue":{
+			"en_US":"actuator type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

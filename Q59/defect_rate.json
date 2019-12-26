@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average fraction of die which which may be expected to be defective on delivery to a customer.\nFor low defect rates, DPM and yield are related by the formula DPM = 1.0E4*(100 - yield).\nWhere a maximum figure is quoted, this will normally be a guarantee of delivered quality. Where a typical figure is given this is to be interpreted as an average for the processes employed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"defect_rate",
+	"name":{
+		"defaultValue":"defect rate",
+		"i18nValue":{
+			"en_US":"defect rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"ppm",
+	"version":"1.0"
+}

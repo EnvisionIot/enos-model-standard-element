@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of a luminous-intensity class of a LED.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"luminous_intensity_class",
+	"name":{
+		"defaultValue":"luminous intensity class",
+		"i18nValue":{
+			"en_US":"luminous intensity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

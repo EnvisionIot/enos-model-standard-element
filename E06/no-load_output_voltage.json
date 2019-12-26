@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rms no-load output voltage at nominal input voltage and at nominal frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"no-load_output_voltage",
+	"name":{
+		"defaultValue":"no-load output voltage",
+		"i18nValue":{
+			"en_US":"no-load output voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

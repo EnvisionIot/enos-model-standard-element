@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum direct reverse current which may be applied continuously to a voltage reference diode, voltage regulator diode or transient suppressor diode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"working_current",
+	"name":{
+		"defaultValue":"working current",
+		"i18nValue":{
+			"en_US":"working current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

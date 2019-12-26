@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"major dimension as specified by level (miNomax) of the cross-section of the stand-off.\nThis dimension applies to a separate stand-off or to the width of the wider section of shouldered terminations which have the effect of standing the component off from the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stand-off_major_dimension",
+	"name":{
+		"defaultValue":"stand-off major dimension",
+		"i18nValue":{
+			"en_US":"stand-off major dimension",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

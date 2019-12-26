@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"positive value of the absolute tolerance on the nominal value of the resistance of an electric component where positive and negative tolerance values are unequal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"positive_resistance_tolerance",
+	"name":{
+		"defaultValue":"positive resistance tolerance",
+		"i18nValue":{
+			"en_US":"positive resistance tolerance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

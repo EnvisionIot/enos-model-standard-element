@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum peak collector-emitter voltage of a bipolar transistor when the base terminal is short-circuited to the emitter terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_peak_voltage",
+	"name":{
+		"defaultValue":"collector-emitter peak voltage",
+		"i18nValue":{
+			"en_US":"collector-emitter peak voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

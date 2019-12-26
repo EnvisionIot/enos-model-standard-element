@@ -1,0 +1,19 @@
+{
+	"category":"H12",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum operating thermal resistance of an electric-electronic or electromechanical component, of a specified thermal resistance type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_resistance",
+	"name":{
+		"defaultValue":"thermal resistance",
+		"i18nValue":{
+			"en_US":"thermal resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"K/W",
+	"version":"1.0"
+}

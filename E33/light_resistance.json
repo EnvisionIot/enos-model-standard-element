@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the light resistance of a light dependent resistor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"light_resistance",
+	"name":{
+		"defaultValue":"light resistance",
+		"i18nValue":{
+			"en_US":"light resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

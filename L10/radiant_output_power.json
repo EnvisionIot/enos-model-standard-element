@@ -1,0 +1,19 @@
+{
+	"category":"L10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal radiant output power of a laser photoemitter at specified wavelength and case temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"radiant_output_power",
+	"name":{
+		"defaultValue":"radiant output power",
+		"i18nValue":{
+			"en_US":"radiant output power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

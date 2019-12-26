@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum average output current of a bridge rectifier at specified maximum mounting base temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"average_output_current",
+	"name":{
+		"defaultValue":"average output current",
+		"i18nValue":{
+			"en_US":"average output current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

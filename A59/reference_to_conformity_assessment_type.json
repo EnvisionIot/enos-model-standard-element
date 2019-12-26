@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"second-party":{
+				"defaultValue":"second-party attestation",
+				"i18nValue":{}
+			},
+			"first-party":{
+				"defaultValue":"first-party attestation",
+				"i18nValue":{}
+			},
+			"third-party":{
+				"defaultValue":"third-party attestation",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to select the kind of provided conformity assessment activity indicating the party involved.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_conformity_assessment_type",
+	"name":{
+		"defaultValue":"reference to conformity assessment type",
+		"i18nValue":{
+			"en_US":"reference to conformity assessment type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

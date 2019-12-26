@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code based on the IEC 60191 code to identify the die.\nThe code has the form A-XBCC-Dnn/mmm, where |A is a shape class code |X is a code for the encapsulation material |B is a terminal position code |CC is the body style code|D is the terminal shape code |nn is the number of terminals |mmm is a sequence number to distiguish uniquely dies whose codes would otherwise be identical.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_identifier",
+	"name":{
+		"defaultValue":"die identifier",
+		"i18nValue":{
+			"en_US":"die identifier",
+			"zh_CN":"模具标识符"
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

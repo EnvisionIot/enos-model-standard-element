@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum projected width of the useful screen measured along the horizontal axis of a display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"useful_screen_horizontal",
+	"name":{
+		"defaultValue":"useful screen horizontal",
+		"i18nValue":{
+			"en_US":"useful screen horizontal",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

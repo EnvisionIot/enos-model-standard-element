@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum required power dissipation derating factor of an electric-electronic or electromechanical component, at ambient temperatures higher than the rated temperature.\nreplaced by ADA088.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dissipation_derating_factor",
+	"name":{
+		"defaultValue":"dissipation derating factor",
+		"i18nValue":{
+			"en_US":"dissipation derating factor",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/K",
+	"version":"1.0"
+}

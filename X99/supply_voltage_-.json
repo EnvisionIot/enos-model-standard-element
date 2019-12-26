@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"absolute value of the voltage applied to the positive and negative power supply pins in order to operate the device.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_voltage_-",
+	"name":{
+		"defaultValue":"supply voltage (+-)",
+		"i18nValue":{
+			"en_US":"supply voltage (+-)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

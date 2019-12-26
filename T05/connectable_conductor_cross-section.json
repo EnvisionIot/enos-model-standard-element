@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by (minmax) of the conductor cross-section which is connectable to an electrical contact.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connectable_conductor_cross-section",
+	"name":{
+		"defaultValue":"connectable conductor cross-section",
+		"i18nValue":{
+			"en_US":"connectable conductor cross-section",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

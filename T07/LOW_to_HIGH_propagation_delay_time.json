@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time required for a transition from a logic LOW level to a logic HIGH level to propagate from the input terminal to the output terminal of a digital function of an integrated circuit, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW_to_HIGH_propagation_delay_time",
+	"name":{
+		"defaultValue":"LOW to HIGH propagation delay time",
+		"i18nValue":{
+			"en_US":"LOW to HIGH propagation delay time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"represents the exeptional case that is allowed by compliance standard as set by a governmental body, standards body, or corporation.\nIf there is a disagreement in the data between description and identity, the description  takes precedence.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"exemption_description",
+	"name":{
+		"defaultValue":"exemption description",
+		"i18nValue":{
+			"en_US":"exemption description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

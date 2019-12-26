@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal distance between the centres of adjacent conducting strips forming connections at the edge of a printed wiring circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connector_pitch",
+	"name":{
+		"defaultValue":"connector pitch",
+		"i18nValue":{
+			"en_US":"connector pitch",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

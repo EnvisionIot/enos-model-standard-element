@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to identify a particular fiducial.\nThe name used is arbitrary and is only used as a link between a fiducial geometry definition and a fiducial instance. The name must be unique within the list of names for any particular die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fiducial_name",
+	"name":{
+		"defaultValue":"fiducial name",
+		"i18nValue":{
+			"en_US":"fiducial name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

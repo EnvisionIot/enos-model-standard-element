@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum input voltage level of a combinatorial, sequential or interface function of an IC that, when crossed with a falling input voltage, enables an output to change its logic state in a temperature range between specified temperatures (T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"negative-going_threshold",
+	"name":{
+		"defaultValue":"negative-going threshold",
+		"i18nValue":{
+			"en_US":"negative-going threshold",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the dc resistance between the drain and source terminals of a field-effect transistor with a specified gate-source voltage applied to bias the device to the on-state, a specified drain current and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"drain-source_on-state_resistance",
+	"name":{
+		"defaultValue":"drain-source on-state resistance",
+		"i18nValue":{
+			"en_US":"drain-source on-state resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

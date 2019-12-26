@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"limit, if it exists, of the instantaneous availability when the time tends to infinity.\nUnder certain conditions the steady state availability may be expressed as the quotient of the mean up time to the sum of the mean up time, to mean down time.\nSee IEC 61703, Mathematical expressions for reliability, availability, maintainability and maintenance support terms.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"steady_state_availability",
+	"name":{
+		"defaultValue":"steady state availability",
+		"i18nValue":{
+			"en_US":"steady state availability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

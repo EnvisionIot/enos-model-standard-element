@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"width as specified by level (miNomax) of the metallized area of the terminal pad on a surface-mount package.\nThis dimension applies to that part of the terminal which is or may be used for connection to the circuit in which it is mounted.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_width",
+	"name":{
+		"defaultValue":"terminal width",
+		"i18nValue":{
+			"en_US":"terminal width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

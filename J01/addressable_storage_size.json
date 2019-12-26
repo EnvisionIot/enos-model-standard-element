@@ -1,0 +1,19 @@
+{
+	"category":"J01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of words of the storage capacity of the program memory that a microprocessor or microcontroller can access via its corresponding external address bus.\nThe addressable storage size equals 2**n, in which n equals the address bus width (in bit).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"addressable_storage_size",
+	"name":{
+		"defaultValue":"addressable storage size",
+		"i18nValue":{
+			"en_US":"addressable storage size",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

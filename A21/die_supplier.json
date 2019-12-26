@@ -1,0 +1,21 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"organisation that supplied the die device, where different from the original manufacturer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_supplier",
+	"name":{
+		"defaultValue":"die supplier",
+		"i18nValue":{
+			"en_US":"die supplier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

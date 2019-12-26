@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"guaranteed number of on-load operating cycles which can be effected without repair at defined normal operation (syn.: service) conditions.\nNote 1 Normal operating (syn.:service) conditions represent as closely as possible the range of normal use that can reasonably be expected\r\nSource: IEV 903-01-21\r\n\r\nNote 2 The terms normal or special operating  conditions (syn. service conditions)  are standing terms in ISO and IEC product standards, providing as part of each standard explicitly  those operating conditions applicable for  a given set of product classes, e.g. for low or high voltage, and specify  those conditions under which the values of given product properties apply. \r\n\r\nIt is not possible to provide a generic or specific class containing such operating conditions applicable to products. \r\n\r\nThe standing term operating (syn.: service) conditions is named in the property definition as condition, but will refer to class ADA080 Specification references, allowing referencing to any required operating conditions specified within a given document.\r\nExample:\r\nIEC 62271-1:2017, 4.1.\nApplicable in classes relay and switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrical_durability",
+	"name":{
+		"defaultValue":"electrical durability",
+		"i18nValue":{
+			"en_US":"electrical durability",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

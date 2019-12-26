@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the power dissipated in a stabilising diode, operating in the reverse breakdown (working) region, when a single rectangular pulse is applied, at specified conditions.\nThe specified junction temperature is measured prior to the application of the pulse.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-rep_peak_reverse_power_diss",
+	"name":{
+		"defaultValue":"non-rep peak reverse power diss",
+		"i18nValue":{
+			"en_US":"non-rep peak reverse power diss",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

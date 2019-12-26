@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio between the time (t1), in which the output voltage is above a specified level, and the time (t2), in which the output voltage is below the specified level, in percent of the duration of the full signal period.\nThe specified level may be the arithmetic mean between levels VOL and VOH, or 50 % of the peak-to-peak amplitude.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"symmetry",
+	"name":{
+		"defaultValue":"symmetry",
+		"i18nValue":{
+			"en_US":"symmetry",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

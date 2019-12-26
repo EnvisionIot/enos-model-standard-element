@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"length as specified by level (miNomax) of a zone in the direction of the package width which includes the package width, package irregularities and the uncontrolled part of any terminals which are presented for mounting in the width direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_width_zone",
+	"name":{
+		"defaultValue":"package width zone",
+		"i18nValue":{
+			"en_US":"package width zone",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

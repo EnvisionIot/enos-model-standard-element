@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of any special or abnormal attach methods and materials, including pre-conditioning, that are required for proper assembly of a die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"attach_methods_and_materials",
+	"name":{
+		"defaultValue":"attach methods and materials",
+		"i18nValue":{
+			"en_US":"attach methods and materials",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

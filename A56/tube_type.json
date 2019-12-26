@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SCC":{
+				"defaultValue":"space charge controlled tubes",
+				"i18nValue":{}
+			},
+			"CRT":{
+				"defaultValue":"display tubes (cathode-ray tube)",
+				"i18nValue":{}
+			},
+			"PHO":{
+				"defaultValue":"photosensitive tubes",
+				"i18nValue":{}
+			},
+			"SCW":{
+				"defaultValue":"space charge wave tubes",
+				"i18nValue":{}
+			},
+			"GAS":{
+				"defaultValue":"gas filled tubes",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the category to which an electron tube belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"tube_type",
+	"name":{
+		"defaultValue":"tube type",
+		"i18nValue":{
+			"en_US":"tube type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

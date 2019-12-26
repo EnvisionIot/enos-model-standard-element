@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the complex ratio of: 1) a sinusoidal incident current, to 2) the corresponding reflected current at the output of a wideband amplifier at specified supply voltage, output impedance, temperature of a temperature type and a frequency range between specified frequencies (f_1 and f_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_return_losses",
+	"name":{
+		"defaultValue":"output return losses",
+		"i18nValue":{
+			"en_US":"output return losses",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

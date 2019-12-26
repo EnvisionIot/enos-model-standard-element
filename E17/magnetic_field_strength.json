@@ -1,0 +1,19 @@
+{
+	"category":"E17",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the magnetic field strength of a magnetic field sensor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"magnetic_field_strength",
+	"name":{
+		"defaultValue":"magnetic field strength",
+		"i18nValue":{
+			"en_US":"magnetic field strength",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/m",
+	"version":"1.0"
+}

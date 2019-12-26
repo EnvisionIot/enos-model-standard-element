@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"expected uniform average surface material thickness reduction of fixed steel structures located in the sea caused by corrosion at a given environmental marine zone and a given period of time without taking into consideration surface protection.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"surface_corrosion_mass_loss_rate",
+	"name":{
+		"defaultValue":"surface corrosion mass loss rate",
+		"i18nValue":{
+			"en_US":"surface corrosion mass loss rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm/y",
+	"version":"1.0"
+}

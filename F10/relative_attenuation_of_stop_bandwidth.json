@@ -1,0 +1,19 @@
+{
+	"category":"F10",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference value of the relative attenuation used to define the stop bandwidth.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"relative_attenuation_of_stop_bandwidth",
+	"name":{
+		"defaultValue":"relative attenuation of stop bandwidth",
+		"i18nValue":{
+			"en_US":"relative attenuation of stop bandwidth",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

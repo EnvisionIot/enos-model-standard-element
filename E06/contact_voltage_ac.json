@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum operating rms switching voltage of a switch or relay at resistive load.\nThe rated voltage is the voltage between the contact members before closing or after opening.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_voltage_ac",
+	"name":{
+		"defaultValue":"contact voltage (ac)",
+		"i18nValue":{
+			"en_US":"contact voltage (ac)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

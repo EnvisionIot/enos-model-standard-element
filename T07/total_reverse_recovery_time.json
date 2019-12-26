@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the time required for the reverse current of an efficiency diode to recover to zero when switched from a specified forward current to a reverse voltage of approximately 0.7 V (being the saturation voltage of a transistor in parallel), at specified conditions.\nThe total reverse recovery time ttot is measured as the time interval between t0, the point where a specified rate change of forward current crosses the zero current axis, and the moment the reverse current equals zero. The latter is measured by shifting the flyback pulse, used in the application circuit, and detecting the moment the front of the flyback pulse is entering the reverse current of the efficiency diode.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"total_reverse_recovery_time",
+	"name":{
+		"defaultValue":"total reverse recovery time",
+		"i18nValue":{
+			"en_US":"total reverse recovery time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

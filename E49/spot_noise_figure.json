@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the spot noise figure of a bipolar transistor at specified collector current, collector-emitter voltage, source impedance and frequency.\nSpot noise figure: |Ratio of 1) the total output noise power per unit bandwidth (spectral density) at a single output frequency when the noise temperature of all input terminations is at the reference noise temperature T_no at all frequencies that contribute to the output noise, to 2) that part of Item 1) caused by the noise of the signal-input termination at the signal-input frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spot_noise_figure",
+	"name":{
+		"defaultValue":"spot noise figure",
+		"i18nValue":{
+			"en_US":"spot noise figure",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

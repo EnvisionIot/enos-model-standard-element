@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name given to the signal appearing at the terminal of a device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"signal_name",
+	"name":{
+		"defaultValue":"signal name",
+		"i18nValue":{
+			"en_US":"signal name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

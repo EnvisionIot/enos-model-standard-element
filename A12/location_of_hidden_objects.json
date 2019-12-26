@@ -1,0 +1,21 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the location of hidden/covered objects in the soil or under water such as pipes, ammunition, ship wrecks, or erratic blocks.\nMost of such objects will normally found by radar or sonar scans.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"location_of_hidden_objects",
+	"name":{
+		"defaultValue":"location of hidden objects",
+		"i18nValue":{
+			"en_US":"location of hidden objects",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

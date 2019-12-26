@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"ABS":{
+				"defaultValue":"absolute",
+				"i18nValue":{}
+			},
+			"REL":{
+				"defaultValue":"relative; pos/neg with respect to atmospheric pressure",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Abbreviation of the application mode of a semiconductor pressure sensor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pressure_mode",
+	"name":{
+		"defaultValue":"pressure mode",
+		"i18nValue":{
+			"en_US":"pressure mode",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

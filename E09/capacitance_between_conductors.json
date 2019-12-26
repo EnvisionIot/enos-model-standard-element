@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal capacitance per unit length between a pair of conductors of a cable.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_between_conductors",
+	"name":{
+		"defaultValue":"capacitance between conductors",
+		"i18nValue":{
+			"en_US":"capacitance between conductors",
+			"zh_CN":null
+		}
+	},
+	"unit":"F/m",
+	"version":"1.0"
+}

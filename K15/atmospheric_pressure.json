@@ -1,0 +1,19 @@
+{
+	"category":"K15",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"pressure exerted by the atmosphere as a consequence of gravitational attraction exerted upon the “column” of air lying directly above the point in question.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"atmospheric_pressure",
+	"name":{
+		"defaultValue":"atmospheric pressure",
+		"i18nValue":{
+			"en_US":"atmospheric pressure",
+			"zh_CN":null
+		}
+	},
+	"unit":"Pa",
+	"version":"1.0"
+}

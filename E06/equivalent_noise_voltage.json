@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum equivalent noise voltage of a field effect transistor at specified drain current, drain-source voltage and bandwidth.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"equivalent_noise_voltage",
+	"name":{
+		"defaultValue":"equivalent noise voltage",
+		"i18nValue":{
+			"en_US":"equivalent noise voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

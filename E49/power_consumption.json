@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"power being consumed by or dissipated within an electric component, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"power_consumption",
+	"name":{
+		"defaultValue":"power consumption",
+		"i18nValue":{
+			"en_US":"power consumption",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

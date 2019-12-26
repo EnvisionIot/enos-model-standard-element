@@ -1,0 +1,79 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"ATT":{
+				"defaultValue":"attenuator",
+				"i18nValue":{}
+			},
+			"RES":{
+				"defaultValue":"resonator",
+				"i18nValue":{}
+			},
+			"PS":{
+				"defaultValue":"phase shifter",
+				"i18nValue":{}
+			},
+			"ISO":{
+				"defaultValue":"isolator",
+				"i18nValue":{}
+			},
+			"SWI":{
+				"defaultValue":"switch",
+				"i18nValue":{}
+			},
+			"CIRC":{
+				"defaultValue":"circulator",
+				"i18nValue":{}
+			},
+			"TERM":{
+				"defaultValue":"terminator",
+				"i18nValue":{}
+			},
+			"DIR":{
+				"defaultValue":"directional coupler",
+				"i18nValue":{}
+			},
+			"WAV":{
+				"defaultValue":"waveguide",
+				"i18nValue":{}
+			},
+			"DIV":{
+				"defaultValue":"divider/combiner",
+				"i18nValue":{}
+			},
+			"DET":{
+				"defaultValue":"detector",
+				"i18nValue":{}
+			},
+			"COUP":{
+				"defaultValue":"coupler",
+				"i18nValue":{}
+			},
+			"COAX":{
+				"defaultValue":"COAX",
+				"i18nValue":{}
+			},
+			"MIX":{
+				"defaultValue":"mixer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of microwave component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"microwave_component_type",
+	"name":{
+		"defaultValue":"microwave component type",
+		"i18nValue":{
+			"en_US":"microwave component type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

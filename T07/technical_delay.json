@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"delay incurred in performing auxiliary technical actions associated with, but not part of, the maintenance action.\nExample Rendering the equipment safe (such as immobilising, cooling, isolation and grounding).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"technical_delay",
+	"name":{
+		"defaultValue":"technical delay",
+		"i18nValue":{
+			"en_US":"technical delay",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

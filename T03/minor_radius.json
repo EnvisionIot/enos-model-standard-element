@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the radius of the circular plane of a spherical segment.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minor_radius",
+	"name":{
+		"defaultValue":"minor radius",
+		"i18nValue":{
+			"en_US":"minor radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

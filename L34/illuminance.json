@@ -1,0 +1,19 @@
+{
+	"category":"L34",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"illuminance of light applied to a light dependent resistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"illuminance",
+	"name":{
+		"defaultValue":"illuminance",
+		"i18nValue":{
+			"en_US":"illuminance",
+			"zh_CN":null
+		}
+	},
+	"unit":"lx",
+	"version":"1.0"
+}

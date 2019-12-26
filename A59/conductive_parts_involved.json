@@ -1,0 +1,35 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"COIL/CONT":{
+				"defaultValue":"between coil and contacts",
+				"i18nValue":{}
+			},
+			"CONT/CONT":{
+				"defaultValue":"beween adjacent contacts",
+				"i18nValue":{}
+			},
+			"OPEN":{
+				"defaultValue":"CONT between the contact points of an open contact",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the conductive parts of a relay across which a test voltage is applied or between which insulation resistance, clearances or creepage distances are to be evaluated.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductive_parts_involved",
+	"name":{
+		"defaultValue":"conductive parts involved",
+		"i18nValue":{
+			"en_US":"conductive parts involved",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

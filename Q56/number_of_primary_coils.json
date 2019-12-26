@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of primary coils of a power transformer or relay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_primary_coils",
+	"name":{
+		"defaultValue":"number of primary coils",
+		"i18nValue":{
+			"en_US":"number of primary coils",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

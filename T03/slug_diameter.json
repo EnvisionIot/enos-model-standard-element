@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of a slug.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"slug_diameter",
+	"name":{
+		"defaultValue":"slug diameter",
+		"i18nValue":{
+			"en_US":"slug diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A21",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designation of a company, corporation, firm, enterprise, authority or institution, or part or combination thereof, whether incorporated or not, public or private, that has its own functions and administration.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"organization_name",
+	"name":{
+		"defaultValue":"organization name",
+		"i18nValue":{
+			"en_US":"organization name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the power dissipated in a rectifier diode or signal diode, operating in the reverse breakdown region, when a repetitive rectangular pulse is applied, at specified conditions.\nFor some types of avalanche diodes, V_RRM is specified instead of P_RRM.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_reverse_power",
+	"name":{
+		"defaultValue":"repetitive peak reverse power",
+		"i18nValue":{
+			"en_US":"repetitive peak reverse power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"SEC":{
+				"defaultValue":"secondary battery (rechargeable)",
+				"i18nValue":{}
+			},
+			"PRI":{
+				"defaultValue":"primary battery (single charge)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the chargeability type of a battery.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"chargeability_type",
+	"name":{
+		"defaultValue":"chargeability type",
+		"i18nValue":{
+			"en_US":"chargeability type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

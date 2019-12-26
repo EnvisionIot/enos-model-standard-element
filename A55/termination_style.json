@@ -1,0 +1,55 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"press-in",
+				"i18nValue":{}
+			},
+			"A":{
+				"defaultValue":"screw",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"crimp",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"solder",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"tab",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"wrap",
+				"i18nValue":{}
+			},
+			"ID":{
+				"defaultValue":"insulation displacement",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"surface mount",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the method of connecting a conductor to the contact of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"termination_style",
+	"name":{
+		"defaultValue":"termination style",
+		"i18nValue":{
+			"en_US":"termination style",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"L03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal wavelength at which the spectral luminous sensitivity of a photosensor is maximum at specified reverse voltage and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wavelength_at_peak_response",
+	"name":{
+		"defaultValue":"wavelength at peak response",
+		"i18nValue":{
+			"en_US":"wavelength at peak response",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

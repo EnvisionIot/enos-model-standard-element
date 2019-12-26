@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the minimum clearance between any adjacent contact of a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"clearance_between_contacts",
+	"name":{
+		"defaultValue":"clearance between contacts",
+		"i18nValue":{
+			"en_US":"clearance between contacts",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

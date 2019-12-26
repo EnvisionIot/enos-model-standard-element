@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"electric current that is time-independent or, by extension, periodic current the direct component of which is of primary importance as variable.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"direct_current",
+	"name":{
+		"defaultValue":"direct current",
+		"i18nValue":{
+			"en_US":"direct current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A31",
+	"dataDefinition":{
+		"maxLength":20
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"non-negative quantity attributed to a time interval, the value of which is equal to the difference between the\r\ntime points of the final instant and the initial instant of the time interval, when the time points are quantitative\r\nmarks.\nIn both basic and extended format the complete representation of the expression for duration shall be [PnnW] or [PnnYnnMnnDTnnHnnMnnS]. In these representations the maximum number of digits in a component needs to be agreed by the partners in information interchange. For reduced accuracy or decimal representations of this representation, the following rules apply.\r\na) If necessary for a particular application, the lowest order components may be omitted to represent duration with reduced accuracy.\r\nb) If necessary for a particular application, the lowest order components may have a decimal fraction. The decimal fraction shall be divided from the integer part by the decimal sign specified in ISO 31-0, i.e. the comma [,] or full stop [.]. Of these, the comma is the preferred sign. The decimal fraction shall at least have one digit, the maximum number of digits in the decimal component needs to be agreed by the partners in information interchange. If the magnitude of the number is less than unity, the decimal sign shall be preceded by a zero (see ISO 31-0).\r\nc) If the number of years, months, days, hours, minutes or seconds in any of these expressions equals zero, the number and the corresponding designator may be absent; however, at least one number and its designator shall be present.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"duration",
+	"name":{
+		"defaultValue":"duration",
+		"i18nValue":{
+			"en_US":"duration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

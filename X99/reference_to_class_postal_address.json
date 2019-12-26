@@ -1,0 +1,112 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"postal_name",
+				"name":{
+					"defaultValue":"postal name",
+					"i18nValue":{
+						"en_US":"postal name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"postal_box",
+				"name":{
+					"defaultValue":"postal box",
+					"i18nValue":{
+						"en_US":"postal box",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"postal_code",
+				"name":{
+					"defaultValue":"postal code",
+					"i18nValue":{
+						"en_US":"postal code",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"maxLength":35
+				},
+				"dataType":"string",
+				"defaultValue":null,
+				"identifier":"country_name",
+				"name":{
+					"defaultValue":"country name",
+					"i18nValue":{
+						"en_US":"country name",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class postal address.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_to_class_postal_address",
+	"name":{
+		"defaultValue":"reference to class postal address",
+		"i18nValue":{
+			"en_US":"reference to class postal address",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

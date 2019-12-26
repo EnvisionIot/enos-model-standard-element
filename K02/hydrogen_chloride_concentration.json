@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the mass of hydrogen chloride appearing in the surrounding environment to a specified unit volume.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hydrogen_chloride_concentration",
+	"name":{
+		"defaultValue":"hydrogen chloride concentration",
+		"i18nValue":{
+			"en_US":"hydrogen chloride concentration",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum overall length of a minimally-packaged die device.\nFor a device with terminals in a row or a few parallel rows, the length dimension is taken parallel to the terminal rows. For other devices, the length is normally the larger of length and with.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"device_length",
+	"name":{
+		"defaultValue":"device length",
+		"i18nValue":{
+			"en_US":"device length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

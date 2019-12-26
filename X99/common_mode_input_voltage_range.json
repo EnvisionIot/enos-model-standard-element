@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of the common mode input voltage under the specified conditions, within which the range of variation of the input offset voltage maintains the common mode rejection ratio equal to or below the specified values.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"common_mode_input_voltage_range",
+	"name":{
+		"defaultValue":"common mode input voltage range",
+		"i18nValue":{
+			"en_US":"common mode input voltage range",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

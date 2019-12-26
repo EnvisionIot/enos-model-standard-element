@@ -1,0 +1,19 @@
+{
+	"category":"A59",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval, from first use until user requirements are no longer met, due to economics of operation and maintenance, or obsolescence.\n“First use” excludes testing activities prior to hand-over of the item to the end-user.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"useful_life_of_an_item",
+	"name":{
+		"defaultValue":"useful life of an item",
+		"i18nValue":{
+			"en_US":"useful life of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"yr",
+	"version":"1.0"
+}

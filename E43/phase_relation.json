@@ -1,0 +1,19 @@
+{
+	"category":"E43",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal phase difference of the output signal to the input signal of a delay line.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"phase_relation",
+	"name":{
+		"defaultValue":"phase relation",
+		"i18nValue":{
+			"en_US":"phase relation",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

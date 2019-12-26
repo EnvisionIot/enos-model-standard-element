@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"area occupied in the seating plane of the geometrical object defined due to installation, protection, operation, service and maintenance reasons.\n- The gross area encloses completely the net area of the geometrical object. |\r\n - The gross area is defined as a plane normally not possible to be occupied by other geometrical objects. |\r\n - The gross area lies in the seating plane defined by the x/y- axes of the object and can be mathematically derived from the gross space.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gross_area",
+	"name":{
+		"defaultValue":"gross area",
+		"i18nValue":{
+			"en_US":"gross area",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

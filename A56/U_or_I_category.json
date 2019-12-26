@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"0":{
+				"defaultValue":"Category 0 contacts (0-30 mV; 0-10 mA)",
+				"i18nValue":{}
+			},
+			"1":{
+				"defaultValue":"category 1 contacts (30 mV-60 V; 10 -100 mA)",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"category 2 contacts (60-250 V; 100 mA-1 A)",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"category 3 contacts (250-600 V; 1 -100 A)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the category of contact voltage and contact current of a relay.\nA contact may have the characteristics of more than one category.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"U_or_I_category",
+	"name":{
+		"defaultValue":"U/I category",
+		"i18nValue":{
+			"en_US":"U/I category",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

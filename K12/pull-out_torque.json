@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum torque that a rotational stepping motor can develop while running at a given stepping rate without losing steps.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pull-out_torque",
+	"name":{
+		"defaultValue":"pull-out torque",
+		"i18nValue":{
+			"en_US":"pull-out torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

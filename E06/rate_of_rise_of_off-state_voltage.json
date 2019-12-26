@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the rate of rise of the off-state voltage that will not trigger the device, at specified conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rate_of_rise_of_off-state_voltage",
+	"name":{
+		"defaultValue":"rate of rise of off-state voltage",
+		"i18nValue":{
+			"en_US":"rate of rise of off-state voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/s",
+	"version":"1.0"
+}

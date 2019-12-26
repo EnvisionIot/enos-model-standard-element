@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"requirement for electrical connection to the die substrate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connection_requirement",
+	"name":{
+		"defaultValue":"connection requirement",
+		"i18nValue":{
+			"en_US":"connection requirement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

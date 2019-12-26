@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum projected height of the useful screen measured along the vertical axis of a display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"useful_screen_vertical",
+	"name":{
+		"defaultValue":"useful screen vertical",
+		"i18nValue":{
+			"en_US":"useful screen vertical",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

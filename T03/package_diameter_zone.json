@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of a zone which includes the package diameter, package irregularities and the uncontrolled part of any terminals which are presented for mounting radially.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"package_diameter_zone",
+	"name":{
+		"defaultValue":"package diameter zone",
+		"i18nValue":{
+			"en_US":"package diameter zone",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

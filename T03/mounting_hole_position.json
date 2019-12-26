@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"distance as specified by level (miNomax) of the centre of a mounting hole from a reference line on the package.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounting_hole_position",
+	"name":{
+		"defaultValue":"mounting hole position",
+		"i18nValue":{
+			"en_US":"mounting hole position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

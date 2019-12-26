@@ -1,0 +1,19 @@
+{
+	"category":"L16",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Irradiance applied to a photosensor as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"irradiance",
+	"name":{
+		"defaultValue":"irradiance",
+		"i18nValue":{
+			"en_US":"irradiance",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/m²",
+	"version":"1.0"
+}

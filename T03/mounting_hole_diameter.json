@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"diameter as specified by level (miNomax) of the hole in the package used for mounting.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mounting_hole_diameter",
+	"name":{
+		"defaultValue":"mounting hole diameter",
+		"i18nValue":{
+			"en_US":"mounting hole diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

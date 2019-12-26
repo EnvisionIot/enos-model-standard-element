@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the synchronous output power of a bipolar rf power transistor measured according to the three-tone test method at specified intermodulation distortion, frequency, collector-emitter voltage, collector current and temperature of a temperature type.\nThree-tone test method:| vision frequency   f_v   level = - 8dB;| sound carrier frequency   f_v + 5.5 MHz   level = - 7dB;| sideband signal   f_v - 1.1 MHz   level = -16dB.| Zero level 0dB corresponds to peak sync level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"synchronous_output_power",
+	"name":{
+		"defaultValue":"synchronous output power",
+		"i18nValue":{
+			"en_US":"synchronous output power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

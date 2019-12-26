@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the mass of organic hydrocarbons appearing in the surrounding environment to a specified unit volume.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"organic_hydrocarbons_concentration",
+	"name":{
+		"defaultValue":"organic hydrocarbons concentration",
+		"i18nValue":{
+			"en_US":"organic hydrocarbons concentration",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

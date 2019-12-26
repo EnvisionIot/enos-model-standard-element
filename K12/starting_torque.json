@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum starting torque which a rotational ac motor develops with the rated input voltage-ac applied.\nFor capacitor motors, the capacitance has to be specified.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"starting_torque",
+	"name":{
+		"defaultValue":"starting torque",
+		"i18nValue":{
+			"en_US":"starting torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

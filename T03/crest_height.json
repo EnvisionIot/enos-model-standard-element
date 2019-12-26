@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"height of the maximum surface elevation between two consecutive downward-crossings of the still water level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"crest_height",
+	"name":{
+		"defaultValue":"crest height",
+		"i18nValue":{
+			"en_US":"crest height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

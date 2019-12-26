@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum clamping voltage of a transient suppressor diode at specified non-repetitive peak reverse current, virtual front time and virtual time to half-value.\n8/20 impulse:| 8 us virtual front time, 20 us virtual time to half-value| 4/10 impulse:    | 4 us virtual front time, 10 us virtual time to half-value.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"clamping_voltage",
+	"name":{
+		"defaultValue":"clamping voltage",
+		"i18nValue":{
+			"en_US":"clamping voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"provides general or special warnings to users in order to avoid misuse of the object in application areas for which it is neither foreseen nor designed.\nThe use of the warning notice provides the possibility to exclude responsibilities of the manufacturer if the object is used  in application areas outside the intended ones.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"warning_notice",
+	"name":{
+		"defaultValue":"warning notice",
+		"i18nValue":{
+			"en_US":"warning notice",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

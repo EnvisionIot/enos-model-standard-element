@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identifier of a terminal with respect to the object to which it belongs, related to one defined aspect.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_designation",
+	"name":{
+		"defaultValue":"terminal designation",
+		"i18nValue":{
+			"en_US":"terminal designation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

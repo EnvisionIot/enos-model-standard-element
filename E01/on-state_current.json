@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dc on-state current flowing from anode to cathode in a thyristor or triac, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"on-state_current",
+	"name":{
+		"defaultValue":"on-state current",
+		"i18nValue":{
+			"en_US":"on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

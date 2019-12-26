@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"ESD":{
+				"defaultValue":"ESD-proof packaging",
+				"i18nValue":{}
+			},
+			"NESD":{
+				"defaultValue":"non-ESD-proof packaging",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the type and quality of the package surrounding a component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packaging_quality",
+	"name":{
+		"defaultValue":"packaging quality",
+		"i18nValue":{
+			"en_US":"packaging quality",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

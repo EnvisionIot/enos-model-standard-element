@@ -1,0 +1,19 @@
+{
+	"category":"H08",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"instantaneous quantity describing the flux of solar radiation incident on a perpendicular surface.\nIrradiation is the time integral of irradiance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"solar_irradiance",
+	"name":{
+		"defaultValue":"solar irradiance",
+		"i18nValue":{
+			"en_US":"solar irradiance",
+			"zh_CN":null
+		}
+	},
+	"unit":"kW/m²",
+	"version":"1.0"
+}

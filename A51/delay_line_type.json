@@ -1,0 +1,47 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"ACT":{
+				"defaultValue":"active",
+				"i18nValue":{}
+			},
+			"PAS":{
+				"defaultValue":"passive",
+				"i18nValue":{}
+			},
+			"CAB":{
+				"defaultValue":"cable",
+				"i18nValue":{}
+			},
+			"SAW":{
+				"defaultValue":"surface acoustic-wave",
+				"i18nValue":{}
+			},
+			"IC":{
+				"defaultValue":"integrated circuit",
+				"i18nValue":{}
+			},
+			"ULTRA":{
+				"defaultValue":"ultrasonic",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of a delay line.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"delay_line_type",
+	"name":{
+		"defaultValue":"delay line type",
+		"i18nValue":{
+			"en_US":"delay line type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

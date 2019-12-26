@@ -1,0 +1,35 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"S":{
+				"defaultValue":"series network",
+				"i18nValue":{}
+			},
+			"W":{
+				"defaultValue":"without filter",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"L network",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the filter used with a loudspeaker.\nThe L network is a capacitor in series with a coil and loudspeaker in parallel.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"filter",
+	"name":{
+		"defaultValue":"filter",
+		"i18nValue":{
+			"en_US":"filter",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

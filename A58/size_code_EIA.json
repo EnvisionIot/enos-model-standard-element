@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"EIcode of the size of an electric/electronic component for placement on printed wiring board.\nThe complete code consists of four numerical characters.| a)   the first two numerical characters represent the value of the length in inches.| b)   the second two numerical characters represent the value of the width in inches.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"size_code_EIA",
+	"name":{
+		"defaultValue":"size code EIA",
+		"i18nValue":{
+			"en_US":"size code EIA",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

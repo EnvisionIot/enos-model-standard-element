@@ -1,0 +1,47 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"ADC":{
+				"defaultValue":"analogue-digital converter",
+				"i18nValue":{}
+			},
+			"PIO":{
+				"defaultValue":"parallel l/O port",
+				"i18nValue":{}
+			},
+			"PWM":{
+				"defaultValue":"pulse-width modulated output line",
+				"i18nValue":{}
+			},
+			"SIO":{
+				"defaultValue":"serial I/O port",
+				"i18nValue":{}
+			},
+			"TIM":{
+				"defaultValue":"timer",
+				"i18nValue":{}
+			},
+			"INT":{
+				"defaultValue":"external interrupt line",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the peripheral type of a microcontroller.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"peripheral_type",
+	"name":{
+		"defaultValue":"peripheral type",
+		"i18nValue":{
+			"en_US":"peripheral type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

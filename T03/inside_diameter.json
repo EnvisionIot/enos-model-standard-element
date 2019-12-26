@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the inside diameter of a component with a body of circular cross-section.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"inside_diameter",
+	"name":{
+		"defaultValue":"inside diameter",
+		"i18nValue":{
+			"en_US":"inside diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

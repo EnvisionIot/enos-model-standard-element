@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Type number of the nearest conventional type, with comparable electrical specification, as the surface-mounted diode or transistor under consideration.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"nearest_conventional_type",
+	"name":{
+		"defaultValue":"nearest conventional type",
+		"i18nValue":{
+			"en_US":"nearest conventional type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the resonance frequency  of an inductor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resonance_frequency",
+	"name":{
+		"defaultValue":"resonance frequency",
+		"i18nValue":{
+			"en_US":"resonance frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

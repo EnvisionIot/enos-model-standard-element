@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rate of change of forward current of a diode, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rate_change_of_forward_current",
+	"name":{
+		"defaultValue":"rate change of forward current",
+		"i18nValue":{
+			"en_US":"rate change of forward current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/s",
+	"version":"1.0"
+}

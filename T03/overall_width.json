@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"largest overall dimension as specified by level (miNomax) in the direction of the package width which includes the package width and any terminals which are presented for mounting in the width direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"overall_width",
+	"name":{
+		"defaultValue":"overall width",
+		"i18nValue":{
+			"en_US":"overall width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

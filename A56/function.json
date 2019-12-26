@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the intended operations performed by a die device or integrated circuit when operated under the conditions as recommended by the manufacturer.\n\"For details of the recommended operating conditions, reference should be made to the manufacturer's data sheet and any other relevant documentation\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"function",
+	"name":{
+		"defaultValue":"function",
+		"i18nValue":{
+			"en_US":"function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum peak alternating inrush current of a degaussing PTC thermistor at specified ac voltage and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"PTC_peak_inrush_current",
+	"name":{
+		"defaultValue":"PTC peak inrush current",
+		"i18nValue":{
+			"en_US":"PTC peak inrush current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

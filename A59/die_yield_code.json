@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":1
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"single-character code giving the range of actual yield figures for a die.\nThe code is a single hexadecimal digit in the range 0 to F.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_yield_code",
+	"name":{
+		"defaultValue":"die yield code",
+		"i18nValue":{
+			"en_US":"die yield code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

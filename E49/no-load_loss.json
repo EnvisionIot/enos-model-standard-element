@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"power loss of a component during the state with zero output power measured at rated ambient temperature and at rated frequency.\nThe power loss includes the losses of all current carrying paths of the component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"no-load_loss",
+	"name":{
+		"defaultValue":"no-load loss",
+		"i18nValue":{
+			"en_US":"no-load loss",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

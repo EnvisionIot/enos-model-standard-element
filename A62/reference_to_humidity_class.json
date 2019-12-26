@@ -1,0 +1,76 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"relative_humidity",
+				"name":{
+					"defaultValue":"relative humidity",
+					"i18nValue":{
+						"en_US":"relative humidity",
+						"zh_CN":null
+					}
+				},
+				"unit":"%"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"double",
+				"defaultValue":null,
+				"identifier":"absolute_humidity",
+				"name":{
+					"defaultValue":"absolute humidity",
+					"i18nValue":{
+						"en_US":"absolute humidity",
+						"zh_CN":null
+					}
+				},
+				"unit":"g/m³"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class humidity.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_humidity_class",
+	"name":{
+		"defaultValue":"reference to humidity class",
+		"i18nValue":{
+			"en_US":"reference to humidity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

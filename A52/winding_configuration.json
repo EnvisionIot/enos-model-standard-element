@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"AUTO":{
+				"defaultValue":"auto",
+				"i18nValue":{}
+			},
+			"SEPRT":{
+				"defaultValue":"separate",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the winding configuration of a transformer or inductive antenna.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"winding_configuration",
+	"name":{
+		"defaultValue":"winding configuration",
+		"i18nValue":{
+			"en_US":"winding configuration",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

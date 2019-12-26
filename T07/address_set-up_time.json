@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum time interval between application of a signal that is maintained at the address input terminal and a subsequent active transition of the corresponding timing pulse of a memory device at specified supply voltage and in a temperature range between specified temperatures (T_1 and T_2).\nFor further information, refer to AAF212.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"address_set-up_time",
+	"name":{
+		"defaultValue":"address set-up time",
+		"i18nValue":{
+			"en_US":"address set-up time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

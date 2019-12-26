@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC current flowing through the input terminal of a digital function of an integrated circuit, when the input voltage corresponds to a logic LOW level.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"LOW-level_input_current",
+	"name":{
+		"defaultValue":"LOW-level input current",
+		"i18nValue":{
+			"en_US":"LOW-level input current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

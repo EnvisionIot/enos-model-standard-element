@@ -1,0 +1,47 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"REC":{
+				"defaultValue":"rectangular",
+				"i18nValue":{}
+			},
+			"STA":{
+				"defaultValue":"staggered",
+				"i18nValue":{}
+			},
+			"CON":{
+				"defaultValue":"concentric",
+				"i18nValue":{}
+			},
+			"SQU":{
+				"defaultValue":"square",
+				"i18nValue":{}
+			},
+			"IRR":{
+				"defaultValue":"irregular",
+				"i18nValue":{}
+			},
+			"CIR":{
+				"defaultValue":"circular",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the terminal arrangement of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_arrangement",
+	"name":{
+		"defaultValue":"terminal arrangement",
+		"i18nValue":{
+			"en_US":"terminal arrangement",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

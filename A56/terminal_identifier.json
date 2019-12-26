@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"one or more characters used to identify a specific terminal of a component.\nRules should be established how the identifying process should take place.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_identifier",
+	"name":{
+		"defaultValue":"terminal identifier",
+		"i18nValue":{
+			"en_US":"terminal identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

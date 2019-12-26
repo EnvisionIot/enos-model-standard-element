@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of an electronic mail box in a domain at which electronic mail messages can be received.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electronic_mail_address",
+	"name":{
+		"defaultValue":"electronic mail address",
+		"i18nValue":{
+			"en_US":"electronic mail address",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

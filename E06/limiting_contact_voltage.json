@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum dc voltage of a switch or relay across open contacts.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"limiting_contact_voltage",
+	"name":{
+		"defaultValue":"limiting contact voltage",
+		"i18nValue":{
+			"en_US":"limiting contact voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

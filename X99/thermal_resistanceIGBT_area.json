@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum operating thermal resistance, between the IGBT area junction and the case.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"thermal_resistanceIGBT_area",
+	"name":{
+		"defaultValue":"thermal resistance(IGBT area)",
+		"i18nValue":{
+			"en_US":"thermal resistance(IGBT area)",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C/W",
+	"version":"1.0"
+}

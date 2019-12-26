@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the category temperature range for a component.\nThe category temperature range is that range of ambient temperatures over which the component may be operated continuously.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"category_temperature",
+	"name":{
+		"defaultValue":"category temperature",
+		"i18nValue":{
+			"en_US":"category temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

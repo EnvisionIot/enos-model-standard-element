@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the method of sealing of a switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"sealing",
+	"name":{
+		"defaultValue":"sealing",
+		"i18nValue":{
+			"en_US":"sealing",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

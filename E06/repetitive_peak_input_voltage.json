@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum repetitive peak input voltage of a bridge rectifier or voltage multiplier.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"repetitive_peak_input_voltage",
+	"name":{
+		"defaultValue":"repetitive peak input voltage",
+		"i18nValue":{
+			"en_US":"repetitive peak input voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

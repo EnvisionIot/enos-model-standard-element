@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference to a document or other source which contains further information on making, using and extrapolating a reliability estimate.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reliability_reference",
+	"name":{
+		"defaultValue":"reliability reference",
+		"i18nValue":{
+			"en_US":"reliability reference",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

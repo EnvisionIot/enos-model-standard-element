@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"rate of rise of the gate current of a thyristor or triac, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"rate_of_rise_of_gate_current",
+	"name":{
+		"defaultValue":"rate of rise of gate current",
+		"i18nValue":{
+			"en_US":"rate of rise of gate current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A/s",
+	"version":"1.0"
+}

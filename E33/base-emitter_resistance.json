@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistance connected between base and emitter terminals of a bipolar transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"base-emitter_resistance",
+	"name":{
+		"defaultValue":"base-emitter resistance",
+		"i18nValue":{
+			"en_US":"base-emitter resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

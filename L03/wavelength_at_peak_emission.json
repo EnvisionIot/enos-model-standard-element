@@ -1,0 +1,19 @@
+{
+	"category":"L03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal wavelength at which the spectral radiant intensity is maximum at a specified diode forward current and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wavelength_at_peak_emission",
+	"name":{
+		"defaultValue":"wavelength at peak emission",
+		"i18nValue":{
+			"en_US":"wavelength at peak emission",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the zero-power resistance of a PTC thermistor corresponding with the switching temperature.\nThe value of zero-power resistance corresponding to the switching temperature. |NOTE - The switching resistance is expressed with reference to the minimum resistance (R_min) by a specified multiplying factor. It may also be expressed as an absolute value of resistance and independent of R_min.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"PTC_switching_resistance",
+	"name":{
+		"defaultValue":"PTC switching resistance",
+		"i18nValue":{
+			"en_US":"PTC switching resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

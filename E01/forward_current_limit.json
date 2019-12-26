@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct current flowing through a diode, or diode part of an optoelectronic device, in the forward direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"forward_current_limit",
+	"name":{
+		"defaultValue":"forward current limit",
+		"i18nValue":{
+			"en_US":"forward current limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum total power absorbed divided by the volume of a soft magnetic material at specified frequency, ambient temperature and peak flux density.\nThe total loss may include: eddy current loss, hysteresis loss, rotational hysteresis loss, residual loss, gyromagnetic resonance loss.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"specific_total_loss",
+	"name":{
+		"defaultValue":"specific total loss",
+		"i18nValue":{
+			"en_US":"specific total loss",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/m³",
+	"version":"1.0"
+}

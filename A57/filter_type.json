@@ -1,0 +1,55 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"XTL":{
+				"defaultValue":"quartz-crystal filter",
+				"i18nValue":{}
+			},
+			"ACT":{
+				"defaultValue":"active filter",
+				"i18nValue":{}
+			},
+			"PIEZO":{
+				"defaultValue":"piezo-electric ceramic filter",
+				"i18nValue":{}
+			},
+			"SAW":{
+				"defaultValue":"surface-acoustic-wave filter",
+				"i18nValue":{}
+			},
+			"MECH":{
+				"defaultValue":"mechanical filter",
+				"i18nValue":{}
+			},
+			"LCR":{
+				"defaultValue":"LCR filter",
+				"i18nValue":{}
+			},
+			"TRAP":{
+				"defaultValue":"trap",
+				"i18nValue":{}
+			},
+			"DIEL":{
+				"defaultValue":"dielectric filter",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of filter.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"filter_type",
+	"name":{
+		"defaultValue":"filter type",
+		"i18nValue":{
+			"en_US":"filter type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

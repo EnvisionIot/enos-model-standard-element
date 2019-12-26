@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designation of the thread of a stud used for mounting the package.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"stud_thread",
+	"name":{
+		"defaultValue":"stud thread",
+		"i18nValue":{
+			"en_US":"stud thread",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

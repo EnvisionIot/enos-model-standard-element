@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum voltage between collector and emitter terminals of a bipolar transistor at open base terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_voltage_V_CE",
+	"name":{
+		"defaultValue":"collector-emitter voltage V_CE",
+		"i18nValue":{
+			"en_US":"collector-emitter voltage V_CE",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

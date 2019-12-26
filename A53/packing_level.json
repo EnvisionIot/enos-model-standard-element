@@ -1,0 +1,21 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"maxLength":3
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the packing level for products.\nThe first level of packing is that enclosing one or more products. Subsequent higher levels of packing enclose one, or more, of the immediately lower level of packing.\nThe property must be used in conjunction with AAE111 (packing type) Values can be: 1 = first level 2 = second level 3 = third level etc.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"packing_level",
+	"name":{
+		"defaultValue":"packing level",
+		"i18nValue":{
+			"en_US":"packing level",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identifier being unique within the scope of the material declaration in accordance to an identification scheme provided by the body identified as authority.\nIEC62474_DeveloperTable_X4.00_20140405:2014: unique identifier of a document, standard, information that was provided by the authority.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"identity",
+	"name":{
+		"defaultValue":"identity",
+		"i18nValue":{
+			"en_US":"identity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

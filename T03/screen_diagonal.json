@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal projected length of the useful screen diagonal of a display tube, used as product identification.\nIn the Pro Electron type designation code, for TV picture tubes and monitor tubes, the screen diagonal corresponds with the second (number) symbol, consisting of a two or three-digit number. |For other display tubes see AAE595-005.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"screen_diagonal",
+	"name":{
+		"defaultValue":"screen diagonal",
+		"i18nValue":{
+			"en_US":"screen diagonal",
+			"zh_CN":null
+		}
+	},
+	"unit":"cm",
+	"version":"1.0"
+}

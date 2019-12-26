@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"accumulated height of rain, snow, hail, or volcanic ashes falling on a horizontal surface without drain.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"amount_of_precipitation",
+	"name":{
+		"defaultValue":"amount of precipitation",
+		"i18nValue":{
+			"en_US":"amount of precipitation",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal prospective current that a fuse-link is capable of breaking.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_breaking_capacity",
+	"name":{
+		"defaultValue":"rated breaking capacity",
+		"i18nValue":{
+			"en_US":"rated breaking capacity",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

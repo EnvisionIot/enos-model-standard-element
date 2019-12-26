@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the variation of capacitance with temperature over a specified temperature range (T_1 to T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"capacitance_change_with_temperature",
+	"name":{
+		"defaultValue":"capacitance change with temperature",
+		"i18nValue":{
+			"en_US":"capacitance change with temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the status of the component within that product's life cycle.\nThe description should include information on the maturity of the production processes and any information on impending changes to production processes or cessation of production.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"product_status",
+	"name":{
+		"defaultValue":"product status",
+		"i18nValue":{
+			"en_US":"product status",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

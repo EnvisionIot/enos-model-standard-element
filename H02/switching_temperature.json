@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal temperature under zero power conditions, at which the resistance value of a PTC thermistor is twice the R_min value.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"switching_temperature",
+	"name":{
+		"defaultValue":"switching temperature",
+		"i18nValue":{
+			"en_US":"switching temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

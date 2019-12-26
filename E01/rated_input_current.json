@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal direct input current of a rotational dc motor at rated input voltage and at rated working torque.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_input_current",
+	"name":{
+		"defaultValue":"rated input current",
+		"i18nValue":{
+			"en_US":"rated input current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

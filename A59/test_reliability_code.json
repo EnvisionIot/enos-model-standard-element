@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"data based on packaged counterparts",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"no data available",
+				"i18nValue":{}
+			},
+			"Y":{
+				"defaultValue":"data available on receipt of NDA",
+				"i18nValue":{}
+			},
+			"K":{
+				"defaultValue":"data based on semiconductor die",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code to indicate the availability of reliability information for a die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"test_reliability_code",
+	"name":{
+		"defaultValue":"test reliability code",
+		"i18nValue":{
+			"en_US":"test reliability code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"resistance that must be connected to the output of the ECL oscillator to ensure generation of a square wave.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"ECL_load_condition",
+	"name":{
+		"defaultValue":"ECL load condition",
+		"i18nValue":{
+			"en_US":"ECL load condition",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

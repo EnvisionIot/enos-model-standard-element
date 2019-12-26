@@ -1,0 +1,55 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"CON":{
+				"defaultValue":"connector",
+				"i18nValue":{}
+			},
+			"MOT":{
+				"defaultValue":"motor",
+				"i18nValue":{}
+			},
+			"SWI":{
+				"defaultValue":"switch",
+				"i18nValue":{}
+			},
+			"CONPART":{
+				"defaultValue":"connector part",
+				"i18nValue":{}
+			},
+			"FUS":{
+				"defaultValue":"fuse",
+				"i18nValue":{}
+			},
+			"MIC":{
+				"defaultValue":"microphone",
+				"i18nValue":{}
+			},
+			"LSP":{
+				"defaultValue":"loudspeaker",
+				"i18nValue":{}
+			},
+			"REL":{
+				"defaultValue":"relay",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the category to which an electromechanical component belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"category_EM_component",
+	"name":{
+		"defaultValue":"category EM component",
+		"i18nValue":{
+			"en_US":"category EM component",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

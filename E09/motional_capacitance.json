@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance in the motional series arm of the equivalent circuit.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"motional_capacitance",
+	"name":{
+		"defaultValue":"motional capacitance",
+		"i18nValue":{
+			"en_US":"motional capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"fF",
+	"version":"1.0"
+}

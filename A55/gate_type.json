@@ -1,0 +1,39 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"JUN":{
+				"defaultValue":"junction gate",
+				"i18nValue":{}
+			},
+			"DEP":{
+				"defaultValue":"insulated gate, depletion",
+				"i18nValue":{}
+			},
+			"ENH":{
+				"defaultValue":"insulated gate, enhancement",
+				"i18nValue":{}
+			},
+			"INS":{
+				"defaultValue":"insulated gate",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the type of gate of a field-effect transistor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"gate_type",
+	"name":{
+		"defaultValue":"gate type",
+		"i18nValue":{
+			"en_US":"gate type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,47 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"3 o'clock":{
+				"defaultValue":"0 deg in the plane of the LCD.",
+				"i18nValue":{}
+			},
+			"6 o'clock":{
+				"defaultValue":"270 deg in the plane of the LCD.",
+				"i18nValue":{}
+			},
+			"9 o'clock":{
+				"defaultValue":"180 deg in the plane of the LCD.",
+				"i18nValue":{}
+			},
+			"10 o'clock":{
+				"defaultValue":"150 deg in the plane of the LCD.",
+				"i18nValue":{}
+			},
+			"5 o'clock":{
+				"defaultValue":"300 deg in the plane of the LCD.",
+				"i18nValue":{}
+			},
+			"12 o'clock":{
+				"defaultValue":"90 deg in the plane of the LCD.",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the viewing direction of a liquid crystal display.\nDuring the manufacturing process the orientation layers of an LCD can be treated such that a so-called preferred viewing direction can be built in. In this direction the display contrast is maximum. A 6 o'clock view means a preferred view from below (270 deg in the plane of the LCD), whereas a 12 o'clock (or 90 deg) preferred view implies a preference from above. The exact elevation angle is not taken into account.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"preferred_viewing_direction",
+	"name":{
+		"defaultValue":"preferred viewing direction",
+		"i18nValue":{
+			"en_US":"preferred viewing direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

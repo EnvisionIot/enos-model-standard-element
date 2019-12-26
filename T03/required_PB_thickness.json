@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"thickness of the PCB by level minmax a press-in terminal of a connector is designed for.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"required_PB_thickness",
+	"name":{
+		"defaultValue":"required PB thickness",
+		"i18nValue":{
+			"en_US":"required PB thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

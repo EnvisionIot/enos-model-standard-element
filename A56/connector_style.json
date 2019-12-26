@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"JMP":{
+				"defaultValue":"jumper",
+				"i18nValue":{}
+			},
+			"ADP":{
+				"defaultValue":"adaptor connector",
+				"i18nValue":{}
+			},
+			"FREE":{
+				"defaultValue":"free connector",
+				"i18nValue":{}
+			},
+			"FIXD":{
+				"defaultValue":"fixed connector",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the typical use of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connector_style",
+	"name":{
+		"defaultValue":"connector style",
+		"i18nValue":{
+			"en_US":"connector style",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

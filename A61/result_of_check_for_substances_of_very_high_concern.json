@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"result of check for the product's compliance with the rules of  usage of  substances of very high concern.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"result_of_check_for_substances_of_very_high_concern",
+	"name":{
+		"defaultValue":"result of check for substances of very high concern",
+		"i18nValue":{
+			"en_US":"result of check for substances of very high concern",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

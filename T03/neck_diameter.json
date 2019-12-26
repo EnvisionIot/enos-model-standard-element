@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal outer diameter of the neck of a display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"neck_diameter",
+	"name":{
+		"defaultValue":"neck diameter",
+		"i18nValue":{
+			"en_US":"neck diameter",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

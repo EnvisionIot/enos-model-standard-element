@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of vertices of a polygonal pad.\nA polygonal pad must have at least three vertices.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_polygon_vertices",
+	"name":{
+		"defaultValue":"number of polygon vertices",
+		"i18nValue":{
+			"en_US":"number of polygon vertices",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

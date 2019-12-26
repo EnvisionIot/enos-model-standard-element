@@ -1,0 +1,91 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"TUB":{
+				"defaultValue":"tube",
+				"i18nValue":{}
+			},
+			"YKR":{
+				"defaultValue":"yoke-ring",
+				"i18nValue":{}
+			},
+			"E":{
+				"defaultValue":"E-core (half)",
+				"i18nValue":{}
+			},
+			"ROD":{
+				"defaultValue":"rod",
+				"i18nValue":{}
+			},
+			"H":{
+				"defaultValue":"H-core (set, together with window- or U-core)",
+				"i18nValue":{}
+			},
+			"I":{
+				"defaultValue":"I-core (part)",
+				"i18nValue":{}
+			},
+			"MHC":{
+				"defaultValue":"multi-hole-core",
+				"i18nValue":{}
+			},
+			"EP":{
+				"defaultValue":"EP-core (set)",
+				"i18nValue":{}
+			},
+			"IMP":{
+				"defaultValue":"impeder",
+				"i18nValue":{}
+			},
+			"P":{
+				"defaultValue":"P-core (set)",
+				"i18nValue":{}
+			},
+			"R":{
+				"defaultValue":"ring-core",
+				"i18nValue":{}
+			},
+			"ETD":{
+				"defaultValue":"ETD-core (half)",
+				"i18nValue":{}
+			},
+			"U":{
+				"defaultValue":"U-core (half)",
+				"i18nValue":{}
+			},
+			"PH":{
+				"defaultValue":"PH-core (half)",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"X-core (set)",
+				"i18nValue":{}
+			},
+			"RM":{
+				"defaultValue":"square-core(set)",
+				"i18nValue":{}
+			},
+			"EC":{
+				"defaultValue":"EC-core (half)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape of a soft magnetic part, or set of parts forming a core.\nFor core halves the effective core parameter DETs AAE770-005, AAE771-005, AAE776-005, AAE777-005, AAE782-005 and AAF283-005 are determined in combination with an identical counterpart for I-cores in combination with a U-core.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"core_shape",
+	"name":{
+		"defaultValue":"core shape",
+		"i18nValue":{
+			"en_US":"core shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

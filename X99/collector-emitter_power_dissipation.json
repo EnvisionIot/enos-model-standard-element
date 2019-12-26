@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum power of an electric-electronic or electromechanical component which may be dissipated continuously at specified case temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_power_dissipation",
+	"name":{
+		"defaultValue":"collector-emitter power dissipation",
+		"i18nValue":{
+			"en_US":"collector-emitter power dissipation",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

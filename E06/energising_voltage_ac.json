@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal ac voltage which, when applied to the coil of a relay, enables it to operate.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"energising_voltage_ac",
+	"name":{
+		"defaultValue":"energising voltage (ac)",
+		"i18nValue":{
+			"en_US":"energising voltage (ac)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

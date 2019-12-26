@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum guaranteed additional quiescent dc supply current per input, of an HCMOS IC, at specified supply voltage, zero output current and a temperature range between specified temperatures (T_1 and T_2).\nApplies to a sub-category of HCMOS circuits with TTL compatible inputs. |Except for the relevant input, to which a voltage of V_CC - 2.1 V (V_OH for TTL) must be applied, all other inputs must be either be at zero (GND/V_SS) or at supply voltage level (V_CC).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"additional_quiescent_current",
+	"name":{
+		"defaultValue":"additional quiescent current",
+		"i18nValue":{
+			"en_US":"additional quiescent current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

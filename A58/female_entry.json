@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"ONE":{
+				"defaultValue":"one-way",
+				"i18nValue":{}
+			},
+			"TWO":{
+				"defaultValue":"two-way (bottom entry)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the entry of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"female_entry",
+	"name":{
+		"defaultValue":"female entry",
+		"i18nValue":{
+			"en_US":"female entry",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

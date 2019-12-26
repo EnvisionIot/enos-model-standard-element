@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum voltage that may exist between any two contacts or between any contact and the shell or casing of a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connector_rated_voltage",
+	"name":{
+		"defaultValue":"connector rated voltage",
+		"i18nValue":{
+			"en_US":"connector rated voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

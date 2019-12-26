@@ -1,0 +1,31 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"enumDesc":{
+			"COL":{
+				"defaultValue":"colour display tube",
+				"i18nValue":{}
+			},
+			"MCR":{
+				"defaultValue":"monochrome display tube",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the chromaticity type of a display tube.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"chromaticity",
+	"name":{
+		"defaultValue":"chromaticity",
+		"i18nValue":{
+			"en_US":"chromaticity",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

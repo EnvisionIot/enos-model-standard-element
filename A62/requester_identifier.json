@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"product identifying code as defined by the requesting company.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"requester_identifier",
+	"name":{
+		"defaultValue":"requester identifier",
+		"i18nValue":{
+			"en_US":"requester identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

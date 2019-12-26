@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material used to form an external case or coating on an electric component to protect it from the environment.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"encapsulation_material",
+	"name":{
+		"defaultValue":"encapsulation material",
+		"i18nValue":{
+			"en_US":"encapsulation material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

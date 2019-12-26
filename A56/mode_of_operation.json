@@ -1,0 +1,63 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"PAR":{
+				"defaultValue":"parallel",
+				"i18nValue":{}
+			},
+			"SER":{
+				"defaultValue":"serial",
+				"i18nValue":{}
+			},
+			"UNI":{
+				"defaultValue":"unidirectional",
+				"i18nValue":{}
+			},
+			"DOWN":{
+				"defaultValue":"down",
+				"i18nValue":{}
+			},
+			"ASYN":{
+				"defaultValue":"asynchronous",
+				"i18nValue":{}
+			},
+			"SYN":{
+				"defaultValue":"synchronous",
+				"i18nValue":{}
+			},
+			"UP":{
+				"defaultValue":"up",
+				"i18nValue":{}
+			},
+			"BID":{
+				"defaultValue":"bidirectional",
+				"i18nValue":{}
+			},
+			"DUPL":{
+				"defaultValue":"duplex",
+				"i18nValue":{}
+			},
+			"SIMP":{
+				"defaultValue":"simplex",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mode of operation of a function of an IC.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mode_of_operation",
+	"name":{
+		"defaultValue":"mode of operation",
+		"i18nValue":{
+			"en_US":"mode of operation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

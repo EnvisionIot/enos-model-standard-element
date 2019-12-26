@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the height of the body of a component in the z-direction.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"body_height",
+	"name":{
+		"defaultValue":"body height",
+		"i18nValue":{
+			"en_US":"body height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

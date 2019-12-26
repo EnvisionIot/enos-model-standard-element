@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal ratio of the rms signal to the value of the incident, chopped, radiant power of an infrared radiation photosensor at specified wavelength, chopping frequency and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"responsivity",
+	"name":{
+		"defaultValue":"responsivity",
+		"i18nValue":{
+			"en_US":"responsivity",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/W",
+	"version":"1.0"
+}

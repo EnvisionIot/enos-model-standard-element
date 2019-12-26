@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"CUR":{
+				"defaultValue":"current regulator diode",
+				"i18nValue":{}
+			},
+			"STA":{
+				"defaultValue":"stabistor",
+				"i18nValue":{}
+			},
+			"REF":{
+				"defaultValue":"voltage reference diode",
+				"i18nValue":{}
+			},
+			"REG":{
+				"defaultValue":"voltage regulator diode",
+				"i18nValue":{}
+			},
+			"SUP":{
+				"defaultValue":"transient suppressor diode",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the function of a stabiliser diode.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"diode_function",
+	"name":{
+		"defaultValue":"diode function",
+		"i18nValue":{
+			"en_US":"diode function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"level of voltage that generates a reset signal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"detection_voltage",
+	"name":{
+		"defaultValue":"detection voltage",
+		"i18nValue":{
+			"en_US":"detection voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

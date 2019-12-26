@@ -1,0 +1,19 @@
+{
+	"category":"E19",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the magnetic flux density at which the BH product of a hard magnetic material is maximum.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flux_density_at_BH_max",
+	"name":{
+		"defaultValue":"flux density at (BH)_max",
+		"i18nValue":{
+			"en_US":"flux density at (BH)_max",
+			"zh_CN":null
+		}
+	},
+	"unit":"T",
+	"version":"1.0"
+}

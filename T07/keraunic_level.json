@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of thunderstorm days per year.\nnormally measured in days per year in industrial applications.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"keraunic_level",
+	"name":{
+		"defaultValue":"keraunic level",
+		"i18nValue":{
+			"en_US":"keraunic level",
+			"zh_CN":null
+		}
+	},
+	"unit":"d/y",
+	"version":"1.0"
+}

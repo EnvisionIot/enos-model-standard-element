@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"substance group name as defined in the IEC 62474 database.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substance_group_name",
+	"name":{
+		"defaultValue":"substance group name",
+		"i18nValue":{
+			"en_US":"substance group name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

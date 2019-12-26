@@ -1,0 +1,19 @@
+{
+	"category":"T10",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the motion of the vectorial sum of tidal and non-tidal current components to a time unit and measured at a given period of time.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"current_speed",
+	"name":{
+		"defaultValue":"current speed",
+		"i18nValue":{
+			"en_US":"current speed",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s",
+	"version":"1.0"
+}

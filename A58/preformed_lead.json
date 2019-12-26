@@ -1,0 +1,51 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"FLANGE":{
+				"defaultValue":"with flange",
+				"i18nValue":{}
+			},
+			"CROPPED":{
+				"defaultValue":"cropped",
+				"i18nValue":{}
+			},
+			"SHOULDER":{
+				"defaultValue":"shoulderd",
+				"i18nValue":{}
+			},
+			"SNAPIN":{
+				"defaultValue":"snap-in",
+				"i18nValue":{}
+			},
+			"BENT":{
+				"defaultValue":"bent (90 deg)",
+				"i18nValue":{}
+			},
+			"SPACED":{
+				"defaultValue":"spaced",
+				"i18nValue":{}
+			},
+			"STRAIGHT":{
+				"defaultValue":"straight",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the preforming of leads to create a distance between the component and the seating-plane.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"preformed_lead",
+	"name":{
+		"defaultValue":"preformed lead",
+		"i18nValue":{
+			"en_US":"preformed lead",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"MFL":{
+				"defaultValue":"metal foil",
+				"i18nValue":{}
+			},
+			"MLZ":{
+				"defaultValue":"metallized",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the technology by which the electrodes of a fixed film capacitor are made.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"electrode_technology",
+	"name":{
+		"defaultValue":"electrode technology",
+		"i18nValue":{
+			"en_US":"electrode technology",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the average mass of a constituent material of a component to the total mass of the component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"average_mass",
+	"name":{
+		"defaultValue":"average mass",
+		"i18nValue":{
+			"en_US":"average mass",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

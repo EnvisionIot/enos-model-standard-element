@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of frequency enabled by the operation of the internal oscillator in a switching regulator.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"recommended_oscillation_frequency",
+	"name":{
+		"defaultValue":"recommended oscillation frequency",
+		"i18nValue":{
+			"en_US":"recommended oscillation frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

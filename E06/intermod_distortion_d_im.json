@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"intermodulation distortion of a bipolar rf power transistor or wideband amplifier measured according to the three-tone test method, as a variable.\nThree-tone test method: vision frequency f_v level = -8 dB sound carrier frequency f_v + 5.5 MHz level = -7 dB sideband signal f_v - 1.1 MHz level = -16 dB zero level 0 dB corresponds to peak sync level.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"intermod_distortion_d_im",
+	"name":{
+		"defaultValue":"intermod distortion d_im",
+		"i18nValue":{
+			"en_US":"intermod distortion d_im",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

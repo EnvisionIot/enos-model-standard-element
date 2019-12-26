@@ -1,0 +1,19 @@
+{
+	"category":"Q62",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of bits applicable to a peripheral on a microcontroller of a specified peripheral type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"peripheral_word_size",
+	"name":{
+		"defaultValue":"peripheral word size",
+		"i18nValue":{
+			"en_US":"peripheral word size",
+			"zh_CN":null
+		}
+	},
+	"unit":"bit",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"MULT":{
+				"defaultValue":"multi-turn rotary",
+				"i18nValue":{}
+			},
+			"SING":{
+				"defaultValue":"single-turn rotary",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of potentiometer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"potentiometer_type",
+	"name":{
+		"defaultValue":"potentiometer type",
+		"i18nValue":{
+			"en_US":"potentiometer type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

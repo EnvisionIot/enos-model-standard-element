@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum breakdown voltage at which a diode will commence avalanche breakdown, at specified reverse current and temperature of a temperature type.\nSometimes measured under pulsed conditions to avoid excessive dissipation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"breakdown_voltage",
+	"name":{
+		"defaultValue":"breakdown voltage",
+		"i18nValue":{
+			"en_US":"breakdown voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

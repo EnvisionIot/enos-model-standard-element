@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"linear spacing as specified by level (miNomax) between the true positions of terminal centres.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_spacing",
+	"name":{
+		"defaultValue":"terminal spacing",
+		"i18nValue":{
+			"en_US":"terminal spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

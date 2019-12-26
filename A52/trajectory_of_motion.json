@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"LIN":{
+				"defaultValue":"linear",
+				"i18nValue":{}
+			},
+			"ROT":{
+				"defaultValue":"rotational",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the trajectory of motion of the armature of a motor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"trajectory_of_motion",
+	"name":{
+		"defaultValue":"trajectory of motion",
+		"i18nValue":{
+			"en_US":"trajectory of motion",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

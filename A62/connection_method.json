@@ -1,0 +1,35 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"enumDesc":{
+			"FIXPIN":{
+				"defaultValue":"fixed pin",
+				"i18nValue":{}
+			},
+			"RUBBER":{
+				"defaultValue":"conductive rubber",
+				"i18nValue":{}
+			},
+			"FOIL":{
+				"defaultValue":"foil",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the method of a connection to a liquid crystal display.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connection_method",
+	"name":{
+		"defaultValue":"connection method",
+		"i18nValue":{
+			"en_US":"connection method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

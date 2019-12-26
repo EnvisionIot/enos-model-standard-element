@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"IMAGE":{
+				"defaultValue":"Image pickup devices",
+				"i18nValue":{}
+			},
+			"PHC":{
+				"defaultValue":"photocoupler",
+				"i18nValue":{}
+			},
+			"PHS":{
+				"defaultValue":"photosensor",
+				"i18nValue":{}
+			},
+			"PHE":{
+				"defaultValue":"photoemitter",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the function to which an optoelectronic device belongs.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"optoelectronic_device_function",
+	"name":{
+		"defaultValue":"optoelectronic device function",
+		"i18nValue":{
+			"en_US":"optoelectronic device function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

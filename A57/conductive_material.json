@@ -1,0 +1,59 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"CuCr":{
+				"defaultValue":"copper-chromium",
+				"i18nValue":{}
+			},
+			"Cu":{
+				"defaultValue":"copper",
+				"i18nValue":{}
+			},
+			"CuCd":{
+				"defaultValue":"copper-cadmium",
+				"i18nValue":{}
+			},
+			"CuZn":{
+				"defaultValue":"brass",
+				"i18nValue":{}
+			},
+			"CuCdCr":{
+				"defaultValue":"copper-cadmium-chromium",
+				"i18nValue":{}
+			},
+			"Al":{
+				"defaultValue":"aluminium",
+				"i18nValue":{}
+			},
+			"Fe/Cu":{
+				"defaultValue":"iron core/copper mantle",
+				"i18nValue":{}
+			},
+			"CuNi":{
+				"defaultValue":"copper-nickel",
+				"i18nValue":{}
+			},
+			"CuSn":{
+				"defaultValue":"bronze",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the material of a conductive part of a conductor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"conductive_material",
+	"name":{
+		"defaultValue":"conductive material",
+		"i18nValue":{
+			"en_US":"conductive material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

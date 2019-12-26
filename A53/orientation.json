@@ -1,0 +1,31 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"R":{
+				"defaultValue":"reverse",
+				"i18nValue":{}
+			},
+			"F":{
+				"defaultValue":"forward",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the longitudinal orientation of taped products.\nThe orientation applies to:| a   the anode of polarised components.| b   the collector/drain of transistors.| c   terminal number one of components with more than three terminals.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"orientation",
+	"name":{
+		"defaultValue":"orientation",
+		"i18nValue":{
+			"en_US":"orientation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

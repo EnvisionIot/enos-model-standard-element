@@ -1,0 +1,21 @@
+{
+	"category":"A12",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of a building or property associated with a physical adress.\nExamples of a premises name include \"Somerset House\" or \"Solefall\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"premises_name",
+	"name":{
+		"defaultValue":"premises name",
+		"i18nValue":{
+			"en_US":"premises name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

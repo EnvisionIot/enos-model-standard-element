@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"dimension as specified by level (miNomax) of a flange measured in the direction of the package width.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"flange_width",
+	"name":{
+		"defaultValue":"flange width",
+		"i18nValue":{
+			"en_US":"flange width",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

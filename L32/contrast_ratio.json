@@ -1,0 +1,19 @@
+{
+	"category":"L32",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed value of the maximum obtainable ratio between the brightness of the light areas to the brightness of the dark areas of a liquid crystal display at specified values of the operating voltage, ambient temperature and viewing angle.\nThe ratio is always a value greater than one. This means that, for a negative image mode, it is the ratio of the brightness of an addressed display zone to the brightness of a non-addressed zone and, for a positive image mode, it is the ratio of the brightness of the non-addressed zone to that of the addressed zone.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contrast_ratio",
+	"name":{
+		"defaultValue":"contrast ratio",
+		"i18nValue":{
+			"en_US":"contrast ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal phase delay time of a delay line.\nThe phase delay time is the ratio of the total phase delay through the network, in cycles, to the frequency in Hz.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"phase_delay_time",
+	"name":{
+		"defaultValue":"phase delay time",
+		"i18nValue":{
+			"en_US":"phase delay time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

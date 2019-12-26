@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"lower relative humidity RH_1 of the humidity range applied to a humidity sensor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"relative_humidity_RH_1",
+	"name":{
+		"defaultValue":"relative humidity RH_1",
+		"i18nValue":{
+			"en_US":"relative humidity RH_1",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

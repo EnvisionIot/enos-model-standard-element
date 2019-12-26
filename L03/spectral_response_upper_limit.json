@@ -1,0 +1,19 @@
+{
+	"category":"L03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"typical upper limit of the wavelength below which an infrared radiation photosensor gives a response of at least 90% of the maximum output, at a specified supply voltage and ambient temperature.\nFor the lower spectral response, i.e. for the total range, see also AAE573-005.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"spectral_response_upper_limit",
+	"name":{
+		"defaultValue":"spectral response upper limit",
+		"i18nValue":{
+			"en_US":"spectral response upper limit",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

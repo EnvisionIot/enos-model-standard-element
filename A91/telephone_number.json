@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number of a telephone in a domain at which telephone calls can be received.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"telephone_number",
+	"name":{
+		"defaultValue":"telephone number",
+		"i18nValue":{
+			"en_US":"telephone number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

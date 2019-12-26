@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the denominator of the ratio of the real things magnitude to the magnitude of the model.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"scale",
+	"name":{
+		"defaultValue":"scale",
+		"i18nValue":{
+			"en_US":"scale",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

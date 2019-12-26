@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal rms ac or dc voltage across the heater terminals of an electron tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"heater_voltage",
+	"name":{
+		"defaultValue":"heater voltage",
+		"i18nValue":{
+			"en_US":"heater voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

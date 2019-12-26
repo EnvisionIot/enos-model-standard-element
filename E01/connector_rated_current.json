@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum total current that may be carried by a connector.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"connector_rated_current",
+	"name":{
+		"defaultValue":"connector rated current",
+		"i18nValue":{
+			"en_US":"connector rated current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

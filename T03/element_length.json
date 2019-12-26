@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of the sensitive element(s) of an infrared radiation photosensor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"element_length",
+	"name":{
+		"defaultValue":"element length",
+		"i18nValue":{
+			"en_US":"element length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

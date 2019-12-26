@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":175
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"human readible information on putting something (such as a piece of equipment) together and making it ready for use.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"installation_instruction",
+	"name":{
+		"defaultValue":"installation instruction",
+		"i18nValue":{
+			"en_US":"installation instruction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

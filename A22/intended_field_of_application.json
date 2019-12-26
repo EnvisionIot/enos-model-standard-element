@@ -1,0 +1,21 @@
+{
+	"category":"A22",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"specification of  the application area of the object as intended by the designer / manufacturer.\nThe component may be used deviating from the intended application area as defined by the designer / manufacturer. Such application is under the responsibility of the user; see AAE834.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"intended_field_of_application",
+	"name":{
+		"defaultValue":"intended field of application",
+		"i18nValue":{
+			"en_US":"intended field of application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

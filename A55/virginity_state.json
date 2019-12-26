@@ -1,0 +1,31 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"HIGH":{
+				"defaultValue":"HIGH-state",
+				"i18nValue":{}
+			},
+			"LOW":{
+				"defaultValue":"LOW-state",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code identifying the logic state of the outputs of a virgin (unprogrammed) or erased EPROM.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"virginity_state",
+	"name":{
+		"defaultValue":"virginity state",
+		"i18nValue":{
+			"en_US":"virginity state",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"electronic signature associated to a specified person.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"digital_signature",
+	"name":{
+		"defaultValue":"digital signature",
+		"i18nValue":{
+			"en_US":"digital signature",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

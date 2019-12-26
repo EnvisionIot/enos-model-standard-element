@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minTypmax) of the reverse direct current in a photosensor diode at zero irradiance and specified values of reverse voltage and temperature of a temperature type.\nCalled dark reverse current when irradiance is zero.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reverse_current_dark",
+	"name":{
+		"defaultValue":"reverse current dark",
+		"i18nValue":{
+			"en_US":"reverse current dark",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,43 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"SAFETY":{
+				"defaultValue":"safety transformer",
+				"i18nValue":{}
+			},
+			"LDO":{
+				"defaultValue":"line deflection output transformer",
+				"i18nValue":{}
+			},
+			"DRI":{
+				"defaultValue":"line deflection driver transformer",
+				"i18nValue":{}
+			},
+			"SUPPLY":{
+				"defaultValue":"supply transformer",
+				"i18nValue":{}
+			},
+			"SMPS":{
+				"defaultValue":"switched mode power supply transformer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code indicating the application of a fixed power transformer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"power_transformer_application",
+	"name":{
+		"defaultValue":"power transformer application",
+		"i18nValue":{
+			"en_US":"power transformer application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

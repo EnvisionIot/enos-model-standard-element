@@ -1,0 +1,104 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"room_air_temperature",
+				"name":{
+					"defaultValue":"room air temperature",
+					"i18nValue":{
+						"en_US":"room air temperature",
+						"zh_CN":null
+					}
+				},
+				"unit":"°C"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"ambient_indoor_temperature",
+				"name":{
+					"defaultValue":"ambient indoor temperature",
+					"i18nValue":{
+						"en_US":"ambient indoor temperature",
+						"zh_CN":null
+					}
+				},
+				"unit":"°C"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"change_rate_of_ambient_temperature",
+				"name":{
+					"defaultValue":"change rate of ambient temperature",
+					"i18nValue":{
+						"en_US":"change rate of ambient temperature",
+						"zh_CN":null
+					}
+				},
+				"unit":"K/h"
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"float",
+				"defaultValue":null,
+				"identifier":"ambient_outdoor_temperature",
+				"name":{
+					"defaultValue":"ambient outdoor temperature",
+					"i18nValue":{
+						"en_US":"ambient outdoor temperature",
+						"zh_CN":null
+					}
+				},
+				"unit":"°C"
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class temperature.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_temperature_class",
+	"name":{
+		"defaultValue":"reference to temperature class",
+		"i18nValue":{
+			"en_US":"reference to temperature class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

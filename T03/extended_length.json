@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of a capacitive antenna when all sections are in the extended position.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"extended_length",
+	"name":{
+		"defaultValue":"extended length",
+		"i18nValue":{
+			"en_US":"extended length",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

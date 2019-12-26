@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of a) the maximum difference of the resistance of a resistor before and after a specified test to b) the resistance before the test, according to document IEC 60115-1 (1982).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"stability_after_test",
+	"name":{
+		"defaultValue":"stability after test",
+		"i18nValue":{
+			"en_US":"stability after test",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

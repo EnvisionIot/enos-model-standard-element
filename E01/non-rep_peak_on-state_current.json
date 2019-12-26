@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting non-repetitive peak on-state current in a thyristor or triac, at specified duration and mounting-base temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-rep_peak_on-state_current",
+	"name":{
+		"defaultValue":"non-rep peak on-state current",
+		"i18nValue":{
+			"en_US":"non-rep peak on-state current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

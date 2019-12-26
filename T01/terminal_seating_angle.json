@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle as specified by level (miNomax) between the terminal and the seating plane.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"terminal_seating_angle",
+	"name":{
+		"defaultValue":"terminal seating angle",
+		"i18nValue":{
+			"en_US":"terminal seating angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

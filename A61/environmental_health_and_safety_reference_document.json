@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"unique identifier of a document, standard,  or information used as reference for environmental health and safety aspects of a product.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"environmental_health_and_safety_reference_document",
+	"name":{
+		"defaultValue":"environmental health and safety reference document",
+		"i18nValue":{
+			"en_US":"environmental health and safety reference document",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

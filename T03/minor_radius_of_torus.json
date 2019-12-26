@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the radius of the generatrix of a torus.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minor_radius_of_torus",
+	"name":{
+		"defaultValue":"minor radius of torus",
+		"i18nValue":{
+			"en_US":"minor radius of torus",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

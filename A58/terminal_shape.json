@@ -1,0 +1,59 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"BUS":{
+				"defaultValue":"bus",
+				"i18nValue":{}
+			},
+			"SOL":{
+				"defaultValue":"solid-lead",
+				"i18nValue":{}
+			},
+			"STD":{
+				"defaultValue":"stud",
+				"i18nValue":{}
+			},
+			"CAP":{
+				"defaultValue":"end cap",
+				"i18nValue":{}
+			},
+			"SCR":{
+				"defaultValue":"screw",
+				"i18nValue":{}
+			},
+			"PIN":{
+				"defaultValue":"printed wiring pin",
+				"i18nValue":{}
+			},
+			"STL":{
+				"defaultValue":"stranded-lead",
+				"i18nValue":{}
+			},
+			"TAG":{
+				"defaultValue":"solder tag",
+				"i18nValue":{}
+			},
+			"FLT":{
+				"defaultValue":"flat",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the shape of the terminals of an electric, electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_shape",
+	"name":{
+		"defaultValue":"terminal shape",
+		"i18nValue":{
+			"en_US":"terminal shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

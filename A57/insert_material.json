@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":80
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the type of material of which a connector insert is made.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"insert_material",
+	"name":{
+		"defaultValue":"insert material",
+		"i18nValue":{
+			"en_US":"insert material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

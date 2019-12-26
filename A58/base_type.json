@@ -1,0 +1,59 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"B8-288":{
+				"defaultValue":"B8-288",
+				"i18nValue":{}
+			},
+			"B8-274":{
+				"defaultValue":"B8-274",
+				"i18nValue":{}
+			},
+			"B8H":{
+				"defaultValue":"neo-eightar/IEC67",
+				"i18nValue":{}
+			},
+			"B10-277":{
+				"defaultValue":"B10-277",
+				"i18nValue":{}
+			},
+			"B12-246":{
+				"defaultValue":"B12-246",
+				"i18nValue":{}
+			},
+			"E7-91":{
+				"defaultValue":"E7-91",
+				"i18nValue":{}
+			},
+			"B12-262":{
+				"defaultValue":"B12-262",
+				"i18nValue":{}
+			},
+			"B8-228":{
+				"defaultValue":"B8-228",
+				"i18nValue":{}
+			},
+			"B7-208":{
+				"defaultValue":"B7-208",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"EIcode of the base type of a display tube.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"base_type",
+	"name":{
+		"defaultValue":"base type",
+		"i18nValue":{
+			"en_US":"base type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"SRS":{
+				"defaultValue":"series",
+				"i18nValue":{}
+			},
+			"CMP":{
+				"defaultValue":"compound",
+				"i18nValue":{}
+			},
+			"SHP":{
+				"defaultValue":"shunt (parallel)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the coil connection of a motor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"coil_connection",
+	"name":{
+		"defaultValue":"coil connection",
+		"i18nValue":{
+			"en_US":"coil connection",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the distance between the two planar circular faces of a right circular cone, if the radius is greater than zero: or from the base to the apex if the radius equals zero.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cone_height",
+	"name":{
+		"defaultValue":"cone height",
+		"i18nValue":{
+			"en_US":"cone height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

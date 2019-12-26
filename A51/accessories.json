@@ -1,0 +1,31 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"SOC":{
+				"defaultValue":"socket",
+				"i18nValue":{}
+			},
+			"SPG":{
+				"defaultValue":"hold-down spring",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the available accessories for relays.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"accessories",
+	"name":{
+		"defaultValue":"accessories",
+		"i18nValue":{
+			"en_US":"accessories",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum absolute value of the ratio of the change in any one power-supply voltage to the resulting change in input offset voltage, with all remaining power-supply voltages held constant, of an operational amplifier at reference conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"power_supply_rejection_ratio",
+	"name":{
+		"defaultValue":"power supply rejection ratio",
+		"i18nValue":{
+			"en_US":"power supply rejection ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

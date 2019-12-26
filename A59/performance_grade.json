@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"1":{
+				"defaultValue":"long-life",
+				"i18nValue":{}
+			},
+			"2":{
+				"defaultValue":"general purpose",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code identifying the performance grade of a fixed capacitor.\nSee IEC 60384-2(4) (1982) and IEC 60384-4(4) (1985) for requirements per test.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"performance_grade",
+	"name":{
+		"defaultValue":"performance grade",
+		"i18nValue":{
+			"en_US":"performance grade",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

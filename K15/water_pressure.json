@@ -1,0 +1,19 @@
+{
+	"category":"K15",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"pressure exerted on an object being completely embedded by water.\nFor the definition of pressure see IEV 113-03-65.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"water_pressure",
+	"name":{
+		"defaultValue":"water pressure",
+		"i18nValue":{
+			"en_US":"water pressure",
+			"zh_CN":null
+		}
+	},
+	"unit":"Pa",
+	"version":"1.0"
+}

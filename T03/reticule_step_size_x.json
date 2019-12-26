@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal length of the step-and-repeat dimensions of a reticule containing die on a wafer in the x direction.\nA reticule will normally contain more than one die which will have their own step-and-repeat dimensions within it.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reticule_step_size_x",
+	"name":{
+		"defaultValue":"reticule step size x",
+		"i18nValue":{
+			"en_US":"reticule step size x",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"solid particles suspended in the air.\nIn addition to the mass per volume unit, the distribution of particle sizes is of importance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"airborne_particulates",
+	"name":{
+		"defaultValue":"airborne particulates",
+		"i18nValue":{
+			"en_US":"airborne particulates",
+			"zh_CN":null
+		}
+	},
+	"unit":"kg/m³",
+	"version":"1.0"
+}

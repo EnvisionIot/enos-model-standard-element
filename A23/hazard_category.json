@@ -1,0 +1,19 @@
+{
+	"category":"A23",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"allocation of chemicals substances into toxicity categories based on acute toxicity by the oral, dermal or inhalation exposure route.\ndepending on the hazard category specified hazard pictograms, signal words,  hazard statements and  precautionary statements have to be provided on the packing of the substance.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"hazard_category",
+	"name":{
+		"defaultValue":"hazard category",
+		"i18nValue":{
+			"en_US":"hazard category",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

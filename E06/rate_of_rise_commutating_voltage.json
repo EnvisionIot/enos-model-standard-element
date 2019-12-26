@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rate of rise of the commutating voltage, immediately following on-state current conduction in the opposite direction, that will not cause switching from the off-state to the on-state at specified values of the rate of rise of commutating current, rms on-state current, off-state voltage and mounting-base temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rate_of_rise_commutating_voltage",
+	"name":{
+		"defaultValue":"rate of rise commutating voltage",
+		"i18nValue":{
+			"en_US":"rate of rise commutating voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

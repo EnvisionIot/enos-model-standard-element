@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"current that can flow through the cathode terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"recommended_cathode_current",
+	"name":{
+		"defaultValue":"recommended cathode current",
+		"i18nValue":{
+			"en_US":"recommended cathode current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

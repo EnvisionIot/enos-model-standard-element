@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed number of two-way turns of the brush of a variable power transformer.\nAfter the test the contact resistance shall be within its tolerance.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"brush_life",
+	"name":{
+		"defaultValue":"brush life",
+		"i18nValue":{
+			"en_US":"brush life",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

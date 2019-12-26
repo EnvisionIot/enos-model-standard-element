@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage between the collector and base terminals of a bipolar transistor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"collector-base_voltage",
+	"name":{
+		"defaultValue":"collector-base voltage",
+		"i18nValue":{
+			"en_US":"collector-base voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

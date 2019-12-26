@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"gate current in a thyristor or triac, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"gate_current",
+	"name":{
+		"defaultValue":"gate current",
+		"i18nValue":{
+			"en_US":"gate current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

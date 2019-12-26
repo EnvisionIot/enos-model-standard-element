@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the y coordinate of the geometric centre of a fiducial referred to the geometric origin of the die as origin.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fiducial_y_position",
+	"name":{
+		"defaultValue":"fiducial y position",
+		"i18nValue":{
+			"en_US":"fiducial y position",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"deviation from the frequency at the reference temperature, over the operating temperature range, while other conditions are kept constant.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"frequency_versus_temperature_characteristics",
+	"name":{
+		"defaultValue":"frequency versus temperature characteristics",
+		"i18nValue":{
+			"en_US":"frequency versus temperature characteristics",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

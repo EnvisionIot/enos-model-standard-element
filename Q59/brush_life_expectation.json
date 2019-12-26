@@ -1,0 +1,19 @@
+{
+	"category":"Q59",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum expectation of the number of two-way turns of the brush of a variable power transformer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"brush_life_expectation",
+	"name":{
+		"defaultValue":"brush life expectation",
+		"i18nValue":{
+			"en_US":"brush life expectation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

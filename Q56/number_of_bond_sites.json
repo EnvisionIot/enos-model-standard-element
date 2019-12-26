@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of separate sites on a pad to which bonds can and should be made.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_bond_sites",
+	"name":{
+		"defaultValue":"number of bond sites",
+		"i18nValue":{
+			"en_US":"number of bond sites",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

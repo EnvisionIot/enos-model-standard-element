@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angle between viewing direction and the perpendicular to the plane of the display device.\nUsually degree [deg] is used for the unit of measure.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"viewing_angle",
+	"name":{
+		"defaultValue":"viewing angle",
+		"i18nValue":{
+			"en_US":"viewing angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"TOP":{
+				"defaultValue":"viewed from the top (active side)",
+				"i18nValue":{}
+			},
+			"BOTTOM":{
+				"defaultValue":"viewed from the bottom (non-active side)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code that specifies the geometric view that shall apply to all geometric shapes used in drawings of a die device.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"geometric_view",
+	"name":{
+		"defaultValue":"geometric view",
+		"i18nValue":{
+			"en_US":"geometric view",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"difference of voltage between the threshold values at input pin that change the output voltage state.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"hysteresis_voltage",
+	"name":{
+		"defaultValue":"hysteresis voltage",
+		"i18nValue":{
+			"en_US":"hysteresis voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

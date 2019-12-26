@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Number of steps/s of a rotational stepping motor, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"stepping_rate",
+	"name":{
+		"defaultValue":"stepping rate",
+		"i18nValue":{
+			"en_US":"stepping rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"step/s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Number of peripherals of a microcontroller of a specified peripheral type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_peripherals",
+	"name":{
+		"defaultValue":"number of peripherals",
+		"i18nValue":{
+			"en_US":"number of peripherals",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

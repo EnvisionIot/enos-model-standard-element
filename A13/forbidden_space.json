@@ -1,0 +1,43 @@
+{
+	"category":"A13",
+	"dataDefinition":{
+		"enumDesc":{
+			"general":{
+				"defaultValue":"general cause",
+				"i18nValue":{}
+			},
+			"access":{
+				"defaultValue":"access cause",
+				"i18nValue":{}
+			},
+			"thermal":{
+				"defaultValue":"thermal cause",
+				"i18nValue":{}
+			},
+			"electrical":{
+				"defaultValue":"electrical cause",
+				"i18nValue":{}
+			},
+			"maintenance":{
+				"defaultValue":"maintenance cause",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reason providing information why a space is considered to be a forbidden space.\nIn routing applications, e.g. cabling, piping etc a forbidden space is defined as non-accessible space for other objekts.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"forbidden_space",
+	"name":{
+		"defaultValue":"forbidden space",
+		"i18nValue":{
+			"en_US":"forbidden space",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed common mode rejection ratio of a dual field-effect transistor at specified drain current, drain-gate voltage and frequency.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"common-mode_rejection_ratio",
+	"name":{
+		"defaultValue":"common-mode rejection ratio",
+		"i18nValue":{
+			"en_US":"common-mode rejection ratio",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

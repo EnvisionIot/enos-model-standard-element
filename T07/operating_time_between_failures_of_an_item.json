@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"operating time accumulated between consecutive failures.\nOperating time between failures is a special case of operating time to failure, applicable only to repairable items.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"operating_time_between_failures_of_an_item",
+	"name":{
+		"defaultValue":"operating time between failures of an item",
+		"i18nValue":{
+			"en_US":"operating time between failures of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

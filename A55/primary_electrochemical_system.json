@@ -1,0 +1,63 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"P":{
+				"defaultValue":"oxygen - zinc -alkali metal hydroxide",
+				"i18nValue":{}
+			},
+			"A":{
+				"defaultValue":"oxygen - zinc -ammonium/zinc chloride",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"carbon monofluoride -lithium-ammonium/zinc chlor.",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"manganese dioxide -lithium-organic electrolyte",
+				"i18nValue":{}
+			},
+			"S":{
+				"defaultValue":"silver oxide - zinc -alkali metal hydroxide",
+				"i18nValue":{}
+			},
+			"T":{
+				"defaultValue":"silver oxide divalent- zinc -alkali metal hydroxide",
+				"i18nValue":{}
+			},
+			"X":{
+				"defaultValue":"manganese dioxide - zinc -ammonium/zinc chloride",
+				"i18nValue":{}
+			},
+			"L":{
+				"defaultValue":"manganese dioxide - zinc -alkali metal hydroxide",
+				"i18nValue":{}
+			},
+			"M":{
+				"defaultValue":"mercuric oxide - zinc -alkali metal hydroxide",
+				"i18nValue":{}
+			},
+			"N":{
+				"defaultValue":"mercuric oxide + MnO2- zinc -alkali matal hydroxide",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the electrochemical system of a primary battery.\nCode..........anode.................................cathode..........electrolyte| X ...............manganese dioxide..........zinc.................ammonium/zinc chloride| A ...............oxygen..................................zinc ................ammonium/zinc chloride| B................carbon monofluoride........lithium............ammonium/zinc chloride| C................manganese dioxide.........lithium............organic electrolyte| L.................manganese dioxide.........zinc.................alkali metal hydroxide| M................mercuric oxide...................zinc.................alkali metal hydroxide| N................mercuric oxide + MnO_2....zinc.................alkali metal hydroxide| P................oxygen.................................zinc.................alkali metal hydroxide| S................silver oxide.........................zinc.................alkali metal hydroxide| T.................silver oxide divalent.........zinc..................alkali metal hydroxide.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"primary_electrochemical_system",
+	"name":{
+		"defaultValue":"primary electrochemical system",
+		"i18nValue":{
+			"en_US":"primary electrochemical system",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

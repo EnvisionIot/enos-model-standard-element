@@ -1,0 +1,39 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"A":{
+				"defaultValue":"surface mounted",
+				"i18nValue":{}
+			},
+			"B":{
+				"defaultValue":"inserted",
+				"i18nValue":{}
+			},
+			"C":{
+				"defaultValue":"flange mounted",
+				"i18nValue":{}
+			},
+			"D":{
+				"defaultValue":"stud mounted",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mounting method of an electric/electronic or electromechanical component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_method",
+	"name":{
+		"defaultValue":"mounting method",
+		"i18nValue":{
+			"en_US":"mounting method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

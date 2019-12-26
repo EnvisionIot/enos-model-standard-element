@@ -1,0 +1,19 @@
+{
+	"category":"L29",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum luminous intensity of a LED at a specified forward current and ambient temperature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"luminous_intensity",
+	"name":{
+		"defaultValue":"luminous intensity",
+		"i18nValue":{
+			"en_US":"luminous intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"cd",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T11",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"peak value of the acceleration in horizontal direction on the ground of a given geographic area  to which an object, e.g. a component, building, may be exposed during an earthquake.\nNormally the acceleration is measured in the unit m/s²; in earthquake engineering however the unit 1g=9,81 m/s² is used.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"horizontal_ground_acceleration",
+	"name":{
+		"defaultValue":"horizontal ground acceleration",
+		"i18nValue":{
+			"en_US":"horizontal ground acceleration",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s²",
+	"version":"1.0"
+}

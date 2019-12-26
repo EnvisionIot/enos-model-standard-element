@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":80
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"description of the type of connector insert.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"insert_type",
+	"name":{
+		"defaultValue":"insert type",
+		"i18nValue":{
+			"en_US":"insert type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

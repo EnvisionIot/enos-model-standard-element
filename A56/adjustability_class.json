@@ -1,0 +1,39 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"PRE":{
+				"defaultValue":"preset",
+				"i18nValue":{}
+			},
+			"CTL":{
+				"defaultValue":"control (potentiometer)",
+				"i18nValue":{}
+			},
+			"TUN":{
+				"defaultValue":"tuning (capacitor)",
+				"i18nValue":{}
+			},
+			"TRM":{
+				"defaultValue":"trimmer",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the adjustability class of a variable capacitor or potentiometer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"adjustability_class",
+	"name":{
+		"defaultValue":"adjustability class",
+		"i18nValue":{
+			"en_US":"adjustability class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

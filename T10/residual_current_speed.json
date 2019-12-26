@@ -1,0 +1,19 @@
+{
+	"category":"T10",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the motion of the current driven by non-tidal mechanism to a time unit measured at a given period of time.\nnon-tidal mechanism include the effects of wind and surface pressure, earth rotation and density variations as affected by surface cooling/warming, melting/freezing, evaporation/precipitation, river outflow.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"residual_current_speed",
+	"name":{
+		"defaultValue":"residual current speed",
+		"i18nValue":{
+			"en_US":"residual current speed",
+			"zh_CN":null
+		}
+	},
+	"unit":"m/s",
+	"version":"1.0"
+}

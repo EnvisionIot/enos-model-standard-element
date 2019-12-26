@@ -1,0 +1,31 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"enumDesc":{
+			"self-recoverable":{
+				"defaultValue":"self-recoverable",
+				"i18nValue":{}
+			},
+			"non self-recoverable":{
+				"defaultValue":"non self-recoverable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"statement of the manufacturer whether the item has recoverability functions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"recoverability_information_of_an_item",
+	"name":{
+		"defaultValue":"recoverability information of an item",
+		"i18nValue":{
+			"en_US":"recoverability information of an item",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum switching apparent power as a product of the actual dc contact voltage and the actual dc contact current applied in combination to a switch or relay at resistive load.\nThe apparent power is less then the product of contact current and contact voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_power_dc",
+	"name":{
+		"defaultValue":"contact power (dc)",
+		"i18nValue":{
+			"en_US":"contact power (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V·A",
+	"version":"1.0"
+}

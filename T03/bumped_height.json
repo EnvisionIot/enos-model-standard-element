@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"perpendicular distance as specified by level (miNomax) between a plane on which the bumps rest and the top surface of a bumped die.\nThe mounted height of a bumped die will normally be less than A_1.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bumped_height",
+	"name":{
+		"defaultValue":"bumped height",
+		"i18nValue":{
+			"en_US":"bumped height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

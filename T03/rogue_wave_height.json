@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"trough-to-crest height of an extremely high single maritime ocean surface water wave.\nnormally occurring far out at sea where physical factors such as high winds and strong currents cause waves to merge producing a single exceptionally large surface wave.\nNot to be confused with seismic waves (Tsunamis).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rogue_wave_height",
+	"name":{
+		"defaultValue":"rogue wave height",
+		"i18nValue":{
+			"en_US":"rogue wave height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

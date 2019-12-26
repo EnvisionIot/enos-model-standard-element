@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"point of time when instances of a product are no longer produced.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"end_of_production",
+	"name":{
+		"defaultValue":"end of production",
+		"i18nValue":{
+			"en_US":"end of production",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

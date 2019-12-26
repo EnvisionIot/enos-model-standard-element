@@ -1,0 +1,43 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"TUB":{
+				"defaultValue":"electron tube",
+				"i18nValue":{}
+			},
+			"CAP":{
+				"defaultValue":"capacitive",
+				"i18nValue":{}
+			},
+			"MR":{
+				"defaultValue":"magnetoresistive",
+				"i18nValue":{}
+			},
+			"SEM":{
+				"defaultValue":"semiconductor",
+				"i18nValue":{}
+			},
+			"IND":{
+				"defaultValue":"inductive",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the principle of working of a sensor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"sensor_working_principle",
+	"name":{
+		"defaultValue":"sensor working principle",
+		"i18nValue":{
+			"en_US":"sensor working principle",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

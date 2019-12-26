@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"variation in the output voltage when the ambient temperature is varied.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient_of_output_voltage",
+	"name":{
+		"defaultValue":"temperature coefficient of output voltage",
+		"i18nValue":{
+			"en_US":"temperature coefficient of output voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/Cel",
+	"version":"1.0"
+}

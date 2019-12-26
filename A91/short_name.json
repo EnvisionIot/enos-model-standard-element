@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short textual mnemonic description of the reporting object respectively the controlled object.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"short_name",
+	"name":{
+		"defaultValue":"short name",
+		"i18nValue":{
+			"en_US":"short name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

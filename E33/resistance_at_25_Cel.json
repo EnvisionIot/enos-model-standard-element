@@ -1,0 +1,19 @@
+{
+	"category":"E33",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the resistance of a thermistor at an ambient temperature of 25 Cel.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"resistance_at_25_Cel",
+	"name":{
+		"defaultValue":"resistance at 25 Cel",
+		"i18nValue":{
+			"en_US":"resistance at 25 Cel",
+			"zh_CN":null
+		}
+	},
+	"unit":"Ω",
+	"version":"1.0"
+}

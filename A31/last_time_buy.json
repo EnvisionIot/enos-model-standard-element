@@ -1,0 +1,19 @@
+{
+	"category":"A31",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"latest date by which a customer can place an order.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"last_time_buy",
+	"name":{
+		"defaultValue":"last time buy",
+		"i18nValue":{
+			"en_US":"last time buy",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

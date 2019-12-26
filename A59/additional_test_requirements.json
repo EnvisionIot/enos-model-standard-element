@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":255
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"product-specific information which is relevant to electrical testing by the user.\nExamples of such information include special test strategies or voltage stress to achieve quality goals.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"additional_test_requirements",
+	"name":{
+		"defaultValue":"additional test requirements",
+		"i18nValue":{
+			"en_US":"additional test requirements",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

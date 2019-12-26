@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"variation in the reference voltage when the ambient temperature is varied.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_voltage_deviation_over_temperature",
+	"name":{
+		"defaultValue":"reference voltage deviation over temperature",
+		"i18nValue":{
+			"en_US":"reference voltage deviation over temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

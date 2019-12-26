@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":1
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direction of the sequence of numbering of the terminals of a component when viewed from the top.\nThe terminal positions should normally be numbered progressively in an anti-clockwise direction as viewed from the top. The terminal number 1 is then the first terminal position anti-clockwise from the index mark.(Ref : BS3934 : 1965).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"termination_count_sequence",
+	"name":{
+		"defaultValue":"termination count sequence",
+		"i18nValue":{
+			"en_US":"termination count sequence",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

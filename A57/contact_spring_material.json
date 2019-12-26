@@ -1,0 +1,31 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"BeCu":{
+				"defaultValue":"beryllium copper",
+				"i18nValue":{}
+			},
+			"PCuSn":{
+				"defaultValue":"phosphor bronze",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the material of the spring of the contacts of a connector, relay or switch.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"contact_spring_material",
+	"name":{
+		"defaultValue":"contact spring material",
+		"i18nValue":{
+			"en_US":"contact spring material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

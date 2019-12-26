@@ -1,0 +1,91 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"C20":{
+				"defaultValue":"mounting rail C 20",
+				"i18nValue":{}
+			},
+			"C30":{
+				"defaultValue":"mounting rail C 30",
+				"i18nValue":{}
+			},
+			"STD":{
+				"defaultValue":"stud",
+				"i18nValue":{}
+			},
+			"TAP":{
+				"defaultValue":"tapped hole",
+				"i18nValue":{}
+			},
+			"TH35-7,5":{
+				"defaultValue":"mounting rail TH 35, height 7,5mm",
+				"i18nValue":{}
+			},
+			"HOL":{
+				"defaultValue":"through-hole mounting",
+				"i18nValue":{}
+			},
+			"SCW":{
+				"defaultValue":"screw-mounted",
+				"i18nValue":{}
+			},
+			"G32":{
+				"defaultValue":"mounting rail G 32",
+				"i18nValue":{}
+			},
+			"INS":{
+				"defaultValue":"inserted mounting",
+				"i18nValue":{}
+			},
+			"BRC":{
+				"defaultValue":"mounting bracket",
+				"i18nValue":{}
+			},
+			"TH35-15":{
+				"defaultValue":"mounting rail TH 35, height 15 mm",
+				"i18nValue":{}
+			},
+			"TH75":{
+				"defaultValue":"mounting rail TH 75",
+				"i18nValue":{}
+			},
+			"PI":{
+				"defaultValue":"plug-in",
+				"i18nValue":{}
+			},
+			"SMT":{
+				"defaultValue":"surface-mounting technology",
+				"i18nValue":{}
+			},
+			"C40":{
+				"defaultValue":"mounting rail C 40",
+				"i18nValue":{}
+			},
+			"TH15":{
+				"defaultValue":"mounting rail TH 15",
+				"i18nValue":{}
+			},
+			"C50":{
+				"defaultValue":"mounting rail C 50",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the mounting features which are designed to fasten a component to its counterpart.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"mounting_features",
+	"name":{
+		"defaultValue":"mounting features",
+		"i18nValue":{
+			"en_US":"mounting features",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the y-displacement of the centre of gravity of a component related to the reference point of that component.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"centre_of_gravity_y-axis",
+	"name":{
+		"defaultValue":"centre of gravity (y-axis)",
+		"i18nValue":{
+			"en_US":"centre of gravity (y-axis)",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

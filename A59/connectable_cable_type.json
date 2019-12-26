@@ -1,0 +1,31 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"FLAT":{
+				"defaultValue":"flat cable",
+				"i18nValue":{}
+			},
+			"RND":{
+				"defaultValue":"round cable",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the connectable cable type of a connector.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connectable_cable_type",
+	"name":{
+		"defaultValue":"connectable cable type",
+		"i18nValue":{
+			"en_US":"connectable cable type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

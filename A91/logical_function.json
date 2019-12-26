@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of the logic circuit (function) of the integrated circuit that shows various logical operations based on a set of basic logic gates.\nExamples include AND, NAND, and OR circuits.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"logical_function",
+	"name":{
+		"defaultValue":"logical function",
+		"i18nValue":{
+			"en_US":"logical function",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"angular spacing as specified by level (miNomax) between true positions of terminal centres on a terminal circle.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"angular_terminal_spacing",
+	"name":{
+		"defaultValue":"angular terminal spacing",
+		"i18nValue":{
+			"en_US":"angular terminal spacing",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

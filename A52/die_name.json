@@ -1,0 +1,21 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name or identifier given to the die by the manufacturer.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_name",
+	"name":{
+		"defaultValue":"die name",
+		"i18nValue":{
+			"en_US":"die name",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

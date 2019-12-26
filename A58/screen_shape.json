@@ -1,0 +1,35 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"FLATSQR":{
+				"defaultValue":"flat square (as flat but with corner radius 10mm)",
+				"i18nValue":{}
+			},
+			"CONVEX":{
+				"defaultValue":"conventional",
+				"i18nValue":{}
+			},
+			"FLAT":{
+				"defaultValue":"flat (face-plate radius > 1000 mm)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Name indicating the shape of the screen of a TV picture or monitor tube.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"screen_shape",
+	"name":{
+		"defaultValue":"screen shape",
+		"i18nValue":{
+			"en_US":"screen shape",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A41",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identy of the person or organisation who was first responsible for creating the record for the dimension set in the current form.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"identification_of_creator",
+	"name":{
+		"defaultValue":"identification of creator",
+		"i18nValue":{
+			"en_US":"identification of creator",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

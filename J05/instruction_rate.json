@@ -1,0 +1,19 @@
+{
+	"category":"J05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"instruction handling speed at specified externally applied maximum clock frequency, of a microcontroller or microprocessor.\nThe instruction handling speed is determined by the kind of test program used.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"instruction_rate",
+	"name":{
+		"defaultValue":"instruction rate",
+		"i18nValue":{
+			"en_US":"instruction rate",
+			"zh_CN":null
+		}
+	},
+	"unit":"1/s",
+	"version":"1.0"
+}

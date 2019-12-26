@@ -1,0 +1,179 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"DD":{
+				"defaultValue":"disc package, double tag",
+				"i18nValue":{}
+			},
+			"PP":{
+				"defaultValue":"rectangular package, three leads, horizontal adjuster",
+				"i18nValue":{}
+			},
+			"RR":{
+				"defaultValue":"rectangular package, two radial leads",
+				"i18nValue":{}
+			},
+			"PQ":{
+				"defaultValue":"rectangular package, three leads, vertical adjuster",
+				"i18nValue":{}
+			},
+			"RS":{
+				"defaultValue":"rectangular package, two strip leads",
+				"i18nValue":{}
+			},
+			"DL":{
+				"defaultValue":"dual in-line package, multi-lead",
+				"i18nValue":{}
+			},
+			"FP":{
+				"defaultValue":"flat pack, multi-lead",
+				"i18nValue":{}
+			},
+			"DP":{
+				"defaultValue":"disc package, printed circuit board mounting",
+				"i18nValue":{}
+			},
+			"DR":{
+				"defaultValue":"disc package, two radial leads",
+				"i18nValue":{}
+			},
+			"DS":{
+				"defaultValue":"disc package, stud mounting",
+				"i18nValue":{}
+			},
+			"BR":{
+				"defaultValue":"bead package, two radial leads",
+				"i18nValue":{}
+			},
+			"DT":{
+				"defaultValue":"disc package, potting tag",
+				"i18nValue":{}
+			},
+			"XA":{
+				"defaultValue":"oval package, two mounting holes, two leads",
+				"i18nValue":{}
+			},
+			"XB":{
+				"defaultValue":"stud-mounted package, one fixed tag",
+				"i18nValue":{}
+			},
+			"XC":{
+				"defaultValue":"cylindrical metal-can package, multi-lead",
+				"i18nValue":{}
+			},
+			"XD":{
+				"defaultValue":"top-hat package, axial leads",
+				"i18nValue":{}
+			},
+			"TA":{
+				"defaultValue":"tubular package, two axial leads",
+				"i18nValue":{}
+			},
+			"XE":{
+				"defaultValue":"stud-mounted package, two fixed tags",
+				"i18nValue":{}
+			},
+			"XF":{
+				"defaultValue":"stud-mounted package, one flexible lead with tag",
+				"i18nValue":{}
+			},
+			"RA":{
+				"defaultValue":"rectangular package, two axial leads",
+				"i18nValue":{}
+			},
+			"XG":{
+				"defaultValue":"stud-mounted package, two flexible leads with tag",
+				"i18nValue":{}
+			},
+			"CS":{
+				"defaultValue":"cylindrical package, single-ended, two leads",
+				"i18nValue":{}
+			},
+			"XH":{
+				"defaultValue":"stud-mounted package, one flexible lead",
+				"i18nValue":{}
+			},
+			"CT":{
+				"defaultValue":"cylindrical package, stud mounting",
+				"i18nValue":{}
+			},
+			"PA":{
+				"defaultValue":"potentiometer, panel mounting, segmental terminal zone",
+				"i18nValue":{}
+			},
+			"RC":{
+				"defaultValue":"rectangular package, metallised ends (SMD)",
+				"i18nValue":{}
+			},
+			"PB":{
+				"defaultValue":"potentiometer, panel mounting, peripheral tags",
+				"i18nValue":{}
+			},
+			"PC":{
+				"defaultValue":"potentiometer, panel mounting, central circular terminal zone",
+				"i18nValue":{}
+			},
+			"XK":{
+				"defaultValue":"flat package, thrree in-line leads",
+				"i18nValue":{}
+			},
+			"PD":{
+				"defaultValue":"potentiometer, panel mounting, sectoral terminal zone",
+				"i18nValue":{}
+			},
+			"XL":{
+				"defaultValue":"near-cylindrical package, three leads on circle",
+				"i18nValue":{}
+			},
+			"PE":{
+				"defaultValue":"potentiometer, panel mounting, offset circular terminal zone",
+				"i18nValue":{}
+			},
+			"XM":{
+				"defaultValue":"flat package, mounting hole, two/three leads",
+				"i18nValue":{}
+			},
+			"PF":{
+				"defaultValue":"potentiometer, panel mounting, three end pin terminals",
+				"i18nValue":{}
+			},
+			"XN":{
+				"defaultValue":"flat package, three pre-formed leads",
+				"i18nValue":{}
+			},
+			"XP":{
+				"defaultValue":"moulded case, three mounting feet",
+				"i18nValue":{}
+			},
+			"XR":{
+				"defaultValue":"flat package with flange, mounting hole, 2/3 leads",
+				"i18nValue":{}
+			},
+			"DA":{
+				"defaultValue":"disc package, two axial leads",
+				"i18nValue":{}
+			},
+			"TR":{
+				"defaultValue":"tubular package, two radial leads",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"BSI code of the shape/size of an electric-electronic or electromechanical component for placement on printed circuits.\nThe complete code consists of three parts:| a) a two-letter drawing code, followed by| b) a numeric code giving a salient property, which may be either a major dimension or the number of leads, followed by| c) a hyphen and a serial number to distinguish components with the same drawing and numeric codes.| For reference drawings see source document.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"shape_or_size_code_BSI",
+	"name":{
+		"defaultValue":"shape/size code BSI",
+		"i18nValue":{
+			"en_US":"shape/size code BSI",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

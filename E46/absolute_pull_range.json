@@ -1,0 +1,19 @@
+{
+	"category":"E46",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum guaranteed range of output frequency changes from the nominal frequency by an external control voltage under a specified condition or a combination of conditions.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"absolute_pull_range",
+	"name":{
+		"defaultValue":"absolute pull range",
+		"i18nValue":{
+			"en_US":"absolute pull range",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

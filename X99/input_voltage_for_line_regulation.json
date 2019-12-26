@@ -1,0 +1,21 @@
+{
+	"category":"X99",
+	"dataDefinition":{
+		"itemType":"double"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of input voltage for line regulation measurement, at the two ends of which the input voltage is measured.\nThe first item is to record the minimum input voltage value and the second is to record the maximum input voltage value used in the line regulation measurements.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_voltage_for_line_regulation",
+	"name":{
+		"defaultValue":"input voltage for line regulation",
+		"i18nValue":{
+			"en_US":"input voltage for line regulation",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

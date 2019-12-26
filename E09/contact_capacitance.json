@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum parasitic capacitance between two contact members of a relay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"contact_capacitance",
+	"name":{
+		"defaultValue":"contact capacitance",
+		"i18nValue":{
+			"en_US":"contact capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

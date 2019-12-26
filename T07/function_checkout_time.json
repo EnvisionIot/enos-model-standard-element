@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"part of active maintenance time taken to complete function checkout.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"function_checkout_time",
+	"name":{
+		"defaultValue":"function checkout time",
+		"i18nValue":{
+			"en_US":"function checkout time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

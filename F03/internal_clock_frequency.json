@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the internal clock frequency  of a microcontroller or microprocessor in a temperature range between specified temperatures T_1 and T_2).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"internal_clock_frequency",
+	"name":{
+		"defaultValue":"internal clock frequency",
+		"i18nValue":{
+			"en_US":"internal clock frequency",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

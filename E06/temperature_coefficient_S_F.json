@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum temperature coefficient of a stabistor at specified forward current and forward voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"temperature_coefficient_S_F",
+	"name":{
+		"defaultValue":"temperature coefficient S_F",
+		"i18nValue":{
+			"en_US":"temperature coefficient S_F",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/K",
+	"version":"1.0"
+}

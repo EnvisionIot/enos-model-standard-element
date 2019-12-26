@@ -1,0 +1,119 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"enumDesc":{
+			"T008":{
+				"defaultValue":"straight tags",
+				"i18nValue":{}
+			},
+			"T019":{
+				"defaultValue":"strip leads",
+				"i18nValue":{}
+			},
+			"T009":{
+				"defaultValue":"round pins",
+				"i18nValue":{}
+			},
+			"T006":{
+				"defaultValue":"leads on a square grid",
+				"i18nValue":{}
+			},
+			"T017":{
+				"defaultValue":"three leads with tag",
+				"i18nValue":{}
+			},
+			"T007":{
+				"defaultValue":"offset leads",
+				"i18nValue":{}
+			},
+			"T018":{
+				"defaultValue":"one lead no tag",
+				"i18nValue":{}
+			},
+			"T004":{
+				"defaultValue":"straight leads in line",
+				"i18nValue":{}
+			},
+			"T015":{
+				"defaultValue":"one lead with tag",
+				"i18nValue":{}
+			},
+			"T005":{
+				"defaultValue":"formed leads in line",
+				"i18nValue":{}
+			},
+			"T016":{
+				"defaultValue":"two leads with tags",
+				"i18nValue":{}
+			},
+			"T002":{
+				"defaultValue":"formed leads",
+				"i18nValue":{}
+			},
+			"T013":{
+				"defaultValue":"one fixed tag",
+				"i18nValue":{}
+			},
+			"T003":{
+				"defaultValue":"leads on a circle",
+				"i18nValue":{}
+			},
+			"T014":{
+				"defaultValue":"two fixed tags",
+				"i18nValue":{}
+			},
+			"T000":{
+				"defaultValue":"standard form",
+				"i18nValue":{}
+			},
+			"T011":{
+				"defaultValue":"straight flat leads",
+				"i18nValue":{}
+			},
+			"T022":{
+				"defaultValue":"two leads, stub and tab",
+				"i18nValue":{}
+			},
+			"T001":{
+				"defaultValue":"straight leads",
+				"i18nValue":{}
+			},
+			"T012":{
+				"defaultValue":"solder balls",
+				"i18nValue":{}
+			},
+			"T023":{
+				"defaultValue":"straight V-section leads",
+				"i18nValue":{}
+			},
+			"T020":{
+				"defaultValue":"multiple leads",
+				"i18nValue":{}
+			},
+			"T010":{
+				"defaultValue":"rectangular pins",
+				"i18nValue":{}
+			},
+			"T021":{
+				"defaultValue":"three leads",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the name which identifies a particular variant of the shape of the terminals on a package.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_variant_code",
+	"name":{
+		"defaultValue":"terminal variant code",
+		"i18nValue":{
+			"en_US":"terminal variant code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

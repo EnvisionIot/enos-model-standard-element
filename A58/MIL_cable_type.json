@@ -1,0 +1,21 @@
+{
+	"category":"A58",
+	"dataDefinition":{
+		"maxLength":8
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"MIL code of the type of a cable.\nFor values see naming document.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"MIL_cable_type",
+	"name":{
+		"defaultValue":"MIL cable type",
+		"i18nValue":{
+			"en_US":"MIL cable type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

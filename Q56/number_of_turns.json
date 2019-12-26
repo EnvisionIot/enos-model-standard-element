@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal value of the number of turns required to cover the full electrical range of a multi-turn rotary potentiometer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_turns",
+	"name":{
+		"defaultValue":"number of turns",
+		"i18nValue":{
+			"en_US":"number of turns",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

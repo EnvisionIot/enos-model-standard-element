@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the length of the inner radius of a right circular tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"internal_radius",
+	"name":{
+		"defaultValue":"internal radius",
+		"i18nValue":{
+			"en_US":"internal radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

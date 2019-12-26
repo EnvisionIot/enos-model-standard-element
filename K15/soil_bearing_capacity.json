@@ -1,0 +1,19 @@
+{
+	"category":"K15",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"load per unit area which can be safely supported by the ground.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"soil_bearing_capacity",
+	"name":{
+		"defaultValue":"soil bearing capacity",
+		"i18nValue":{
+			"en_US":"soil bearing capacity",
+			"zh_CN":null
+		}
+	},
+	"unit":"N/m²",
+	"version":"1.0"
+}

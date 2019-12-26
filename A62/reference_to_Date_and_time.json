@@ -1,0 +1,76 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"date",
+				"defaultValue":null,
+				"identifier":"calendar_date",
+				"name":{
+					"defaultValue":"calendar date",
+					"i18nValue":{
+						"en_US":"calendar date",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"timestamp",
+				"defaultValue":null,
+				"identifier":"standard_time_of_day",
+				"name":{
+					"defaultValue":"standard time of day",
+					"i18nValue":{
+						"en_US":"standard time of day",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Date and time.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Date_and_time",
+	"name":{
+		"defaultValue":"reference to Date and time",
+		"i18nValue":{
+			"en_US":"reference to Date and time",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"alternating voltage included in the output voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"output_noise_voltage",
+	"name":{
+		"defaultValue":"output noise voltage",
+		"i18nValue":{
+			"en_US":"output noise voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"Vrms",
+	"version":"1.0"
+}

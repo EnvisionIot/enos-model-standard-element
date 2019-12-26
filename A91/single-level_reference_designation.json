@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"reference designation assigned with respect to the object of which the specific object is a direct constituent in one aspect.\na single-level reference designation does not include any reference designations of upper level or lower level objects.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"single-level_reference_designation",
+	"name":{
+		"defaultValue":"single-level reference designation",
+		"i18nValue":{
+			"en_US":"single-level reference designation",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

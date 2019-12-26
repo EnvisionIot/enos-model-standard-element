@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the peak forward current of a diode during the application of a single half-sinewave pulse, at specified conditions.\nThe specified junction temperature is measured prior to the application of the pulse.\nTypical pulse duration is 10 ms, corresponding with a mains frequency of 50 Hz (or 8.3 ms for 60 Hz).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"non-repetitive_peak_forward_current",
+	"name":{
+		"defaultValue":"non-repetitive peak forward current",
+		"i18nValue":{
+			"en_US":"non-repetitive peak forward current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"height or depth as specified by level (miNomax) of an index feature.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"index_height",
+	"name":{
+		"defaultValue":"index height",
+		"i18nValue":{
+			"en_US":"index height",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

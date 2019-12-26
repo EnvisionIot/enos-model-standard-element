@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal rated induced voltage in V/(r/min) in the winding of a motor as a result of the magnetic field and the motion.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"electromotive_force",
+	"name":{
+		"defaultValue":"electromotive force",
+		"i18nValue":{
+			"en_US":"electromotive force",
+			"zh_CN":null
+		}
+	},
+	"unit":"V/(r/min)",
+	"version":"1.0"
+}

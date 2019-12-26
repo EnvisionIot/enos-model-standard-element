@@ -1,0 +1,21 @@
+{
+	"category":"T05",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"a clearly defined geographical\nspace, recognised, dedicated and managed, through\nlegal or other effective means, to achieve the long-term\nconservation of nature with associated ecosystem\nservices and cultural values.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"protected_area",
+	"name":{
+		"defaultValue":"protected area",
+		"i18nValue":{
+			"en_US":"protected area",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

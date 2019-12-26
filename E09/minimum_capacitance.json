@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (miNomax) of the minimum capacitance obtainable by moving the actuating device of a variable capacitor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"minimum_capacitance",
+	"name":{
+		"defaultValue":"minimum capacitance",
+		"i18nValue":{
+			"en_US":"minimum capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

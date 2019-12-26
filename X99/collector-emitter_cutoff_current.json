@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"collector current at a specific collector-emitter voltage below the breakdown region and gate off-state.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_cutoff_current",
+	"name":{
+		"defaultValue":"collector-emitter cutoff current",
+		"i18nValue":{
+			"en_US":"collector-emitter cutoff current",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

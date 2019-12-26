@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"area occupied in the seating plane of the geometrical object defined by its effective physical contour.\n- The net area is defined as a plane normally not possible to be occupied by other geometrical objects |\r\n - The net area lies in the seating plane defined by the x/y- axes of the object and can be mathematically derived from the net space |\r\n - Seating plane is that plane on which the geometrical object is fixed.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"net_area",
+	"name":{
+		"defaultValue":"net area",
+		"i18nValue":{
+			"en_US":"net area",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

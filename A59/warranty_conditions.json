@@ -1,0 +1,21 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"maxLength":70
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"guarantee obligations, issued to the purchaser of an item sold, hired, leased etc. by its manufacturer or its representant, promising to repair, replace or refund it, if necessary, within a specified period of time.\n1 the manufacturer commits himself for a defined period of time to correct defects, or exchange defective products, irrespective of whether the defect has been existent or not at the time of delivery of the object of purchase or later caused by software or firmware updates, if applicable\r\n2 the premises established by the manufacturer define the conditions under which a claim can be made such as start and period, prerequisites,  content and coverage as well as any limitation of the warrenty.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"warranty_conditions",
+	"name":{
+		"defaultValue":"warranty conditions",
+		"i18nValue":{
+			"en_US":"warranty conditions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

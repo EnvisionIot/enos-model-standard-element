@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"maxLength":175
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"non-structured free text describing the object formulated in such a way by the manufacturer that its intended purpose, its intended functions and application  is unambiguously transmitted.\nNOTE 1 - An object may be used in other aplication areas or for different purposes than intended by the manufacturer. This may influence product safety, private product liability and contractual liability.\nNOTE 2 - The object is considered  being newly manufactured not containing reused parts, unless such information is provided by the manufacturer (see IEC 62309).\nNOTE 3 - The object description is not to be mixed with a brand name or product name as given by the manufacturer for marketing purposes\nNOTE 4 - For object descriptions there may be local or regional specifications by special product provisions.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"object_description",
+	"name":{
+		"defaultValue":"object description",
+		"i18nValue":{
+			"en_US":"object description",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

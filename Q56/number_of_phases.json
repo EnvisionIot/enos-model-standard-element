@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of actual phases of a motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"number_of_phases",
+	"name":{
+		"defaultValue":"number of phases",
+		"i18nValue":{
+			"en_US":"number of phases",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

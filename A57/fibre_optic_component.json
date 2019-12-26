@@ -1,0 +1,87 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"ATT":{
+				"defaultValue":"fibre optic attenuator",
+				"i18nValue":{}
+			},
+			"MOD":{
+				"defaultValue":"fibre optic modulator",
+				"i18nValue":{}
+			},
+			"SWI":{
+				"defaultValue":"fibre optic switch",
+				"i18nValue":{}
+			},
+			"CAB":{
+				"defaultValue":"fibre optic cable",
+				"i18nValue":{}
+			},
+			"ISOL":{
+				"defaultValue":"fibre optic isolator",
+				"i18nValue":{}
+			},
+			"FIL":{
+				"defaultValue":"fibre optic filter",
+				"i18nValue":{}
+			},
+			"TXRX":{
+				"defaultValue":"fibre optic transmitter/receiver",
+				"i18nValue":{}
+			},
+			"BRA":{
+				"defaultValue":"fibre optic branche",
+				"i18nValue":{}
+			},
+			"WG":{
+				"defaultValue":"optical waveguider",
+				"i18nValue":{}
+			},
+			"DET":{
+				"defaultValue":"fibre optic detetctor",
+				"i18nValue":{}
+			},
+			"CONN":{
+				"defaultValue":"fibre optic connector",
+				"i18nValue":{}
+			},
+			"COUP":{
+				"defaultValue":"fibre optic coupler/splicer",
+				"i18nValue":{}
+			},
+			"LINK":{
+				"defaultValue":"fibre optic link",
+				"i18nValue":{}
+			},
+			"SOURC":{
+				"defaultValue":"fibre optic light source",
+				"i18nValue":{}
+			},
+			"LENS":{
+				"defaultValue":"fibre optic lens",
+				"i18nValue":{}
+			},
+			"NETW":{
+				"defaultValue":"fibre optic network",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of fibre optic component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"fibre_optic_component",
+	"name":{
+		"defaultValue":"fibre optic component",
+		"i18nValue":{
+			"en_US":"fibre optic component",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

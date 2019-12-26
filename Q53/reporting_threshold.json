@@ -1,0 +1,21 @@
+{
+	"category":"Q53",
+	"dataDefinition":{
+		"maxLength":null
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"concentration limit at or above which the presence of a substance in a material or product is declared if declaration of the substance is mandatory according to the IEC 62474 database,  or if it is agreed on to be declared.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reporting_threshold",
+	"name":{
+		"defaultValue":"reporting threshold",
+		"i18nValue":{
+			"en_US":"reporting threshold",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

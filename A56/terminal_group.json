@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"itemType":"string"
+	},
+	"dataType":"array",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"set of terminals and/or terminal groups on a component that may or may not have identical functions but which need to be grouped together for permutation or other purposes.\nThe group may consist of a set of terminals only or a set of other groups or any combination of terminals or groups, referenced by their names. |Groups are subject to the following rules : |Rule A1. Content - The elements forming a group may be terminal identifiers or group identifiers or any mixture of the two. A group must contain at least two elements. |Rule A2. Uniqueness - All elements within a group must be unique. A group may not contain groups that refer directly or indirectly to the same element. |Rule A3. Ordering - the order of elements within groups may be important. Where two or more groups are to be related in a permutation, then the elements within those groups must correspond across the groups. |Rule A4. Recursion - A group may not contain itself nor may it contain any group that refers directly or indirectly to itself.\nA group may be referenced by an application such as a simulator or a set of groups may be used to form a permutation (see AAD174).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"terminal_group",
+	"name":{
+		"defaultValue":"terminal group",
+		"i18nValue":{
+			"en_US":"terminal group",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

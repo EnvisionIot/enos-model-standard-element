@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum breakdown voltage between collector and emitter terminals of a bipolar transistor or photocoupler when the collector terminal is biased in the reverse direction with respect to the emitter terminal and when the base terminal is open-circuited, at specified collector current and temperature of a temperature type.\nThe collector terminal is considered to be biased in the reverse direction when it is made positive for NPN transistors or negative for PNP transistors with respect to the emitter terminal.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_breakdown_voltage",
+	"name":{
+		"defaultValue":"collector-emitter breakdown voltage",
+		"i18nValue":{
+			"en_US":"collector-emitter breakdown voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

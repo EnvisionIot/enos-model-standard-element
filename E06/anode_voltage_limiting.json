@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct voltage on the anode of a display tube.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"anode_voltage_limiting",
+	"name":{
+		"defaultValue":"anode voltage limiting",
+		"i18nValue":{
+			"en_US":"anode voltage limiting",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

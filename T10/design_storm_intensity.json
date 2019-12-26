@@ -1,0 +1,19 @@
+{
+	"category":"T10",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"precipitation intensity of a storm that does not exceed the design load for a storm drainage system or flood protection project.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"design_storm_intensity",
+	"name":{
+		"defaultValue":"design storm intensity",
+		"i18nValue":{
+			"en_US":"design storm intensity",
+			"zh_CN":null
+		}
+	},
+	"unit":"mm/h",
+	"version":"1.0"
+}

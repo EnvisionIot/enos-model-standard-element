@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration of maintenance, including active maintenance time, and technical and logistic delays incurred, for a given maintenance action.\nSee Figures 1 and 2 in the IEV 192-07-02:2015-02.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"maintenance_time",
+	"name":{
+		"defaultValue":"maintenance time",
+		"i18nValue":{
+			"en_US":"maintenance time",
+			"zh_CN":null
+		}
+	},
+	"unit":"h",
+	"version":"1.0"
+}

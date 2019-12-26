@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum rms alternating voltage of mains frequency (50-60 Hz), which may be applied continuously to a film capacitor at any operating ambient temperature below the rated temperature.\nIEC has changed its definition from rms into peak value in IEC/TC40(Sec)2250(02.90) (1986).\nFor ac capacitors: rated voltage (ac). |For dc capacitors: max. ac voltage.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"rated_voltage_ac",
+	"name":{
+		"defaultValue":"rated voltage (ac)",
+		"i18nValue":{
+			"en_US":"rated voltage (ac)",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

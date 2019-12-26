@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"direct voltage applied to a diode or optoelectronic device in reverse direction, as a variable.",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"reverse_voltage",
+	"name":{
+		"defaultValue":"reverse voltage",
+		"i18nValue":{
+			"en_US":"reverse voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

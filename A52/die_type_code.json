@@ -1,0 +1,43 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"MPD":{
+				"defaultValue":"minimally packaged die device",
+				"i18nValue":{}
+			},
+			"BUMP":{
+				"defaultValue":"bare die with bumped pads",
+				"i18nValue":{}
+			},
+			"BARE":{
+				"defaultValue":"bare die with pads on one side and without connection structure",
+				"i18nValue":{}
+			},
+			"DUAL":{
+				"defaultValue":"bare die with pads on both surfaces",
+				"i18nValue":{}
+			},
+			"LEAD":{
+				"defaultValue":"bare die with attached lead frame",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"mnemonic code for the physical form in which the die or wafer is supplied.\nIf the die or wafer is in its original form, then the code is BARE or DUAL. Die with codes BUMP or LEAD have been post-processed to add the solder bumps or metal lead frame respectively.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"die_type_code",
+	"name":{
+		"defaultValue":"die type code",
+		"i18nValue":{
+			"en_US":"die type code",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

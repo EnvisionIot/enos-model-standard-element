@@ -1,0 +1,35 @@
+{
+	"category":"A53",
+	"dataDefinition":{
+		"enumDesc":{
+			"COL":{
+				"defaultValue":"colour coded",
+				"i18nValue":{}
+			},
+			"BAR":{
+				"defaultValue":"bar coded",
+				"i18nValue":{}
+			},
+			"CHA":{
+				"defaultValue":"character coded",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the marking method on the packing of products.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"marking_method",
+	"name":{
+		"defaultValue":"marking method",
+		"i18nValue":{
+			"en_US":"marking method",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

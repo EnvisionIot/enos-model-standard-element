@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number assigned by and used in the Chemical Abstracts Service (CAS) registry to identify a registered chemical substance.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"chemical_abstracts_service_number",
+	"name":{
+		"defaultValue":"chemical abstracts service number",
+		"i18nValue":{
+			"en_US":"chemical abstracts service number",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

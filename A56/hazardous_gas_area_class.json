@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"Zone 2":{
+				"defaultValue":"Zone 2",
+				"i18nValue":{}
+			},
+			"Zone 1":{
+				"defaultValue":"Zone 1",
+				"i18nValue":{}
+			},
+			"Zone 0":{
+				"defaultValue":"Zone 0",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"classification of an area in which an explosive gas atmosphere is present, or may be expected to be present, in quantities such as to require special precautions for the construction, installation and use of electrical apparatus.\nIEC 60079-10 gives a classification of hazardous areas containing explosive gas atmospheres (see IEV 426-03-03, 426-03-04 and 426-03-05).",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"hazardous_gas_area_class",
+	"name":{
+		"defaultValue":"hazardous gas area class",
+		"i18nValue":{
+			"en_US":"hazardous gas area class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

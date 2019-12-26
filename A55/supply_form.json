@@ -1,0 +1,21 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"short title for the form in which a die or wafer is supplied.\nThis is a short title for the form described more fully in AAD086-001.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"supply_form",
+	"name":{
+		"defaultValue":"supply form",
+		"i18nValue":{
+			"en_US":"supply form",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

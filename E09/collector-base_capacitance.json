@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum value of the capacitance between collector and base terminals of a bipolar transistor in common-base configuration and the emitter terminal open-circuited, at specified values of collector-base voltage, frequency and temperature of a temperature type.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-base_capacitance",
+	"name":{
+		"defaultValue":"collector-base capacitance",
+		"i18nValue":{
+			"en_US":"collector-base capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

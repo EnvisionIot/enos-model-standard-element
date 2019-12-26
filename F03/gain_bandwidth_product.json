@@ -1,0 +1,19 @@
+{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum value of the small-signal gain bandwidth product  of a voltage amplifier at specified frequency and at reference conditions.\nFor amplifiers having a 6 dB-per-octave rolloff, the gain-bandwidth product is constant within this area.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"gain_bandwidth_product",
+	"name":{
+		"defaultValue":"gain bandwidth product",
+		"i18nValue":{
+			"en_US":"gain bandwidth product",
+			"zh_CN":null
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

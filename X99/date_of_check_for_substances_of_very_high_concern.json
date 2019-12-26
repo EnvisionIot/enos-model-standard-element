@@ -1,0 +1,19 @@
+{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"date",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"date when the product was checked with respect to the usage of  substances of very high concern.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"date_of_check_for_substances_of_very_high_concern",
+	"name":{
+		"defaultValue":"date of check for substances of very high concern",
+		"i18nValue":{
+			"en_US":"date of check for substances of very high concern",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

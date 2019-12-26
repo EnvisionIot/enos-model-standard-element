@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"geografical area within a country.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"country_subdivision",
+	"name":{
+		"defaultValue":"country subdivision",
+		"i18nValue":{
+			"en_US":"country subdivision",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

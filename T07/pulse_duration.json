@@ -1,0 +1,55 @@
+{
+	"category":"T07",
+	"dataDefinition":{
+		"enumDesc":{
+			"11":{
+				"defaultValue":"11 ms",
+				"i18nValue":{}
+			},
+			"1":{
+				"defaultValue":"1 ms",
+				"i18nValue":{}
+			},
+			"3":{
+				"defaultValue":"3 ms",
+				"i18nValue":{}
+			},
+			"0.2":{
+				"defaultValue":"0,2 ms",
+				"i18nValue":{}
+			},
+			"6":{
+				"defaultValue":"6 ms",
+				"i18nValue":{}
+			},
+			"0.5":{
+				"defaultValue":"0,5 ms",
+				"i18nValue":{}
+			},
+			"18":{
+				"defaultValue":"18 ms",
+				"i18nValue":{}
+			},
+			"30":{
+				"defaultValue":"30 3ms",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"duration of the half-sine mechanical shock pulse for the shock test of relays.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"pulse_duration",
+	"name":{
+		"defaultValue":"pulse duration",
+		"i18nValue":{
+			"en_US":"pulse duration",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"perpendicular distance between the two plane faces of a die or wafer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"die_thickness",
+	"name":{
+		"defaultValue":"die thickness",
+		"i18nValue":{
+			"en_US":"die thickness",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T05",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal cross-sectional area of a conductive part of a conductor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"cross-section",
+	"name":{
+		"defaultValue":"cross-section",
+		"i18nValue":{
+			"en_US":"cross-section",
+			"zh_CN":null
+		}
+	},
+	"unit":"m²",
+	"version":"1.0"
+}

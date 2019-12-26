@@ -1,0 +1,19 @@
+{
+	"category":"Q56",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"nominal gross number of whole and viable die on a wafer.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"wafer_gross_die_count",
+	"name":{
+		"defaultValue":"wafer gross die count",
+		"i18nValue":{
+			"en_US":"wafer gross die count",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

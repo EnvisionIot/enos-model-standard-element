@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value change of the mean sea level due to global warming to be considered at a specified period of time.\nMean sea levels are measured continuously by buoys and other means. The expected raise of the mean sea level is based on calculated forecasts ranging into the future.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"expected_raise_of_mean_sea_level",
+	"name":{
+		"defaultValue":"expected raise of mean sea level",
+		"i18nValue":{
+			"en_US":"expected raise of mean sea level",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

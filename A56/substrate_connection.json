@@ -1,0 +1,21 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"maxLength":17
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"name of the supply connection to which a substrate connection, if required, must be made.\nA value is not required when the substrate must be isolated.\nThe value to be assigned is the name of a supply connection which is defined elsewhere within a database.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substrate_connection",
+	"name":{
+		"defaultValue":"substrate connection",
+		"i18nValue":{
+			"en_US":"substrate connection",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

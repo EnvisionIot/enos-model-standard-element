@@ -1,0 +1,31 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"enumDesc":{
+			"IRL":{
+				"defaultValue":"iron-less",
+				"i18nValue":{}
+			},
+			"IRN":{
+				"defaultValue":"iron",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of material of the armature of a motor.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"armature_material",
+	"name":{
+		"defaultValue":"armature material",
+		"i18nValue":{
+			"en_US":"armature material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"K12",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum steady torque that can be externally applied to the spindle of an excited motor without causing continuous rotation.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"holding_torque",
+	"name":{
+		"defaultValue":"holding torque",
+		"i18nValue":{
+			"en_US":"holding torque",
+			"zh_CN":null
+		}
+	},
+	"unit":"N·m",
+	"version":"1.0"
+}

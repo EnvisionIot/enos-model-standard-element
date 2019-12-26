@@ -1,0 +1,43 @@
+{
+	"category":"A55",
+	"dataDefinition":{
+		"enumDesc":{
+			"CONN":{
+				"defaultValue":"connector",
+				"i18nValue":{}
+			},
+			"PIN":{
+				"defaultValue":"pin",
+				"i18nValue":{}
+			},
+			"SL":{
+				"defaultValue":"strip-line",
+				"i18nValue":{}
+			},
+			"SM":{
+				"defaultValue":"surface-mount",
+				"i18nValue":{}
+			},
+			"WAV":{
+				"defaultValue":"waveguide",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the type of connection for a microwave component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"connection_type",
+	"name":{
+		"defaultValue":"connection type",
+		"i18nValue":{
+			"en_US":"connection type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

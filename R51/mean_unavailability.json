@@ -1,0 +1,19 @@
+{
+	"category":"R51",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"average value of the instantaneous unavailability over a given time interval (t1, t2).\nNote 1 The mean unavailability is related to the instantaneous unavailability U(t) as: \r\nU¯¯¯(t1, t2)=1t2−t1∫  t2 t1U(t) dt\r\n\r\nNote 2 Terms 'mean' or 'average' are used as synonyms  to the arithmetic mean.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"mean_unavailability",
+	"name":{
+		"defaultValue":"mean unavailability",
+		"i18nValue":{
+			"en_US":"mean unavailability",
+			"zh_CN":null
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

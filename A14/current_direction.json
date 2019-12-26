@@ -1,0 +1,21 @@
+{
+	"category":"A14",
+	"dataDefinition":{
+		"maxLength":35
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"horizontal direction of the movement of the vectorial sum of tidal and non-tidal current components and measured at a given period of time.\nThe current direction is defined as “going to” in contrast to wind and wave direction.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"current_direction",
+	"name":{
+		"defaultValue":"current direction",
+		"i18nValue":{
+			"en_US":"current direction",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

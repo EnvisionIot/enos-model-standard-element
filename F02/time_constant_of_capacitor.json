@@ -1,0 +1,19 @@
+{
+	"category":"F02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum product of the insulation resistance between terminals and the nominal capacitance of a fixed capacitor.\nAccording to IEC, this DE-type is used for the following groups of capacitors:| polycarbonate film > 0.33 uF;| polyethylene-terephthalate > 0.33 uF;| polypropylene film > 0.33 uF;| polypropylene film/foil > 0.1 uF;| polystyrene > 0.1 uF;| mica  > 0.01 uF;| ceramic class 1 > 10 nF;| ceramic class 2 > 25 nF;| radio interference suppressors > 0.33 uF.|| For lower values use R_ins (AAE063-005).",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"time_constant_of_capacitor",
+	"name":{
+		"defaultValue":"time constant (of capacitor)",
+		"i18nValue":{
+			"en_US":"time constant (of capacitor)",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

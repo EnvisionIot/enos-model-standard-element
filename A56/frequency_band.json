@@ -1,0 +1,79 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"BB":{
+				"defaultValue":"baseband",
+				"i18nValue":{}
+			},
+			"EHF":{
+				"defaultValue":"extremely high frequency RF 30 GHz - 300 GHz",
+				"i18nValue":{}
+			},
+			"AF":{
+				"defaultValue":"audio frequency approx. 0 - 20 kHz",
+				"i18nValue":{}
+			},
+			"SHF":{
+				"defaultValue":"super high frequency RF 3 GHz - 30 GHz",
+				"i18nValue":{}
+			},
+			"VF":{
+				"defaultValue":"video frequency approx. 0 - 20 MHz",
+				"i18nValue":{}
+			},
+			"VLF":{
+				"defaultValue":"very low frequency RF 3 kHz - 30 kHz",
+				"i18nValue":{}
+			},
+			"PB":{
+				"defaultValue":"passband",
+				"i18nValue":{}
+			},
+			"UHF":{
+				"defaultValue":"ultra high frequency RF 300 MHz - 3000 MHz",
+				"i18nValue":{}
+			},
+			"RF":{
+				"defaultValue":"radio frequency (RF) 3 kHz - 300 GHz",
+				"i18nValue":{}
+			},
+			"VHF":{
+				"defaultValue":"very high frequency RF 30 MHz - 300 MHz",
+				"i18nValue":{}
+			},
+			"MF":{
+				"defaultValue":"medium frequency RF 300 kHz - 3000 kHz",
+				"i18nValue":{}
+			},
+			"LF":{
+				"defaultValue":"low frequency RF 30 kHz - 300 kHz",
+				"i18nValue":{}
+			},
+			"IF":{
+				"defaultValue":"intermediate frequency",
+				"i18nValue":{}
+			},
+			"HF":{
+				"defaultValue":"high frequency RF 3 MHz - 30 MHz",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard abbreviation of the name of the frequency band for the application of an electric-electronic component.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"frequency_band",
+	"name":{
+		"defaultValue":"frequency band",
+		"i18nValue":{
+			"en_US":"frequency band",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

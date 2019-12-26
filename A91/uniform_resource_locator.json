@@ -1,0 +1,21 @@
+{
+	"category":"A91",
+	"dataDefinition":{
+		"maxLength":256
+	},
+	"dataType":"string",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"identification number used for locating and accessing Internet resources of a person.\nA complete URL consists of a concatenation of identifiers for consecutive sub-domains within a top domain.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"uniform_resource_locator",
+	"name":{
+		"defaultValue":"uniform resource locator",
+		"i18nValue":{
+			"en_US":"uniform resource locator",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

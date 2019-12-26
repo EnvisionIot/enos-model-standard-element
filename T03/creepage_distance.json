@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"shortest distance along the surface of insulating material between two specified conductive parts of a relay.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"creepage_distance",
+	"name":{
+		"defaultValue":"creepage distance",
+		"i18nValue":{
+			"en_US":"creepage distance",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}
