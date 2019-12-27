@@ -31,7 +31,7 @@
 		"defaultValue":"optoelectronic device function",
 		"i18nValue":{
 			"en_US":"optoelectronic device function",
-			"zh_CN":null
+			"zh_CN":"光电设备功能"
 		}
 	},
 	"unit":null,

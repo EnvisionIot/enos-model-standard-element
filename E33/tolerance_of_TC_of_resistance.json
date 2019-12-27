@@ -11,7 +11,7 @@
 		"defaultValue":"tolerance of TC of resistance",
 		"i18nValue":{
 			"en_US":"tolerance of TC of resistance",
-			"zh_CN":null
+			"zh_CN":"电阻 TC 公差"
 		}
 	},
 	"unit":"%",

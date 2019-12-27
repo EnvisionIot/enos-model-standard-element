@@ -51,7 +51,7 @@
 		"defaultValue":"application code",
 		"i18nValue":{
 			"en_US":"application code",
-			"zh_CN":null
+			"zh_CN":"应用代码"
 		}
 	},
 	"unit":null,

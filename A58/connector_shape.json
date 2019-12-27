@@ -27,7 +27,7 @@
 		"defaultValue":"connector shape",
 		"i18nValue":{
 			"en_US":"connector shape",
-			"zh_CN":null
+			"zh_CN":"连接器形状"
 		}
 	},
 	"unit":null,

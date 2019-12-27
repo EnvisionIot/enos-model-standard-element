@@ -51,7 +51,7 @@
 		"defaultValue":"conductive material",
 		"i18nValue":{
 			"en_US":"conductive material",
-			"zh_CN":null
+			"zh_CN":"导电材料"
 		}
 	},
 	"unit":null,

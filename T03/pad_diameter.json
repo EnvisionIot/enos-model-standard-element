@@ -11,7 +11,7 @@
 		"defaultValue":"pad diameter",
 		"i18nValue":{
 			"en_US":"pad diameter",
-			"zh_CN":null
+			"zh_CN":"焊盘直径"
 		}
 	},
 	"unit":"m",

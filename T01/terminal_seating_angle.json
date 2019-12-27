@@ -11,7 +11,7 @@
 		"defaultValue":"terminal seating angle",
 		"i18nValue":{
 			"en_US":"terminal seating angle",
-			"zh_CN":null
+			"zh_CN":"端子扩散角"
 		}
 	},
 	"unit":"°",

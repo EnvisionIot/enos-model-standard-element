@@ -11,7 +11,7 @@
 		"defaultValue":"set-up time",
 		"i18nValue":{
 			"en_US":"set-up time",
-			"zh_CN":null
+			"zh_CN":"设置时间"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"reference voltage deviation over temperature",
 		"i18nValue":{
 			"en_US":"reference voltage deviation over temperature",
-			"zh_CN":null
+			"zh_CN":"参考电压随温度的变化"
 		}
 	},
 	"unit":"V",

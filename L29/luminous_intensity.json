@@ -11,7 +11,7 @@
 		"defaultValue":"luminous intensity",
 		"i18nValue":{
 			"en_US":"luminous intensity",
-			"zh_CN":null
+			"zh_CN":"发光强度"
 		}
 	},
 	"unit":"cd",

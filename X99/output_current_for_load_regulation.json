@@ -13,7 +13,7 @@
 		"defaultValue":"output current for load regulation",
 		"i18nValue":{
 			"en_US":"output current for load regulation",
-			"zh_CN":null
+			"zh_CN":"负载调整输出电流"
 		}
 	},
 	"unit":"A",

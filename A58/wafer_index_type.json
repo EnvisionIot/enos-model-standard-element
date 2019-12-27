@@ -23,7 +23,7 @@
 		"defaultValue":"wafer index type",
 		"i18nValue":{
 			"en_US":"wafer index type",
-			"zh_CN":null
+			"zh_CN":"晶圆索引类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"mean up time",
 		"i18nValue":{
 			"en_US":"mean up time",
-			"zh_CN":null
+			"zh_CN":"平均正常运行时间"
 		}
 	},
 	"unit":"h",

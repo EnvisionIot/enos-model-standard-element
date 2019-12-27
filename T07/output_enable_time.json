@@ -11,7 +11,7 @@
 		"defaultValue":"output enable time",
 		"i18nValue":{
 			"en_US":"output enable time",
-			"zh_CN":null
+			"zh_CN":"输出启用时间"
 		}
 	},
 	"unit":"s",

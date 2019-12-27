@@ -11,7 +11,7 @@
 		"defaultValue":"x-coordinate position location",
 		"i18nValue":{
 			"en_US":"x-coordinate position location",
-			"zh_CN":null
+			"zh_CN":"位置 x 坐标"
 		}
 	},
 	"unit":"m",

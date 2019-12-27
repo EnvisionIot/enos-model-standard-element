@@ -11,7 +11,7 @@
 		"defaultValue":"hail impact energy",
 		"i18nValue":{
 			"en_US":"hail impact energy",
-			"zh_CN":null
+			"zh_CN":"冰雹冲击能量"
 		}
 	},
 	"unit":"J",

@@ -11,7 +11,7 @@
 		"defaultValue":"small-signal current gain",
 		"i18nValue":{
 			"en_US":"small-signal current gain",
-			"zh_CN":null
+			"zh_CN":"小信号电流增益"
 		}
 	},
 	"unit":null,

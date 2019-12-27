@@ -11,7 +11,7 @@
 		"defaultValue":"actuating force",
 		"i18nValue":{
 			"en_US":"actuating force",
-			"zh_CN":null
+			"zh_CN":"驱动力"
 		}
 	},
 	"unit":"N",

@@ -11,7 +11,7 @@
 		"defaultValue":"period of warrenty for consumer goods",
 		"i18nValue":{
 			"en_US":"period of warrenty for consumer goods",
-			"zh_CN":null
+			"zh_CN":"消费品保修期"
 		}
 	},
 	"unit":"yr",

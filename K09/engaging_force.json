@@ -11,7 +11,7 @@
 		"defaultValue":"engaging force",
 		"i18nValue":{
 			"en_US":"engaging force",
-			"zh_CN":null
+			"zh_CN":"接合力"
 		}
 	},
 	"unit":"N",

@@ -11,7 +11,7 @@
 		"defaultValue":"travel",
 		"i18nValue":{
 			"en_US":"travel",
-			"zh_CN":null
+			"zh_CN":"行程"
 		}
 	},
 	"unit":"m",

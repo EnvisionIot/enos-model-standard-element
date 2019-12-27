@@ -11,7 +11,7 @@
 		"defaultValue":"lever stop force",
 		"i18nValue":{
 			"en_US":"lever stop force",
-			"zh_CN":null
+			"zh_CN":"杆止动力"
 		}
 	},
 	"unit":"N",

@@ -11,7 +11,7 @@
 		"defaultValue":"HIGH-level output current",
 		"i18nValue":{
 			"en_US":"HIGH-level output current",
-			"zh_CN":null
+			"zh_CN":"高电平输出电流"
 		}
 	},
 	"unit":"A",

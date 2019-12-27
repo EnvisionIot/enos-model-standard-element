@@ -11,7 +11,7 @@
 		"defaultValue":"stability after test",
 		"i18nValue":{
 			"en_US":"stability after test",
-			"zh_CN":null
+			"zh_CN":"测试后的稳定性"
 		}
 	},
 	"unit":"%",

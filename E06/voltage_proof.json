@@ -11,7 +11,7 @@
 		"defaultValue":"voltage proof",
 		"i18nValue":{
 			"en_US":"voltage proof",
-			"zh_CN":null
+			"zh_CN":"耐电压"
 		}
 	},
 	"unit":"V",

@@ -27,7 +27,7 @@
 		"defaultValue":"variable inductor type",
 		"i18nValue":{
 			"en_US":"variable inductor type",
-			"zh_CN":null
+			"zh_CN":"可变电感器类型"
 		}
 	},
 	"unit":null,

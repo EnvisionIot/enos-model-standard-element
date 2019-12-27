@@ -11,7 +11,7 @@
 		"defaultValue":"wavelength at peak value",
 		"i18nValue":{
 			"en_US":"wavelength at peak value",
-			"zh_CN":null
+			"zh_CN":"峰值波长"
 		}
 	},
 	"unit":"m",

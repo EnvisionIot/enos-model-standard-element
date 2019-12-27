@@ -51,7 +51,7 @@
 		"defaultValue":"terminal exit position SMD",
 		"i18nValue":{
 			"en_US":"terminal exit position SMD",
-			"zh_CN":null
+			"zh_CN":"端子出口位置 (SMD)"
 		}
 	},
 	"unit":null,

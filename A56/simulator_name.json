@@ -13,7 +13,7 @@
 		"defaultValue":"simulator name",
 		"i18nValue":{
 			"en_US":"simulator name",
-			"zh_CN":null
+			"zh_CN":"模拟器名称"
 		}
 	},
 	"unit":null,

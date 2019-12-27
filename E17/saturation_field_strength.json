@@ -11,7 +11,7 @@
 		"defaultValue":"saturation field strength",
 		"i18nValue":{
 			"en_US":"saturation field strength",
-			"zh_CN":null
+			"zh_CN":"饱和场强"
 		}
 	},
 	"unit":"A/m",

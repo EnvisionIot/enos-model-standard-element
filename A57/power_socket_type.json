@@ -27,7 +27,7 @@
 		"defaultValue":"power socket type",
 		"i18nValue":{
 			"en_US":"power socket type",
-			"zh_CN":null
+			"zh_CN":"电源插座类型"
 		}
 	},
 	"unit":null,

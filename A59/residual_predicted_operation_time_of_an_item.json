@@ -11,7 +11,7 @@
 		"defaultValue":"residual predicted  operation time of an item",
 		"i18nValue":{
 			"en_US":"residual predicted  operation time of an item",
-			"zh_CN":null
+			"zh_CN":"预计物料剩余运行时间"
 		}
 	},
 	"unit":"h",

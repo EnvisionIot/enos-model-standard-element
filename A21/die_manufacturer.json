@@ -13,7 +13,7 @@
 		"defaultValue":"die manufacturer",
 		"i18nValue":{
 			"en_US":"die manufacturer",
-			"zh_CN":null
+			"zh_CN":"模具制造商"
 		}
 	},
 	"unit":null,

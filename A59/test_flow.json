@@ -39,7 +39,7 @@
 		"defaultValue":"test flow",
 		"i18nValue":{
 			"en_US":"test flow",
-			"zh_CN":null
+			"zh_CN":"测试流程"
 		}
 	},
 	"unit":null,

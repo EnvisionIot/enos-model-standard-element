@@ -23,7 +23,7 @@
 		"defaultValue":"instruction set architecture",
 		"i18nValue":{
 			"en_US":"instruction set architecture",
-			"zh_CN":null
+			"zh_CN":"指令集架构"
 		}
 	},
 	"unit":null,

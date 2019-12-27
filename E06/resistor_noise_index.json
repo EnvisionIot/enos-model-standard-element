@@ -11,7 +11,7 @@
 		"defaultValue":"resistor noise index",
 		"i18nValue":{
 			"en_US":"resistor noise index",
-			"zh_CN":null
+			"zh_CN":"电阻噪声指数"
 		}
 	},
 	"unit":"dB",

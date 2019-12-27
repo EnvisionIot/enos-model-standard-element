@@ -23,7 +23,7 @@
 		"defaultValue":"coupling method",
 		"i18nValue":{
 			"en_US":"coupling method",
-			"zh_CN":null
+			"zh_CN":"耦合方法"
 		}
 	},
 	"unit":null,

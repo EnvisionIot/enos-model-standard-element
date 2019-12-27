@@ -11,7 +11,7 @@
 		"defaultValue":"bent terminal spacing",
 		"i18nValue":{
 			"en_US":"bent terminal spacing",
-			"zh_CN":null
+			"zh_CN":"弯曲端子间距"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"flange breadth",
 		"i18nValue":{
 			"en_US":"flange breadth",
-			"zh_CN":null
+			"zh_CN":"法兰宽度"
 		}
 	},
 	"unit":"m",

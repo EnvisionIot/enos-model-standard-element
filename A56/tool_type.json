@@ -13,7 +13,7 @@
 		"defaultValue":"tool type",
 		"i18nValue":{
 			"en_US":"tool type",
-			"zh_CN":null
+			"zh_CN":"工具类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"clock hold time",
 		"i18nValue":{
 			"en_US":"clock hold time",
-			"zh_CN":null
+			"zh_CN":"时钟保持时间"
 		}
 	},
 	"unit":"s",

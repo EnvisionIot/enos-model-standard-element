@@ -11,7 +11,7 @@
 		"defaultValue":"clearance",
 		"i18nValue":{
 			"en_US":"clearance",
-			"zh_CN":null
+			"zh_CN":"间隙"
 		}
 	},
 	"unit":"m",

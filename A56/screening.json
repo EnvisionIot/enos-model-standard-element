@@ -23,7 +23,7 @@
 		"defaultValue":"screening",
 		"i18nValue":{
 			"en_US":"screening",
-			"zh_CN":null
+			"zh_CN":"筛选"
 		}
 	},
 	"unit":null,

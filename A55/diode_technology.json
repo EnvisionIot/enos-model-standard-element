@@ -31,7 +31,7 @@
 		"defaultValue":"diode technology",
 		"i18nValue":{
 			"en_US":"diode technology",
-			"zh_CN":null
+			"zh_CN":"二极管技术"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"package identifier code",
 		"i18nValue":{
 			"en_US":"package identifier code",
-			"zh_CN":null
+			"zh_CN":"包装识别码"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"internal location",
 		"i18nValue":{
 			"en_US":"internal location",
-			"zh_CN":null
+			"zh_CN":"内部位置"
 		}
 	},
 	"unit":null,

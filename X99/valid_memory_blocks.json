@@ -11,7 +11,7 @@
 		"defaultValue":"valid memory blocks",
 		"i18nValue":{
 			"en_US":"valid memory blocks",
-			"zh_CN":null
+			"zh_CN":"有效内存块"
 		}
 	},
 	"unit":null,

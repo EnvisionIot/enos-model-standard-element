@@ -11,7 +11,7 @@
 		"defaultValue":"LVDS load condition",
 		"i18nValue":{
 			"en_US":"LVDS load condition",
-			"zh_CN":null
+			"zh_CN":"LVDS 负载条件"
 		}
 	},
 	"unit":"Ω",

@@ -11,7 +11,7 @@
 		"defaultValue":"relative attenuation of stop bandwidth",
 		"i18nValue":{
 			"en_US":"relative attenuation of stop bandwidth",
-			"zh_CN":null
+			"zh_CN":"阻带宽度相对衰减"
 		}
 	},
 	"unit":"dB",

@@ -11,7 +11,7 @@
 		"defaultValue":"output data-valid time",
 		"i18nValue":{
 			"en_US":"output data-valid time",
-			"zh_CN":null
+			"zh_CN":"输出数据有效时间"
 		}
 	},
 	"unit":"s",

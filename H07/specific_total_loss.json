@@ -11,7 +11,7 @@
 		"defaultValue":"specific total loss",
 		"i18nValue":{
 			"en_US":"specific total loss",
-			"zh_CN":null
+			"zh_CN":"比总损耗"
 		}
 	},
 	"unit":"W/m³",

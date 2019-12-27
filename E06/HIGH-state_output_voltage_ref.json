@@ -11,7 +11,7 @@
 		"defaultValue":"HIGH-state output voltage ref",
 		"i18nValue":{
 			"en_US":"HIGH-state output voltage ref",
-			"zh_CN":null
+			"zh_CN":"高态输出参考电压"
 		}
 	},
 	"unit":"V",

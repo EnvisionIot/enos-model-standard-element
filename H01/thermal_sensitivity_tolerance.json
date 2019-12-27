@@ -11,7 +11,7 @@
 		"defaultValue":"thermal sensitivity tolerance",
 		"i18nValue":{
 			"en_US":"thermal sensitivity tolerance",
-			"zh_CN":null
+			"zh_CN":"热敏度公差"
 		}
 	},
 	"unit":"%",

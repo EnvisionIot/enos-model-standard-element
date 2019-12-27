@@ -27,7 +27,7 @@
 		"defaultValue":"transformer model",
 		"i18nValue":{
 			"en_US":"transformer model",
-			"zh_CN":null
+			"zh_CN":"变压器型号"
 		}
 	},
 	"unit":null,

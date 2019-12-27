@@ -11,7 +11,7 @@
 		"defaultValue":"body height",
 		"i18nValue":{
 			"en_US":"body height",
-			"zh_CN":null
+			"zh_CN":"本体高度"
 		}
 	},
 	"unit":"m",

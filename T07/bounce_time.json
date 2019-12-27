@@ -11,7 +11,7 @@
 		"defaultValue":"bounce time",
 		"i18nValue":{
 			"en_US":"bounce time",
-			"zh_CN":null
+			"zh_CN":"弹跳时间"
 		}
 	},
 	"unit":"s",

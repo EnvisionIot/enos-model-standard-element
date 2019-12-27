@@ -11,7 +11,7 @@
 		"defaultValue":"thermistor current",
 		"i18nValue":{
 			"en_US":"thermistor current",
-			"zh_CN":null
+			"zh_CN":"热敏电阻电流"
 		}
 	},
 	"unit":"A",

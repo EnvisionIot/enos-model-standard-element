@@ -31,7 +31,7 @@
 		"defaultValue":"mounting-cap code",
 		"i18nValue":{
 			"en_US":"mounting-cap code",
-			"zh_CN":null
+			"zh_CN":"安装盖代码"
 		}
 	},
 	"unit":null,

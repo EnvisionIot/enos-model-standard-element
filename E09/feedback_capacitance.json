@@ -11,7 +11,7 @@
 		"defaultValue":"feedback capacitance",
 		"i18nValue":{
 			"en_US":"feedback capacitance",
-			"zh_CN":null
+			"zh_CN":"反馈电容"
 		}
 	},
 	"unit":"F",

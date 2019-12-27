@@ -23,7 +23,7 @@
 		"defaultValue":"orientation",
 		"i18nValue":{
 			"en_US":"orientation",
-			"zh_CN":null
+			"zh_CN":"取向"
 		}
 	},
 	"unit":null,

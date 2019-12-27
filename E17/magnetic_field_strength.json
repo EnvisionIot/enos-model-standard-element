@@ -11,7 +11,7 @@
 		"defaultValue":"magnetic field strength",
 		"i18nValue":{
 			"en_US":"magnetic field strength",
-			"zh_CN":null
+			"zh_CN":"磁场强度"
 		}
 	},
 	"unit":"A/m",

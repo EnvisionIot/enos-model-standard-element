@@ -87,7 +87,7 @@
 		"defaultValue":"IC technology",
 		"i18nValue":{
 			"en_US":"IC technology",
-			"zh_CN":null
+			"zh_CN":"集成电路技术"
 		}
 	},
 	"unit":null,

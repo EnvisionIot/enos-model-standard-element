@@ -27,7 +27,7 @@
 		"defaultValue":"coil connection",
 		"i18nValue":{
 			"en_US":"coil connection",
-			"zh_CN":null
+			"zh_CN":"线圈连接"
 		}
 	},
 	"unit":null,

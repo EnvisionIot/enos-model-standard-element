@@ -13,7 +13,7 @@
 		"defaultValue":"type number",
 		"i18nValue":{
 			"en_US":"type number",
-			"zh_CN":null
+			"zh_CN":"型号"
 		}
 	},
 	"unit":null,

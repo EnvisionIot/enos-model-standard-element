@@ -31,7 +31,7 @@
 		"defaultValue":"numeral system",
 		"i18nValue":{
 			"en_US":"numeral system",
-			"zh_CN":null
+			"zh_CN":"数字系统"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"angle axis to x-axis",
 		"i18nValue":{
 			"en_US":"angle axis to x-axis",
-			"zh_CN":null
+			"zh_CN":"与 x 轴的夹角"
 		}
 	},
 	"unit":"°",

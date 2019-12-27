@@ -13,7 +13,7 @@
 		"defaultValue":"accessory type",
 		"i18nValue":{
 			"en_US":"accessory type",
-			"zh_CN":null
+			"zh_CN":"配件类型"
 		}
 	},
 	"unit":null,

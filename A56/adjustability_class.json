@@ -31,7 +31,7 @@
 		"defaultValue":"adjustability class",
 		"i18nValue":{
 			"en_US":"adjustability class",
-			"zh_CN":null
+			"zh_CN":"可调性等级"
 		}
 	},
 	"unit":null,

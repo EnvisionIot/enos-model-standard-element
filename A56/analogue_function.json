@@ -87,7 +87,7 @@
 		"defaultValue":"analogue function",
 		"i18nValue":{
 			"en_US":"analogue function",
-			"zh_CN":null
+			"zh_CN":"模拟功能"
 		}
 	},
 	"unit":null,

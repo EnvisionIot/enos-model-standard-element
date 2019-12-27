@@ -11,7 +11,7 @@
 		"defaultValue":"charge time",
 		"i18nValue":{
 			"en_US":"charge time",
-			"zh_CN":null
+			"zh_CN":"充电时间"
 		}
 	},
 	"unit":"s",

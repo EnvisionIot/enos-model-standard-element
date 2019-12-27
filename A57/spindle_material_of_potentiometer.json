@@ -23,7 +23,7 @@
 		"defaultValue":"spindle material of potentiometer",
 		"i18nValue":{
 			"en_US":"spindle material of potentiometer",
-			"zh_CN":null
+			"zh_CN":"电位器主轴材料"
 		}
 	},
 	"unit":null,

@@ -23,7 +23,7 @@
 		"defaultValue":"signal handling type",
 		"i18nValue":{
 			"en_US":"signal handling type",
-			"zh_CN":null
+			"zh_CN":"信号处理类型"
 		}
 	},
 	"unit":null,

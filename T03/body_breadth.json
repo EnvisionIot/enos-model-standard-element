@@ -11,7 +11,7 @@
 		"defaultValue":"body breadth",
 		"i18nValue":{
 			"en_US":"body breadth",
-			"zh_CN":null
+			"zh_CN":"本体宽度"
 		}
 	},
 	"unit":"m",

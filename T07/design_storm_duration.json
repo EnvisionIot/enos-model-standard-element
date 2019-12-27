@@ -11,7 +11,7 @@
 		"defaultValue":"design storm duration",
 		"i18nValue":{
 			"en_US":"design storm duration",
-			"zh_CN":null
+			"zh_CN":"设计风暴持续时间"
 		}
 	},
 	"unit":"min",

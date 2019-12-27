@@ -11,7 +11,7 @@
 		"defaultValue":"input capacitance",
 		"i18nValue":{
 			"en_US":"input capacitance",
-			"zh_CN":null
+			"zh_CN":"输入电容"
 		}
 	},
 	"unit":"F",

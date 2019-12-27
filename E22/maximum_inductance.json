@@ -11,7 +11,7 @@
 		"defaultValue":"maximum inductance",
 		"i18nValue":{
 			"en_US":"maximum inductance",
-			"zh_CN":null
+			"zh_CN":"最大电感"
 		}
 	},
 	"unit":"H",

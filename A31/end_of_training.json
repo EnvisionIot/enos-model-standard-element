@@ -11,7 +11,7 @@
 		"defaultValue":"end of training",
 		"i18nValue":{
 			"en_US":"end of training",
-			"zh_CN":null
+			"zh_CN":"培训结束日期"
 		}
 	},
 	"unit":null,

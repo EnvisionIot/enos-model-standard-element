@@ -11,7 +11,7 @@
 		"defaultValue":"gross space",
 		"i18nValue":{
 			"en_US":"gross space",
-			"zh_CN":null
+			"zh_CN":"总空间"
 		}
 	},
 	"unit":"m³",

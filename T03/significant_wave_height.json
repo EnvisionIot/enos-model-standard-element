@@ -11,7 +11,7 @@
 		"defaultValue":"significant wave height",
 		"i18nValue":{
 			"en_US":"significant wave height",
-			"zh_CN":null
+			"zh_CN":"显著波高"
 		}
 	},
 	"unit":"m",

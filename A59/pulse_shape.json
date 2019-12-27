@@ -27,7 +27,7 @@
 		"defaultValue":"pulse shape",
 		"i18nValue":{
 			"en_US":"pulse shape",
-			"zh_CN":null
+			"zh_CN":"脉冲形状"
 		}
 	},
 	"unit":null,

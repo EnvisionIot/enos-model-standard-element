@@ -4,16 +4,16 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Speed of a rotational motor, as a variable.",
-	"elementType":["MEASUREPOINT"],
+	"description":"nominal speed of a linear motor.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"speed",
 	"name":{
 		"defaultValue":"speed",
 		"i18nValue":{
 			"en_US":"speed",
-			"zh_CN":null
+			"zh_CN":"速度"
 		}
 	},
-	"unit":"rpm",
+	"unit":"m/s",
 	"version":"1.0"
 }

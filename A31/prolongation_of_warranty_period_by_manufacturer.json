@@ -11,7 +11,7 @@
 		"defaultValue":"prolongation of warranty period by manufacturer",
 		"i18nValue":{
 			"en_US":"prolongation of warranty period by manufacturer",
-			"zh_CN":null
+			"zh_CN":"制造商延长保修期"
 		}
 	},
 	"unit":"yr",

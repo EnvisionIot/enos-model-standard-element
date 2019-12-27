@@ -11,7 +11,7 @@
 		"defaultValue":"pull-out torque",
 		"i18nValue":{
 			"en_US":"pull-out torque",
-			"zh_CN":null
+			"zh_CN":"牵出扭矩"
 		}
 	},
 	"unit":"N·m",

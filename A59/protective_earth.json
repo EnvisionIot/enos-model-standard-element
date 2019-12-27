@@ -23,7 +23,7 @@
 		"defaultValue":"protective earth",
 		"i18nValue":{
 			"en_US":"protective earth",
-			"zh_CN":null
+			"zh_CN":"保护接地"
 		}
 	},
 	"unit":null,

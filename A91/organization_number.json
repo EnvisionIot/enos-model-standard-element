@@ -13,7 +13,7 @@
 		"defaultValue":"organization number",
 		"i18nValue":{
 			"en_US":"organization number",
-			"zh_CN":null
+			"zh_CN":"组织编号"
 		}
 	},
 	"unit":null,

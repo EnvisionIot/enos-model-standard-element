@@ -13,7 +13,7 @@
 		"defaultValue":"simulator applicability",
 		"i18nValue":{
 			"en_US":"simulator applicability",
-			"zh_CN":null
+			"zh_CN":"模拟器适用性"
 		}
 	},
 	"unit":null,

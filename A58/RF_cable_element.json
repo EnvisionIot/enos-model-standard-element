@@ -27,7 +27,7 @@
 		"defaultValue":"RF cable element",
 		"i18nValue":{
 			"en_US":"RF cable element",
-			"zh_CN":null
+			"zh_CN":"射频电缆元件"
 		}
 	},
 	"unit":null,

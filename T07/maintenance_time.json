@@ -11,7 +11,7 @@
 		"defaultValue":"maintenance time",
 		"i18nValue":{
 			"en_US":"maintenance time",
-			"zh_CN":null
+			"zh_CN":"维修时间"
 		}
 	},
 	"unit":"h",

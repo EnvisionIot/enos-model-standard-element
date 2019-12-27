@@ -11,7 +11,7 @@
 		"defaultValue":"density",
 		"i18nValue":{
 			"en_US":"density",
-			"zh_CN":null
+			"zh_CN":"密度"
 		}
 	},
 	"unit":"kg/m³",

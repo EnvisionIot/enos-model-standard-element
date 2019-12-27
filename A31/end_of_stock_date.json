@@ -11,7 +11,7 @@
 		"defaultValue":"end of stock date",
 		"i18nValue":{
 			"en_US":"end of stock date",
-			"zh_CN":null
+			"zh_CN":"库存截止日期"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"load loss non-proportional to I²",
 		"i18nValue":{
 			"en_US":"load loss non-proportional to I²",
-			"zh_CN":null
+			"zh_CN":"与 I² 不成比例的负载损耗"
 		}
 	},
 	"unit":null,

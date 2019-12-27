@@ -13,7 +13,7 @@
 		"defaultValue":"warning notice",
 		"i18nValue":{
 			"en_US":"warning notice",
-			"zh_CN":null
+			"zh_CN":"警告提示"
 		}
 	},
 	"unit":null,

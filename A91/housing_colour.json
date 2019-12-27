@@ -75,7 +75,7 @@
 		"defaultValue":"housing colour",
 		"i18nValue":{
 			"en_US":"housing colour",
-			"zh_CN":null
+			"zh_CN":"外壳颜色"
 		}
 	},
 	"unit":null,

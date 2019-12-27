@@ -11,7 +11,7 @@
 		"defaultValue":"instruction rate",
 		"i18nValue":{
 			"en_US":"instruction rate",
-			"zh_CN":null
+			"zh_CN":"指令速度"
 		}
 	},
 	"unit":"1/s",

@@ -11,7 +11,7 @@
 		"defaultValue":"differential resistance",
 		"i18nValue":{
 			"en_US":"differential resistance",
-			"zh_CN":null
+			"zh_CN":"差动电阻"
 		}
 	},
 	"unit":"Ω",

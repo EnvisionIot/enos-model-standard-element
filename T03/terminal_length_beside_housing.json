@@ -11,7 +11,7 @@
 		"defaultValue":"terminal length beside housing",
 		"i18nValue":{
 			"en_US":"terminal length beside housing",
-			"zh_CN":null
+			"zh_CN":"外壳旁端子长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"terminal thread diameter",
 		"i18nValue":{
 			"en_US":"terminal thread diameter",
-			"zh_CN":null
+			"zh_CN":"端子螺纹直径"
 		}
 	},
 	"unit":"m",

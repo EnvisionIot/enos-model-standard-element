@@ -11,7 +11,7 @@
 		"defaultValue":"step angle",
 		"i18nValue":{
 			"en_US":"step angle",
-			"zh_CN":null
+			"zh_CN":"步进角"
 		}
 	},
 	"unit":"°",

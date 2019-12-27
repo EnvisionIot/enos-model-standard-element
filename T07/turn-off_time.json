@@ -11,7 +11,7 @@
 		"defaultValue":"turn-off time",
 		"i18nValue":{
 			"en_US":"turn-off time",
-			"zh_CN":null
+			"zh_CN":"关断时间"
 		}
 	},
 	"unit":"s",

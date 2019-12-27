@@ -27,7 +27,7 @@
 		"defaultValue":"applicability qualifier",
 		"i18nValue":{
 			"en_US":"applicability qualifier",
-			"zh_CN":null
+			"zh_CN":"适用性限定符"
 		}
 	},
 	"unit":null,

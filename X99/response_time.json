@@ -11,7 +11,7 @@
 		"defaultValue":"response time",
 		"i18nValue":{
 			"en_US":"response time",
-			"zh_CN":null
+			"zh_CN":"响应时间"
 		}
 	},
 	"unit":"s",

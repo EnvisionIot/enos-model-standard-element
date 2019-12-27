@@ -13,7 +13,7 @@
 		"defaultValue":"prevailing wind direction",
 		"i18nValue":{
 			"en_US":"prevailing wind direction",
-			"zh_CN":null
+			"zh_CN":"盛行风向"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"cone radius",
 		"i18nValue":{
 			"en_US":"cone radius",
-			"zh_CN":null
+			"zh_CN":"圆锥半径"
 		}
 	},
 	"unit":"m",

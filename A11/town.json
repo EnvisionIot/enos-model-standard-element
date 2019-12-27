@@ -13,7 +13,7 @@
 		"defaultValue":"town",
 		"i18nValue":{
 			"en_US":"town",
-			"zh_CN":null
+			"zh_CN":"镇"
 		}
 	},
 	"unit":null,

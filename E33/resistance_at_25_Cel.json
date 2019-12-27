@@ -11,7 +11,7 @@
 		"defaultValue":"resistance at 25 Cel",
 		"i18nValue":{
 			"en_US":"resistance at 25 Cel",
-			"zh_CN":null
+			"zh_CN":"25℃ 时的电阻"
 		}
 	},
 	"unit":"Ω",

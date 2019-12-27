@@ -11,7 +11,7 @@
 		"defaultValue":"anode voltage limiting",
 		"i18nValue":{
 			"en_US":"anode voltage limiting",
-			"zh_CN":null
+			"zh_CN":"阳极电压限值"
 		}
 	},
 	"unit":"V",

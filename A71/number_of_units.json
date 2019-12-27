@@ -11,7 +11,7 @@
 		"defaultValue":"number of units",
 		"i18nValue":{
 			"en_US":"number of units",
-			"zh_CN":null
+			"zh_CN":"单位数量"
 		}
 	},
 	"unit":null,

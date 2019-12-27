@@ -11,7 +11,7 @@
 		"defaultValue":"insulation diameter of conductor",
 		"i18nValue":{
 			"en_US":"insulation diameter of conductor",
-			"zh_CN":null
+			"zh_CN":"导体绝缘直径"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"equivalent noise irradiation",
 		"i18nValue":{
 			"en_US":"equivalent noise irradiation",
-			"zh_CN":null
+			"zh_CN":"等效噪声辐射"
 		}
 	},
 	"unit":"W/(Hz^-1/2)",

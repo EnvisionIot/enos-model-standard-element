@@ -11,7 +11,7 @@
 		"defaultValue":"mean time to restoration",
 		"i18nValue":{
 			"en_US":"mean time to restoration",
-			"zh_CN":null
+			"zh_CN":"平均恢复时间"
 		}
 	},
 	"unit":"h",

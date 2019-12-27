@@ -11,7 +11,7 @@
 		"defaultValue":"wear-out failure period",
 		"i18nValue":{
 			"en_US":"wear-out failure period",
-			"zh_CN":null
+			"zh_CN":"磨损故障期"
 		}
 	},
 	"unit":"yr",

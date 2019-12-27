@@ -11,7 +11,7 @@
 		"defaultValue":"LDR recovery rate",
 		"i18nValue":{
 			"en_US":"LDR recovery rate",
-			"zh_CN":null
+			"zh_CN":"LDR 恢复率"
 		}
 	},
 	"unit":"Ω/s",

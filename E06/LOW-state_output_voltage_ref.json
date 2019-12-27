@@ -11,7 +11,7 @@
 		"defaultValue":"LOW-state output voltage ref",
 		"i18nValue":{
 			"en_US":"LOW-state output voltage ref",
-			"zh_CN":null
+			"zh_CN":"低态输出参考电压"
 		}
 	},
 	"unit":"V",

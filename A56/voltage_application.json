@@ -27,7 +27,7 @@
 		"defaultValue":"voltage application",
 		"i18nValue":{
 			"en_US":"voltage application",
-			"zh_CN":null
+			"zh_CN":"电压应用"
 		}
 	},
 	"unit":null,

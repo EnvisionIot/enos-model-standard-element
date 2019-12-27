@@ -11,7 +11,7 @@
 		"defaultValue":"terminal emergence dimension",
 		"i18nValue":{
 			"en_US":"terminal emergence dimension",
-			"zh_CN":null
+			"zh_CN":"端子突出尺寸"
 		}
 	},
 	"unit":"m",

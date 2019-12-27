@@ -23,7 +23,7 @@
 		"defaultValue":"rectifier diode application",
 		"i18nValue":{
 			"en_US":"rectifier diode application",
-			"zh_CN":null
+			"zh_CN":"整流二极管应用"
 		}
 	},
 	"unit":null,

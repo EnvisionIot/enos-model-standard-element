@@ -11,7 +11,7 @@
 		"defaultValue":"current (pulse)",
 		"i18nValue":{
 			"en_US":"current (pulse)",
-			"zh_CN":null
+			"zh_CN":"电流（脉冲）"
 		}
 	},
 	"unit":"A",

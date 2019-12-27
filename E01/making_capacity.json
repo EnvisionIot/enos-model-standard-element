@@ -11,7 +11,7 @@
 		"defaultValue":"making capacity",
 		"i18nValue":{
 			"en_US":"making capacity",
-			"zh_CN":null
+			"zh_CN":"接通能力"
 		}
 	},
 	"unit":"A",

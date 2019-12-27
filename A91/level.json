@@ -35,7 +35,7 @@
 		"defaultValue":"level",
 		"i18nValue":{
 			"en_US":"level",
-			"zh_CN":null
+			"zh_CN":"等级"
 		}
 	},
 	"unit":null,

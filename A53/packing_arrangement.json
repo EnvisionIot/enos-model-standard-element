@@ -39,7 +39,7 @@
 		"defaultValue":"packing arrangement",
 		"i18nValue":{
 			"en_US":"packing arrangement",
-			"zh_CN":null
+			"zh_CN":"包装布置"
 		}
 	},
 	"unit":null,

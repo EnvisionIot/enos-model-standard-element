@@ -11,7 +11,7 @@
 		"defaultValue":"connector opening",
 		"i18nValue":{
 			"en_US":"connector opening",
-			"zh_CN":null
+			"zh_CN":"连接器开口"
 		}
 	},
 	"unit":"m",

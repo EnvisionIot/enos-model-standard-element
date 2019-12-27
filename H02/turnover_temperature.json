@@ -11,7 +11,7 @@
 		"defaultValue":"turnover temperature",
 		"i18nValue":{
 			"en_US":"turnover temperature",
-			"zh_CN":null
+			"zh_CN":"拐点温度"
 		}
 	},
 	"unit":"°C",

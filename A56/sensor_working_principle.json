@@ -35,7 +35,7 @@
 		"defaultValue":"sensor working principle",
 		"i18nValue":{
 			"en_US":"sensor working principle",
-			"zh_CN":null
+			"zh_CN":"传感器工作原理"
 		}
 	},
 	"unit":null,

@@ -23,7 +23,7 @@
 		"defaultValue":"spark gap type",
 		"i18nValue":{
 			"en_US":"spark gap type",
-			"zh_CN":null
+			"zh_CN":"火花隙类型"
 		}
 	},
 	"unit":null,

@@ -71,7 +71,7 @@
 		"defaultValue":"microwave component type",
 		"i18nValue":{
 			"en_US":"microwave component type",
-			"zh_CN":null
+			"zh_CN":"微波元件类型"
 		}
 	},
 	"unit":null,

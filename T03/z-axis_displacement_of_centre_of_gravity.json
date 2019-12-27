@@ -11,7 +11,7 @@
 		"defaultValue":"z-axis displacement of centre of gravity",
 		"i18nValue":{
 			"en_US":"z-axis displacement of centre of gravity",
-			"zh_CN":null
+			"zh_CN":"重心 z 轴位移"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"open-circuit voltage",
 		"i18nValue":{
 			"en_US":"open-circuit voltage",
-			"zh_CN":null
+			"zh_CN":"开路电压"
 		}
 	},
 	"unit":"V",

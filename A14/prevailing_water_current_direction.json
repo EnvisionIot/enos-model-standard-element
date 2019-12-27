@@ -13,7 +13,7 @@
 		"defaultValue":"prevailing water current direction",
 		"i18nValue":{
 			"en_US":"prevailing water current direction",
-			"zh_CN":null
+			"zh_CN":"盛行水流方向"
 		}
 	},
 	"unit":null,

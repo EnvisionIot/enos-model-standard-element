@@ -11,7 +11,7 @@
 		"defaultValue":"mounting hole diameter",
 		"i18nValue":{
 			"en_US":"mounting hole diameter",
-			"zh_CN":null
+			"zh_CN":"安装孔直径"
 		}
 	},
 	"unit":"m",

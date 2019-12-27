@@ -11,7 +11,7 @@
 		"defaultValue":"dot length",
 		"i18nValue":{
 			"en_US":"dot length",
-			"zh_CN":null
+			"zh_CN":"点长"
 		}
 	},
 	"unit":"m",

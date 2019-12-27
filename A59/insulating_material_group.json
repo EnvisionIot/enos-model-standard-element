@@ -31,7 +31,7 @@
 		"defaultValue":"insulating material group",
 		"i18nValue":{
 			"en_US":"insulating material group",
-			"zh_CN":null
+			"zh_CN":"绝缘材料组"
 		}
 	},
 	"unit":null,

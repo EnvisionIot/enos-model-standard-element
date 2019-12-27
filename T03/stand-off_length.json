@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off length",
 		"i18nValue":{
 			"en_US":"stand-off length",
-			"zh_CN":null
+			"zh_CN":"支座长度"
 		}
 	},
 	"unit":"m",

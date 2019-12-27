@@ -39,7 +39,7 @@
 		"defaultValue":"conductor configuration",
 		"i18nValue":{
 			"en_US":"conductor configuration",
-			"zh_CN":null
+			"zh_CN":"导体配置"
 		}
 	},
 	"unit":null,

@@ -27,7 +27,7 @@
 		"defaultValue":"body insulation material",
 		"i18nValue":{
 			"en_US":"body insulation material",
-			"zh_CN":null
+			"zh_CN":"本体隔热材料"
 		}
 	},
 	"unit":null,

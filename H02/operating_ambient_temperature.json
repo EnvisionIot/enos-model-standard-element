@@ -11,7 +11,7 @@
 		"defaultValue":"operating ambient temperature",
 		"i18nValue":{
 			"en_US":"operating ambient temperature",
-			"zh_CN":null
+			"zh_CN":"工作环境温度"
 		}
 	},
 	"unit":"°C",

@@ -31,7 +31,7 @@
 		"defaultValue":"value origin qualifier",
 		"i18nValue":{
 			"en_US":"value origin qualifier",
-			"zh_CN":null
+			"zh_CN":"值来源限定符"
 		}
 	},
 	"unit":null,

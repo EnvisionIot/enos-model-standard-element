@@ -11,7 +11,7 @@
 		"defaultValue":"tangent of loss angle",
 		"i18nValue":{
 			"en_US":"tangent of loss angle",
-			"zh_CN":null
+			"zh_CN":"损耗角正切"
 		}
 	},
 	"unit":null,

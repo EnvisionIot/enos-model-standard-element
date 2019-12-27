@@ -39,7 +39,7 @@
 		"defaultValue":"integrated component",
 		"i18nValue":{
 			"en_US":"integrated component",
-			"zh_CN":null
+			"zh_CN":"集成组件"
 		}
 	},
 	"unit":null,

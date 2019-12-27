@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off height",
 		"i18nValue":{
 			"en_US":"stand-off height",
-			"zh_CN":null
+			"zh_CN":"支座高度"
 		}
 	},
 	"unit":"m",

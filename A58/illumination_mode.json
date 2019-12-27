@@ -39,7 +39,7 @@
 		"defaultValue":"illumination mode",
 		"i18nValue":{
 			"en_US":"illumination mode",
-			"zh_CN":null
+			"zh_CN":"照明模式"
 		}
 	},
 	"unit":null,

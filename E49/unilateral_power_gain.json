@@ -11,7 +11,7 @@
 		"defaultValue":"unilateral power gain",
 		"i18nValue":{
 			"en_US":"unilateral power gain",
-			"zh_CN":null
+			"zh_CN":"单边功率增益"
 		}
 	},
 	"unit":"dB",

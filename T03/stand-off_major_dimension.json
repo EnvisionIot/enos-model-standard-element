@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off major dimension",
 		"i18nValue":{
 			"en_US":"stand-off major dimension",
-			"zh_CN":null
+			"zh_CN":"支座大尺寸"
 		}
 	},
 	"unit":"m",

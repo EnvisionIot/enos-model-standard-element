@@ -11,7 +11,7 @@
 		"defaultValue":"output current focus supply",
 		"i18nValue":{
 			"en_US":"output current focus supply",
-			"zh_CN":null
+			"zh_CN":"聚焦电源输出电流"
 		}
 	},
 	"unit":"A",

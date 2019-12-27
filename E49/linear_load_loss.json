@@ -11,7 +11,7 @@
 		"defaultValue":"linear load loss",
 		"i18nValue":{
 			"en_US":"linear load loss",
-			"zh_CN":null
+			"zh_CN":"线性负载损失"
 		}
 	},
 	"unit":"W",

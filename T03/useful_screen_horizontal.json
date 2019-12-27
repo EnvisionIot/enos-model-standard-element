@@ -11,7 +11,7 @@
 		"defaultValue":"useful screen horizontal",
 		"i18nValue":{
 			"en_US":"useful screen horizontal",
-			"zh_CN":null
+			"zh_CN":"水平投影长度"
 		}
 	},
 	"unit":"m",

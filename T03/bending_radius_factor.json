@@ -11,7 +11,7 @@
 		"defaultValue":"bending radius factor",
 		"i18nValue":{
 			"en_US":"bending radius factor",
-			"zh_CN":null
+			"zh_CN":"弯曲半径系数"
 		}
 	},
 	"unit":null,

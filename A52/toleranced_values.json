@@ -23,7 +23,7 @@
 		"defaultValue":"toleranced values",
 		"i18nValue":{
 			"en_US":"toleranced values",
-			"zh_CN":null
+			"zh_CN":"带公差值"
 		}
 	},
 	"unit":null,

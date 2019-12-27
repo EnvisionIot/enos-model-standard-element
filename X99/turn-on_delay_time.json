@@ -11,7 +11,7 @@
 		"defaultValue":"turn-on delay time",
 		"i18nValue":{
 			"en_US":"turn-on delay time",
-			"zh_CN":null
+			"zh_CN":"开启延迟时间"
 		}
 	},
 	"unit":"s",

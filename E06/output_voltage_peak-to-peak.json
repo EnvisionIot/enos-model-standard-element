@@ -11,7 +11,7 @@
 		"defaultValue":"output voltage peak-to-peak",
 		"i18nValue":{
 			"en_US":"output voltage peak-to-peak",
-			"zh_CN":null
+			"zh_CN":"峰峰输出电压"
 		}
 	},
 	"unit":"V",

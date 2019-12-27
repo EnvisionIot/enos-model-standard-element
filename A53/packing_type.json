@@ -55,7 +55,7 @@
 		"defaultValue":"packing type",
 		"i18nValue":{
 			"en_US":"packing type",
-			"zh_CN":null
+			"zh_CN":"包装类型"
 		}
 	},
 	"unit":null,

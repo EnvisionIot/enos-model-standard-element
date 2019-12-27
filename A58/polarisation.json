@@ -35,7 +35,7 @@
 		"defaultValue":"polarisation",
 		"i18nValue":{
 			"en_US":"polarisation",
-			"zh_CN":null
+			"zh_CN":"偏振"
 		}
 	},
 	"unit":null,

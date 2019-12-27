@@ -11,7 +11,7 @@
 		"defaultValue":"sequential read current",
 		"i18nValue":{
 			"en_US":"sequential read current",
-			"zh_CN":null
+			"zh_CN":"顺序读取电流"
 		}
 	},
 	"unit":"A",

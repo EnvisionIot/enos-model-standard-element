@@ -11,7 +11,7 @@
 		"defaultValue":"screen diagonal",
 		"i18nValue":{
 			"en_US":"screen diagonal",
-			"zh_CN":null
+			"zh_CN":"对角投影长度"
 		}
 	},
 	"unit":"cm",

@@ -11,7 +11,7 @@
 		"defaultValue":"termination number",
 		"i18nValue":{
 			"en_US":"termination number",
-			"zh_CN":null
+			"zh_CN":"终止号"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"mounted height",
 		"i18nValue":{
 			"en_US":"mounted height",
-			"zh_CN":null
+			"zh_CN":"安装高度"
 		}
 	},
 	"unit":"m",

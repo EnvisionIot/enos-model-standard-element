@@ -27,7 +27,7 @@
 		"defaultValue":"impedance type",
 		"i18nValue":{
 			"en_US":"impedance type",
-			"zh_CN":null
+			"zh_CN":"阻抗类型"
 		}
 	},
 	"unit":null,

@@ -31,7 +31,7 @@
 		"defaultValue":"pollution level",
 		"i18nValue":{
 			"en_US":"pollution level",
-			"zh_CN":null
+			"zh_CN":"污染水平"
 		}
 	},
 	"unit":null,

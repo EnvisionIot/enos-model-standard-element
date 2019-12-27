@@ -11,7 +11,7 @@
 		"defaultValue":"operate time",
 		"i18nValue":{
 			"en_US":"operate time",
-			"zh_CN":null
+			"zh_CN":"工作时间"
 		}
 	},
 	"unit":"s",

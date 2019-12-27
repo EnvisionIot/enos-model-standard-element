@@ -11,7 +11,7 @@
 		"defaultValue":"useful screen vertical",
 		"i18nValue":{
 			"en_US":"useful screen vertical",
-			"zh_CN":null
+			"zh_CN":"垂直投影长度"
 		}
 	},
 	"unit":"m",

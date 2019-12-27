@@ -11,7 +11,7 @@
 		"defaultValue":"die centre x-position",
 		"i18nValue":{
 			"en_US":"die centre x-position",
-			"zh_CN":null
+			"zh_CN":"模具中心 x 位置"
 		}
 	},
 	"unit":"m",

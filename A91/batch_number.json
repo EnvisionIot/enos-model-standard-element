@@ -13,7 +13,7 @@
 		"defaultValue":"batch number",
 		"i18nValue":{
 			"en_US":"batch number",
-			"zh_CN":null
+			"zh_CN":"批号"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"device type as listed in waste of electrical and electronic equipment directive",
 		"i18nValue":{
 			"en_US":"device type as listed in waste of electrical and electronic equipment directive",
-			"zh_CN":null
+			"zh_CN":"电气电子设备废弃物指令中列出的设备类型"
 		}
 	},
 	"unit":null,

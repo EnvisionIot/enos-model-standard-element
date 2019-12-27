@@ -11,7 +11,7 @@
 		"defaultValue":"end of service",
 		"i18nValue":{
 			"en_US":"end of service",
-			"zh_CN":null
+			"zh_CN":"服务结束日期"
 		}
 	},
 	"unit":null,

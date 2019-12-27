@@ -11,7 +11,7 @@
 		"defaultValue":"clearance to earth",
 		"i18nValue":{
 			"en_US":"clearance to earth",
-			"zh_CN":null
+			"zh_CN":"离地间隙"
 		}
 	},
 	"unit":"m",

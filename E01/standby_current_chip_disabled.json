@@ -11,7 +11,7 @@
 		"defaultValue":"standby current chip disabled",
 		"i18nValue":{
 			"en_US":"standby current chip disabled",
-			"zh_CN":null
+			"zh_CN":"芯片禁用时的待机电流"
 		}
 	},
 	"unit":"A",

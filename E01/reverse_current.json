@@ -11,7 +11,7 @@
 		"defaultValue":"reverse current",
 		"i18nValue":{
 			"en_US":"reverse current",
-			"zh_CN":null
+			"zh_CN":"反向电流"
 		}
 	},
 	"unit":"A",

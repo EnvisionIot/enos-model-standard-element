@@ -13,7 +13,7 @@
 		"defaultValue":"current direction",
 		"i18nValue":{
 			"en_US":"current direction",
-			"zh_CN":null
+			"zh_CN":"潮流方向"
 		}
 	},
 	"unit":null,

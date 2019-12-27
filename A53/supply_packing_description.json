@@ -13,7 +13,7 @@
 		"defaultValue":"supply packing description",
 		"i18nValue":{
 			"en_US":"supply packing description",
-			"zh_CN":null
+			"zh_CN":"供应包装描述"
 		}
 	},
 	"unit":null,

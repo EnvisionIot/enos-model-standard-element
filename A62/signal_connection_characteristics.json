@@ -13,7 +13,7 @@
 		"defaultValue":"signal connection characteristics",
 		"i18nValue":{
 			"en_US":"signal connection characteristics",
-			"zh_CN":null
+			"zh_CN":"信号连接特性"
 		}
 	},
 	"unit":null,

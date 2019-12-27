@@ -11,7 +11,7 @@
 		"defaultValue":"altitude above mean sea level",
 		"i18nValue":{
 			"en_US":"altitude above mean sea level",
-			"zh_CN":null
+			"zh_CN":"平均海平面以上的高度"
 		}
 	},
 	"unit":"m",

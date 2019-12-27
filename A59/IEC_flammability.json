@@ -39,7 +39,7 @@
 		"defaultValue":"IEC flammability",
 		"i18nValue":{
 			"en_US":"IEC flammability",
-			"zh_CN":null
+			"zh_CN":"IEC 易燃性"
 		}
 	},
 	"unit":null,

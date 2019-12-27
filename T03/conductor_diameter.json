@@ -11,7 +11,7 @@
 		"defaultValue":"conductor diameter",
 		"i18nValue":{
 			"en_US":"conductor diameter",
-			"zh_CN":null
+			"zh_CN":"导体直径"
 		}
 	},
 	"unit":"m",

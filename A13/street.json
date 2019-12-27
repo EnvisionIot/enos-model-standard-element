@@ -13,7 +13,7 @@
 		"defaultValue":"street",
 		"i18nValue":{
 			"en_US":"street",
-			"zh_CN":null
+			"zh_CN":"街道"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"supply voltage limit",
 		"i18nValue":{
 			"en_US":"supply voltage limit",
-			"zh_CN":null
+			"zh_CN":"电源电压限值"
 		}
 	},
 	"unit":"V",

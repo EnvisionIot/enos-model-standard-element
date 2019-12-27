@@ -13,7 +13,7 @@
 		"defaultValue":"test procedure description",
 		"i18nValue":{
 			"en_US":"test procedure description",
-			"zh_CN":null
+			"zh_CN":"测试程序描述"
 		}
 	},
 	"unit":null,

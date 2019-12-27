@@ -11,7 +11,7 @@
 		"defaultValue":"time t_2",
 		"i18nValue":{
 			"en_US":"time t_2",
-			"zh_CN":null
+			"zh_CN":"时间 t_2"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"viewing area length",
 		"i18nValue":{
 			"en_US":"viewing area length",
-			"zh_CN":null
+			"zh_CN":"可视区长度"
 		}
 	},
 	"unit":"m",

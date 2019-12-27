@@ -23,7 +23,7 @@
 		"defaultValue":"amplified quantity",
 		"i18nValue":{
 			"en_US":"amplified quantity",
-			"zh_CN":null
+			"zh_CN":"放大量"
 		}
 	},
 	"unit":null,

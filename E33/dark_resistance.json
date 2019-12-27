@@ -11,7 +11,7 @@
 		"defaultValue":"dark resistance",
 		"i18nValue":{
 			"en_US":"dark resistance",
-			"zh_CN":null
+			"zh_CN":"暗电阻"
 		}
 	},
 	"unit":"Ω",

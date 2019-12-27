@@ -11,7 +11,7 @@
 		"defaultValue":"deflection angle",
 		"i18nValue":{
 			"en_US":"deflection angle",
-			"zh_CN":null
+			"zh_CN":"偏转角"
 		}
 	},
 	"unit":"°",

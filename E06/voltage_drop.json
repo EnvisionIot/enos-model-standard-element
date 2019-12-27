@@ -11,7 +11,7 @@
 		"defaultValue":"voltage drop",
 		"i18nValue":{
 			"en_US":"voltage drop",
-			"zh_CN":null
+			"zh_CN":"电压下降"
 		}
 	},
 	"unit":"V",

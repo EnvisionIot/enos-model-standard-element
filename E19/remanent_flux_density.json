@@ -11,7 +11,7 @@
 		"defaultValue":"remanent flux density",
 		"i18nValue":{
 			"en_US":"remanent flux density",
-			"zh_CN":null
+			"zh_CN":"剩余磁通密度"
 		}
 	},
 	"unit":"T",

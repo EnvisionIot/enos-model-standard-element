@@ -11,7 +11,7 @@
 		"defaultValue":"holding torque",
 		"i18nValue":{
 			"en_US":"holding torque",
-			"zh_CN":null
+			"zh_CN":"保持扭矩"
 		}
 	},
 	"unit":"N·m",

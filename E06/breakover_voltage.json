@@ -11,7 +11,7 @@
 		"defaultValue":"breakover voltage",
 		"i18nValue":{
 			"en_US":"breakover voltage",
-			"zh_CN":null
+			"zh_CN":"击穿电压"
 		}
 	},
 	"unit":"V",

@@ -13,7 +13,7 @@
 		"defaultValue":"attachment limitations",
 		"i18nValue":{
 			"en_US":"attachment limitations",
-			"zh_CN":null
+			"zh_CN":"连接限制"
 		}
 	},
 	"unit":null,

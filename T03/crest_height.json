@@ -11,7 +11,7 @@
 		"defaultValue":"crest height",
 		"i18nValue":{
 			"en_US":"crest height",
-			"zh_CN":null
+			"zh_CN":"浪顶高度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"lowest astronomical tide",
 		"i18nValue":{
 			"en_US":"lowest astronomical tide",
-			"zh_CN":null
+			"zh_CN":"天文潮最低水位"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"programming time to cell",
 		"i18nValue":{
 			"en_US":"programming time to cell",
-			"zh_CN":null
+			"zh_CN":"到单元的编程时间"
 		}
 	},
 	"unit":"s",

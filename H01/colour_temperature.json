@@ -11,7 +11,7 @@
 		"defaultValue":"colour temperature",
 		"i18nValue":{
 			"en_US":"colour temperature",
-			"zh_CN":null
+			"zh_CN":"色温"
 		}
 	},
 	"unit":"K",

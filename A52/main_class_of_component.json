@@ -31,7 +31,7 @@
 		"defaultValue":"main class of component",
 		"i18nValue":{
 			"en_US":"main class of component",
-			"zh_CN":null
+			"zh_CN":"组件主类别"
 		}
 	},
 	"unit":null,

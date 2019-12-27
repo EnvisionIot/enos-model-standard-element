@@ -11,7 +11,7 @@
 		"defaultValue":"effective date",
 		"i18nValue":{
 			"en_US":"effective date",
-			"zh_CN":null
+			"zh_CN":"生效日期"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"on-state current",
 		"i18nValue":{
 			"en_US":"on-state current",
-			"zh_CN":null
+			"zh_CN":"通态电流"
 		}
 	},
 	"unit":"A",

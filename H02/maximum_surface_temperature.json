@@ -11,7 +11,7 @@
 		"defaultValue":"maximum surface temperature",
 		"i18nValue":{
 			"en_US":"maximum surface temperature",
-			"zh_CN":null
+			"zh_CN":"最高表面温度"
 		}
 	},
 	"unit":"°C",

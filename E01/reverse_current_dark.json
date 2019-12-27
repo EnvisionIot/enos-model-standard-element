@@ -11,7 +11,7 @@
 		"defaultValue":"reverse current dark",
 		"i18nValue":{
 			"en_US":"reverse current dark",
-			"zh_CN":null
+			"zh_CN":"反向暗电流"
 		}
 	},
 	"unit":"A",

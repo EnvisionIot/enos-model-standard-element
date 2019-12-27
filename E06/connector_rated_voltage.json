@@ -11,7 +11,7 @@
 		"defaultValue":"connector rated voltage",
 		"i18nValue":{
 			"en_US":"connector rated voltage",
-			"zh_CN":null
+			"zh_CN":"连接器额定电压"
 		}
 	},
 	"unit":"V",

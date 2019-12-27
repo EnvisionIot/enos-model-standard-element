@@ -13,7 +13,7 @@
 		"defaultValue":"UN number",
 		"i18nValue":{
 			"en_US":"UN number",
-			"zh_CN":null
+			"zh_CN":"联合国编号"
 		}
 	},
 	"unit":null,

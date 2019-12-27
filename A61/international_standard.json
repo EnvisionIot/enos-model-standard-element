@@ -13,7 +13,7 @@
 		"defaultValue":"international standard",
 		"i18nValue":{
 			"en_US":"international standard",
-			"zh_CN":null
+			"zh_CN":"国际标准"
 		}
 	},
 	"unit":null,

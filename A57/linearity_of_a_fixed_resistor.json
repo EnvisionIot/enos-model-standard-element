@@ -23,7 +23,7 @@
 		"defaultValue":"linearity of a fixed resistor",
 		"i18nValue":{
 			"en_US":"linearity of a fixed resistor",
-			"zh_CN":null
+			"zh_CN":"固定电阻器线性度"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"die name",
 		"i18nValue":{
 			"en_US":"die name",
-			"zh_CN":null
+			"zh_CN":"模具名称"
 		}
 	},
 	"unit":null,

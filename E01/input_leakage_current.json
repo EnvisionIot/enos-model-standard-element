@@ -11,7 +11,7 @@
 		"defaultValue":"input leakage current",
 		"i18nValue":{
 			"en_US":"input leakage current",
-			"zh_CN":null
+			"zh_CN":"输入漏电电流"
 		}
 	},
 	"unit":"A",

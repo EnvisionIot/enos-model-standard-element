@@ -11,7 +11,7 @@
 		"defaultValue":"LOW-state input voltage",
 		"i18nValue":{
 			"en_US":"LOW-state input voltage",
-			"zh_CN":null
+			"zh_CN":"低态输入电压"
 		}
 	},
 	"unit":"V",

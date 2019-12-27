@@ -13,7 +13,7 @@
 		"defaultValue":"simulator compliance",
 		"i18nValue":{
 			"en_US":"simulator compliance",
-			"zh_CN":null
+			"zh_CN":"模拟器合规性"
 		}
 	},
 	"unit":null,

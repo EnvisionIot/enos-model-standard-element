@@ -35,7 +35,7 @@
 		"defaultValue":"frequency application",
 		"i18nValue":{
 			"en_US":"frequency application",
-			"zh_CN":null
+			"zh_CN":"频率应用"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"steady state unavailability",
 		"i18nValue":{
 			"en_US":"steady state unavailability",
-			"zh_CN":null
+			"zh_CN":"稳态不可用性"
 		}
 	},
 	"unit":"%",

@@ -11,7 +11,7 @@
 		"defaultValue":"ECL load condition",
 		"i18nValue":{
 			"en_US":"ECL load condition",
-			"zh_CN":null
+			"zh_CN":"ECL 负载条件"
 		}
 	},
 	"unit":"Ω",

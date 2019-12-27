@@ -23,7 +23,7 @@
 		"defaultValue":"dielectric class (ceramic cap)",
 		"i18nValue":{
 			"en_US":"dielectric class (ceramic cap)",
-			"zh_CN":null
+			"zh_CN":"绝缘等级（陶瓷盖）"
 		}
 	},
 	"unit":null,

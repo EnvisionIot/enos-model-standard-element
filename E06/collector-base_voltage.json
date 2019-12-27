@@ -11,7 +11,7 @@
 		"defaultValue":"collector-base voltage",
 		"i18nValue":{
 			"en_US":"collector-base voltage",
-			"zh_CN":null
+			"zh_CN":"集电极-基极电压"
 		}
 	},
 	"unit":"V",

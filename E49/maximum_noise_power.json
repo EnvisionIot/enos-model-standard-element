@@ -11,7 +11,7 @@
 		"defaultValue":"maximum noise power",
 		"i18nValue":{
 			"en_US":"maximum noise power",
-			"zh_CN":null
+			"zh_CN":"最大噪声功率"
 		}
 	},
 	"unit":"W",

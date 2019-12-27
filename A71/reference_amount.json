@@ -13,7 +13,7 @@
 		"defaultValue":"reference amount",
 		"i18nValue":{
 			"en_US":"reference amount",
-			"zh_CN":null
+			"zh_CN":"参考量"
 		}
 	},
 	"unit":null,

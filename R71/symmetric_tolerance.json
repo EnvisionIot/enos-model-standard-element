@@ -11,7 +11,7 @@
 		"defaultValue":"symmetric tolerance",
 		"i18nValue":{
 			"en_US":"symmetric tolerance",
-			"zh_CN":null
+			"zh_CN":"对称公差"
 		}
 	},
 	"unit":"%",

@@ -23,7 +23,7 @@
 		"defaultValue":"substance above threshold level",
 		"i18nValue":{
 			"en_US":"substance above threshold level",
-			"zh_CN":null
+			"zh_CN":"超过阈值水平的物质"
 		}
 	},
 	"unit":null,

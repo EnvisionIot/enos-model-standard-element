@@ -31,7 +31,7 @@
 		"defaultValue":"terminal type",
 		"i18nValue":{
 			"en_US":"terminal type",
-			"zh_CN":null
+			"zh_CN":"端子类型"
 		}
 	},
 	"unit":null,

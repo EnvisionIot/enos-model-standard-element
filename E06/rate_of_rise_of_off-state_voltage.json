@@ -11,7 +11,7 @@
 		"defaultValue":"rate of rise of off-state voltage",
 		"i18nValue":{
 			"en_US":"rate of rise of off-state voltage",
-			"zh_CN":null
+			"zh_CN":"截止电压上升率"
 		}
 	},
 	"unit":"V/s",

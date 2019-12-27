@@ -11,7 +11,7 @@
 		"defaultValue":"grid 2 voltage for cut-off",
 		"i18nValue":{
 			"en_US":"grid 2 voltage for cut-off",
-			"zh_CN":null
+			"zh_CN":"电网 2 截止电压"
 		}
 	},
 	"unit":"V",

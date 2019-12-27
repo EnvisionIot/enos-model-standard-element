@@ -11,7 +11,7 @@
 		"defaultValue":"mass",
 		"i18nValue":{
 			"en_US":"mass",
-			"zh_CN":null
+			"zh_CN":"质量"
 		}
 	},
 	"unit":"kg",

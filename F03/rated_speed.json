@@ -11,7 +11,7 @@
 		"defaultValue":"rated speed",
 		"i18nValue":{
 			"en_US":"rated speed",
-			"zh_CN":null
+			"zh_CN":"额定转速"
 		}
 	},
 	"unit":"rpm",

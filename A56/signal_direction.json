@@ -27,7 +27,7 @@
 		"defaultValue":"signal direction",
 		"i18nValue":{
 			"en_US":"signal direction",
-			"zh_CN":null
+			"zh_CN":"信号方向"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"rated force",
 		"i18nValue":{
 			"en_US":"rated force",
-			"zh_CN":null
+			"zh_CN":"额定电动力"
 		}
 	},
 	"unit":"N",

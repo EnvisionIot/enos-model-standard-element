@@ -11,7 +11,7 @@
 		"defaultValue":"immersion depth",
 		"i18nValue":{
 			"en_US":"immersion depth",
-			"zh_CN":null
+			"zh_CN":"浸入深度"
 		}
 	},
 	"unit":"m",

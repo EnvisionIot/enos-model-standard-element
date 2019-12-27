@@ -11,7 +11,7 @@
 		"defaultValue":"terminal row splay",
 		"i18nValue":{
 			"en_US":"terminal row splay",
-			"zh_CN":null
+			"zh_CN":"端子排展开距离"
 		}
 	},
 	"unit":"m",

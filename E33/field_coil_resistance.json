@@ -11,7 +11,7 @@
 		"defaultValue":"field coil resistance",
 		"i18nValue":{
 			"en_US":"field coil resistance",
-			"zh_CN":null
+			"zh_CN":"励磁线圈电阻"
 		}
 	},
 	"unit":"Ω",

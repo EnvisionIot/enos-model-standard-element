@@ -11,7 +11,7 @@
 		"defaultValue":"reverse current light",
 		"i18nValue":{
 			"en_US":"reverse current light",
-			"zh_CN":null
+			"zh_CN":"反向亮电流"
 		}
 	},
 	"unit":"A",

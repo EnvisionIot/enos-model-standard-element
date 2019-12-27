@@ -11,7 +11,7 @@
 		"defaultValue":"start-up time",
 		"i18nValue":{
 			"en_US":"start-up time",
-			"zh_CN":null
+			"zh_CN":"启动时间"
 		}
 	},
 	"unit":"s",

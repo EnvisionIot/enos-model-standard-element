@@ -13,7 +13,7 @@
 		"defaultValue":"availability of parts after ceased supply by manufacturer",
 		"i18nValue":{
 			"en_US":"availability of parts after ceased supply by manufacturer",
-			"zh_CN":null
+			"zh_CN":"制造商停止供应后零件的可用性"
 		}
 	},
 	"unit":null,

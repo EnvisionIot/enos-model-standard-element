@@ -11,7 +11,7 @@
 		"defaultValue":"operating life",
 		"i18nValue":{
 			"en_US":"operating life",
-			"zh_CN":null
+			"zh_CN":"工作寿命"
 		}
 	},
 	"unit":null,

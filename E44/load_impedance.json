@@ -11,7 +11,7 @@
 		"defaultValue":"load impedance",
 		"i18nValue":{
 			"en_US":"load impedance",
-			"zh_CN":null
+			"zh_CN":"负载阻抗"
 		}
 	},
 	"unit":"Ω",

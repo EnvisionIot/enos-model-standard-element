@@ -151,7 +151,7 @@
 		"defaultValue":"IC application field",
 		"i18nValue":{
 			"en_US":"IC application field",
-			"zh_CN":null
+			"zh_CN":"IC 应用领域"
 		}
 	},
 	"unit":null,

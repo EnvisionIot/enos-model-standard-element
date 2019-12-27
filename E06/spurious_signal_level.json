@@ -11,7 +11,7 @@
 		"defaultValue":"spurious signal level",
 		"i18nValue":{
 			"en_US":"spurious signal level",
-			"zh_CN":null
+			"zh_CN":"杂散信号电平"
 		}
 	},
 	"unit":"dB",

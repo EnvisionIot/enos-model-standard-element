@@ -11,7 +11,7 @@
 		"defaultValue":"maintainability measure",
 		"i18nValue":{
 			"en_US":"maintainability measure",
-			"zh_CN":null
+			"zh_CN":"可维修性措施"
 		}
 	},
 	"unit":"%",

@@ -27,7 +27,7 @@
 		"defaultValue":"magnet material",
 		"i18nValue":{
 			"en_US":"magnet material",
-			"zh_CN":null
+			"zh_CN":"磁铁材料"
 		}
 	},
 	"unit":null,

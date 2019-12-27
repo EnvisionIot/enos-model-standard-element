@@ -13,7 +13,7 @@
 		"defaultValue":"sealing",
 		"i18nValue":{
 			"en_US":"sealing",
-			"zh_CN":null
+			"zh_CN":"密封"
 		}
 	},
 	"unit":null,

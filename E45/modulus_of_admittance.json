@@ -11,7 +11,7 @@
 		"defaultValue":"modulus of admittance",
 		"i18nValue":{
 			"en_US":"modulus of admittance",
-			"zh_CN":null
+			"zh_CN":"导纳模量"
 		}
 	},
 	"unit":"S",

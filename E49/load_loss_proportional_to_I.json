@@ -11,7 +11,7 @@
 		"defaultValue":"load loss proportional to I²",
 		"i18nValue":{
 			"en_US":"load loss proportional to I²",
-			"zh_CN":null
+			"zh_CN":"与 I² 成比例的负载损耗"
 		}
 	},
 	"unit":"W",

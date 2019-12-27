@@ -27,7 +27,7 @@
 		"defaultValue":"category of diode device",
 		"i18nValue":{
 			"en_US":"category of diode device",
-			"zh_CN":null
+			"zh_CN":"二极管设备类别"
 		}
 	},
 	"unit":null,

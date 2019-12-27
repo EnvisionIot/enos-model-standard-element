@@ -11,7 +11,7 @@
 		"defaultValue":"index height",
 		"i18nValue":{
 			"en_US":"index height",
-			"zh_CN":null
+			"zh_CN":"参考高度"
 		}
 	},
 	"unit":"m",

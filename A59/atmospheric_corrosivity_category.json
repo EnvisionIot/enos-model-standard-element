@@ -39,7 +39,7 @@
 		"defaultValue":"atmospheric corrosivity category",
 		"i18nValue":{
 			"en_US":"atmospheric corrosivity category",
-			"zh_CN":null
+			"zh_CN":"大气腐蚀类别"
 		}
 	},
 	"unit":null,

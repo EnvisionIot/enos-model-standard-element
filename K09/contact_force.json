@@ -11,7 +11,7 @@
 		"defaultValue":"contact force",
 		"i18nValue":{
 			"en_US":"contact force",
-			"zh_CN":null
+			"zh_CN":"接触力"
 		}
 	},
 	"unit":"N",

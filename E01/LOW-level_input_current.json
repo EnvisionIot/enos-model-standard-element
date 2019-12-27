@@ -11,7 +11,7 @@
 		"defaultValue":"LOW-level input current",
 		"i18nValue":{
 			"en_US":"LOW-level input current",
-			"zh_CN":null
+			"zh_CN":"低电平输入电流"
 		}
 	},
 	"unit":"A",

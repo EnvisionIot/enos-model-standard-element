@@ -11,7 +11,7 @@
 		"defaultValue":"dielectric withstand voltage",
 		"i18nValue":{
 			"en_US":"dielectric withstand voltage",
-			"zh_CN":null
+			"zh_CN":"介电耐电压"
 		}
 	},
 	"unit":"V",

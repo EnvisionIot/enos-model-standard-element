@@ -11,7 +11,7 @@
 		"defaultValue":"disaccommodation factor",
 		"i18nValue":{
 			"en_US":"disaccommodation factor",
-			"zh_CN":null
+			"zh_CN":"磁导率减落系数"
 		}
 	},
 	"unit":null,

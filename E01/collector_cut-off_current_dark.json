@@ -11,7 +11,7 @@
 		"defaultValue":"collector cut-off current dark",
 		"i18nValue":{
 			"en_US":"collector cut-off current dark",
-			"zh_CN":null
+			"zh_CN":"集电极截止暗电流"
 		}
 	},
 	"unit":"A",

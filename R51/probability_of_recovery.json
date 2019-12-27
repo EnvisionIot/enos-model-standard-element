@@ -11,7 +11,7 @@
 		"defaultValue":"probability of recovery",
 		"i18nValue":{
 			"en_US":"probability of recovery",
-			"zh_CN":null
+			"zh_CN":"恢复可能性"
 		}
 	},
 	"unit":"%",

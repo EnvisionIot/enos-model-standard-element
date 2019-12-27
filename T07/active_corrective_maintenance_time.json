@@ -11,7 +11,7 @@
 		"defaultValue":"active corrective maintenance time",
 		"i18nValue":{
 			"en_US":"active corrective maintenance time",
-			"zh_CN":null
+			"zh_CN":"主动纠正性维护时间"
 		}
 	},
 	"unit":"h",

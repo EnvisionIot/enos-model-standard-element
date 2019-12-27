@@ -11,7 +11,7 @@
 		"defaultValue":"irradiance",
 		"i18nValue":{
 			"en_US":"irradiance",
-			"zh_CN":null
+			"zh_CN":"照度"
 		}
 	},
 	"unit":"W/m²",

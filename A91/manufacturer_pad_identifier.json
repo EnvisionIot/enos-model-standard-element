@@ -13,7 +13,7 @@
 		"defaultValue":"manufacturer pad identifier",
 		"i18nValue":{
 			"en_US":"manufacturer pad identifier",
-			"zh_CN":null
+			"zh_CN":"制造商焊盘识别码"
 		}
 	},
 	"unit":null,

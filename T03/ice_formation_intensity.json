@@ -11,7 +11,7 @@
 		"defaultValue":"ice formation intensity",
 		"i18nValue":{
 			"en_US":"ice formation intensity",
-			"zh_CN":null
+			"zh_CN":"结冰强度"
 		}
 	},
 	"unit":"mm/h",

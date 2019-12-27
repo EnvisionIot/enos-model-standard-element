@@ -11,7 +11,7 @@
 		"defaultValue":"current rms",
 		"i18nValue":{
 			"en_US":"current rms",
-			"zh_CN":null
+			"zh_CN":"电流均方根值"
 		}
 	},
 	"unit":"A",

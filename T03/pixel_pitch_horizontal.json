@@ -11,7 +11,7 @@
 		"defaultValue":"pixel pitch horizontal",
 		"i18nValue":{
 			"en_US":"pixel pitch horizontal",
-			"zh_CN":null
+			"zh_CN":"水平像素间距"
 		}
 	},
 	"unit":"m",

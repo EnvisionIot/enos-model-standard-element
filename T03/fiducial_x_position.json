@@ -11,7 +11,7 @@
 		"defaultValue":"fiducial x position",
 		"i18nValue":{
 			"en_US":"fiducial x position",
-			"zh_CN":null
+			"zh_CN":"基准 x 位置"
 		}
 	},
 	"unit":"m",

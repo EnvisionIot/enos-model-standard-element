@@ -11,7 +11,7 @@
 		"defaultValue":"Joule-integral",
 		"i18nValue":{
 			"en_US":"Joule-integral",
-			"zh_CN":null
+			"zh_CN":"焦耳积分"
 		}
 	},
 	"unit":"J",

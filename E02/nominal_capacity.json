@@ -11,7 +11,7 @@
 		"defaultValue":"nominal capacity",
 		"i18nValue":{
 			"en_US":"nominal capacity",
-			"zh_CN":null
+			"zh_CN":"标称容量"
 		}
 	},
 	"unit":"Ah",

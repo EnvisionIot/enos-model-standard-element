@@ -13,7 +13,7 @@
 		"defaultValue":"additional screening",
 		"i18nValue":{
 			"en_US":"additional screening",
-			"zh_CN":null
+			"zh_CN":"额外筛选"
 		}
 	},
 	"unit":null,

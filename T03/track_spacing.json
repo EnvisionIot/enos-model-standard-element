@@ -11,7 +11,7 @@
 		"defaultValue":"track spacing",
 		"i18nValue":{
 			"en_US":"track spacing",
-			"zh_CN":null
+			"zh_CN":"轨道间距"
 		}
 	},
 	"unit":"m",

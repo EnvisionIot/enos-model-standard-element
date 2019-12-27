@@ -11,7 +11,7 @@
 		"defaultValue":"horizontal mass flux of snow",
 		"i18nValue":{
 			"en_US":"horizontal mass flux of snow",
-			"zh_CN":null
+			"zh_CN":"雪通量水平质量"
 		}
 	},
 	"unit":"kg/(s·m²)",

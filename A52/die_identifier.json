@@ -13,7 +13,7 @@
 		"defaultValue":"die identifier",
 		"i18nValue":{
 			"en_US":"die identifier",
-			"zh_CN":"模具标识符"
+			"zh_CN":"模具识别码"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"product status",
 		"i18nValue":{
 			"en_US":"product status",
-			"zh_CN":null
+			"zh_CN":"产品状态"
 		}
 	},
 	"unit":null,

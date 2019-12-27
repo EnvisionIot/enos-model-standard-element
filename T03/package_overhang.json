@@ -11,7 +11,7 @@
 		"defaultValue":"package overhang",
 		"i18nValue":{
 			"en_US":"package overhang",
-			"zh_CN":null
+			"zh_CN":"包装外伸量"
 		}
 	},
 	"unit":"m",

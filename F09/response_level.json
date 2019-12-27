@@ -11,7 +11,7 @@
 		"defaultValue":"response level",
 		"i18nValue":{
 			"en_US":"response level",
-			"zh_CN":null
+			"zh_CN":"响应等级"
 		}
 	},
 	"unit":"dB",

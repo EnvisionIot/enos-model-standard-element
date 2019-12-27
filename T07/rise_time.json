@@ -11,7 +11,7 @@
 		"defaultValue":"rise time",
 		"i18nValue":{
 			"en_US":"rise time",
-			"zh_CN":null
+			"zh_CN":"上升时间"
 		}
 	},
 	"unit":"s",

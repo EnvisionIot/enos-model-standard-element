@@ -13,7 +13,7 @@
 		"defaultValue":"packaging date",
 		"i18nValue":{
 			"en_US":"packaging date",
-			"zh_CN":null
+			"zh_CN":"包装日期"
 		}
 	},
 	"unit":null,

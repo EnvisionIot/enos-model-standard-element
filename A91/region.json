@@ -13,7 +13,7 @@
 		"defaultValue":"region",
 		"i18nValue":{
 			"en_US":"region",
-			"zh_CN":null
+			"zh_CN":"区域"
 		}
 	},
 	"unit":null,

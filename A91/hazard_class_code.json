@@ -13,7 +13,7 @@
 		"defaultValue":"hazard class code",
 		"i18nValue":{
 			"en_US":"hazard class code",
-			"zh_CN":null
+			"zh_CN":"危险等级代码"
 		}
 	},
 	"unit":null,

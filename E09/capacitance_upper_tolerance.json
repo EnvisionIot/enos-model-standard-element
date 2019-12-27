@@ -11,7 +11,7 @@
 		"defaultValue":"capacitance upper tolerance",
 		"i18nValue":{
 			"en_US":"capacitance upper tolerance",
-			"zh_CN":null
+			"zh_CN":"电容上公差"
 		}
 	},
 	"unit":"%",

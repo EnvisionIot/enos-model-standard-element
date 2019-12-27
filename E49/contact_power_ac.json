@@ -11,7 +11,7 @@
 		"defaultValue":"contact power (ac)",
 		"i18nValue":{
 			"en_US":"contact power (ac)",
-			"zh_CN":null
+			"zh_CN":"触点功率（交流）"
 		}
 	},
 	"unit":"V·A",

@@ -23,7 +23,7 @@
 		"defaultValue":"recoverability information of an item",
 		"i18nValue":{
 			"en_US":"recoverability information of an item",
-			"zh_CN":null
+			"zh_CN":"物项可恢复性信息"
 		}
 	},
 	"unit":null,

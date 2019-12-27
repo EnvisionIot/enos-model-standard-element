@@ -11,7 +11,7 @@
 		"defaultValue":"terminal count",
 		"i18nValue":{
 			"en_US":"terminal count",
-			"zh_CN":null
+			"zh_CN":"端子数"
 		}
 	},
 	"unit":null,

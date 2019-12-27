@@ -11,7 +11,7 @@
 		"defaultValue":"crest working input voltage",
 		"i18nValue":{
 			"en_US":"crest working input voltage",
-			"zh_CN":null
+			"zh_CN":"波峰工作输入电压"
 		}
 	},
 	"unit":"V",

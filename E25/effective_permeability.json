@@ -11,7 +11,7 @@
 		"defaultValue":"effective permeability",
 		"i18nValue":{
 			"en_US":"effective permeability",
-			"zh_CN":null
+			"zh_CN":"有效磁导率"
 		}
 	},
 	"unit":null,

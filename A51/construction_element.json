@@ -13,7 +13,7 @@
 		"defaultValue":"construction element",
 		"i18nValue":{
 			"en_US":"construction element",
-			"zh_CN":null
+			"zh_CN":"构造元件"
 		}
 	},
 	"unit":null,

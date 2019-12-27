@@ -39,7 +39,7 @@
 		"defaultValue":"dielectric construction",
 		"i18nValue":{
 			"en_US":"dielectric construction",
-			"zh_CN":null
+			"zh_CN":"介电构造"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"cross-section",
 		"i18nValue":{
 			"en_US":"cross-section",
-			"zh_CN":null
+			"zh_CN":"横截面"
 		}
 	},
 	"unit":"m²",

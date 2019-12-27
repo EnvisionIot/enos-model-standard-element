@@ -11,7 +11,7 @@
 		"defaultValue":"lid height",
 		"i18nValue":{
 			"en_US":"lid height",
-			"zh_CN":null
+			"zh_CN":"盖子高度"
 		}
 	},
 	"unit":"m",

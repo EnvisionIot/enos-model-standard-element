@@ -11,7 +11,7 @@
 		"defaultValue":"difference base-emitter voltage",
 		"i18nValue":{
 			"en_US":"difference base-emitter voltage",
-			"zh_CN":null
+			"zh_CN":"基极-发射极电压差"
 		}
 	},
 	"unit":"V",

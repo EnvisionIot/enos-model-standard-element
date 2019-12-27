@@ -11,7 +11,7 @@
 		"defaultValue":"flange zone height",
 		"i18nValue":{
 			"en_US":"flange zone height",
-			"zh_CN":null
+			"zh_CN":"法兰区高度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"symmetry",
 		"i18nValue":{
 			"en_US":"symmetry",
-			"zh_CN":null
+			"zh_CN":"对称"
 		}
 	},
 	"unit":"%",

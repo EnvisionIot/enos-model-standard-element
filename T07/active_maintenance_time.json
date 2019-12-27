@@ -11,7 +11,7 @@
 		"defaultValue":"active maintenance time",
 		"i18nValue":{
 			"en_US":"active maintenance time",
-			"zh_CN":null
+			"zh_CN":"主动维护时间"
 		}
 	},
 	"unit":"h",

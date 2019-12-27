@@ -13,7 +13,7 @@
 		"defaultValue":"supply name",
 		"i18nValue":{
 			"en_US":"supply name",
-			"zh_CN":null
+			"zh_CN":"电源名称"
 		}
 	},
 	"unit":null,

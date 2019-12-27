@@ -13,7 +13,7 @@
 		"defaultValue":"connection requirement",
 		"i18nValue":{
 			"en_US":"connection requirement",
-			"zh_CN":null
+			"zh_CN":"连接需求"
 		}
 	},
 	"unit":null,

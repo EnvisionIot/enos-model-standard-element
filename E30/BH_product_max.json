@@ -11,7 +11,7 @@
 		"defaultValue":"BH product max",
 		"i18nValue":{
 			"en_US":"BH product max",
-			"zh_CN":null
+			"zh_CN":"BH 乘积最大值"
 		}
 	},
 	"unit":"J/m³",

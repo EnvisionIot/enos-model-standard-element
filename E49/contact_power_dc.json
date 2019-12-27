@@ -11,7 +11,7 @@
 		"defaultValue":"contact power (dc)",
 		"i18nValue":{
 			"en_US":"contact power (dc)",
-			"zh_CN":null
+			"zh_CN":"触点功率（直流）"
 		}
 	},
 	"unit":"V·A",

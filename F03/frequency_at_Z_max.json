@@ -11,7 +11,7 @@
 		"defaultValue":"frequency at Z_max",
 		"i18nValue":{
 			"en_US":"frequency at Z_max",
-			"zh_CN":null
+			"zh_CN":"最大阻抗频率"
 		}
 	},
 	"unit":"Hz",

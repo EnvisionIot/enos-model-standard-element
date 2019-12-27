@@ -11,7 +11,7 @@
 		"defaultValue":"emitter-base voltage V_EBO",
 		"i18nValue":{
 			"en_US":"emitter-base voltage V_EBO",
-			"zh_CN":null
+			"zh_CN":"发射极-基极电压 V_EBO"
 		}
 	},
 	"unit":"V",

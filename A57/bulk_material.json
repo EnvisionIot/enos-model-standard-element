@@ -13,7 +13,7 @@
 		"defaultValue":"bulk material",
 		"i18nValue":{
 			"en_US":"bulk material",
-			"zh_CN":null
+			"zh_CN":"散装材料"
 		}
 	},
 	"unit":null,

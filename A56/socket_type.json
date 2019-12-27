@@ -55,7 +55,7 @@
 		"defaultValue":"socket type",
 		"i18nValue":{
 			"en_US":"socket type",
-			"zh_CN":null
+			"zh_CN":"插槽类型"
 		}
 	},
 	"unit":null,

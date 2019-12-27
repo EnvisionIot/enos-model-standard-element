@@ -11,7 +11,7 @@
 		"defaultValue":"energising voltage (ac)",
 		"i18nValue":{
 			"en_US":"energising voltage (ac)",
-			"zh_CN":null
+			"zh_CN":"通电电压（交流）"
 		}
 	},
 	"unit":"V",

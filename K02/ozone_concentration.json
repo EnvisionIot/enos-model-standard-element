@@ -11,7 +11,7 @@
 		"defaultValue":"ozone concentration",
 		"i18nValue":{
 			"en_US":"ozone concentration",
-			"zh_CN":null
+			"zh_CN":"臭氧浓度"
 		}
 	},
 	"unit":"kg/m³",

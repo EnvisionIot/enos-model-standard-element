@@ -11,7 +11,7 @@
 		"defaultValue":"PTC switching resistance",
 		"i18nValue":{
 			"en_US":"PTC switching resistance",
-			"zh_CN":null
+			"zh_CN":"PTC 开关电阻"
 		}
 	},
 	"unit":"Ω",

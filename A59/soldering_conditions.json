@@ -43,7 +43,7 @@
 		"defaultValue":"soldering conditions",
 		"i18nValue":{
 			"en_US":"soldering conditions",
-			"zh_CN":null
+			"zh_CN":"焊接条件"
 		}
 	},
 	"unit":null,

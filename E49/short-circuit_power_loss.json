@@ -11,7 +11,7 @@
 		"defaultValue":"short-circuit power loss",
 		"i18nValue":{
 			"en_US":"short-circuit power loss",
-			"zh_CN":null
+			"zh_CN":"短路功率损耗"
 		}
 	},
 	"unit":"W",

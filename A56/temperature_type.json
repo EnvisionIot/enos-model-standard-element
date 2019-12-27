@@ -39,7 +39,7 @@
 		"defaultValue":"temperature type",
 		"i18nValue":{
 			"en_US":"temperature type",
-			"zh_CN":null
+			"zh_CN":"温度类型"
 		}
 	},
 	"unit":null,

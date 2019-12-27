@@ -13,7 +13,7 @@
 		"defaultValue":"electrical reference",
 		"i18nValue":{
 			"en_US":"electrical reference",
-			"zh_CN":null
+			"zh_CN":"电气参考"
 		}
 	},
 	"unit":null,

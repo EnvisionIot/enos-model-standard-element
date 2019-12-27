@@ -51,7 +51,7 @@
 		"defaultValue":"base type",
 		"i18nValue":{
 			"en_US":"base type",
-			"zh_CN":null
+			"zh_CN":"基本类型"
 		}
 	},
 	"unit":null,

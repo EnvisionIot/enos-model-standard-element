@@ -11,7 +11,7 @@
 		"defaultValue":"anode current peak",
 		"i18nValue":{
 			"en_US":"anode current peak",
-			"zh_CN":null
+			"zh_CN":"阳极峰值电流"
 		}
 	},
 	"unit":"A",

@@ -83,7 +83,7 @@
 		"defaultValue":"mounting features",
 		"i18nValue":{
 			"en_US":"mounting features",
-			"zh_CN":null
+			"zh_CN":"安装特征"
 		}
 	},
 	"unit":null,

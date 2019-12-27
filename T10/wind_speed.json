@@ -11,7 +11,7 @@
 		"defaultValue":"wind speed",
 		"i18nValue":{
 			"en_US":"wind speed",
-			"zh_CN":null
+			"zh_CN":"风速"
 		}
 	},
 	"unit":"m/s",

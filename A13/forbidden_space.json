@@ -35,7 +35,7 @@
 		"defaultValue":"forbidden space",
 		"i18nValue":{
 			"en_US":"forbidden space",
-			"zh_CN":null
+			"zh_CN":"禁区"
 		}
 	},
 	"unit":null,

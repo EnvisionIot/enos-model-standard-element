@@ -59,7 +59,7 @@
 		"defaultValue":"driving method",
 		"i18nValue":{
 			"en_US":"driving method",
-			"zh_CN":null
+			"zh_CN":"驱动方式"
 		}
 	},
 	"unit":null,

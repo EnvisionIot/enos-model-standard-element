@@ -39,7 +39,7 @@
 		"defaultValue":"adjuster placement",
 		"i18nValue":{
 			"en_US":"adjuster placement",
-			"zh_CN":null
+			"zh_CN":"调节器位置"
 		}
 	},
 	"unit":null,

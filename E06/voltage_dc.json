@@ -11,7 +11,7 @@
 		"defaultValue":"voltage (dc)",
 		"i18nValue":{
 			"en_US":"voltage (dc)",
-			"zh_CN":null
+			"zh_CN":"电压（直流）"
 		}
 	},
 	"unit":"V",

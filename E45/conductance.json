@@ -11,7 +11,7 @@
 		"defaultValue":"conductance",
 		"i18nValue":{
 			"en_US":"conductance",
-			"zh_CN":null
+			"zh_CN":"电导"
 		}
 	},
 	"unit":"S",

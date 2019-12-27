@@ -11,7 +11,7 @@
 		"defaultValue":"early life failure period",
 		"i18nValue":{
 			"en_US":"early life failure period",
-			"zh_CN":null
+			"zh_CN":"早期寿命故障期"
 		}
 	},
 	"unit":"yr",

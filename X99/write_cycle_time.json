@@ -11,7 +11,7 @@
 		"defaultValue":"write cycle time",
 		"i18nValue":{
 			"en_US":"write cycle time",
-			"zh_CN":null
+			"zh_CN":"写入周期时间"
 		}
 	},
 	"unit":"s",

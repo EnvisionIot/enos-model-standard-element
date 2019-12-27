@@ -23,7 +23,7 @@
 		"defaultValue":"connectable cable type",
 		"i18nValue":{
 			"en_US":"connectable cable type",
-			"zh_CN":null
+			"zh_CN":"可连接电缆类型"
 		}
 	},
 	"unit":null,

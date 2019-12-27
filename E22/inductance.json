@@ -11,7 +11,7 @@
 		"defaultValue":"inductance",
 		"i18nValue":{
 			"en_US":"inductance",
-			"zh_CN":null
+			"zh_CN":"电感"
 		}
 	},
 	"unit":"H",

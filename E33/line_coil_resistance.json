@@ -11,7 +11,7 @@
 		"defaultValue":"line coil resistance",
 		"i18nValue":{
 			"en_US":"line coil resistance",
-			"zh_CN":null
+			"zh_CN":"线路线圈电阻"
 		}
 	},
 	"unit":"Ω",

@@ -11,7 +11,7 @@
 		"defaultValue":"spectral response lower limit",
 		"i18nValue":{
 			"en_US":"spectral response lower limit",
-			"zh_CN":null
+			"zh_CN":"光谱响应下限"
 		}
 	},
 	"unit":"m",

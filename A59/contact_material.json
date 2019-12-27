@@ -83,7 +83,7 @@
 		"defaultValue":"contact material",
 		"i18nValue":{
 			"en_US":"contact material",
-			"zh_CN":null
+			"zh_CN":"触点材料"
 		}
 	},
 	"unit":null,

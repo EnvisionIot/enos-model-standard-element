@@ -13,7 +13,7 @@
 		"defaultValue":"uniform resource locator",
 		"i18nValue":{
 			"en_US":"uniform resource locator",
-			"zh_CN":null
+			"zh_CN":"统一资源定位器"
 		}
 	},
 	"unit":null,

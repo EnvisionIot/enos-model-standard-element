@@ -11,7 +11,7 @@
 		"defaultValue":"attenuation",
 		"i18nValue":{
 			"en_US":"attenuation",
-			"zh_CN":null
+			"zh_CN":"衰减"
 		}
 	},
 	"unit":"dB/m",

@@ -11,7 +11,7 @@
 		"defaultValue":"soil bearing capacity",
 		"i18nValue":{
 			"en_US":"soil bearing capacity",
-			"zh_CN":null
+			"zh_CN":"土壤承载力"
 		}
 	},
 	"unit":"N/m²",

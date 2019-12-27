@@ -11,7 +11,7 @@
 		"defaultValue":"metastable window",
 		"i18nValue":{
 			"en_US":"metastable window",
-			"zh_CN":null
+			"zh_CN":"亚稳态窗口"
 		}
 	},
 	"unit":"s",

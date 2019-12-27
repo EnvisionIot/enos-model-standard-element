@@ -11,7 +11,7 @@
 		"defaultValue":"min. panel thickness",
 		"i18nValue":{
 			"en_US":"min. panel thickness",
-			"zh_CN":null
+			"zh_CN":"最小面板厚度"
 		}
 	},
 	"unit":"m",

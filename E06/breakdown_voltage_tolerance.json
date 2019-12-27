@@ -11,7 +11,7 @@
 		"defaultValue":"breakdown voltage tolerance",
 		"i18nValue":{
 			"en_US":"breakdown voltage tolerance",
-			"zh_CN":null
+			"zh_CN":"击穿电压公差"
 		}
 	},
 	"unit":"V",

@@ -35,7 +35,7 @@
 		"defaultValue":"diode function",
 		"i18nValue":{
 			"en_US":"diode function",
-			"zh_CN":null
+			"zh_CN":"二极管功能"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"availability of wear and tear parts",
 		"i18nValue":{
 			"en_US":"availability of wear and tear parts",
-			"zh_CN":null
+			"zh_CN":"易损耗零件可用性"
 		}
 	},
 	"unit":"yr",

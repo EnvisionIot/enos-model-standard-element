@@ -13,7 +13,7 @@
 					"defaultValue":"organization name",
 					"i18nValue":{
 						"en_US":"organization name",
-						"zh_CN":null
+						"zh_CN":"组织名称"
 					}
 				},
 				"unit":null
@@ -39,7 +39,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -56,7 +56,7 @@
 		"defaultValue":"reference to organization-based effectivity class",
 		"i18nValue":{
 			"en_US":"reference to organization-based effectivity class",
-			"zh_CN":null
+			"zh_CN":"参考基于组织的有效性类别"
 		}
 	},
 	"unit":null,

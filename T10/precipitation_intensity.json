@@ -11,7 +11,7 @@
 		"defaultValue":"precipitation intensity",
 		"i18nValue":{
 			"en_US":"precipitation intensity",
-			"zh_CN":null
+			"zh_CN":"降水强度"
 		}
 	},
 	"unit":"mm/h",

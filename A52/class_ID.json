@@ -13,7 +13,7 @@
 		"defaultValue":"class ID",
 		"i18nValue":{
 			"en_US":"class ID",
-			"zh_CN":null
+			"zh_CN":"类别 ID"
 		}
 	},
 	"unit":null,

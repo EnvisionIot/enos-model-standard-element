@@ -13,7 +13,7 @@
 					"defaultValue":"postal name",
 					"i18nValue":{
 						"en_US":"postal name",
-						"zh_CN":null
+						"zh_CN":"邮政名称"
 					}
 				},
 				"unit":null
@@ -29,7 +29,7 @@
 					"defaultValue":"postal box",
 					"i18nValue":{
 						"en_US":"postal box",
-						"zh_CN":null
+						"zh_CN":"邮政信箱"
 					}
 				},
 				"unit":null
@@ -45,7 +45,7 @@
 					"defaultValue":"postal code",
 					"i18nValue":{
 						"en_US":"postal code",
-						"zh_CN":null
+						"zh_CN":"邮政编码"
 					}
 				},
 				"unit":null
@@ -61,7 +61,7 @@
 					"defaultValue":"country name",
 					"i18nValue":{
 						"en_US":"country name",
-						"zh_CN":null
+						"zh_CN":"国家/地区名称"
 					}
 				},
 				"unit":null
@@ -87,7 +87,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -104,7 +104,7 @@
 		"defaultValue":"reference to Postal address class",
 		"i18nValue":{
 			"en_US":"reference to Postal address class",
-			"zh_CN":null
+			"zh_CN":"参考邮政地址类别"
 		}
 	},
 	"unit":null,

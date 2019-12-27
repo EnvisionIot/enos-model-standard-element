@@ -11,7 +11,7 @@
 		"defaultValue":"saturation flux density",
 		"i18nValue":{
 			"en_US":"saturation flux density",
-			"zh_CN":null
+			"zh_CN":"饱和磁通密度"
 		}
 	},
 	"unit":"T",

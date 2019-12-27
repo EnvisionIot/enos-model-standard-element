@@ -11,7 +11,7 @@
 		"defaultValue":"mean operating time to first failure",
 		"i18nValue":{
 			"en_US":"mean operating time to first failure",
-			"zh_CN":null
+			"zh_CN":"预期发生首次故障的平均运行时间"
 		}
 	},
 	"unit":"h",

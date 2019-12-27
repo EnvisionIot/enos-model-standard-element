@@ -13,7 +13,7 @@
 		"defaultValue":"premises name",
 		"i18nValue":{
 			"en_US":"premises name",
-			"zh_CN":null
+			"zh_CN":"处所名称"
 		}
 	},
 	"unit":null,

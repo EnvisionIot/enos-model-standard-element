@@ -11,7 +11,7 @@
 		"defaultValue":"absolute pull range",
 		"i18nValue":{
 			"en_US":"absolute pull range",
-			"zh_CN":null
+			"zh_CN":"绝对拉取范围"
 		}
 	},
 	"unit":null,

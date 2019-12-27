@@ -11,7 +11,7 @@
 		"defaultValue":"slew rate",
 		"i18nValue":{
 			"en_US":"slew rate",
-			"zh_CN":null
+			"zh_CN":"压摆率"
 		}
 	},
 	"unit":"V/s",

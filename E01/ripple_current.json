@@ -11,7 +11,7 @@
 		"defaultValue":"ripple current",
 		"i18nValue":{
 			"en_US":"ripple current",
-			"zh_CN":null
+			"zh_CN":"纹波电流"
 		}
 	},
 	"unit":"A",

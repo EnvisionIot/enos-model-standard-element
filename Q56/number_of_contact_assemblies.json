@@ -11,7 +11,7 @@
 		"defaultValue":"number of contact assemblies",
 		"i18nValue":{
 			"en_US":"number of contact assemblies",
-			"zh_CN":null
+			"zh_CN":"触点组件数"
 		}
 	},
 	"unit":null,

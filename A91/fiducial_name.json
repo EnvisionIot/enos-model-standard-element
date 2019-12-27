@@ -13,7 +13,7 @@
 		"defaultValue":"fiducial name",
 		"i18nValue":{
 			"en_US":"fiducial name",
-			"zh_CN":null
+			"zh_CN":"基准名称"
 		}
 	},
 	"unit":null,

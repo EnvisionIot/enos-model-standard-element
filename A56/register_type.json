@@ -27,7 +27,7 @@
 		"defaultValue":"register type",
 		"i18nValue":{
 			"en_US":"register type",
-			"zh_CN":null
+			"zh_CN":"寄存器类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"drain cut-off current",
 		"i18nValue":{
 			"en_US":"drain cut-off current",
-			"zh_CN":null
+			"zh_CN":"漏极截止电流"
 		}
 	},
 	"unit":"A",

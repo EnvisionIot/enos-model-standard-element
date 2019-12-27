@@ -31,7 +31,7 @@
 		"defaultValue":"geometric units",
 		"i18nValue":{
 			"en_US":"geometric units",
-			"zh_CN":null
+			"zh_CN":"几何单位"
 		}
 	},
 	"unit":null,

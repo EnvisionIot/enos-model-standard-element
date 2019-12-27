@@ -11,7 +11,7 @@
 		"defaultValue":"hexagon width",
 		"i18nValue":{
 			"en_US":"hexagon width",
-			"zh_CN":null
+			"zh_CN":"六边形宽度"
 		}
 	},
 	"unit":"°",

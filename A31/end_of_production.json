@@ -11,7 +11,7 @@
 		"defaultValue":"end of production",
 		"i18nValue":{
 			"en_US":"end of production",
-			"zh_CN":null
+			"zh_CN":"生产结束日期"
 		}
 	},
 	"unit":null,

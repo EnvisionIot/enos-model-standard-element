@@ -11,7 +11,7 @@
 		"defaultValue":"sphere radius",
 		"i18nValue":{
 			"en_US":"sphere radius",
-			"zh_CN":null
+			"zh_CN":"球半径"
 		}
 	},
 	"unit":"m",

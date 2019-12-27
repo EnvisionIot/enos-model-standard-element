@@ -13,7 +13,7 @@
 		"defaultValue":"aspect ratio",
 		"i18nValue":{
 			"en_US":"aspect ratio",
-			"zh_CN":null
+			"zh_CN":"长宽比"
 		}
 	},
 	"unit":null,

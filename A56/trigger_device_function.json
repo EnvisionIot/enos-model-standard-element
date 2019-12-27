@@ -27,7 +27,7 @@
 		"defaultValue":"trigger device function",
 		"i18nValue":{
 			"en_US":"trigger device function",
-			"zh_CN":null
+			"zh_CN":"触发装置功能"
 		}
 	},
 	"unit":null,

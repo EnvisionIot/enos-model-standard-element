@@ -11,7 +11,7 @@
 		"defaultValue":"energising current (dc)",
 		"i18nValue":{
 			"en_US":"energising current (dc)",
-			"zh_CN":null
+			"zh_CN":"通电电流（直流）"
 		}
 	},
 	"unit":"A",

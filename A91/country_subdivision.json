@@ -13,7 +13,7 @@
 		"defaultValue":"country subdivision",
 		"i18nValue":{
 			"en_US":"country subdivision",
-			"zh_CN":null
+			"zh_CN":"国家/地区细分"
 		}
 	},
 	"unit":null,

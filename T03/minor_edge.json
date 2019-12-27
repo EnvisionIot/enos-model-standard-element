@@ -11,7 +11,7 @@
 		"defaultValue":"minor edge",
 		"i18nValue":{
 			"en_US":"minor edge",
-			"zh_CN":null
+			"zh_CN":"小边缘"
 		}
 	},
 	"unit":"m",

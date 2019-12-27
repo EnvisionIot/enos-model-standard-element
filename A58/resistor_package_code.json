@@ -13,7 +13,7 @@
 		"defaultValue":"resistor package code",
 		"i18nValue":{
 			"en_US":"resistor package code",
-			"zh_CN":null
+			"zh_CN":"电阻器封装代码"
 		}
 	},
 	"unit":null,

@@ -27,7 +27,7 @@
 		"defaultValue":"locking device",
 		"i18nValue":{
 			"en_US":"locking device",
-			"zh_CN":null
+			"zh_CN":"锁定设备"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"input power",
 		"i18nValue":{
 			"en_US":"input power",
-			"zh_CN":null
+			"zh_CN":"输入功率"
 		}
 	},
 	"unit":"W",

@@ -27,7 +27,7 @@
 		"defaultValue":"test criteria",
 		"i18nValue":{
 			"en_US":"test criteria",
-			"zh_CN":null
+			"zh_CN":"测试标准"
 		}
 	},
 	"unit":null,

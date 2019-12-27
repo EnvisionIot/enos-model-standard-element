@@ -11,7 +11,7 @@
 		"defaultValue":"emitter current (dc)",
 		"i18nValue":{
 			"en_US":"emitter current (dc)",
-			"zh_CN":null
+			"zh_CN":"发射极电流（直流）"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"light resistance",
 		"i18nValue":{
 			"en_US":"light resistance",
-			"zh_CN":null
+			"zh_CN":"耐光性"
 		}
 	},
 	"unit":"Ω",

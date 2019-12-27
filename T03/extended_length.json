@@ -11,7 +11,7 @@
 		"defaultValue":"extended length",
 		"i18nValue":{
 			"en_US":"extended length",
-			"zh_CN":null
+			"zh_CN":"延伸长度"
 		}
 	},
 	"unit":"m",

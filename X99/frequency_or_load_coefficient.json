@@ -11,7 +11,7 @@
 		"defaultValue":"frequency/load coefficient",
 		"i18nValue":{
 			"en_US":"frequency/load coefficient",
-			"zh_CN":null
+			"zh_CN":"频率/负载系数"
 		}
 	},
 	"unit":null,

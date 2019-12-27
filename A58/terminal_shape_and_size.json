@@ -13,7 +13,7 @@
 		"defaultValue":"terminal shape and size",
 		"i18nValue":{
 			"en_US":"terminal shape and size",
-			"zh_CN":null
+			"zh_CN":"端子形状和尺寸"
 		}
 	},
 	"unit":null,

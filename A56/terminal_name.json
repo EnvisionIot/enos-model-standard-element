@@ -13,7 +13,7 @@
 		"defaultValue":"terminal name",
 		"i18nValue":{
 			"en_US":"terminal name",
-			"zh_CN":null
+			"zh_CN":"端子名称"
 		}
 	},
 	"unit":null,

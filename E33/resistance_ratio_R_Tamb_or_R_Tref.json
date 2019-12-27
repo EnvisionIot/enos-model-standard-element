@@ -11,7 +11,7 @@
 		"defaultValue":"resistance ratio R_Tamb}/R_Tref}",
 		"i18nValue":{
 			"en_US":"resistance ratio R_Tamb}/R_Tref}",
-			"zh_CN":null
+			"zh_CN":"电阻比 R_Tamb} / R_Tref}"
 		}
 	},
 	"unit":null,

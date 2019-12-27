@@ -35,7 +35,7 @@
 		"defaultValue":"addressing mode",
 		"i18nValue":{
 			"en_US":"addressing mode",
-			"zh_CN":null
+			"zh_CN":"寻址方式"
 		}
 	},
 	"unit":null,

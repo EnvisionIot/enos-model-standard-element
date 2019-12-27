@@ -11,7 +11,7 @@
 		"defaultValue":"average forward current",
 		"i18nValue":{
 			"en_US":"average forward current",
-			"zh_CN":null
+			"zh_CN":"平均正向电流"
 		}
 	},
 	"unit":"A",

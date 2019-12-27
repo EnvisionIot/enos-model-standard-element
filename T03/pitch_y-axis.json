@@ -11,7 +11,7 @@
 		"defaultValue":"pitch (y-axis)",
 		"i18nValue":{
 			"en_US":"pitch (y-axis)",
-			"zh_CN":null
+			"zh_CN":"间距（y 轴）"
 		}
 	},
 	"unit":"m",

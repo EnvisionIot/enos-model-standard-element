@@ -23,7 +23,7 @@
 		"defaultValue":"cable/wire",
 		"i18nValue":{
 			"en_US":"cable/wire",
-			"zh_CN":null
+			"zh_CN":"电缆/电线"
 		}
 	},
 	"unit":null,

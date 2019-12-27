@@ -11,7 +11,7 @@
 		"defaultValue":"dc current gain",
 		"i18nValue":{
 			"en_US":"dc current gain",
-			"zh_CN":null
+			"zh_CN":"直流电流增益"
 		}
 	},
 	"unit":null,

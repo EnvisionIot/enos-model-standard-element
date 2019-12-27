@@ -27,7 +27,7 @@
 		"defaultValue":"coil transient suppression device",
 		"i18nValue":{
 			"en_US":"coil transient suppression device",
-			"zh_CN":null
+			"zh_CN":"线圈暂态抑制装置"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"lower category temperature",
 		"i18nValue":{
 			"en_US":"lower category temperature",
-			"zh_CN":null
+			"zh_CN":"下限温度"
 		}
 	},
 	"unit":"°C",

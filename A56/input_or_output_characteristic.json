@@ -63,7 +63,7 @@
 		"defaultValue":"input/output characteristic",
 		"i18nValue":{
 			"en_US":"input/output characteristic",
-			"zh_CN":null
+			"zh_CN":"输入/输出特性"
 		}
 	},
 	"unit":null,

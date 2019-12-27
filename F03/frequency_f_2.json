@@ -11,7 +11,7 @@
 		"defaultValue":"frequency f_2",
 		"i18nValue":{
 			"en_US":"frequency f_2",
-			"zh_CN":null
+			"zh_CN":"频率 f_2"
 		}
 	},
 	"unit":"Hz",

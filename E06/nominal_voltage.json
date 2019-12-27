@@ -11,7 +11,7 @@
 		"defaultValue":"nominal voltage",
 		"i18nValue":{
 			"en_US":"nominal voltage",
-			"zh_CN":null
+			"zh_CN":"标称电压"
 		}
 	},
 	"unit":"V",

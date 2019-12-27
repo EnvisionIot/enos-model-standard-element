@@ -11,7 +11,7 @@
 		"defaultValue":"overtone order",
 		"i18nValue":{
 			"en_US":"overtone order",
-			"zh_CN":null
+			"zh_CN":"谐波次数"
 		}
 	},
 	"unit":null,

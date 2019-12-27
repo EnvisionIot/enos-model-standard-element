@@ -11,7 +11,7 @@
 		"defaultValue":"output voltage EHT supply",
 		"i18nValue":{
 			"en_US":"output voltage EHT supply",
-			"zh_CN":null
+			"zh_CN":"EHT 电源输出电压"
 		}
 	},
 	"unit":"V",

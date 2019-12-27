@@ -27,7 +27,7 @@
 		"defaultValue":"actuating quantity",
 		"i18nValue":{
 			"en_US":"actuating quantity",
-			"zh_CN":null
+			"zh_CN":"作用量"
 		}
 	},
 	"unit":null,

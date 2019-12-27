@@ -11,7 +11,7 @@
 		"defaultValue":"thermal resistance",
 		"i18nValue":{
 			"en_US":"thermal resistance",
-			"zh_CN":null
+			"zh_CN":"热阻"
 		}
 	},
 	"unit":"K/W",

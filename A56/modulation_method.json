@@ -111,7 +111,7 @@
 		"defaultValue":"modulation method",
 		"i18nValue":{
 			"en_US":"modulation method",
-			"zh_CN":null
+			"zh_CN":"调制方式"
 		}
 	},
 	"unit":null,

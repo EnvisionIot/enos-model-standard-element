@@ -27,7 +27,7 @@
 		"defaultValue":"concentric plug/jack type",
 		"i18nValue":{
 			"en_US":"concentric plug/jack type",
-			"zh_CN":null
+			"zh_CN":"同心插头/插孔类型"
 		}
 	},
 	"unit":null,

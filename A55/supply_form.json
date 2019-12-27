@@ -13,7 +13,7 @@
 		"defaultValue":"supply form",
 		"i18nValue":{
 			"en_US":"supply form",
-			"zh_CN":null
+			"zh_CN":"供应形式"
 		}
 	},
 	"unit":null,

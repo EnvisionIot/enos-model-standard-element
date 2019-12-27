@@ -23,7 +23,7 @@
 		"defaultValue":"active element",
 		"i18nValue":{
 			"en_US":"active element",
-			"zh_CN":null
+			"zh_CN":"有源元件"
 		}
 	},
 	"unit":null,

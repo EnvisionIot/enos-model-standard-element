@@ -11,7 +11,7 @@
 		"defaultValue":"slug diameter",
 		"i18nValue":{
 			"en_US":"slug diameter",
-			"zh_CN":null
+			"zh_CN":"接线片直径"
 		}
 	},
 	"unit":"m",

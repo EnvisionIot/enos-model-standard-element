@@ -11,7 +11,7 @@
 		"defaultValue":"index terminal length",
 		"i18nValue":{
 			"en_US":"index terminal length",
-			"zh_CN":null
+			"zh_CN":"参考端子长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"heat radiation intensity",
 		"i18nValue":{
 			"en_US":"heat radiation intensity",
-			"zh_CN":null
+			"zh_CN":"热辐射强度"
 		}
 	},
 	"unit":"W/m²",

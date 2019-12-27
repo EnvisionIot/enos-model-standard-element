@@ -43,7 +43,7 @@
 		"defaultValue":"shape of flange",
 		"i18nValue":{
 			"en_US":"shape of flange",
-			"zh_CN":null
+			"zh_CN":"法兰形状"
 		}
 	},
 	"unit":null,

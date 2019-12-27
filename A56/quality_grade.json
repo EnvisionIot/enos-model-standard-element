@@ -23,7 +23,7 @@
 		"defaultValue":"quality grade",
 		"i18nValue":{
 			"en_US":"quality grade",
-			"zh_CN":null
+			"zh_CN":"质量等级"
 		}
 	},
 	"unit":null,

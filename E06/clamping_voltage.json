@@ -11,7 +11,7 @@
 		"defaultValue":"clamping voltage",
 		"i18nValue":{
 			"en_US":"clamping voltage",
-			"zh_CN":null
+			"zh_CN":"钳位电压"
 		}
 	},
 	"unit":"V",

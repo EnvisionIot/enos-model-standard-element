@@ -11,7 +11,7 @@
 		"defaultValue":"load regulation ratio",
 		"i18nValue":{
 			"en_US":"load regulation ratio",
-			"zh_CN":null
+			"zh_CN":"负载调整率"
 		}
 	},
 	"unit":null,

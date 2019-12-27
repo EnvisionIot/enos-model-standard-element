@@ -13,7 +13,7 @@
 		"defaultValue":"material class name",
 		"i18nValue":{
 			"en_US":"material class name",
-			"zh_CN":null
+			"zh_CN":"材料类别名称"
 		}
 	},
 	"unit":null,

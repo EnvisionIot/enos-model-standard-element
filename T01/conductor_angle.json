@@ -11,7 +11,7 @@
 		"defaultValue":"conductor angle",
 		"i18nValue":{
 			"en_US":"conductor angle",
-			"zh_CN":null
+			"zh_CN":"导体角"
 		}
 	},
 	"unit":"°",

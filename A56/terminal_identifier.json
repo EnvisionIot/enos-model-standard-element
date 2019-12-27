@@ -13,7 +13,7 @@
 		"defaultValue":"terminal identifier",
 		"i18nValue":{
 			"en_US":"terminal identifier",
-			"zh_CN":null
+			"zh_CN":"端子识别码"
 		}
 	},
 	"unit":null,

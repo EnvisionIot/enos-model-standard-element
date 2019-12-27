@@ -11,7 +11,7 @@
 		"defaultValue":"insulation resistance",
 		"i18nValue":{
 			"en_US":"insulation resistance",
-			"zh_CN":null
+			"zh_CN":"绝缘电阻"
 		}
 	},
 	"unit":"Ω",

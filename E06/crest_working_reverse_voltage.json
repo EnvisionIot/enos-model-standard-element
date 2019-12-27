@@ -11,7 +11,7 @@
 		"defaultValue":"crest working reverse voltage",
 		"i18nValue":{
 			"en_US":"crest working reverse voltage",
-			"zh_CN":null
+			"zh_CN":"波峰工作反向电压"
 		}
 	},
 	"unit":"V",

@@ -11,7 +11,7 @@
 		"defaultValue":"contact voltage",
 		"i18nValue":{
 			"en_US":"contact voltage",
-			"zh_CN":null
+			"zh_CN":"触点电压"
 		}
 	},
 	"unit":"V",

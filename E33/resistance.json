@@ -11,7 +11,7 @@
 		"defaultValue":"resistance",
 		"i18nValue":{
 			"en_US":"resistance",
-			"zh_CN":null
+			"zh_CN":"电阻"
 		}
 	},
 	"unit":"Ω",

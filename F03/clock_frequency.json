@@ -11,7 +11,7 @@
 		"defaultValue":"clock frequency",
 		"i18nValue":{
 			"en_US":"clock frequency",
-			"zh_CN":null
+			"zh_CN":"时钟频率"
 		}
 	},
 	"unit":"Hz",

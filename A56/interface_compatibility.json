@@ -23,7 +23,7 @@
 		"defaultValue":"interface compatibility",
 		"i18nValue":{
 			"en_US":"interface compatibility",
-			"zh_CN":null
+			"zh_CN":"接口兼容性"
 		}
 	},
 	"unit":null,

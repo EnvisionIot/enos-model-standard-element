@@ -11,7 +11,7 @@
 		"defaultValue":"number of current carrying paths",
 		"i18nValue":{
 			"en_US":"number of current carrying paths",
-			"zh_CN":null
+			"zh_CN":"载流路径数"
 		}
 	},
 	"unit":null,

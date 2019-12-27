@@ -11,7 +11,7 @@
 		"defaultValue":"low-level quiescent supply current",
 		"i18nValue":{
 			"en_US":"low-level quiescent supply current",
-			"zh_CN":null
+			"zh_CN":"低电平静态电源电流"
 		}
 	},
 	"unit":"A",

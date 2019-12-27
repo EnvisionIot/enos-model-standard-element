@@ -11,7 +11,7 @@
 		"defaultValue":"hold time",
 		"i18nValue":{
 			"en_US":"hold time",
-			"zh_CN":null
+			"zh_CN":"保持时间"
 		}
 	},
 	"unit":"s",

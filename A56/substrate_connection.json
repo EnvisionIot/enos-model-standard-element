@@ -13,7 +13,7 @@
 		"defaultValue":"substrate connection",
 		"i18nValue":{
 			"en_US":"substrate connection",
-			"zh_CN":null
+			"zh_CN":"基板连接"
 		}
 	},
 	"unit":null,

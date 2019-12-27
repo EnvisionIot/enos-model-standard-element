@@ -11,7 +11,7 @@
 		"defaultValue":"end of spare part delivery",
 		"i18nValue":{
 			"en_US":"end of spare part delivery",
-			"zh_CN":null
+			"zh_CN":"备件交付期结束日期"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"output supply voltage",
 		"i18nValue":{
 			"en_US":"output supply voltage",
-			"zh_CN":null
+			"zh_CN":"输出电源电压"
 		}
 	},
 	"unit":"V",

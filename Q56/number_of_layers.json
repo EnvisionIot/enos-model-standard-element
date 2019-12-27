@@ -11,7 +11,7 @@
 		"defaultValue":"number of layers",
 		"i18nValue":{
 			"en_US":"number of layers",
-			"zh_CN":null
+			"zh_CN":"层数"
 		}
 	},
 	"unit":null,

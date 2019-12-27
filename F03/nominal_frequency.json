@@ -11,7 +11,7 @@
 		"defaultValue":"nominal frequency",
 		"i18nValue":{
 			"en_US":"nominal frequency",
-			"zh_CN":null
+			"zh_CN":"标称频率"
 		}
 	},
 	"unit":"Hz",

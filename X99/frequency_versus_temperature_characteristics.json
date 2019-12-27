@@ -11,7 +11,7 @@
 		"defaultValue":"frequency versus temperature characteristics",
 		"i18nValue":{
 			"en_US":"frequency versus temperature characteristics",
-			"zh_CN":null
+			"zh_CN":"频率与温度特性"
 		}
 	},
 	"unit":null,

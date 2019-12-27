@@ -11,7 +11,7 @@
 		"defaultValue":"operating supply current",
 		"i18nValue":{
 			"en_US":"operating supply current",
-			"zh_CN":null
+			"zh_CN":"工作电源电流"
 		}
 	},
 	"unit":"A",

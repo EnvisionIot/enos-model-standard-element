@@ -11,7 +11,7 @@
 		"defaultValue":"instantaneous failure rate",
 		"i18nValue":{
 			"en_US":"instantaneous failure rate",
-			"zh_CN":null
+			"zh_CN":"瞬时故障率"
 		}
 	},
 	"unit":"%",

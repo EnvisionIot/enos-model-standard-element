@@ -27,7 +27,7 @@
 		"defaultValue":"connection method",
 		"i18nValue":{
 			"en_US":"connection method",
-			"zh_CN":null
+			"zh_CN":"连接方式"
 		}
 	},
 	"unit":null,

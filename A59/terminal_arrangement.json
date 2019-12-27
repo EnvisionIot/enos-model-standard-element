@@ -39,7 +39,7 @@
 		"defaultValue":"terminal arrangement",
 		"i18nValue":{
 			"en_US":"terminal arrangement",
-			"zh_CN":null
+			"zh_CN":"端子布置"
 		}
 	},
 	"unit":null,

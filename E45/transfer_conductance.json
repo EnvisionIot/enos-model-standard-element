@@ -11,7 +11,7 @@
 		"defaultValue":"transfer conductance",
 		"i18nValue":{
 			"en_US":"transfer conductance",
-			"zh_CN":null
+			"zh_CN":"转移电导"
 		}
 	},
 	"unit":"S",

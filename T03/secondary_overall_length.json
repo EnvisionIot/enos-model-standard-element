@@ -11,7 +11,7 @@
 		"defaultValue":"secondary overall length",
 		"i18nValue":{
 			"en_US":"secondary overall length",
-			"zh_CN":null
+			"zh_CN":"次总长度"
 		}
 	},
 	"unit":"m",

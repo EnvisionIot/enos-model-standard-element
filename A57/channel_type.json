@@ -23,7 +23,7 @@
 		"defaultValue":"channel type",
 		"i18nValue":{
 			"en_US":"channel type",
-			"zh_CN":null
+			"zh_CN":"通道类型"
 		}
 	},
 	"unit":null,

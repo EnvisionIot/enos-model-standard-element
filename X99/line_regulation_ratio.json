@@ -11,7 +11,7 @@
 		"defaultValue":"line regulation ratio",
 		"i18nValue":{
 			"en_US":"line regulation ratio",
-			"zh_CN":null
+			"zh_CN":"线性调整率"
 		}
 	},
 	"unit":null,

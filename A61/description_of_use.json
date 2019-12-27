@@ -13,7 +13,7 @@
 		"defaultValue":"description of use",
 		"i18nValue":{
 			"en_US":"description of use",
-			"zh_CN":null
+			"zh_CN":"使用说明"
 		}
 	},
 	"unit":null,

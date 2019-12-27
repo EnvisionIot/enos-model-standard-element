@@ -23,7 +23,7 @@
 		"defaultValue":"built-in fuse",
 		"i18nValue":{
 			"en_US":"built-in fuse",
-			"zh_CN":null
+			"zh_CN":"内置保险丝"
 		}
 	},
 	"unit":null,

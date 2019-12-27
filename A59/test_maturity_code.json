@@ -51,7 +51,7 @@
 		"defaultValue":"test maturity code",
 		"i18nValue":{
 			"en_US":"test maturity code",
-			"zh_CN":null
+			"zh_CN":"测试成熟度代码"
 		}
 	},
 	"unit":null,

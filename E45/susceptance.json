@@ -11,7 +11,7 @@
 		"defaultValue":"susceptance",
 		"i18nValue":{
 			"en_US":"susceptance",
-			"zh_CN":null
+			"zh_CN":"电纳"
 		}
 	},
 	"unit":"S",

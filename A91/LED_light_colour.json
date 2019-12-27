@@ -47,7 +47,7 @@
 		"defaultValue":"LED light colour",
 		"i18nValue":{
 			"en_US":"LED light colour",
-			"zh_CN":null
+			"zh_CN":"LED 发光颜色"
 		}
 	},
 	"unit":null,

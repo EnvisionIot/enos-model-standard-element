@@ -47,7 +47,7 @@
 		"defaultValue":"category EM component",
 		"i18nValue":{
 			"en_US":"category EM component",
-			"zh_CN":null
+			"zh_CN":"EM 类组件"
 		}
 	},
 	"unit":null,

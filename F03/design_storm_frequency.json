@@ -11,7 +11,7 @@
 		"defaultValue":"design storm frequency",
 		"i18nValue":{
 			"en_US":"design storm frequency",
-			"zh_CN":null
+			"zh_CN":"设计风暴频率"
 		}
 	},
 	"unit":"1/y",

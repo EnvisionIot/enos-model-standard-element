@@ -35,7 +35,7 @@
 		"defaultValue":"diode configuration",
 		"i18nValue":{
 			"en_US":"diode configuration",
-			"zh_CN":null
+			"zh_CN":"二极管配置"
 		}
 	},
 	"unit":null,

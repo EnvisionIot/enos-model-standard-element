@@ -11,7 +11,7 @@
 		"defaultValue":"total power loss",
 		"i18nValue":{
 			"en_US":"total power loss",
-			"zh_CN":null
+			"zh_CN":"总功率损耗"
 		}
 	},
 	"unit":"W",

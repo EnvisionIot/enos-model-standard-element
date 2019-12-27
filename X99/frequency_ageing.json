@@ -11,7 +11,7 @@
 		"defaultValue":"frequency ageing",
 		"i18nValue":{
 			"en_US":"frequency ageing",
-			"zh_CN":null
+			"zh_CN":"频率老化"
 		}
 	},
 	"unit":null,

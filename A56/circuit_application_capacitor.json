@@ -55,7 +55,7 @@
 		"defaultValue":"circuit application (capacitor)",
 		"i18nValue":{
 			"en_US":"circuit application (capacitor)",
-			"zh_CN":null
+			"zh_CN":"电路应用（电容器）"
 		}
 	},
 	"unit":null,

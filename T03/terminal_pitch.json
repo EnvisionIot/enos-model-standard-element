@@ -11,7 +11,7 @@
 		"defaultValue":"terminal pitch",
 		"i18nValue":{
 			"en_US":"terminal pitch",
-			"zh_CN":null
+			"zh_CN":"端子间距"
 		}
 	},
 	"unit":"m",

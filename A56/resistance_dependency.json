@@ -27,7 +27,7 @@
 		"defaultValue":"resistance dependency",
 		"i18nValue":{
 			"en_US":"resistance dependency",
-			"zh_CN":null
+			"zh_CN":"电阻依赖性"
 		}
 	},
 	"unit":null,

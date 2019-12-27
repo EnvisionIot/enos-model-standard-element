@@ -11,7 +11,7 @@
 		"defaultValue":"connectable conductor cross-section",
 		"i18nValue":{
 			"en_US":"connectable conductor cross-section",
-			"zh_CN":null
+			"zh_CN":"可连接导体横截面"
 		}
 	},
 	"unit":"m²",

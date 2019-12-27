@@ -13,7 +13,7 @@
 		"defaultValue":"input voltage for line regulation",
 		"i18nValue":{
 			"en_US":"input voltage for line regulation",
-			"zh_CN":null
+			"zh_CN":"线性调整输入电压"
 		}
 	},
 	"unit":"V",

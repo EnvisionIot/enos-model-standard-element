@@ -11,7 +11,7 @@
 		"defaultValue":"calendar date",
 		"i18nValue":{
 			"en_US":"calendar date",
-			"zh_CN":null
+			"zh_CN":"日历日期"
 		}
 	},
 	"unit":null,

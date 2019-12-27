@@ -11,7 +11,7 @@
 		"defaultValue":"withstanding voltage",
 		"i18nValue":{
 			"en_US":"withstanding voltage",
-			"zh_CN":null
+			"zh_CN":"耐受电压"
 		}
 	},
 	"unit":"V",

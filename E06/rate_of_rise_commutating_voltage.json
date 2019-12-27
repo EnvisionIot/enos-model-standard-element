@@ -11,7 +11,7 @@
 		"defaultValue":"rate of rise commutating voltage",
 		"i18nValue":{
 			"en_US":"rate of rise commutating voltage",
-			"zh_CN":null
+			"zh_CN":"换向电压上升率"
 		}
 	},
 	"unit":"V",

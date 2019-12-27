@@ -11,7 +11,7 @@
 		"defaultValue":"last time buy",
 		"i18nValue":{
 			"en_US":"last time buy",
-			"zh_CN":null
+			"zh_CN":"上次购买时间"
 		}
 	},
 	"unit":null,

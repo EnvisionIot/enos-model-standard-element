@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off diameter",
 		"i18nValue":{
 			"en_US":"stand-off diameter",
-			"zh_CN":null
+			"zh_CN":"支座直径"
 		}
 	},
 	"unit":"m",

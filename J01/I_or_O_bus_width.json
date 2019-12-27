@@ -11,7 +11,7 @@
 		"defaultValue":"I/O bus width",
 		"i18nValue":{
 			"en_US":"I/O bus width",
-			"zh_CN":null
+			"zh_CN":"I/O 总线宽度"
 		}
 	},
 	"unit":"bit",

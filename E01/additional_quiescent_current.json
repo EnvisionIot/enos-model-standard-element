@@ -11,7 +11,7 @@
 		"defaultValue":"additional quiescent current",
 		"i18nValue":{
 			"en_US":"additional quiescent current",
-			"zh_CN":null
+			"zh_CN":"额外静态电流"
 		}
 	},
 	"unit":"A",

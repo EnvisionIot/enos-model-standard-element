@@ -13,7 +13,7 @@
 		"defaultValue":"result of check for restriction of hazardous substances",
 		"i18nValue":{
 			"en_US":"result of check for restriction of hazardous substances",
-			"zh_CN":null
+			"zh_CN":"有害物质限制检验结果"
 		}
 	},
 	"unit":null,

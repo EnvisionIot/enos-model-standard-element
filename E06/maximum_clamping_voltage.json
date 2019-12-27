@@ -11,7 +11,7 @@
 		"defaultValue":"maximum clamping voltage",
 		"i18nValue":{
 			"en_US":"maximum clamping voltage",
-			"zh_CN":null
+			"zh_CN":"最大钳位电压"
 		}
 	},
 	"unit":"V",

@@ -47,7 +47,7 @@
 		"defaultValue":"resonator type",
 		"i18nValue":{
 			"en_US":"resonator type",
-			"zh_CN":null
+			"zh_CN":"谐振器类型"
 		}
 	},
 	"unit":null,

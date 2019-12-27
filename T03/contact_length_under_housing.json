@@ -11,7 +11,7 @@
 		"defaultValue":"contact length under housing",
 		"i18nValue":{
 			"en_US":"contact length under housing",
-			"zh_CN":null
+			"zh_CN":"外壳下触点长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"impulse withstand voltage",
 		"i18nValue":{
 			"en_US":"impulse withstand voltage",
-			"zh_CN":null
+			"zh_CN":"耐冲击电压"
 		}
 	},
 	"unit":"V",

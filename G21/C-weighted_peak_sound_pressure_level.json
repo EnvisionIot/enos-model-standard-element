@@ -11,7 +11,7 @@
 		"defaultValue":"C-weighted peak sound pressure level",
 		"i18nValue":{
 			"en_US":"C-weighted peak sound pressure level",
-			"zh_CN":null
+			"zh_CN":"C 加权峰值声压级"
 		}
 	},
 	"unit":"dB",

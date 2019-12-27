@@ -11,7 +11,7 @@
 		"defaultValue":"reference voltage",
 		"i18nValue":{
 			"en_US":"reference voltage",
-			"zh_CN":null
+			"zh_CN":"参考电压"
 		}
 	},
 	"unit":"V",

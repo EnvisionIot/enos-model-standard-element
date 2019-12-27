@@ -13,7 +13,7 @@
 		"defaultValue":"requester identifier",
 		"i18nValue":{
 			"en_US":"requester identifier",
-			"zh_CN":null
+			"zh_CN":"请求者识别码"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"wafer thickness",
 		"i18nValue":{
 			"en_US":"wafer thickness",
-			"zh_CN":null
+			"zh_CN":"晶圆厚度"
 		}
 	},
 	"unit":"m",

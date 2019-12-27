@@ -13,7 +13,7 @@
 		"defaultValue":"IEC 60191 code",
 		"i18nValue":{
 			"en_US":"IEC 60191 code",
-			"zh_CN":null
+			"zh_CN":"IEC 60191 中对应代码"
 		}
 	},
 	"unit":null,

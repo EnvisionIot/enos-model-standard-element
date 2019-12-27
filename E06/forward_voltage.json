@@ -11,7 +11,7 @@
 		"defaultValue":"forward voltage",
 		"i18nValue":{
 			"en_US":"forward voltage",
-			"zh_CN":null
+			"zh_CN":"正向电压"
 		}
 	},
 	"unit":"V",

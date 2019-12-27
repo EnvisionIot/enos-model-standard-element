@@ -11,7 +11,7 @@
 		"defaultValue":"intermod distortion d_im",
 		"i18nValue":{
 			"en_US":"intermod distortion d_im",
-			"zh_CN":null
+			"zh_CN":"互调失真 d_im"
 		}
 	},
 	"unit":"dB",

@@ -11,7 +11,7 @@
 		"defaultValue":"collector current ratio",
 		"i18nValue":{
 			"en_US":"collector current ratio",
-			"zh_CN":null
+			"zh_CN":"集电极电流比"
 		}
 	},
 	"unit":null,

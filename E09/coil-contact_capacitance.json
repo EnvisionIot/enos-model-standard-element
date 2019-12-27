@@ -11,7 +11,7 @@
 		"defaultValue":"coil-contact capacitance",
 		"i18nValue":{
 			"en_US":"coil-contact capacitance",
-			"zh_CN":null
+			"zh_CN":"线圈触点电容"
 		}
 	},
 	"unit":"F",

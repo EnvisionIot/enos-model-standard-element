@@ -11,7 +11,7 @@
 		"defaultValue":"bending radius",
 		"i18nValue":{
 			"en_US":"bending radius",
-			"zh_CN":null
+			"zh_CN":"弯曲半径"
 		}
 	},
 	"unit":"m",

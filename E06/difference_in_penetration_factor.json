@@ -11,7 +11,7 @@
 		"defaultValue":"difference in penetration factor",
 		"i18nValue":{
 			"en_US":"difference in penetration factor",
-			"zh_CN":null
+			"zh_CN":"渗透系数差"
 		}
 	},
 	"unit":"V/V",

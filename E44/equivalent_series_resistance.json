@@ -11,7 +11,7 @@
 		"defaultValue":"equivalent series resistance",
 		"i18nValue":{
 			"en_US":"equivalent series resistance",
-			"zh_CN":null
+			"zh_CN":"等效串联电阻"
 		}
 	},
 	"unit":"Ω",

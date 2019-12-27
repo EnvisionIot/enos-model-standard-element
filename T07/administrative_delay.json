@@ -11,7 +11,7 @@
 		"defaultValue":"administrative delay",
 		"i18nValue":{
 			"en_US":"administrative delay",
-			"zh_CN":null
+			"zh_CN":"行政性延误"
 		}
 	},
 	"unit":"h",

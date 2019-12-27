@@ -11,7 +11,7 @@
 		"defaultValue":"stepping rate",
 		"i18nValue":{
 			"en_US":"stepping rate",
-			"zh_CN":null
+			"zh_CN":"步进率"
 		}
 	},
 	"unit":"step/s",

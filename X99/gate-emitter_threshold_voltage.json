@@ -11,7 +11,7 @@
 		"defaultValue":"gate-emitter threshold voltage",
 		"i18nValue":{
 			"en_US":"gate-emitter threshold voltage",
-			"zh_CN":null
+			"zh_CN":"栅极-发射极阈值电压"
 		}
 	},
 	"unit":"V",

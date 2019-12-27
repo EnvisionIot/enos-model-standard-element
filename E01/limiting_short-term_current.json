@@ -11,7 +11,7 @@
 		"defaultValue":"limiting short-term current",
 		"i18nValue":{
 			"en_US":"limiting short-term current",
-			"zh_CN":null
+			"zh_CN":"短期电流限值"
 		}
 	},
 	"unit":"A",

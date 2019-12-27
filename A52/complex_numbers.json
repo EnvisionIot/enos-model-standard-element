@@ -23,7 +23,7 @@
 		"defaultValue":"complex numbers",
 		"i18nValue":{
 			"en_US":"complex numbers",
-			"zh_CN":null
+			"zh_CN":"复数"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"brush life expectation",
 		"i18nValue":{
 			"en_US":"brush life expectation",
-			"zh_CN":null
+			"zh_CN":"预期电刷寿命"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"ordering code",
 		"i18nValue":{
 			"en_US":"ordering code",
-			"zh_CN":null
+			"zh_CN":"订购码"
 		}
 	},
 	"unit":null,

@@ -31,7 +31,7 @@
 		"defaultValue":"storage type",
 		"i18nValue":{
 			"en_US":"storage type",
-			"zh_CN":null
+			"zh_CN":"存储类型"
 		}
 	},
 	"unit":null,

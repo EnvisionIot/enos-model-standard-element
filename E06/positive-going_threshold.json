@@ -11,7 +11,7 @@
 		"defaultValue":"positive-going threshold",
 		"i18nValue":{
 			"en_US":"positive-going threshold",
-			"zh_CN":null
+			"zh_CN":"正向阈值"
 		}
 	},
 	"unit":"V",

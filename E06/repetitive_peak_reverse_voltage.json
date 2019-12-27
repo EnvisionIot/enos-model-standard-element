@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak reverse voltage",
 		"i18nValue":{
 			"en_US":"repetitive peak reverse voltage",
-			"zh_CN":null
+			"zh_CN":"重复峰值反向电压"
 		}
 	},
 	"unit":"V",

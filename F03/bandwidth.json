@@ -11,7 +11,7 @@
 		"defaultValue":"bandwidth",
 		"i18nValue":{
 			"en_US":"bandwidth",
-			"zh_CN":null
+			"zh_CN":"带宽"
 		}
 	},
 	"unit":"Hz",

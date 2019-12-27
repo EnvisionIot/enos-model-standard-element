@@ -11,7 +11,7 @@
 		"defaultValue":"pad length",
 		"i18nValue":{
 			"en_US":"pad length",
-			"zh_CN":null
+			"zh_CN":"焊盘长度"
 		}
 	},
 	"unit":"m",

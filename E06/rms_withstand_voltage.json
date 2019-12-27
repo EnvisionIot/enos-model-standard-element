@@ -11,7 +11,7 @@
 		"defaultValue":"rms. withstand voltage",
 		"i18nValue":{
 			"en_US":"rms. withstand voltage",
-			"zh_CN":null
+			"zh_CN":"耐电压均方根值"
 		}
 	},
 	"unit":"V",

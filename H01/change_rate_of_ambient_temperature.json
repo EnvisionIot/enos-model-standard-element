@@ -11,7 +11,7 @@
 		"defaultValue":"change rate of ambient temperature",
 		"i18nValue":{
 			"en_US":"change rate of ambient temperature",
-			"zh_CN":null
+			"zh_CN":"环境温度变化率"
 		}
 	},
 	"unit":"K/h",

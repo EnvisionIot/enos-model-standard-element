@@ -11,7 +11,7 @@
 		"defaultValue":"level of drive",
 		"i18nValue":{
 			"en_US":"level of drive",
-			"zh_CN":null
+			"zh_CN":"驱动水平"
 		}
 	},
 	"unit":"µW",

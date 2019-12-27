@@ -13,7 +13,7 @@
 		"defaultValue":"drawing sequence code",
 		"i18nValue":{
 			"en_US":"drawing sequence code",
-			"zh_CN":null
+			"zh_CN":"图纸顺序码"
 		}
 	},
 	"unit":null,

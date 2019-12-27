@@ -23,7 +23,7 @@
 		"defaultValue":"mounting direction",
 		"i18nValue":{
 			"en_US":"mounting direction",
-			"zh_CN":null
+			"zh_CN":"安装方向"
 		}
 	},
 	"unit":null,

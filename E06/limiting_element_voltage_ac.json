@@ -11,7 +11,7 @@
 		"defaultValue":"limiting element voltage (ac)",
 		"i18nValue":{
 			"en_US":"limiting element voltage (ac)",
-			"zh_CN":null
+			"zh_CN":"限制元件电压（交流）"
 		}
 	},
 	"unit":"V",

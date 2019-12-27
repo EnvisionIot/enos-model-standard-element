@@ -11,7 +11,7 @@
 		"defaultValue":"sound power",
 		"i18nValue":{
 			"en_US":"sound power",
-			"zh_CN":null
+			"zh_CN":"声功率"
 		}
 	},
 	"unit":"W",

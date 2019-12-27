@@ -35,7 +35,7 @@
 		"defaultValue":"tube type",
 		"i18nValue":{
 			"en_US":"tube type",
-			"zh_CN":null
+			"zh_CN":"电子管类型"
 		}
 	},
 	"unit":null,

@@ -35,7 +35,7 @@
 		"defaultValue":"power transformer application",
 		"i18nValue":{
 			"en_US":"power transformer application",
-			"zh_CN":null
+			"zh_CN":"电力变压器的应用"
 		}
 	},
 	"unit":null,

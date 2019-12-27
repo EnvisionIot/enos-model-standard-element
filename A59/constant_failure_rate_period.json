@@ -11,7 +11,7 @@
 		"defaultValue":"constant failure rate period",
 		"i18nValue":{
 			"en_US":"constant failure rate period",
-			"zh_CN":null
+			"zh_CN":"恒定故障率期"
 		}
 	},
 	"unit":"yr",

@@ -43,7 +43,7 @@
 		"defaultValue":"sensor input quantity",
 		"i18nValue":{
 			"en_US":"sensor input quantity",
-			"zh_CN":null
+			"zh_CN":"传感器输入量"
 		}
 	},
 	"unit":null,

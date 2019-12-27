@@ -11,7 +11,7 @@
 		"defaultValue":"release voltage (ac)",
 		"i18nValue":{
 			"en_US":"release voltage (ac)",
-			"zh_CN":null
+			"zh_CN":"释放电压（交流）"
 		}
 	},
 	"unit":"V",

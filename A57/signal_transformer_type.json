@@ -39,7 +39,7 @@
 		"defaultValue":"signal transformer type",
 		"i18nValue":{
 			"en_US":"signal transformer type",
-			"zh_CN":null
+			"zh_CN":"信号变压器类型"
 		}
 	},
 	"unit":null,

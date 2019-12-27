@@ -11,7 +11,7 @@
 		"defaultValue":"instantaneous unavailability",
 		"i18nValue":{
 			"en_US":"instantaneous unavailability",
-			"zh_CN":null
+			"zh_CN":"瞬时不可用性"
 		}
 	},
 	"unit":"%",

@@ -11,7 +11,7 @@
 		"defaultValue":"thermal sensitivity index B25/75",
 		"i18nValue":{
 			"en_US":"thermal sensitivity index B25/75",
-			"zh_CN":null
+			"zh_CN":"热敏指数 B25/75"
 		}
 	},
 	"unit":"K",

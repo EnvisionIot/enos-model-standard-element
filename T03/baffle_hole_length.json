@@ -11,7 +11,7 @@
 		"defaultValue":"baffle hole length",
 		"i18nValue":{
 			"en_US":"baffle hole length",
-			"zh_CN":null
+			"zh_CN":"隔板孔长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"dropout voltage",
 		"i18nValue":{
 			"en_US":"dropout voltage",
-			"zh_CN":null
+			"zh_CN":"压差电压"
 		}
 	},
 	"unit":"V",

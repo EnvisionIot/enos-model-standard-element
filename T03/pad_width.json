@@ -11,7 +11,7 @@
 		"defaultValue":"pad width",
 		"i18nValue":{
 			"en_US":"pad width",
-			"zh_CN":null
+			"zh_CN":"焊盘宽度"
 		}
 	},
 	"unit":"m",

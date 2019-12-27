@@ -11,7 +11,7 @@
 		"defaultValue":"seated height",
 		"i18nValue":{
 			"en_US":"seated height",
-			"zh_CN":null
+			"zh_CN":"距底座面高度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"reading time from cell",
 		"i18nValue":{
 			"en_US":"reading time from cell",
-			"zh_CN":null
+			"zh_CN":"单元读取时间"
 		}
 	},
 	"unit":"s",

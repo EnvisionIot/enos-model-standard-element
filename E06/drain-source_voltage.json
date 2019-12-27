@@ -11,7 +11,7 @@
 		"defaultValue":"drain-source voltage",
 		"i18nValue":{
 			"en_US":"drain-source voltage",
-			"zh_CN":null
+			"zh_CN":"漏源电压"
 		}
 	},
 	"unit":"V",

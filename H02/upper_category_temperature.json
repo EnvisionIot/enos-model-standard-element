@@ -11,7 +11,7 @@
 		"defaultValue":"upper category temperature",
 		"i18nValue":{
 			"en_US":"upper category temperature",
-			"zh_CN":null
+			"zh_CN":"上限温度"
 		}
 	},
 	"unit":"°C",

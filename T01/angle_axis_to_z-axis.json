@@ -11,7 +11,7 @@
 		"defaultValue":"angle axis to z-axis",
 		"i18nValue":{
 			"en_US":"angle axis to z-axis",
-			"zh_CN":null
+			"zh_CN":"与 z 轴的夹角"
 		}
 	},
 	"unit":"°",

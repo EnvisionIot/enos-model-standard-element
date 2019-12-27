@@ -13,7 +13,7 @@
 		"defaultValue":"identity",
 		"i18nValue":{
 			"en_US":"identity",
-			"zh_CN":null
+			"zh_CN":"识别码"
 		}
 	},
 	"unit":null,

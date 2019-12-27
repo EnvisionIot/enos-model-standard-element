@@ -11,7 +11,7 @@
 		"defaultValue":"vertex y coordinate",
 		"i18nValue":{
 			"en_US":"vertex y coordinate",
-			"zh_CN":null
+			"zh_CN":"顶点 y 坐标"
 		}
 	},
 	"unit":"m",

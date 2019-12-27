@@ -11,7 +11,7 @@
 		"defaultValue":"nitrogen oxides concentration",
 		"i18nValue":{
 			"en_US":"nitrogen oxides concentration",
-			"zh_CN":null
+			"zh_CN":"氮氧化物浓度"
 		}
 	},
 	"unit":"kg/m³",

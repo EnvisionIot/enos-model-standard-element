@@ -11,7 +11,7 @@
 		"defaultValue":"load resistance",
 		"i18nValue":{
 			"en_US":"load resistance",
-			"zh_CN":null
+			"zh_CN":"负载电阻"
 		}
 	},
 	"unit":"Ω",

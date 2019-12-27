@@ -11,7 +11,7 @@
 		"defaultValue":"end of product sales",
 		"i18nValue":{
 			"en_US":"end of product sales",
-			"zh_CN":null
+			"zh_CN":"产品销售结束日期"
 		}
 	},
 	"unit":null,

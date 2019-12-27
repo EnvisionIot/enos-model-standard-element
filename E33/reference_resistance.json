@@ -11,7 +11,7 @@
 		"defaultValue":"reference resistance",
 		"i18nValue":{
 			"en_US":"reference resistance",
-			"zh_CN":null
+			"zh_CN":"参考电阻"
 		}
 	},
 	"unit":"Ω",

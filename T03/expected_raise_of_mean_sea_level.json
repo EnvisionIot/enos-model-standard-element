@@ -11,7 +11,7 @@
 		"defaultValue":"expected raise of mean sea level",
 		"i18nValue":{
 			"en_US":"expected raise of mean sea level",
-			"zh_CN":null
+			"zh_CN":"平均海平面预期上升量"
 		}
 	},
 	"unit":"m",

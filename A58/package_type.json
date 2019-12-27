@@ -13,7 +13,7 @@
 		"defaultValue":"package type",
 		"i18nValue":{
 			"en_US":"package type",
-			"zh_CN":null
+			"zh_CN":"包装类型"
 		}
 	},
 	"unit":null,

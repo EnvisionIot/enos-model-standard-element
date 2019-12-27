@@ -11,7 +11,7 @@
 		"defaultValue":"emitter cut-off current I_EBO",
 		"i18nValue":{
 			"en_US":"emitter cut-off current I_EBO",
-			"zh_CN":null
+			"zh_CN":"发射极截止电流 I_EBO"
 		}
 	},
 	"unit":"A",

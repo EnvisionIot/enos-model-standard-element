@@ -27,7 +27,7 @@
 		"defaultValue":"reference to conformity assessment type",
 		"i18nValue":{
 			"en_US":"reference to conformity assessment type",
-			"zh_CN":null
+			"zh_CN":"参照符合性评估类型"
 		}
 	},
 	"unit":null,

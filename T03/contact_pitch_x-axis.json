@@ -11,7 +11,7 @@
 		"defaultValue":"contact pitch (x-axis)",
 		"i18nValue":{
 			"en_US":"contact pitch (x-axis)",
-			"zh_CN":null
+			"zh_CN":"触点间距（x 轴）"
 		}
 	},
 	"unit":"m",

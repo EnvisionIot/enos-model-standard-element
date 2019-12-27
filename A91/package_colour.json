@@ -79,7 +79,7 @@
 		"defaultValue":"package colour",
 		"i18nValue":{
 			"en_US":"package colour",
-			"zh_CN":null
+			"zh_CN":"包装颜色"
 		}
 	},
 	"unit":null,

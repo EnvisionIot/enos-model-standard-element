@@ -23,7 +23,7 @@
 		"defaultValue":"multiplicity",
 		"i18nValue":{
 			"en_US":"multiplicity",
-			"zh_CN":null
+			"zh_CN":"多重性"
 		}
 	},
 	"unit":null,

@@ -23,7 +23,7 @@
 		"defaultValue":"geometric view",
 		"i18nValue":{
 			"en_US":"geometric view",
-			"zh_CN":null
+			"zh_CN":"几何视图"
 		}
 	},
 	"unit":null,

@@ -79,7 +79,7 @@
 		"defaultValue":"insulating material",
 		"i18nValue":{
 			"en_US":"insulating material",
-			"zh_CN":null
+			"zh_CN":"绝缘材料"
 		}
 	},
 	"unit":null,

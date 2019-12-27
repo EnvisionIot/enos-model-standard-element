@@ -23,7 +23,7 @@
 		"defaultValue":"male contact shape",
 		"i18nValue":{
 			"en_US":"male contact shape",
-			"zh_CN":null
+			"zh_CN":"公触件形状"
 		}
 	},
 	"unit":null,

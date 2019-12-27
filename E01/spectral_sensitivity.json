@@ -11,7 +11,7 @@
 		"defaultValue":"spectral sensitivity",
 		"i18nValue":{
 			"en_US":"spectral sensitivity",
-			"zh_CN":null
+			"zh_CN":"光谱灵敏度"
 		}
 	},
 	"unit":"A/W",

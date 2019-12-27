@@ -11,7 +11,7 @@
 		"defaultValue":"keraunic level",
 		"i18nValue":{
 			"en_US":"keraunic level",
-			"zh_CN":null
+			"zh_CN":"雷雨水平"
 		}
 	},
 	"unit":"d/y",

@@ -51,7 +51,7 @@
 		"defaultValue":"terminal shape",
 		"i18nValue":{
 			"en_US":"terminal shape",
-			"zh_CN":null
+			"zh_CN":"端子形状"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"offset (x-axis)",
 		"i18nValue":{
 			"en_US":"offset (x-axis)",
-			"zh_CN":null
+			"zh_CN":"偏移量（x 轴）"
 		}
 	},
 	"unit":"m",

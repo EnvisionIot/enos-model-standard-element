@@ -11,7 +11,7 @@
 		"defaultValue":"gain bandwidth product",
 		"i18nValue":{
 			"en_US":"gain bandwidth product",
-			"zh_CN":null
+			"zh_CN":"增益带宽积"
 		}
 	},
 	"unit":"Hz",

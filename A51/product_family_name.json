@@ -13,7 +13,7 @@
 		"defaultValue":"product family name",
 		"i18nValue":{
 			"en_US":"product family name",
-			"zh_CN":null
+			"zh_CN":"产品系列名称"
 		}
 	},
 	"unit":null,

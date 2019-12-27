@@ -31,7 +31,7 @@
 		"defaultValue":"IEC reference class",
 		"i18nValue":{
 			"en_US":"IEC reference class",
-			"zh_CN":null
+			"zh_CN":"IEC 参考等级"
 		}
 	},
 	"unit":null,

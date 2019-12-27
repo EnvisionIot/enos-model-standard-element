@@ -11,7 +11,7 @@
 		"defaultValue":"frequency range",
 		"i18nValue":{
 			"en_US":"frequency range",
-			"zh_CN":null
+			"zh_CN":"频率范围"
 		}
 	},
 	"unit":"Hz",

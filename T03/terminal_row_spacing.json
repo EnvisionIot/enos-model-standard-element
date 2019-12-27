@@ -11,7 +11,7 @@
 		"defaultValue":"terminal row spacing",
 		"i18nValue":{
 			"en_US":"terminal row spacing",
-			"zh_CN":null
+			"zh_CN":"端子排间距"
 		}
 	},
 	"unit":"m",

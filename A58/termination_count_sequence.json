@@ -13,7 +13,7 @@
 		"defaultValue":"termination count sequence",
 		"i18nValue":{
 			"en_US":"termination count sequence",
-			"zh_CN":null
+			"zh_CN":"终端编号序列"
 		}
 	},
 	"unit":null,

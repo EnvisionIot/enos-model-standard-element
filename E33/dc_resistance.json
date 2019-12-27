@@ -11,7 +11,7 @@
 		"defaultValue":"dc resistance",
 		"i18nValue":{
 			"en_US":"dc resistance",
-			"zh_CN":null
+			"zh_CN":"直流电阻"
 		}
 	},
 	"unit":"Ω/m",

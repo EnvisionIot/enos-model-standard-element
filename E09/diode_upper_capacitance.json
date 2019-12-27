@@ -11,7 +11,7 @@
 		"defaultValue":"diode upper capacitance",
 		"i18nValue":{
 			"en_US":"diode upper capacitance",
-			"zh_CN":null
+			"zh_CN":"二极管电容上限"
 		}
 	},
 	"unit":"F",

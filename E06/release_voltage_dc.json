@@ -11,7 +11,7 @@
 		"defaultValue":"release voltage (dc)",
 		"i18nValue":{
 			"en_US":"release voltage (dc)",
-			"zh_CN":null
+			"zh_CN":"释放电压（直流）"
 		}
 	},
 	"unit":"V",

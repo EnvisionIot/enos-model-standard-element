@@ -11,7 +11,7 @@
 		"defaultValue":"bump height tolerance",
 		"i18nValue":{
 			"en_US":"bump height tolerance",
-			"zh_CN":null
+			"zh_CN":"凸块高度公差"
 		}
 	},
 	"unit":"m",

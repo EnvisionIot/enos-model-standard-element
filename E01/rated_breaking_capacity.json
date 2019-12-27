@@ -11,7 +11,7 @@
 		"defaultValue":"rated breaking capacity",
 		"i18nValue":{
 			"en_US":"rated breaking capacity",
-			"zh_CN":null
+			"zh_CN":"额定分断能力"
 		}
 	},
 	"unit":"A",

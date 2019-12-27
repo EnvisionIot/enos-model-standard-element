@@ -13,7 +13,7 @@
 		"defaultValue":"facsimile number",
 		"i18nValue":{
 			"en_US":"facsimile number",
-			"zh_CN":null
+			"zh_CN":"传真号码"
 		}
 	},
 	"unit":null,

@@ -27,7 +27,7 @@
 		"defaultValue":"coupling style",
 		"i18nValue":{
 			"en_US":"coupling style",
-			"zh_CN":null
+			"zh_CN":"耦合方式"
 		}
 	},
 	"unit":null,

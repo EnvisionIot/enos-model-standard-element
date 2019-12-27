@@ -13,7 +13,7 @@
 		"defaultValue":"IC package code",
 		"i18nValue":{
 			"en_US":"IC package code",
-			"zh_CN":null
+			"zh_CN":"IC 封装代码"
 		}
 	},
 	"unit":null,

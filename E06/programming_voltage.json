@@ -11,7 +11,7 @@
 		"defaultValue":"programming voltage",
 		"i18nValue":{
 			"en_US":"programming voltage",
-			"zh_CN":null
+			"zh_CN":"编程电压"
 		}
 	},
 	"unit":"V",

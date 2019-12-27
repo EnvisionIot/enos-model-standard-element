@@ -11,7 +11,7 @@
 		"defaultValue":"centre frequency",
 		"i18nValue":{
 			"en_US":"centre frequency",
-			"zh_CN":null
+			"zh_CN":"中心频率"
 		}
 	},
 	"unit":"Hz",

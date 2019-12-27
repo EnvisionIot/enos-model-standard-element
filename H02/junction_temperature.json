@@ -11,7 +11,7 @@
 		"defaultValue":"junction temperature",
 		"i18nValue":{
 			"en_US":"junction temperature",
-			"zh_CN":null
+			"zh_CN":"接面温度"
 		}
 	},
 	"unit":"°C",

@@ -11,7 +11,7 @@
 		"defaultValue":"temperature T_2",
 		"i18nValue":{
 			"en_US":"temperature T_2",
-			"zh_CN":null
+			"zh_CN":"温度 T_2"
 		}
 	},
 	"unit":"°C",

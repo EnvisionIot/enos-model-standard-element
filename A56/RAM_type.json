@@ -23,7 +23,7 @@
 		"defaultValue":"RAM type",
 		"i18nValue":{
 			"en_US":"RAM type",
-			"zh_CN":null
+			"zh_CN":"RAM 类型"
 		}
 	},
 	"unit":null,

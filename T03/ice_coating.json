@@ -11,7 +11,7 @@
 		"defaultValue":"ice coating",
 		"i18nValue":{
 			"en_US":"ice coating",
-			"zh_CN":null
+			"zh_CN":"覆冰"
 		}
 	},
 	"unit":"m",

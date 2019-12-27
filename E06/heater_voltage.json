@@ -11,7 +11,7 @@
 		"defaultValue":"heater voltage",
 		"i18nValue":{
 			"en_US":"heater voltage",
-			"zh_CN":null
+			"zh_CN":"加热器电压"
 		}
 	},
 	"unit":"V",

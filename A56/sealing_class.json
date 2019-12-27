@@ -27,7 +27,7 @@
 		"defaultValue":"sealing class",
 		"i18nValue":{
 			"en_US":"sealing class",
-			"zh_CN":null
+			"zh_CN":"密封等级"
 		}
 	},
 	"unit":null,

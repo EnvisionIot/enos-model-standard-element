@@ -11,7 +11,7 @@
 		"defaultValue":"collector-emitter cutoff current",
 		"i18nValue":{
 			"en_US":"collector-emitter cutoff current",
-			"zh_CN":null
+			"zh_CN":"集电极-发射极截止电流"
 		}
 	},
 	"unit":"A",

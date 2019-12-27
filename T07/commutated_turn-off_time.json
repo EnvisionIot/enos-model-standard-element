@@ -11,7 +11,7 @@
 		"defaultValue":"commutated turn-off time",
 		"i18nValue":{
 			"en_US":"commutated turn-off time",
-			"zh_CN":null
+			"zh_CN":"换向关断时间"
 		}
 	},
 	"unit":"s",

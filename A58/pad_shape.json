@@ -31,7 +31,7 @@
 		"defaultValue":"pad shape",
 		"i18nValue":{
 			"en_US":"pad shape",
-			"zh_CN":null
+			"zh_CN":"焊盘形状"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"solar irradiance",
 		"i18nValue":{
 			"en_US":"solar irradiance",
-			"zh_CN":null
+			"zh_CN":"太阳辐照度"
 		}
 	},
 	"unit":"kW/m²",

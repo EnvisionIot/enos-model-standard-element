@@ -11,7 +11,7 @@
 		"defaultValue":"programming/erase cycle",
 		"i18nValue":{
 			"en_US":"programming/erase cycle",
-			"zh_CN":null
+			"zh_CN":"编程/擦除周期"
 		}
 	},
 	"unit":"cycle",

@@ -11,7 +11,7 @@
 		"defaultValue":"frequency tolerance",
 		"i18nValue":{
 			"en_US":"frequency tolerance",
-			"zh_CN":null
+			"zh_CN":"频率公差"
 		}
 	},
 	"unit":null,

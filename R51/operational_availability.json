@@ -11,7 +11,7 @@
 		"defaultValue":"operational availability",
 		"i18nValue":{
 			"en_US":"operational availability",
-			"zh_CN":null
+			"zh_CN":"运行可用性"
 		}
 	},
 	"unit":"%",

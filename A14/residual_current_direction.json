@@ -13,7 +13,7 @@
 		"defaultValue":"residual current direction",
 		"i18nValue":{
 			"en_US":"residual current direction",
-			"zh_CN":null
+			"zh_CN":"残余潮流方向"
 		}
 	},
 	"unit":null,

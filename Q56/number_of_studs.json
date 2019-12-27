@@ -11,7 +11,7 @@
 		"defaultValue":"number of studs",
 		"i18nValue":{
 			"en_US":"number of studs",
-			"zh_CN":null
+			"zh_CN":"螺柱数量"
 		}
 	},
 	"unit":null,

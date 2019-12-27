@@ -11,7 +11,7 @@
 		"defaultValue":"frequency control range",
 		"i18nValue":{
 			"en_US":"frequency control range",
-			"zh_CN":null
+			"zh_CN":"频率控制范围"
 		}
 	},
 	"unit":null,

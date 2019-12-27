@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient H_cJ",
 		"i18nValue":{
 			"en_US":"temperature coefficient H_cJ",
-			"zh_CN":null
+			"zh_CN":"温度系数 H_cJ"
 		}
 	},
 	"unit":"(A/m)/K",

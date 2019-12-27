@@ -11,7 +11,7 @@
 		"defaultValue":"shock resistance",
 		"i18nValue":{
 			"en_US":"shock resistance",
-			"zh_CN":null
+			"zh_CN":"抗冲击性"
 		}
 	},
 	"unit":"m/s²",

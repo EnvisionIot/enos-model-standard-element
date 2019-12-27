@@ -11,7 +11,7 @@
 		"defaultValue":"PTC residual current",
 		"i18nValue":{
 			"en_US":"PTC residual current",
-			"zh_CN":null
+			"zh_CN":"PTC 残余电流"
 		}
 	},
 	"unit":"A",

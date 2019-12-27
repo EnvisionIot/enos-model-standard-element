@@ -13,7 +13,7 @@
 		"defaultValue":"additional test requirements",
 		"i18nValue":{
 			"en_US":"additional test requirements",
-			"zh_CN":null
+			"zh_CN":"附加测试要求"
 		}
 	},
 	"unit":null,

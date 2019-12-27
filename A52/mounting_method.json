@@ -31,7 +31,7 @@
 		"defaultValue":"mounting method",
 		"i18nValue":{
 			"en_US":"mounting method",
-			"zh_CN":null
+			"zh_CN":"安装方法"
 		}
 	},
 	"unit":null,

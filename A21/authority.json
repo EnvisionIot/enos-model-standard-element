@@ -23,7 +23,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -40,7 +40,7 @@
 		"defaultValue":"authority",
 		"i18nValue":{
 			"en_US":"authority",
-			"zh_CN":null
+			"zh_CN":"权威机构"
 		}
 	},
 	"unit":null,

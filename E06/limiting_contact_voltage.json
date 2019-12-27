@@ -11,7 +11,7 @@
 		"defaultValue":"limiting contact voltage",
 		"i18nValue":{
 			"en_US":"limiting contact voltage",
-			"zh_CN":null
+			"zh_CN":"限制触点电压"
 		}
 	},
 	"unit":"V",

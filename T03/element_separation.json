@@ -11,7 +11,7 @@
 		"defaultValue":"element separation",
 		"i18nValue":{
 			"en_US":"element separation",
-			"zh_CN":null
+			"zh_CN":"元件间距"
 		}
 	},
 	"unit":"m",

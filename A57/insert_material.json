@@ -13,7 +13,7 @@
 		"defaultValue":"insert material",
 		"i18nValue":{
 			"en_US":"insert material",
-			"zh_CN":null
+			"zh_CN":"插入材料"
 		}
 	},
 	"unit":null,

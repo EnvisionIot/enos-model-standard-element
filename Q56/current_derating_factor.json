@@ -11,7 +11,7 @@
 		"defaultValue":"current derating factor",
 		"i18nValue":{
 			"en_US":"current derating factor",
-			"zh_CN":null
+			"zh_CN":"电流降额系数"
 		}
 	},
 	"unit":null,

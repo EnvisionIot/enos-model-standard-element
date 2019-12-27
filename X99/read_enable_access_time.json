@@ -11,7 +11,7 @@
 		"defaultValue":"read enable access time",
 		"i18nValue":{
 			"en_US":"read enable access time",
-			"zh_CN":null
+			"zh_CN":"读取启用访问时间"
 		}
 	},
 	"unit":"s",

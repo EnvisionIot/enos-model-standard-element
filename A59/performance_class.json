@@ -31,7 +31,7 @@
 		"defaultValue":"performance class",
 		"i18nValue":{
 			"en_US":"performance class",
-			"zh_CN":null
+			"zh_CN":"性能等级"
 		}
 	},
 	"unit":null,

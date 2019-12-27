@@ -11,7 +11,7 @@
 		"defaultValue":"specific capacitance",
 		"i18nValue":{
 			"en_US":"specific capacitance",
-			"zh_CN":null
+			"zh_CN":"比电容"
 		}
 	},
 	"unit":"F/m²",

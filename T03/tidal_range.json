@@ -11,7 +11,7 @@
 		"defaultValue":"tidal range",
 		"i18nValue":{
 			"en_US":"tidal range",
-			"zh_CN":null
+			"zh_CN":"潮差"
 		}
 	},
 	"unit":"m",

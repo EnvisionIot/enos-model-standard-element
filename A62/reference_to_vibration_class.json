@@ -23,7 +23,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -40,7 +40,7 @@
 		"defaultValue":"reference to vibration class",
 		"i18nValue":{
 			"en_US":"reference to vibration class",
-			"zh_CN":null
+			"zh_CN":"参考振动等级"
 		}
 	},
 	"unit":null,

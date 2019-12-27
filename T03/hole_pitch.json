@@ -11,7 +11,7 @@
 		"defaultValue":"hole pitch",
 		"i18nValue":{
 			"en_US":"hole pitch",
-			"zh_CN":null
+			"zh_CN":"孔距"
 		}
 	},
 	"unit":"m",

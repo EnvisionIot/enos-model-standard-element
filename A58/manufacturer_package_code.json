@@ -13,7 +13,7 @@
 		"defaultValue":"manufacturer package code",
 		"i18nValue":{
 			"en_US":"manufacturer package code",
-			"zh_CN":null
+			"zh_CN":"制造商包装代码"
 		}
 	},
 	"unit":null,

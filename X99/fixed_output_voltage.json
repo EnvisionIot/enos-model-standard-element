@@ -11,7 +11,7 @@
 		"defaultValue":"fixed output voltage",
 		"i18nValue":{
 			"en_US":"fixed output voltage",
-			"zh_CN":null
+			"zh_CN":"固定输出电压"
 		}
 	},
 	"unit":"V",

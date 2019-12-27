@@ -11,7 +11,7 @@
 		"defaultValue":"address set-up time",
 		"i18nValue":{
 			"en_US":"address set-up time",
-			"zh_CN":null
+			"zh_CN":"地址设置时间"
 		}
 	},
 	"unit":"s",

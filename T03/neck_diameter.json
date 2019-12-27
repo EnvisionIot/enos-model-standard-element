@@ -11,7 +11,7 @@
 		"defaultValue":"neck diameter",
 		"i18nValue":{
 			"en_US":"neck diameter",
-			"zh_CN":null
+			"zh_CN":"颈部直径"
 		}
 	},
 	"unit":"m",

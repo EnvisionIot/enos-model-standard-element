@@ -13,7 +13,7 @@
 		"defaultValue":"electrolyte type",
 		"i18nValue":{
 			"en_US":"electrolyte type",
-			"zh_CN":null
+			"zh_CN":"电解液类型"
 		}
 	},
 	"unit":null,

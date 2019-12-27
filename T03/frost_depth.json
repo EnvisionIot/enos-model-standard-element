@@ -11,7 +11,7 @@
 		"defaultValue":"frost depth",
 		"i18nValue":{
 			"en_US":"frost depth",
-			"zh_CN":null
+			"zh_CN":"霜冻深度"
 		}
 	},
 	"unit":"m",

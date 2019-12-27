@@ -11,7 +11,7 @@
 		"defaultValue":"coercivity H_cB",
 		"i18nValue":{
 			"en_US":"coercivity H_cB",
-			"zh_CN":null
+			"zh_CN":"矫顽力 H_cB"
 		}
 	},
 	"unit":"A/m",

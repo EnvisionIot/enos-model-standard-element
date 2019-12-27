@@ -13,7 +13,7 @@
 		"defaultValue":"simulator model file date",
 		"i18nValue":{
 			"en_US":"simulator model file date",
-			"zh_CN":null
+			"zh_CN":"模拟器模型文件日期"
 		}
 	},
 	"unit":null,

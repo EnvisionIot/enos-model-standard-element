@@ -11,7 +11,7 @@
 		"defaultValue":"horizontal ground acceleration",
 		"i18nValue":{
 			"en_US":"horizontal ground acceleration",
-			"zh_CN":null
+			"zh_CN":"水平地面加速度"
 		}
 	},
 	"unit":"m/s²",

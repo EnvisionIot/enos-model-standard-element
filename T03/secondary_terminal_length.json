@@ -11,7 +11,7 @@
 		"defaultValue":"secondary terminal length",
 		"i18nValue":{
 			"en_US":"secondary terminal length",
-			"zh_CN":null
+			"zh_CN":"次端子长度"
 		}
 	},
 	"unit":"m",

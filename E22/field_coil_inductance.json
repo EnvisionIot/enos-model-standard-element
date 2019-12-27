@@ -11,7 +11,7 @@
 		"defaultValue":"field coil inductance",
 		"i18nValue":{
 			"en_US":"field coil inductance",
-			"zh_CN":null
+			"zh_CN":"励磁线圈电感"
 		}
 	},
 	"unit":"H",

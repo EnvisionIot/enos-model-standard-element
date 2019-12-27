@@ -43,7 +43,7 @@
 		"defaultValue":"terminal shape non-SMD",
 		"i18nValue":{
 			"en_US":"terminal shape non-SMD",
-			"zh_CN":null
+			"zh_CN":"端子形状（非 SMD）"
 		}
 	},
 	"unit":null,

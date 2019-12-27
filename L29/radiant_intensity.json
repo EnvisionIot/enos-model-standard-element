@@ -11,7 +11,7 @@
 		"defaultValue":"radiant intensity",
 		"i18nValue":{
 			"en_US":"radiant intensity",
-			"zh_CN":null
+			"zh_CN":"辐射强度"
 		}
 	},
 	"unit":"W/sr",

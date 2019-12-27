@@ -11,7 +11,7 @@
 		"defaultValue":"larger flange radius",
 		"i18nValue":{
 			"en_US":"larger flange radius",
-			"zh_CN":null
+			"zh_CN":"法兰大半径"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"amount of precipitation",
 		"i18nValue":{
 			"en_US":"amount of precipitation",
-			"zh_CN":null
+			"zh_CN":"降水量"
 		}
 	},
 	"unit":"mm",

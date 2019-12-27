@@ -11,7 +11,7 @@
 		"defaultValue":"mean failure rate",
 		"i18nValue":{
 			"en_US":"mean failure rate",
-			"zh_CN":null
+			"zh_CN":"平均故障率"
 		}
 	},
 	"unit":"%",

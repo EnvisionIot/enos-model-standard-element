@@ -11,7 +11,7 @@
 		"defaultValue":"switching temperature",
 		"i18nValue":{
 			"en_US":"switching temperature",
-			"zh_CN":null
+			"zh_CN":"开关温度"
 		}
 	},
 	"unit":"°C",

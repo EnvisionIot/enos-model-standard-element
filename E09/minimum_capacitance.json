@@ -11,7 +11,7 @@
 		"defaultValue":"minimum capacitance",
 		"i18nValue":{
 			"en_US":"minimum capacitance",
-			"zh_CN":null
+			"zh_CN":"最小电容"
 		}
 	},
 	"unit":"F",

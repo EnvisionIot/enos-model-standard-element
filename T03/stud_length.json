@@ -11,7 +11,7 @@
 		"defaultValue":"stud length",
 		"i18nValue":{
 			"en_US":"stud length",
-			"zh_CN":null
+			"zh_CN":"螺柱长度"
 		}
 	},
 	"unit":"m",

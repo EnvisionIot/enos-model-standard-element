@@ -13,7 +13,7 @@
 					"defaultValue":"country name",
 					"i18nValue":{
 						"en_US":"country name",
-						"zh_CN":null
+						"zh_CN":"国家/地区名称"
 					}
 				},
 				"unit":null
@@ -29,7 +29,7 @@
 					"defaultValue":"postal code",
 					"i18nValue":{
 						"en_US":"postal code",
-						"zh_CN":null
+						"zh_CN":"邮政编码"
 					}
 				},
 				"unit":null
@@ -45,7 +45,7 @@
 					"defaultValue":"region",
 					"i18nValue":{
 						"en_US":"region",
-						"zh_CN":null
+						"zh_CN":"区域"
 					}
 				},
 				"unit":null
@@ -61,7 +61,7 @@
 					"defaultValue":"town",
 					"i18nValue":{
 						"en_US":"town",
-						"zh_CN":null
+						"zh_CN":"镇"
 					}
 				},
 				"unit":null
@@ -77,7 +77,7 @@
 					"defaultValue":"street",
 					"i18nValue":{
 						"en_US":"street",
-						"zh_CN":null
+						"zh_CN":"街道"
 					}
 				},
 				"unit":null
@@ -93,7 +93,7 @@
 					"defaultValue":"street number",
 					"i18nValue":{
 						"en_US":"street number",
-						"zh_CN":null
+						"zh_CN":"街道编号"
 					}
 				},
 				"unit":null
@@ -109,7 +109,7 @@
 					"defaultValue":"internal location",
 					"i18nValue":{
 						"en_US":"internal location",
-						"zh_CN":null
+						"zh_CN":"内部位置"
 					}
 				},
 				"unit":null
@@ -125,7 +125,7 @@
 					"defaultValue":"premises name",
 					"i18nValue":{
 						"en_US":"premises name",
-						"zh_CN":null
+						"zh_CN":"处所名称"
 					}
 				},
 				"unit":null
@@ -141,7 +141,7 @@
 					"defaultValue":"country subdivision",
 					"i18nValue":{
 						"en_US":"country subdivision",
-						"zh_CN":null
+						"zh_CN":"国家/地区细分"
 					}
 				},
 				"unit":null
@@ -167,7 +167,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -184,7 +184,7 @@
 		"defaultValue":"reference to Physical address class",
 		"i18nValue":{
 			"en_US":"reference to Physical address class",
-			"zh_CN":null
+			"zh_CN":"参考物理地址类别"
 		}
 	},
 	"unit":null,

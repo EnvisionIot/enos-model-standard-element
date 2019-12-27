@@ -11,7 +11,7 @@
 		"defaultValue":"smaller flange radius",
 		"i18nValue":{
 			"en_US":"smaller flange radius",
-			"zh_CN":null
+			"zh_CN":"法兰小半径"
 		}
 	},
 	"unit":"m",

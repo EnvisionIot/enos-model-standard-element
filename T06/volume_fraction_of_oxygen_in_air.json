@@ -11,7 +11,7 @@
 		"defaultValue":"volume fraction of oxygen in air",
 		"i18nValue":{
 			"en_US":"volume fraction of oxygen in air",
-			"zh_CN":null
+			"zh_CN":"空气中氧气的体积分数"
 		}
 	},
 	"unit":"%",

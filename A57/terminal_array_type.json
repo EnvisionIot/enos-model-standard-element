@@ -23,7 +23,7 @@
 		"defaultValue":"terminal array type",
 		"i18nValue":{
 			"en_US":"terminal array type",
-			"zh_CN":null
+			"zh_CN":"端子排类型"
 		}
 	},
 	"unit":null,

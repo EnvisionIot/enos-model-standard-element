@@ -39,7 +39,7 @@
 		"defaultValue":"material type",
 		"i18nValue":{
 			"en_US":"material type",
-			"zh_CN":null
+			"zh_CN":"材料类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 					"defaultValue":"mass",
 					"i18nValue":{
 						"en_US":"mass",
-						"zh_CN":null
+						"zh_CN":"质量"
 					}
 				},
 				"unit":"kg"
@@ -25,7 +25,7 @@
 					"defaultValue":"positive tolerance",
 					"i18nValue":{
 						"en_US":"positive tolerance",
-						"zh_CN":null
+						"zh_CN":"正公差"
 					}
 				},
 				"unit":"g"
@@ -39,7 +39,7 @@
 					"defaultValue":"negative tolerance",
 					"i18nValue":{
 						"en_US":"negative tolerance",
-						"zh_CN":null
+						"zh_CN":"负公差"
 					}
 				},
 				"unit":"g"
@@ -65,7 +65,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -82,7 +82,7 @@
 		"defaultValue":"product mass",
 		"i18nValue":{
 			"en_US":"product mass",
-			"zh_CN":null
+			"zh_CN":"产品质量"
 		}
 	},
 	"unit":null,

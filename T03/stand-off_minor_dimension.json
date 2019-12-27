@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off minor dimension",
 		"i18nValue":{
 			"en_US":"stand-off minor dimension",
-			"zh_CN":null
+			"zh_CN":"支座小尺寸"
 		}
 	},
 	"unit":"m",

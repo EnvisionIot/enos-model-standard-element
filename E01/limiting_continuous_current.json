@@ -11,7 +11,7 @@
 		"defaultValue":"limiting continuous current",
 		"i18nValue":{
 			"en_US":"limiting continuous current",
-			"zh_CN":null
+			"zh_CN":"连续电流限值"
 		}
 	},
 	"unit":"A",

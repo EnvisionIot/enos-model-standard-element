@@ -11,7 +11,7 @@
 		"defaultValue":"minor radius of torus",
 		"i18nValue":{
 			"en_US":"minor radius of torus",
-			"zh_CN":null
+			"zh_CN":"圆环小半径"
 		}
 	},
 	"unit":"m",

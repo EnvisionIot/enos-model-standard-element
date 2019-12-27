@@ -11,7 +11,7 @@
 		"defaultValue":"starting torque",
 		"i18nValue":{
 			"en_US":"starting torque",
-			"zh_CN":null
+			"zh_CN":"启动扭矩"
 		}
 	},
 	"unit":"N·m",

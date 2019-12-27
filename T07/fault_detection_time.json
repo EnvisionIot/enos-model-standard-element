@@ -11,7 +11,7 @@
 		"defaultValue":"fault detection time",
 		"i18nValue":{
 			"en_US":"fault detection time",
-			"zh_CN":null
+			"zh_CN":"故障检测时间"
 		}
 	},
 	"unit":"h",

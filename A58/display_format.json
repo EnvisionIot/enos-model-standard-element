@@ -23,7 +23,7 @@
 		"defaultValue":"display format",
 		"i18nValue":{
 			"en_US":"display format",
-			"zh_CN":null
+			"zh_CN":"显示格式"
 		}
 	},
 	"unit":null,

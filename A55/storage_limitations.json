@@ -13,7 +13,7 @@
 		"defaultValue":"storage limitations",
 		"i18nValue":{
 			"en_US":"storage limitations",
-			"zh_CN":null
+			"zh_CN":"储存限制"
 		}
 	},
 	"unit":null,

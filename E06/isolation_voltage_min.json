@@ -11,7 +11,7 @@
 		"defaultValue":"isolation voltage min",
 		"i18nValue":{
 			"en_US":"isolation voltage min",
-			"zh_CN":null
+			"zh_CN":"最小隔离电压"
 		}
 	},
 	"unit":"V",

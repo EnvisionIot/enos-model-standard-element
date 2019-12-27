@@ -23,7 +23,7 @@
 		"defaultValue":"inductance level",
 		"i18nValue":{
 			"en_US":"inductance level",
-			"zh_CN":null
+			"zh_CN":"电感电平"
 		}
 	},
 	"unit":null,

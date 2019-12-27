@@ -11,7 +11,7 @@
 		"defaultValue":"rated input voltage (pulse)",
 		"i18nValue":{
 			"en_US":"rated input voltage (pulse)",
-			"zh_CN":null
+			"zh_CN":"额定输入电压（脉冲）"
 		}
 	},
 	"unit":"V",

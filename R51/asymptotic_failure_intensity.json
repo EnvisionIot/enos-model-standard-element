@@ -11,7 +11,7 @@
 		"defaultValue":"asymptotic failure intensity",
 		"i18nValue":{
 			"en_US":"asymptotic failure intensity",
-			"zh_CN":null
+			"zh_CN":"渐进故障强度"
 		}
 	},
 	"unit":"%",

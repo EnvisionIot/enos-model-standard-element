@@ -11,7 +11,7 @@
 		"defaultValue":"character height",
 		"i18nValue":{
 			"en_US":"character height",
-			"zh_CN":null
+			"zh_CN":"字符高度"
 		}
 	},
 	"unit":"m",

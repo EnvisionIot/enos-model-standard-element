@@ -11,7 +11,7 @@
 		"defaultValue":"read cycle time",
 		"i18nValue":{
 			"en_US":"read cycle time",
-			"zh_CN":null
+			"zh_CN":"读取周期时间"
 		}
 	},
 	"unit":"s",

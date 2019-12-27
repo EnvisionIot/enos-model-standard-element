@@ -11,7 +11,7 @@
 		"defaultValue":"insertion force",
 		"i18nValue":{
 			"en_US":"insertion force",
-			"zh_CN":null
+			"zh_CN":"插入力"
 		}
 	},
 	"unit":"N",

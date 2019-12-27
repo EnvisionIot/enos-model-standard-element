@@ -27,7 +27,7 @@
 		"defaultValue":"dc power plug/jack type",
 		"i18nValue":{
 			"en_US":"dc power plug/jack type",
-			"zh_CN":null
+			"zh_CN":"直流电源插头/插座类型"
 		}
 	},
 	"unit":null,

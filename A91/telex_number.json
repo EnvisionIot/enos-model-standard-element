@@ -13,7 +13,7 @@
 		"defaultValue":"telex number",
 		"i18nValue":{
 			"en_US":"telex number",
-			"zh_CN":null
+			"zh_CN":"电传号码"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"rate of rise of commut current",
 		"i18nValue":{
 			"en_US":"rate of rise of commut current",
-			"zh_CN":null
+			"zh_CN":"换向电流上升率"
 		}
 	},
 	"unit":"A/s",

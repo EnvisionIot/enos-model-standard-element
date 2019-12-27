@@ -11,7 +11,7 @@
 		"defaultValue":"CMOS load condition",
 		"i18nValue":{
 			"en_US":"CMOS load condition",
-			"zh_CN":null
+			"zh_CN":"CMOS 负载条件"
 		}
 	},
 	"unit":"pF",

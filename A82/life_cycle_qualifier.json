@@ -47,7 +47,7 @@
 		"defaultValue":"life cycle qualifier",
 		"i18nValue":{
 			"en_US":"life cycle qualifier",
-			"zh_CN":null
+			"zh_CN":"生命周期限定词"
 		}
 	},
 	"unit":null,

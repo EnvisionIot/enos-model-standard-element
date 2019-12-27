@@ -11,7 +11,7 @@
 		"defaultValue":"synchronous speed",
 		"i18nValue":{
 			"en_US":"synchronous speed",
-			"zh_CN":null
+			"zh_CN":"同步速度"
 		}
 	},
 	"unit":"rpm",

@@ -11,7 +11,7 @@
 		"defaultValue":"cut-off current dark I_CBO",
 		"i18nValue":{
 			"en_US":"cut-off current dark I_CBO",
-			"zh_CN":null
+			"zh_CN":"截止暗电流 I_CBO"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"collector-base voltage V_CBO",
 		"i18nValue":{
 			"en_US":"collector-base voltage V_CBO",
-			"zh_CN":null
+			"zh_CN":"集电极-基极电压 V_CBO"
 		}
 	},
 	"unit":"V",

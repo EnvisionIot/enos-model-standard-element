@@ -23,7 +23,7 @@
 		"defaultValue":"polarity type",
 		"i18nValue":{
 			"en_US":"polarity type",
-			"zh_CN":null
+			"zh_CN":"极性类型"
 		}
 	},
 	"unit":null,

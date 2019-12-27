@@ -13,7 +13,7 @@
 		"defaultValue":"case size",
 		"i18nValue":{
 			"en_US":"case size",
-			"zh_CN":null
+			"zh_CN":"外形尺寸"
 		}
 	},
 	"unit":null,

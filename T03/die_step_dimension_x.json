@@ -11,7 +11,7 @@
 		"defaultValue":"die step dimension x",
 		"i18nValue":{
 			"en_US":"die step dimension x",
-			"zh_CN":null
+			"zh_CN":"x 轴模具步距"
 		}
 	},
 	"unit":"m",

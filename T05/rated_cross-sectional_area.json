@@ -11,7 +11,7 @@
 		"defaultValue":"rated cross-sectional area",
 		"i18nValue":{
 			"en_US":"rated cross-sectional area",
-			"zh_CN":null
+			"zh_CN":"额定截面积"
 		}
 	},
 	"unit":"m²",

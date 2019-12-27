@@ -11,7 +11,7 @@
 		"defaultValue":"memory capacity",
 		"i18nValue":{
 			"en_US":"memory capacity",
-			"zh_CN":null
+			"zh_CN":"内存容量"
 		}
 	},
 	"unit":"bit",

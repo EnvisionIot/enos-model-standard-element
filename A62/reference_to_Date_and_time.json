@@ -11,7 +11,7 @@
 					"defaultValue":"calendar date",
 					"i18nValue":{
 						"en_US":"calendar date",
-						"zh_CN":null
+						"zh_CN":"日历日期"
 					}
 				},
 				"unit":null
@@ -25,7 +25,7 @@
 					"defaultValue":"standard time of day",
 					"i18nValue":{
 						"en_US":"standard time of day",
-						"zh_CN":null
+						"zh_CN":"标准时间"
 					}
 				},
 				"unit":null
@@ -51,7 +51,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -68,7 +68,7 @@
 		"defaultValue":"reference to Date and time",
 		"i18nValue":{
 			"en_US":"reference to Date and time",
-			"zh_CN":null
+			"zh_CN":"参考日期和时间"
 		}
 	},
 	"unit":null,

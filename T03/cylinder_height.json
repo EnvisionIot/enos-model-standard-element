@@ -11,7 +11,7 @@
 		"defaultValue":"cylinder height",
 		"i18nValue":{
 			"en_US":"cylinder height",
-			"zh_CN":null
+			"zh_CN":"圆柱高度"
 		}
 	},
 	"unit":"m",

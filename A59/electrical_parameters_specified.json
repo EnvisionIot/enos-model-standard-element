@@ -13,7 +13,7 @@
 		"defaultValue":"electrical parameters specified",
 		"i18nValue":{
 			"en_US":"electrical parameters specified",
-			"zh_CN":null
+			"zh_CN":"指定电气参数"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"weight of device for use in waste of electrical and electronic equipment reporting procedures",
 		"i18nValue":{
 			"en_US":"weight of device for use in waste of electrical and electronic equipment reporting procedures",
-			"zh_CN":null
+			"zh_CN":"电气和电子设备废弃物报告程序中使用的设备重量"
 		}
 	},
 	"unit":"kg",

@@ -11,7 +11,7 @@
 		"defaultValue":"input impedance",
 		"i18nValue":{
 			"en_US":"input impedance",
-			"zh_CN":null
+			"zh_CN":"输入阻抗"
 		}
 	},
 	"unit":"Ω",

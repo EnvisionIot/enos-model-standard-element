@@ -59,7 +59,7 @@
 		"defaultValue":"body shape",
 		"i18nValue":{
 			"en_US":"body shape",
-			"zh_CN":null
+			"zh_CN":"本地形状"
 		}
 	},
 	"unit":null,

@@ -35,7 +35,7 @@
 		"defaultValue":"die type code",
 		"i18nValue":{
 			"en_US":"die type code",
-			"zh_CN":null
+			"zh_CN":"模具类型代码"
 		}
 	},
 	"unit":null,

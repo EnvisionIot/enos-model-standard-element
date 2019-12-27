@@ -11,7 +11,7 @@
 		"defaultValue":"other index length",
 		"i18nValue":{
 			"en_US":"other index length",
-			"zh_CN":null
+			"zh_CN":"其他参考长度"
 		}
 	},
 	"unit":"m",

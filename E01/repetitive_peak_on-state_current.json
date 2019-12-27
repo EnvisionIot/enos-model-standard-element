@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak on-state current",
 		"i18nValue":{
 			"en_US":"repetitive peak on-state current",
-			"zh_CN":null
+			"zh_CN":"重复峰值通态电流"
 		}
 	},
 	"unit":"A",

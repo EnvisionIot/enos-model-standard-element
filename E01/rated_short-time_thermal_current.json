@@ -11,7 +11,7 @@
 		"defaultValue":"rated short-time thermal current",
 		"i18nValue":{
 			"en_US":"rated short-time thermal current",
-			"zh_CN":null
+			"zh_CN":"额定短时热电流"
 		}
 	},
 	"unit":"A",

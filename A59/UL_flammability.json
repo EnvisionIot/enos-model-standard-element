@@ -59,7 +59,7 @@
 		"defaultValue":"UL flammability",
 		"i18nValue":{
 			"en_US":"UL flammability",
-			"zh_CN":null
+			"zh_CN":"UL 可燃性"
 		}
 	},
 	"unit":null,

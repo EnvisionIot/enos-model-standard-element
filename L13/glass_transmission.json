@@ -11,7 +11,7 @@
 		"defaultValue":"glass transmission",
 		"i18nValue":{
 			"en_US":"glass transmission",
-			"zh_CN":null
+			"zh_CN":"玻璃透射"
 		}
 	},
 	"unit":"%",

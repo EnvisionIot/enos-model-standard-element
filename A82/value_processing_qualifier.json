@@ -47,7 +47,7 @@
 		"defaultValue":"value processing qualifier",
 		"i18nValue":{
 			"en_US":"value processing qualifier",
-			"zh_CN":null
+			"zh_CN":"值处理限定符"
 		}
 	},
 	"unit":null,

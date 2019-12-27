@@ -11,7 +11,7 @@
 		"defaultValue":"electrical durability",
 		"i18nValue":{
 			"en_US":"electrical durability",
-			"zh_CN":null
+			"zh_CN":"电气耐久性"
 		}
 	},
 	"unit":null,

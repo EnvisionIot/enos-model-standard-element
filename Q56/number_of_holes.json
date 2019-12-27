@@ -11,7 +11,7 @@
 		"defaultValue":"number of holes",
 		"i18nValue":{
 			"en_US":"number of holes",
-			"zh_CN":null
+			"zh_CN":"孔数"
 		}
 	},
 	"unit":null,

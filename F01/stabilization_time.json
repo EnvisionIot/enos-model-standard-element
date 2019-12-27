@@ -11,7 +11,7 @@
 		"defaultValue":"stabilization time",
 		"i18nValue":{
 			"en_US":"stabilization time",
-			"zh_CN":null
+			"zh_CN":"稳定时间"
 		}
 	},
 	"unit":"s",

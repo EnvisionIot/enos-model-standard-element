@@ -11,7 +11,7 @@
 		"defaultValue":"mounted width",
 		"i18nValue":{
 			"en_US":"mounted width",
-			"zh_CN":null
+			"zh_CN":"安装宽度"
 		}
 	},
 	"unit":"m",

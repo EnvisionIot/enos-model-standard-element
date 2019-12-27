@@ -111,7 +111,7 @@
 		"defaultValue":"terminal variant code",
 		"i18nValue":{
 			"en_US":"terminal variant code",
-			"zh_CN":null
+			"zh_CN":"端子形状代码"
 		}
 	},
 	"unit":null,

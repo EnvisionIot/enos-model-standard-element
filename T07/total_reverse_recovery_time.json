@@ -11,7 +11,7 @@
 		"defaultValue":"total reverse recovery time",
 		"i18nValue":{
 			"en_US":"total reverse recovery time",
-			"zh_CN":null
+			"zh_CN":"总反向恢复时间"
 		}
 	},
 	"unit":"s",

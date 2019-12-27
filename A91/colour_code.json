@@ -63,7 +63,7 @@
 		"defaultValue":"colour code",
 		"i18nValue":{
 			"en_US":"colour code",
-			"zh_CN":null
+			"zh_CN":"颜色代码"
 		}
 	},
 	"unit":null,

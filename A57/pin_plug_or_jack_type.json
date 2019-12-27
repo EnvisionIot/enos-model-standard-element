@@ -31,7 +31,7 @@
 		"defaultValue":"pin plug/jack type",
 		"i18nValue":{
 			"en_US":"pin plug/jack type",
-			"zh_CN":null
+			"zh_CN":"针式插头/插座类型"
 		}
 	},
 	"unit":null,

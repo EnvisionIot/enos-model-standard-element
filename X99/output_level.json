@@ -11,7 +11,7 @@
 		"defaultValue":"output level",
 		"i18nValue":{
 			"en_US":"output level",
-			"zh_CN":null
+			"zh_CN":"输出水平"
 		}
 	},
 	"unit":"dBm",

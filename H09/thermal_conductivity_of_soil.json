@@ -11,7 +11,7 @@
 		"defaultValue":"thermal conductivity of soil",
 		"i18nValue":{
 			"en_US":"thermal conductivity of soil",
-			"zh_CN":null
+			"zh_CN":"土壤热导率"
 		}
 	},
 	"unit":"W/(m·K)",

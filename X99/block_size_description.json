@@ -13,7 +13,7 @@
 		"defaultValue":"block size description",
 		"i18nValue":{
 			"en_US":"block size description",
-			"zh_CN":null
+			"zh_CN":"芯片模块大小说明"
 		}
 	},
 	"unit":null,

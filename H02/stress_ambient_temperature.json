@@ -11,7 +11,7 @@
 		"defaultValue":"stress ambient temperature",
 		"i18nValue":{
 			"en_US":"stress ambient temperature",
-			"zh_CN":null
+			"zh_CN":"应力环境温度"
 		}
 	},
 	"unit":"°C",

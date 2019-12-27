@@ -31,7 +31,7 @@
 		"defaultValue":"aspect",
 		"i18nValue":{
 			"en_US":"aspect",
-			"zh_CN":null
+			"zh_CN":"方位"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"torque",
 		"i18nValue":{
 			"en_US":"torque",
-			"zh_CN":null
+			"zh_CN":"扭矩"
 		}
 	},
 	"unit":"N·m",

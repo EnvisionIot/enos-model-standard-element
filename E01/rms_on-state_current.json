@@ -11,7 +11,7 @@
 		"defaultValue":"rms on-state current",
 		"i18nValue":{
 			"en_US":"rms on-state current",
-			"zh_CN":null
+			"zh_CN":"通态电流均方根值"
 		}
 	},
 	"unit":"A",

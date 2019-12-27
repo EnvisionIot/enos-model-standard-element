@@ -13,7 +13,7 @@
 		"defaultValue":"surface-mount flag",
 		"i18nValue":{
 			"en_US":"surface-mount flag",
-			"zh_CN":null
+			"zh_CN":"表面贴装标志"
 		}
 	},
 	"unit":null,

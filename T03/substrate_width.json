@@ -11,7 +11,7 @@
 		"defaultValue":"substrate width",
 		"i18nValue":{
 			"en_US":"substrate width",
-			"zh_CN":null
+			"zh_CN":"基板宽度"
 		}
 	},
 	"unit":"m",

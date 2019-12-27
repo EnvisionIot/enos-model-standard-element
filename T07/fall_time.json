@@ -11,7 +11,7 @@
 		"defaultValue":"fall time",
 		"i18nValue":{
 			"en_US":"fall time",
-			"zh_CN":null
+			"zh_CN":"下降时间"
 		}
 	},
 	"unit":"s",

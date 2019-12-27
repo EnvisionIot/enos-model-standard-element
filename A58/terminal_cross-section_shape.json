@@ -23,7 +23,7 @@
 		"defaultValue":"terminal cross-section shape",
 		"i18nValue":{
 			"en_US":"terminal cross-section shape",
-			"zh_CN":null
+			"zh_CN":"端子截面形状"
 		}
 	},
 	"unit":null,

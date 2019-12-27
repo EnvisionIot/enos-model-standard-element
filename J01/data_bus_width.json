@@ -11,7 +11,7 @@
 		"defaultValue":"data bus width",
 		"i18nValue":{
 			"en_US":"data bus width",
-			"zh_CN":null
+			"zh_CN":"数据总线宽度"
 		}
 	},
 	"unit":"bit",

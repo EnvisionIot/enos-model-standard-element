@@ -11,7 +11,7 @@
 		"defaultValue":"track width",
 		"i18nValue":{
 			"en_US":"track width",
-			"zh_CN":null
+			"zh_CN":"轨道宽度"
 		}
 	},
 	"unit":"m",

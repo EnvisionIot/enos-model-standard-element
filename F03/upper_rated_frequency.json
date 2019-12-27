@@ -11,7 +11,7 @@
 		"defaultValue":"upper rated frequency",
 		"i18nValue":{
 			"en_US":"upper rated frequency",
-			"zh_CN":null
+			"zh_CN":"额定频率上限"
 		}
 	},
 	"unit":"Hz",

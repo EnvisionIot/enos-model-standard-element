@@ -11,7 +11,7 @@
 		"defaultValue":"base-emitter resistance",
 		"i18nValue":{
 			"en_US":"base-emitter resistance",
-			"zh_CN":null
+			"zh_CN":"基极-发射极电阻"
 		}
 	},
 	"unit":"Ω",

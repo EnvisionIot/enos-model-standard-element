@@ -11,7 +11,7 @@
 		"defaultValue":"ripple rejection",
 		"i18nValue":{
 			"en_US":"ripple rejection",
-			"zh_CN":null
+			"zh_CN":"纹波抑制"
 		}
 	},
 	"unit":"dB",

@@ -35,7 +35,7 @@
 		"defaultValue":"PTC application",
 		"i18nValue":{
 			"en_US":"PTC application",
-			"zh_CN":null
+			"zh_CN":"PTC 应用"
 		}
 	},
 	"unit":null,

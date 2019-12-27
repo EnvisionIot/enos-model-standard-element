@@ -23,7 +23,7 @@
 		"defaultValue":"trajectory of motion",
 		"i18nValue":{
 			"en_US":"trajectory of motion",
-			"zh_CN":null
+			"zh_CN":"运动轨迹"
 		}
 	},
 	"unit":null,

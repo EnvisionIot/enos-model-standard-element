@@ -11,7 +11,7 @@
 		"defaultValue":"groundwater level",
 		"i18nValue":{
 			"en_US":"groundwater level",
-			"zh_CN":null
+			"zh_CN":"地下水位"
 		}
 	},
 	"unit":"m",

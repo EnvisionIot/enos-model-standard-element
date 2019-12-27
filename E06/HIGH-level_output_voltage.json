@@ -11,7 +11,7 @@
 		"defaultValue":"HIGH-level output voltage",
 		"i18nValue":{
 			"en_US":"HIGH-level output voltage",
-			"zh_CN":null
+			"zh_CN":"高电平输出电压"
 		}
 	},
 	"unit":"V",

@@ -11,7 +11,7 @@
 		"defaultValue":"electric resistivity of soil",
 		"i18nValue":{
 			"en_US":"electric resistivity of soil",
-			"zh_CN":null
+			"zh_CN":"土壤电阻率"
 		}
 	},
 	"unit":"Ω/m",

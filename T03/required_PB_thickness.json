@@ -11,7 +11,7 @@
 		"defaultValue":"required PB thickness",
 		"i18nValue":{
 			"en_US":"required PB thickness",
-			"zh_CN":null
+			"zh_CN":"所需 PB 厚度"
 		}
 	},
 	"unit":"m",

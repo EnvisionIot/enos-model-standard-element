@@ -11,7 +11,7 @@
 		"defaultValue":"number of poles",
 		"i18nValue":{
 			"en_US":"number of poles",
-			"zh_CN":null
+			"zh_CN":"极数"
 		}
 	},
 	"unit":null,

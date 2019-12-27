@@ -991,7 +991,7 @@
 					"defaultValue":"country code",
 					"i18nValue":{
 						"en_US":"country code",
-						"zh_CN":null
+						"zh_CN":"国家/地区代码"
 					}
 				},
 				"unit":null
@@ -1017,7 +1017,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -1034,7 +1034,7 @@
 		"defaultValue":"reference to region-based effectivity class",
 		"i18nValue":{
 			"en_US":"reference to region-based effectivity class",
-			"zh_CN":null
+			"zh_CN":"参考基于区域的有效性类别"
 		}
 	},
 	"unit":null,

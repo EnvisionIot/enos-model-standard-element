@@ -11,7 +11,7 @@
 		"defaultValue":"LOW-state supply current",
 		"i18nValue":{
 			"en_US":"LOW-state supply current",
-			"zh_CN":null
+			"zh_CN":"低态电源电流"
 		}
 	},
 	"unit":"A",

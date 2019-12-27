@@ -47,7 +47,7 @@
 		"defaultValue":"termination style",
 		"i18nValue":{
 			"en_US":"termination style",
-			"zh_CN":null
+			"zh_CN":"终接方式"
 		}
 	},
 	"unit":null,

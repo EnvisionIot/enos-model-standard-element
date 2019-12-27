@@ -11,7 +11,7 @@
 		"defaultValue":"hydrogen fluoride concentration",
 		"i18nValue":{
 			"en_US":"hydrogen fluoride concentration",
-			"zh_CN":null
+			"zh_CN":"氟化氢浓度"
 		}
 	},
 	"unit":"kg/m³",

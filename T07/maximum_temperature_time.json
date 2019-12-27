@@ -11,7 +11,7 @@
 		"defaultValue":"maximum temperature time",
 		"i18nValue":{
 			"en_US":"maximum temperature time",
-			"zh_CN":null
+			"zh_CN":"最高温度持续时间"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"refresh time interval",
 		"i18nValue":{
 			"en_US":"refresh time interval",
-			"zh_CN":null
+			"zh_CN":"刷新时间间隔"
 		}
 	},
 	"unit":"s",

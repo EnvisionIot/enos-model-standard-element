@@ -13,7 +13,7 @@
 		"defaultValue":"object description",
 		"i18nValue":{
 			"en_US":"object description",
-			"zh_CN":null
+			"zh_CN":"对象描述"
 		}
 	},
 	"unit":null,

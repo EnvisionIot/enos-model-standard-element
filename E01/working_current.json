@@ -11,7 +11,7 @@
 		"defaultValue":"working current",
 		"i18nValue":{
 			"en_US":"working current",
-			"zh_CN":null
+			"zh_CN":"工作电流"
 		}
 	},
 	"unit":"A",

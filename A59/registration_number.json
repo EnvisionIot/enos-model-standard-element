@@ -13,7 +13,7 @@
 		"defaultValue":"registration number",
 		"i18nValue":{
 			"en_US":"registration number",
-			"zh_CN":null
+			"zh_CN":"注册号"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"mean down time",
 		"i18nValue":{
 			"en_US":"mean down time",
-			"zh_CN":null
+			"zh_CN":"平均停机时间"
 		}
 	},
 	"unit":"h",

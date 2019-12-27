@@ -11,7 +11,7 @@
 		"defaultValue":"line deflection current",
 		"i18nValue":{
 			"en_US":"line deflection current",
-			"zh_CN":null
+			"zh_CN":"线偏转电流"
 		}
 	},
 	"unit":"A",

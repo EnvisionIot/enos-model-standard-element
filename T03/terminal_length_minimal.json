@@ -11,7 +11,7 @@
 		"defaultValue":"terminal length minimal",
 		"i18nValue":{
 			"en_US":"terminal length minimal",
-			"zh_CN":null
+			"zh_CN":"最小端子长度"
 		}
 	},
 	"unit":"m",

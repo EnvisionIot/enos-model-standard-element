@@ -11,7 +11,7 @@
 		"defaultValue":"focusing voltage limiting",
 		"i18nValue":{
 			"en_US":"focusing voltage limiting",
-			"zh_CN":null
+			"zh_CN":"聚焦电压限值"
 		}
 	},
 	"unit":"V",

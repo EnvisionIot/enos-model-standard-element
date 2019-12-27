@@ -11,7 +11,7 @@
 		"defaultValue":"design storm intensity",
 		"i18nValue":{
 			"en_US":"design storm intensity",
-			"zh_CN":null
+			"zh_CN":"设计风暴强度"
 		}
 	},
 	"unit":"mm/h",

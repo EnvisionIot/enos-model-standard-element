@@ -11,7 +11,7 @@
 		"defaultValue":"substrate length",
 		"i18nValue":{
 			"en_US":"substrate length",
-			"zh_CN":null
+			"zh_CN":"基板长度"
 		}
 	},
 	"unit":"m",

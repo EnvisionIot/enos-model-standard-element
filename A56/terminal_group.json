@@ -13,7 +13,7 @@
 		"defaultValue":"terminal group",
 		"i18nValue":{
 			"en_US":"terminal group",
-			"zh_CN":null
+			"zh_CN":"端子组"
 		}
 	},
 	"unit":null,

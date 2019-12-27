@@ -11,7 +11,7 @@
 		"defaultValue":"supply voltage sensitivity",
 		"i18nValue":{
 			"en_US":"supply voltage sensitivity",
-			"zh_CN":null
+			"zh_CN":"电源电压灵敏度"
 		}
 	},
 	"unit":"V/V",

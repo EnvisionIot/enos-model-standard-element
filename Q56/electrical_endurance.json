@@ -11,7 +11,7 @@
 		"defaultValue":"electrical endurance",
 		"i18nValue":{
 			"en_US":"electrical endurance",
-			"zh_CN":null
+			"zh_CN":"耐电性"
 		}
 	},
 	"unit":null,

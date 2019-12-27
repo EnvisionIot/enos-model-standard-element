@@ -11,7 +11,7 @@
 		"defaultValue":"date of check for restriction of hazardous substances",
 		"i18nValue":{
 			"en_US":"date of check for restriction of hazardous substances",
-			"zh_CN":null
+			"zh_CN":"有害物质限制检验日期"
 		}
 	},
 	"unit":null,

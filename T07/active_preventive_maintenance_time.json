@@ -11,7 +11,7 @@
 		"defaultValue":"active preventive maintenance time",
 		"i18nValue":{
 			"en_US":"active preventive maintenance time",
-			"zh_CN":null
+			"zh_CN":"主动预防性维护时间"
 		}
 	},
 	"unit":"h",

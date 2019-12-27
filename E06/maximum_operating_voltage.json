@@ -11,7 +11,7 @@
 		"defaultValue":"maximum operating voltage",
 		"i18nValue":{
 			"en_US":"maximum operating voltage",
-			"zh_CN":null
+			"zh_CN":"最大工作电压"
 		}
 	},
 	"unit":"V",

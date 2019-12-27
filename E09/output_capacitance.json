@@ -11,7 +11,7 @@
 		"defaultValue":"output capacitance",
 		"i18nValue":{
 			"en_US":"output capacitance",
-			"zh_CN":null
+			"zh_CN":"输出电容"
 		}
 	},
 	"unit":"pF",

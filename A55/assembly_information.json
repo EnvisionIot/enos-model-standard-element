@@ -13,7 +13,7 @@
 		"defaultValue":"assembly information",
 		"i18nValue":{
 			"en_US":"assembly information",
-			"zh_CN":null
+			"zh_CN":"装配信息"
 		}
 	},
 	"unit":null,

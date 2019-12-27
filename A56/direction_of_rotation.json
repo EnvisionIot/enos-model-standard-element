@@ -27,7 +27,7 @@
 		"defaultValue":"direction of rotation",
 		"i18nValue":{
 			"en_US":"direction of rotation",
-			"zh_CN":null
+			"zh_CN":"旋转方向"
 		}
 	},
 	"unit":null,

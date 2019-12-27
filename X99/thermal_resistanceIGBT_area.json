@@ -11,7 +11,7 @@
 		"defaultValue":"thermal resistance(IGBT area)",
 		"i18nValue":{
 			"en_US":"thermal resistance(IGBT area)",
-			"zh_CN":null
+			"zh_CN":"热阻（IGBT 区域）"
 		}
 	},
 	"unit":"°C/W",

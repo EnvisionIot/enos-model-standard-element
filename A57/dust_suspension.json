@@ -11,7 +11,7 @@
 		"defaultValue":"dust suspension",
 		"i18nValue":{
 			"en_US":"dust suspension",
-			"zh_CN":null
+			"zh_CN":"灰尘悬浮"
 		}
 	},
 	"unit":"mg/m³",

@@ -11,7 +11,7 @@
 		"defaultValue":"output disable time",
 		"i18nValue":{
 			"en_US":"output disable time",
-			"zh_CN":null
+			"zh_CN":"输出禁用时间"
 		}
 	},
 	"unit":"s",

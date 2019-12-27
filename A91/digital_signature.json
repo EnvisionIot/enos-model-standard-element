@@ -13,7 +13,7 @@
 		"defaultValue":"digital signature",
 		"i18nValue":{
 			"en_US":"digital signature",
-			"zh_CN":null
+			"zh_CN":"电子签名"
 		}
 	},
 	"unit":null,

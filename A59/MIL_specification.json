@@ -13,7 +13,7 @@
 		"defaultValue":"MIL specification",
 		"i18nValue":{
 			"en_US":"MIL specification",
-			"zh_CN":null
+			"zh_CN":"MIL 规格"
 		}
 	},
 	"unit":null,

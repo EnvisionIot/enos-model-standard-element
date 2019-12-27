@@ -35,7 +35,7 @@
 		"defaultValue":"diode application",
 		"i18nValue":{
 			"en_US":"diode application",
-			"zh_CN":null
+			"zh_CN":"二极管应用"
 		}
 	},
 	"unit":null,

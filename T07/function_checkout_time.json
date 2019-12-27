@@ -11,7 +11,7 @@
 		"defaultValue":"function checkout time",
 		"i18nValue":{
 			"en_US":"function checkout time",
-			"zh_CN":null
+			"zh_CN":"功能结帐时间"
 		}
 	},
 	"unit":"h",

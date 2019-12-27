@@ -31,7 +31,7 @@
 		"defaultValue":"instruction set",
 		"i18nValue":{
 			"en_US":"instruction set",
-			"zh_CN":null
+			"zh_CN":"指令集"
 		}
 	},
 	"unit":null,

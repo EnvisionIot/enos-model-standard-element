@@ -11,7 +11,7 @@
 		"defaultValue":"anode-gate to anode voltage",
 		"i18nValue":{
 			"en_US":"anode-gate to anode voltage",
-			"zh_CN":null
+			"zh_CN":"阳极栅极到阳极的电压"
 		}
 	},
 	"unit":"V",

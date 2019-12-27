@@ -11,7 +11,7 @@
 		"defaultValue":"output standing wave ratio",
 		"i18nValue":{
 			"en_US":"output standing wave ratio",
-			"zh_CN":null
+			"zh_CN":"输出驻波比"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 					"defaultValue":"file name",
 					"i18nValue":{
 						"en_US":"file name",
-						"zh_CN":null
+						"zh_CN":"文件名称"
 					}
 				},
 				"unit":null
@@ -29,7 +29,7 @@
 					"defaultValue":"file type",
 					"i18nValue":{
 						"en_US":"file type",
-						"zh_CN":null
+						"zh_CN":"文件类型"
 					}
 				},
 				"unit":null
@@ -55,7 +55,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -72,7 +72,7 @@
 		"defaultValue":"attachment",
 		"i18nValue":{
 			"en_US":"attachment",
-			"zh_CN":null
+			"zh_CN":"附件"
 		}
 	},
 	"unit":null,

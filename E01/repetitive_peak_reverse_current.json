@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak reverse current",
 		"i18nValue":{
 			"en_US":"repetitive peak reverse current",
-			"zh_CN":null
+			"zh_CN":"重复峰值反向电流"
 		}
 	},
 	"unit":"A",

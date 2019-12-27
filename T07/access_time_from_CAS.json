@@ -11,7 +11,7 @@
 		"defaultValue":"access time from CAS",
 		"i18nValue":{
 			"en_US":"access time from CAS",
-			"zh_CN":null
+			"zh_CN":"CAS 访问时间"
 		}
 	},
 	"unit":"s",

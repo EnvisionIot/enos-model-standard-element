@@ -11,7 +11,7 @@
 		"defaultValue":"reticule step size y",
 		"i18nValue":{
 			"en_US":"reticule step size y",
-			"zh_CN":null
+			"zh_CN":"y 轴标线步距"
 		}
 	},
 	"unit":"m",

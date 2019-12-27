@@ -11,7 +11,7 @@
 		"defaultValue":"dot height",
 		"i18nValue":{
 			"en_US":"dot height",
-			"zh_CN":null
+			"zh_CN":"点高"
 		}
 	},
 	"unit":"m",

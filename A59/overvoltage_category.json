@@ -31,7 +31,7 @@
 		"defaultValue":"overvoltage category",
 		"i18nValue":{
 			"en_US":"overvoltage category",
-			"zh_CN":null
+			"zh_CN":"过电压类别"
 		}
 	},
 	"unit":null,

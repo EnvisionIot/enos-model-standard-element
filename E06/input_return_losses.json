@@ -11,7 +11,7 @@
 		"defaultValue":"input return losses",
 		"i18nValue":{
 			"en_US":"input return losses",
-			"zh_CN":null
+			"zh_CN":"输入回波损耗"
 		}
 	},
 	"unit":"dB",

@@ -13,7 +13,7 @@
 		"defaultValue":"fiducial file name",
 		"i18nValue":{
 			"en_US":"fiducial file name",
-			"zh_CN":null
+			"zh_CN":"基准文件名"
 		}
 	},
 	"unit":null,

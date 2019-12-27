@@ -11,7 +11,7 @@
 		"defaultValue":"collector-emitter breakdown voltage",
 		"i18nValue":{
 			"en_US":"collector-emitter breakdown voltage",
-			"zh_CN":null
+			"zh_CN":"集电极-发射极击穿电压"
 		}
 	},
 	"unit":"V",

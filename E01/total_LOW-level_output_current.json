@@ -11,7 +11,7 @@
 		"defaultValue":"total LOW-level output current",
 		"i18nValue":{
 			"en_US":"total LOW-level output current",
-			"zh_CN":null
+			"zh_CN":"低电平总输出电流"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"min range value",
 		"i18nValue":{
 			"en_US":"min range value",
-			"zh_CN":null
+			"zh_CN":"最小范围值"
 		}
 	},
 	"unit":"F",

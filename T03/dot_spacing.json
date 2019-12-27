@@ -11,7 +11,7 @@
 		"defaultValue":"dot spacing",
 		"i18nValue":{
 			"en_US":"dot spacing",
-			"zh_CN":null
+			"zh_CN":"点间距"
 		}
 	},
 	"unit":"m",

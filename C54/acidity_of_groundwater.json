@@ -11,7 +11,7 @@
 		"defaultValue":"acidity of groundwater",
 		"i18nValue":{
 			"en_US":"acidity of groundwater",
-			"zh_CN":null
+			"zh_CN":"地下水酸度"
 		}
 	},
 	"unit":"pH",

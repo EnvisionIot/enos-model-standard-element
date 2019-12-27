@@ -13,7 +13,7 @@
 		"defaultValue":"shell type",
 		"i18nValue":{
 			"en_US":"shell type",
-			"zh_CN":null
+			"zh_CN":"外壳类型"
 		}
 	},
 	"unit":null,

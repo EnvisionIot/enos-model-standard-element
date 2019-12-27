@@ -11,7 +11,7 @@
 		"defaultValue":"common-mode input resistance",
 		"i18nValue":{
 			"en_US":"common-mode input resistance",
-			"zh_CN":null
+			"zh_CN":"共模输入电阻"
 		}
 	},
 	"unit":"Ω",

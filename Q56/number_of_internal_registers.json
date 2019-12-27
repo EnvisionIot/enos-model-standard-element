@@ -11,7 +11,7 @@
 		"defaultValue":"number of internal registers",
 		"i18nValue":{
 			"en_US":"number of internal registers",
-			"zh_CN":null
+			"zh_CN":"内部寄存器数量"
 		}
 	},
 	"unit":null,

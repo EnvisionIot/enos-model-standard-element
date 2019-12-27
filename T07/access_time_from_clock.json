@@ -11,7 +11,7 @@
 		"defaultValue":"access time from clock",
 		"i18nValue":{
 			"en_US":"access time from clock",
-			"zh_CN":null
+			"zh_CN":"时钟访问时间"
 		}
 	},
 	"unit":"s",

@@ -13,7 +13,7 @@
 		"defaultValue":"groundwater protection class",
 		"i18nValue":{
 			"en_US":"groundwater protection class",
-			"zh_CN":null
+			"zh_CN":"地下水保护等级"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"wafer gross die count",
 		"i18nValue":{
 			"en_US":"wafer gross die count",
-			"zh_CN":null
+			"zh_CN":"晶圆总芯片数"
 		}
 	},
 	"unit":null,

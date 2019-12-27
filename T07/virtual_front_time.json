@@ -11,7 +11,7 @@
 		"defaultValue":"virtual front time",
 		"i18nValue":{
 			"en_US":"virtual front time",
-			"zh_CN":null
+			"zh_CN":"虚拟波前时间"
 		}
 	},
 	"unit":"s",

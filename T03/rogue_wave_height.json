@@ -11,7 +11,7 @@
 		"defaultValue":"rogue wave height",
 		"i18nValue":{
 			"en_US":"rogue wave height",
-			"zh_CN":null
+			"zh_CN":"巨浪高度"
 		}
 	},
 	"unit":"m",

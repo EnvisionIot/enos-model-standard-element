@@ -11,7 +11,7 @@
 		"defaultValue":"base current (dc)",
 		"i18nValue":{
 			"en_US":"base current (dc)",
-			"zh_CN":null
+			"zh_CN":"基极电流（直流）"
 		}
 	},
 	"unit":"A",

@@ -13,7 +13,7 @@
 		"defaultValue":"reporting threshold",
 		"i18nValue":{
 			"en_US":"reporting threshold",
-			"zh_CN":null
+			"zh_CN":"报告阈值"
 		}
 	},
 	"unit":null,

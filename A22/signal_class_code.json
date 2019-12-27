@@ -13,7 +13,7 @@
 		"defaultValue":"signal class code",
 		"i18nValue":{
 			"en_US":"signal class code",
-			"zh_CN":null
+			"zh_CN":"信号等级代码"
 		}
 	},
 	"unit":null,

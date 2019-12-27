@@ -11,7 +11,7 @@
 		"defaultValue":"minor radius",
 		"i18nValue":{
 			"en_US":"minor radius",
-			"zh_CN":null
+			"zh_CN":"小半径"
 		}
 	},
 	"unit":"m",

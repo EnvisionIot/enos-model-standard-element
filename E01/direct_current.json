@@ -11,7 +11,7 @@
 		"defaultValue":"direct current",
 		"i18nValue":{
 			"en_US":"direct current",
-			"zh_CN":null
+			"zh_CN":"直流电"
 		}
 	},
 	"unit":"A",

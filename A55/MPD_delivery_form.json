@@ -13,7 +13,7 @@
 		"defaultValue":"MPD delivery form",
 		"i18nValue":{
 			"en_US":"MPD delivery form",
-			"zh_CN":null
+			"zh_CN":"MPD 交付形式"
 		}
 	},
 	"unit":null,

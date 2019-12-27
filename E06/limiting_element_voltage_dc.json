@@ -11,7 +11,7 @@
 		"defaultValue":"limiting element voltage (dc)",
 		"i18nValue":{
 			"en_US":"limiting element voltage (dc)",
-			"zh_CN":null
+			"zh_CN":"限制元件电压（直流）"
 		}
 	},
 	"unit":"V",

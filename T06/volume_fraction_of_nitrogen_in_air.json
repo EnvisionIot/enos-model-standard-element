@@ -11,7 +11,7 @@
 		"defaultValue":"volume fraction of nitrogen in air",
 		"i18nValue":{
 			"en_US":"volume fraction of nitrogen in air",
-			"zh_CN":null
+			"zh_CN":"空气中氮的体积分数"
 		}
 	},
 	"unit":"%",

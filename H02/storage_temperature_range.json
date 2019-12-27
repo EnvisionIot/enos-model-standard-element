@@ -11,7 +11,7 @@
 		"defaultValue":"storage temperature range",
 		"i18nValue":{
 			"en_US":"storage temperature range",
-			"zh_CN":null
+			"zh_CN":"储存温度范围"
 		}
 	},
 	"unit":"°C",

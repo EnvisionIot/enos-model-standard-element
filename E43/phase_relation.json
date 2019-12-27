@@ -11,7 +11,7 @@
 		"defaultValue":"phase relation",
 		"i18nValue":{
 			"en_US":"phase relation",
-			"zh_CN":null
+			"zh_CN":"相位关系"
 		}
 	},
 	"unit":"°",

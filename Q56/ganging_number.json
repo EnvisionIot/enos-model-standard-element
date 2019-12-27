@@ -11,7 +11,7 @@
 		"defaultValue":"ganging number",
 		"i18nValue":{
 			"en_US":"ganging number",
-			"zh_CN":null
+			"zh_CN":"联动元件数量"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"circuit board thickness",
 		"i18nValue":{
 			"en_US":"circuit board thickness",
-			"zh_CN":null
+			"zh_CN":"电路板厚度"
 		}
 	},
 	"unit":"m",

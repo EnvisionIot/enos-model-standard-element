@@ -11,7 +11,7 @@
 		"defaultValue":"date of expiry",
 		"i18nValue":{
 			"en_US":"date of expiry",
-			"zh_CN":null
+			"zh_CN":"到期日期"
 		}
 	},
 	"unit":null,

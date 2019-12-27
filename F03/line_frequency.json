@@ -11,7 +11,7 @@
 		"defaultValue":"line frequency",
 		"i18nValue":{
 			"en_US":"line frequency",
-			"zh_CN":null
+			"zh_CN":"线路频率"
 		}
 	},
 	"unit":"Hz",

@@ -23,7 +23,7 @@
 		"defaultValue":"geometry type",
 		"i18nValue":{
 			"en_US":"geometry type",
-			"zh_CN":null
+			"zh_CN":"几何类型"
 		}
 	},
 	"unit":null,

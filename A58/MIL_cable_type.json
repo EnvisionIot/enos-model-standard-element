@@ -13,7 +13,7 @@
 		"defaultValue":"MIL cable type",
 		"i18nValue":{
 			"en_US":"MIL cable type",
-			"zh_CN":null
+			"zh_CN":"MIL 电缆类型"
 		}
 	},
 	"unit":null,

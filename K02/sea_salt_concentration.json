@@ -11,7 +11,7 @@
 		"defaultValue":"sea salt concentration",
 		"i18nValue":{
 			"en_US":"sea salt concentration",
-			"zh_CN":null
+			"zh_CN":"海盐浓度"
 		}
 	},
 	"unit":"kg/m³",

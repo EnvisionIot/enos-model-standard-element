@@ -27,7 +27,7 @@
 		"defaultValue":"ac motor synchronism",
 		"i18nValue":{
 			"en_US":"ac motor synchronism",
-			"zh_CN":null
+			"zh_CN":"交流电机同步"
 		}
 	},
 	"unit":null,

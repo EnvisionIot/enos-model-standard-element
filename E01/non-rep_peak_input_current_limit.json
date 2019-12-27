@@ -11,7 +11,7 @@
 		"defaultValue":"non-rep peak input current limit",
 		"i18nValue":{
 			"en_US":"non-rep peak input current limit",
-			"zh_CN":null
+			"zh_CN":"非重复峰值输入电流限值"
 		}
 	},
 	"unit":"A",

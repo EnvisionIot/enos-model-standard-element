@@ -31,7 +31,7 @@
 		"defaultValue":"contact type",
 		"i18nValue":{
 			"en_US":"contact type",
-			"zh_CN":null
+			"zh_CN":"触点类型"
 		}
 	},
 	"unit":null,

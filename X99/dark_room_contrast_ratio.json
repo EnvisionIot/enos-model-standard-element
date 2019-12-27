@@ -13,7 +13,7 @@
 		"defaultValue":"dark room contrast ratio",
 		"i18nValue":{
 			"en_US":"dark room contrast ratio",
-			"zh_CN":null
+			"zh_CN":"暗室对比度"
 		}
 	},
 	"unit":null,

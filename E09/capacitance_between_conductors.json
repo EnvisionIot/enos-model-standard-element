@@ -11,7 +11,7 @@
 		"defaultValue":"capacitance between conductors",
 		"i18nValue":{
 			"en_US":"capacitance between conductors",
-			"zh_CN":null
+			"zh_CN":"导体间电容"
 		}
 	},
 	"unit":"F/m",

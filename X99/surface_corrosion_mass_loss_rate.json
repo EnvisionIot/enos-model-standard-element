@@ -11,7 +11,7 @@
 		"defaultValue":"surface corrosion mass loss rate",
 		"i18nValue":{
 			"en_US":"surface corrosion mass loss rate",
-			"zh_CN":null
+			"zh_CN":"表面腐蚀质量损失率"
 		}
 	},
 	"unit":"mm/y",

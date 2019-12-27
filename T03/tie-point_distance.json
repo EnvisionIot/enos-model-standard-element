@@ -11,7 +11,7 @@
 		"defaultValue":"tie-point distance",
 		"i18nValue":{
 			"en_US":"tie-point distance",
-			"zh_CN":null
+			"zh_CN":"接合点距离"
 		}
 	},
 	"unit":"m",

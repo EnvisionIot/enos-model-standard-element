@@ -11,7 +11,7 @@
 		"defaultValue":"common-mode rejection ratio",
 		"i18nValue":{
 			"en_US":"common-mode rejection ratio",
-			"zh_CN":null
+			"zh_CN":"共模抑制比"
 		}
 	},
 	"unit":"dB",

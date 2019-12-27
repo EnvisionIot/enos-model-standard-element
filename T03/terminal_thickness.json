@@ -11,7 +11,7 @@
 		"defaultValue":"terminal thickness",
 		"i18nValue":{
 			"en_US":"terminal thickness",
-			"zh_CN":null
+			"zh_CN":"端子厚度"
 		}
 	},
 	"unit":"m",

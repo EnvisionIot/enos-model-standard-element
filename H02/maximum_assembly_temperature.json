@@ -11,7 +11,7 @@
 		"defaultValue":"maximum assembly temperature",
 		"i18nValue":{
 			"en_US":"maximum assembly temperature",
-			"zh_CN":null
+			"zh_CN":"最高装配温度"
 		}
 	},
 	"unit":"°C",

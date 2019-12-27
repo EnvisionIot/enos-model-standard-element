@@ -11,7 +11,7 @@
 		"defaultValue":"large-signal voltage gain",
 		"i18nValue":{
 			"en_US":"large-signal voltage gain",
-			"zh_CN":null
+			"zh_CN":"大信号电压增益"
 		}
 	},
 	"unit":null,

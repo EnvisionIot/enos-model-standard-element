@@ -35,7 +35,7 @@
 		"defaultValue":"PCB connector type",
 		"i18nValue":{
 			"en_US":"PCB connector type",
-			"zh_CN":null
+			"zh_CN":"PCB 连接器类型"
 		}
 	},
 	"unit":null,

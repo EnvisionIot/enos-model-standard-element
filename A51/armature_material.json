@@ -23,7 +23,7 @@
 		"defaultValue":"armature material",
 		"i18nValue":{
 			"en_US":"armature material",
-			"zh_CN":null
+			"zh_CN":"电枢材料"
 		}
 	},
 	"unit":null,

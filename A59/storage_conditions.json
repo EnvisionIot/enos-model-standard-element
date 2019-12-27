@@ -13,7 +13,7 @@
 		"defaultValue":"storage conditions",
 		"i18nValue":{
 			"en_US":"storage conditions",
-			"zh_CN":null
+			"zh_CN":"储存条件"
 		}
 	},
 	"unit":null,

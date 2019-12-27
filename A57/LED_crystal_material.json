@@ -43,7 +43,7 @@
 		"defaultValue":"LED crystal material",
 		"i18nValue":{
 			"en_US":"LED crystal material",
-			"zh_CN":null
+			"zh_CN":"LED 水晶材料"
 		}
 	},
 	"unit":null,

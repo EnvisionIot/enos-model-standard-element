@@ -35,7 +35,7 @@
 		"defaultValue":"supply form code",
 		"i18nValue":{
 			"en_US":"supply form code",
-			"zh_CN":null
+			"zh_CN":"供应形式代码"
 		}
 	},
 	"unit":null,

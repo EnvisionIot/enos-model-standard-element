@@ -11,7 +11,7 @@
 		"defaultValue":"spot noise figure",
 		"i18nValue":{
 			"en_US":"spot noise figure",
-			"zh_CN":null
+			"zh_CN":"点噪声系数"
 		}
 	},
 	"unit":"dB",

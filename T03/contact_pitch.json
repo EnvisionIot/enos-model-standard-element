@@ -11,7 +11,7 @@
 		"defaultValue":"contact pitch",
 		"i18nValue":{
 			"en_US":"contact pitch",
-			"zh_CN":null
+			"zh_CN":"触点间距"
 		}
 	},
 	"unit":"m",

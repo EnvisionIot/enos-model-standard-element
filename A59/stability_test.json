@@ -27,7 +27,7 @@
 		"defaultValue":"stability test",
 		"i18nValue":{
 			"en_US":"stability test",
-			"zh_CN":null
+			"zh_CN":"稳定性测试"
 		}
 	},
 	"unit":null,

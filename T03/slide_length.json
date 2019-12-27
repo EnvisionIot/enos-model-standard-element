@@ -11,7 +11,7 @@
 		"defaultValue":"slide length",
 		"i18nValue":{
 			"en_US":"slide length",
-			"zh_CN":null
+			"zh_CN":"滑动长度"
 		}
 	},
 	"unit":"m",

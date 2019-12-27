@@ -27,7 +27,7 @@
 		"defaultValue":"corrosivity category of water and soil",
 		"i18nValue":{
 			"en_US":"corrosivity category of water and soil",
-			"zh_CN":null
+			"zh_CN":"水土腐蚀类别"
 		}
 	},
 	"unit":null,

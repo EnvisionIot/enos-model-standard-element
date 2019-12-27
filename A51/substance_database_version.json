@@ -13,7 +13,7 @@
 		"defaultValue":"substance database version",
 		"i18nValue":{
 			"en_US":"substance database version",
-			"zh_CN":null
+			"zh_CN":"物质数据库版本"
 		}
 	},
 	"unit":null,

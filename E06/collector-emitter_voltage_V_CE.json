@@ -11,7 +11,7 @@
 		"defaultValue":"collector-emitter voltage V_CE",
 		"i18nValue":{
 			"en_US":"collector-emitter voltage V_CE",
-			"zh_CN":null
+			"zh_CN":"集电极-发射极电压 V_CE"
 		}
 	},
 	"unit":"V",

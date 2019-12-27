@@ -27,7 +27,7 @@
 		"defaultValue":"duty",
 		"i18nValue":{
 			"en_US":"duty",
-			"zh_CN":null
+			"zh_CN":"占空比"
 		}
 	},
 	"unit":null,

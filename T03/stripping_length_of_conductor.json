@@ -11,7 +11,7 @@
 		"defaultValue":"stripping length of conductor",
 		"i18nValue":{
 			"en_US":"stripping length of conductor",
-			"zh_CN":null
+			"zh_CN":"导体剥线长度"
 		}
 	},
 	"unit":"m",

@@ -23,7 +23,7 @@
 		"defaultValue":"chargeability type",
 		"i18nValue":{
 			"en_US":"chargeability type",
-			"zh_CN":null
+			"zh_CN":"充电类型"
 		}
 	},
 	"unit":null,

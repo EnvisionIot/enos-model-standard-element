@@ -11,7 +11,7 @@
 		"defaultValue":"pull-out rate",
 		"i18nValue":{
 			"en_US":"pull-out rate",
-			"zh_CN":null
+			"zh_CN":"牵出速率"
 		}
 	},
 	"unit":"step/s",

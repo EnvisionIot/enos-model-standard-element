@@ -11,7 +11,7 @@
 		"defaultValue":"bump resistance",
 		"i18nValue":{
 			"en_US":"bump resistance",
-			"zh_CN":null
+			"zh_CN":"耐冲击性"
 		}
 	},
 	"unit":"m/s²",

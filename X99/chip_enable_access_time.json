@@ -11,7 +11,7 @@
 		"defaultValue":"chip enable access time",
 		"i18nValue":{
 			"en_US":"chip enable access time",
-			"zh_CN":null
+			"zh_CN":"芯片启用访问时间"
 		}
 	},
 	"unit":"s",

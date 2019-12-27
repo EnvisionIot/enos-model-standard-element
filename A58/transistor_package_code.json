@@ -13,7 +13,7 @@
 		"defaultValue":"transistor package code",
 		"i18nValue":{
 			"en_US":"transistor package code",
-			"zh_CN":null
+			"zh_CN":"晶体管封装代码"
 		}
 	},
 	"unit":null,

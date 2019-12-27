@@ -11,7 +11,7 @@
 		"defaultValue":"absolute salinity",
 		"i18nValue":{
 			"en_US":"absolute salinity",
-			"zh_CN":null
+			"zh_CN":"绝对盐度"
 		}
 	},
 	"unit":"g/kg",

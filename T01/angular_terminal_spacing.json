@@ -11,7 +11,7 @@
 		"defaultValue":"angular terminal spacing",
 		"i18nValue":{
 			"en_US":"angular terminal spacing",
-			"zh_CN":null
+			"zh_CN":"端子角间距"
 		}
 	},
 	"unit":"°",

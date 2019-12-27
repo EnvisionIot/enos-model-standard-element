@@ -11,7 +11,7 @@
 		"defaultValue":"energising voltage (dc)",
 		"i18nValue":{
 			"en_US":"energising voltage (dc)",
-			"zh_CN":null
+			"zh_CN":"通电电压（直流）"
 		}
 	},
 	"unit":"V",

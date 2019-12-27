@@ -11,7 +11,7 @@
 		"defaultValue":"fiducial height",
 		"i18nValue":{
 			"en_US":"fiducial height",
-			"zh_CN":null
+			"zh_CN":"基准高度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"number of bond sites",
 		"i18nValue":{
 			"en_US":"number of bond sites",
-			"zh_CN":null
+			"zh_CN":"焊接点数"
 		}
 	},
 	"unit":null,

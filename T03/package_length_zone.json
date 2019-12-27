@@ -11,7 +11,7 @@
 		"defaultValue":"package length zone",
 		"i18nValue":{
 			"en_US":"package length zone",
-			"zh_CN":null
+			"zh_CN":"包装纵向区域长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"phase delay drift",
 		"i18nValue":{
 			"en_US":"phase delay drift",
-			"zh_CN":null
+			"zh_CN":"相位延迟漂移"
 		}
 	},
 	"unit":"s",

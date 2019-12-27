@@ -11,7 +11,7 @@
 		"defaultValue":"stress temperature min",
 		"i18nValue":{
 			"en_US":"stress temperature min",
-			"zh_CN":null
+			"zh_CN":"最低应力温度"
 		}
 	},
 	"unit":"°C",

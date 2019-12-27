@@ -11,7 +11,7 @@
 		"defaultValue":"minimum cross-sectional area",
 		"i18nValue":{
 			"en_US":"minimum cross-sectional area",
-			"zh_CN":null
+			"zh_CN":"最小截面积"
 		}
 	},
 	"unit":"m²",

@@ -39,7 +39,7 @@
 		"defaultValue":"contact body material",
 		"i18nValue":{
 			"en_US":"contact body material",
-			"zh_CN":null
+			"zh_CN":"触点本体材料"
 		}
 	},
 	"unit":null,

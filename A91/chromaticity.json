@@ -23,7 +23,7 @@
 		"defaultValue":"chromaticity",
 		"i18nValue":{
 			"en_US":"chromaticity",
-			"zh_CN":null
+			"zh_CN":"色度"
 		}
 	},
 	"unit":null,

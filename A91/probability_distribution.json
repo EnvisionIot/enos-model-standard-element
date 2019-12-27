@@ -27,7 +27,7 @@
 		"defaultValue":"probability distribution",
 		"i18nValue":{
 			"en_US":"probability distribution",
-			"zh_CN":null
+			"zh_CN":"概率分布"
 		}
 	},
 	"unit":null,

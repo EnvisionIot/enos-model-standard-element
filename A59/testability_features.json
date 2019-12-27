@@ -13,7 +13,7 @@
 		"defaultValue":"testability features",
 		"i18nValue":{
 			"en_US":"testability features",
-			"zh_CN":null
+			"zh_CN":"可测性特征"
 		}
 	},
 	"unit":null,

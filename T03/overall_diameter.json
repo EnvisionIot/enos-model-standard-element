@@ -11,7 +11,7 @@
 		"defaultValue":"overall diameter",
 		"i18nValue":{
 			"en_US":"overall diameter",
-			"zh_CN":null
+			"zh_CN":"总直径"
 		}
 	},
 	"unit":"m",

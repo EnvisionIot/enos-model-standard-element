@@ -23,7 +23,7 @@
 		"defaultValue":"terminal material",
 		"i18nValue":{
 			"en_US":"terminal material",
-			"zh_CN":null
+			"zh_CN":"端子材料"
 		}
 	},
 	"unit":null,

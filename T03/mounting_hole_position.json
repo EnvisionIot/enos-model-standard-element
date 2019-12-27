@@ -11,7 +11,7 @@
 		"defaultValue":"mounting hole position",
 		"i18nValue":{
 			"en_US":"mounting hole position",
-			"zh_CN":null
+			"zh_CN":"安装孔位置"
 		}
 	},
 	"unit":"m",

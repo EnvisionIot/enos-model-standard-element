@@ -11,7 +11,7 @@
 		"defaultValue":"curve radius",
 		"i18nValue":{
 			"en_US":"curve radius",
-			"zh_CN":null
+			"zh_CN":"曲线半径"
 		}
 	},
 	"unit":"m",

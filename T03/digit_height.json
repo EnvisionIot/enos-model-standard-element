@@ -11,7 +11,7 @@
 		"defaultValue":"digit height",
 		"i18nValue":{
 			"en_US":"digit height",
-			"zh_CN":null
+			"zh_CN":"数位高度"
 		}
 	},
 	"unit":"m",

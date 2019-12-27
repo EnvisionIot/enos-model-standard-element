@@ -11,7 +11,7 @@
 		"defaultValue":"quiescent current",
 		"i18nValue":{
 			"en_US":"quiescent current",
-			"zh_CN":null
+			"zh_CN":"静态电流"
 		}
 	},
 	"unit":"A",

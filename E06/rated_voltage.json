@@ -11,7 +11,7 @@
 		"defaultValue":"rated voltage",
 		"i18nValue":{
 			"en_US":"rated voltage",
-			"zh_CN":null
+			"zh_CN":"额定电压"
 		}
 	},
 	"unit":"V",

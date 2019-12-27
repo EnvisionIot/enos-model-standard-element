@@ -11,7 +11,7 @@
 		"defaultValue":"power supply rejection ratio",
 		"i18nValue":{
 			"en_US":"power supply rejection ratio",
-			"zh_CN":null
+			"zh_CN":"电源抑制比"
 		}
 	},
 	"unit":"dB",

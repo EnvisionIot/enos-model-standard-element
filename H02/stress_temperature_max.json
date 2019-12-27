@@ -11,7 +11,7 @@
 		"defaultValue":"stress temperature max",
 		"i18nValue":{
 			"en_US":"stress temperature max",
-			"zh_CN":null
+			"zh_CN":"最高应力温度"
 		}
 	},
 	"unit":"°C",

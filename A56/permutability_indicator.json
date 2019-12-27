@@ -13,7 +13,7 @@
 		"defaultValue":"permutability indicator",
 		"i18nValue":{
 			"en_US":"permutability indicator",
-			"zh_CN":null
+			"zh_CN":"互换性指标"
 		}
 	},
 	"unit":null,

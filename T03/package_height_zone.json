@@ -11,7 +11,7 @@
 		"defaultValue":"package height zone",
 		"i18nValue":{
 			"en_US":"package height zone",
-			"zh_CN":null
+			"zh_CN":"包装区域高度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient S_F",
 		"i18nValue":{
 			"en_US":"temperature coefficient S_F",
-			"zh_CN":null
+			"zh_CN":"温度系数 S_F"
 		}
 	},
 	"unit":"V/K",

@@ -23,7 +23,7 @@
 		"defaultValue":"fuse type",
 		"i18nValue":{
 			"en_US":"fuse type",
-			"zh_CN":null
+			"zh_CN":"保险丝类型"
 		}
 	},
 	"unit":null,

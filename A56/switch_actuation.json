@@ -51,7 +51,7 @@
 		"defaultValue":"switch actuation",
 		"i18nValue":{
 			"en_US":"switch actuation",
-			"zh_CN":null
+			"zh_CN":"开关执行器"
 		}
 	},
 	"unit":null,

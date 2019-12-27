@@ -43,7 +43,7 @@
 		"defaultValue":"supply packing code",
 		"i18nValue":{
 			"en_US":"supply packing code",
-			"zh_CN":null
+			"zh_CN":"供应包装代码"
 		}
 	},
 	"unit":null,

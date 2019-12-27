@@ -11,7 +11,7 @@
 		"defaultValue":"period of warranty for wearable goods",
 		"i18nValue":{
 			"en_US":"period of warranty for wearable goods",
-			"zh_CN":null
+			"zh_CN":"穿戴式产品保修期"
 		}
 	},
 	"unit":"yr",

@@ -11,7 +11,7 @@
 		"defaultValue":"pitch circle diameter",
 		"i18nValue":{
 			"en_US":"pitch circle diameter",
-			"zh_CN":null
+			"zh_CN":"节圆直径"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"rotor inertia",
 		"i18nValue":{
 			"en_US":"rotor inertia",
-			"zh_CN":null
+			"zh_CN":"转子惯量"
 		}
 	},
 	"unit":"kg/m²",

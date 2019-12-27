@@ -11,7 +11,7 @@
 		"defaultValue":"spectral bandwidth",
 		"i18nValue":{
 			"en_US":"spectral bandwidth",
-			"zh_CN":null
+			"zh_CN":"频谱带宽"
 		}
 	},
 	"unit":"m",

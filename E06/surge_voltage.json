@@ -11,7 +11,7 @@
 		"defaultValue":"surge voltage",
 		"i18nValue":{
 			"en_US":"surge voltage",
-			"zh_CN":null
+			"zh_CN":"浪涌电压"
 		}
 	},
 	"unit":"V",

@@ -23,7 +23,7 @@
 		"defaultValue":"winding configuration",
 		"i18nValue":{
 			"en_US":"winding configuration",
-			"zh_CN":null
+			"zh_CN":"绕组配置"
 		}
 	},
 	"unit":null,

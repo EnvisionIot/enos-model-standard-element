@@ -27,7 +27,7 @@
 		"defaultValue":"object status",
 		"i18nValue":{
 			"en_US":"object status",
-			"zh_CN":null
+			"zh_CN":"对象状态"
 		}
 	},
 	"unit":null,

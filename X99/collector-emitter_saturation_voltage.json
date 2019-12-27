@@ -11,7 +11,7 @@
 		"defaultValue":"collector-emitter saturation voltage",
 		"i18nValue":{
 			"en_US":"collector-emitter saturation voltage",
-			"zh_CN":null
+			"zh_CN":"集电极-发射极饱和电压"
 		}
 	},
 	"unit":"V",

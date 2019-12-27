@@ -11,7 +11,7 @@
 		"defaultValue":"anode current average",
 		"i18nValue":{
 			"en_US":"anode current average",
-			"zh_CN":null
+			"zh_CN":"阳极平均电流"
 		}
 	},
 	"unit":"A",

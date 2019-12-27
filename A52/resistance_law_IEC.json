@@ -27,7 +27,7 @@
 		"defaultValue":"resistance law (IEC)",
 		"i18nValue":{
 			"en_US":"resistance law (IEC)",
-			"zh_CN":null
+			"zh_CN":"电阻定律 (IEC)"
 		}
 	},
 	"unit":null,

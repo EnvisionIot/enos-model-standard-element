@@ -11,7 +11,7 @@
 		"defaultValue":"inductance tolerance (%)",
 		"i18nValue":{
 			"en_US":"inductance tolerance (%)",
-			"zh_CN":null
+			"zh_CN":"电感公差 (%)"
 		}
 	},
 	"unit":"%",

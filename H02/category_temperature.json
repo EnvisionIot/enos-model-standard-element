@@ -11,7 +11,7 @@
 		"defaultValue":"category temperature",
 		"i18nValue":{
 			"en_US":"category temperature",
-			"zh_CN":null
+			"zh_CN":"类别温度"
 		}
 	},
 	"unit":"°C",

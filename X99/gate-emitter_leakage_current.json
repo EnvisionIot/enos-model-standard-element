@@ -11,7 +11,7 @@
 		"defaultValue":"gate-emitter leakage current",
 		"i18nValue":{
 			"en_US":"gate-emitter leakage current",
-			"zh_CN":null
+			"zh_CN":"栅极-发射极漏电电流"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"access time from RAS",
 		"i18nValue":{
 			"en_US":"access time from RAS",
-			"zh_CN":null
+			"zh_CN":"RAS 访问时间"
 		}
 	},
 	"unit":"s",

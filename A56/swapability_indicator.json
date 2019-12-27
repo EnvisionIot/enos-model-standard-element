@@ -13,7 +13,7 @@
 		"defaultValue":"swapability indicator",
 		"i18nValue":{
 			"en_US":"swapability indicator",
-			"zh_CN":null
+			"zh_CN":"互换性指标"
 		}
 	},
 	"unit":null,

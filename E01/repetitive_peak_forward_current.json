@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak forward current",
 		"i18nValue":{
 			"en_US":"repetitive peak forward current",
-			"zh_CN":null
+			"zh_CN":"重复峰值正向电流"
 		}
 	},
 	"unit":"A",

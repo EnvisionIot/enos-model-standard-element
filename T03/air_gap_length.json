@@ -11,7 +11,7 @@
 		"defaultValue":"(air) gap length",
 		"i18nValue":{
 			"en_US":"(air) gap length",
-			"zh_CN":null
+			"zh_CN":"（空气）间隙长度"
 		}
 	},
 	"unit":"m",

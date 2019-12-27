@@ -23,7 +23,7 @@
 		"defaultValue":"cable configuration",
 		"i18nValue":{
 			"en_US":"cable configuration",
-			"zh_CN":null
+			"zh_CN":"电缆配置"
 		}
 	},
 	"unit":null,

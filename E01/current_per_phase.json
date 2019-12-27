@@ -11,7 +11,7 @@
 		"defaultValue":"current per phase",
 		"i18nValue":{
 			"en_US":"current per phase",
-			"zh_CN":null
+			"zh_CN":"每相电流"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"number of primary coils",
 		"i18nValue":{
 			"en_US":"number of primary coils",
-			"zh_CN":null
+			"zh_CN":"一次线圈数"
 		}
 	},
 	"unit":null,

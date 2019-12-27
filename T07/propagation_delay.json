@@ -11,7 +11,7 @@
 		"defaultValue":"propagation delay",
 		"i18nValue":{
 			"en_US":"propagation delay",
-			"zh_CN":null
+			"zh_CN":"传播延迟"
 		}
 	},
 	"unit":"s",

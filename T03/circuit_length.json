@@ -11,7 +11,7 @@
 		"defaultValue":"circuit length",
 		"i18nValue":{
 			"en_US":"circuit length",
-			"zh_CN":null
+			"zh_CN":"电路长度"
 		}
 	},
 	"unit":"m",

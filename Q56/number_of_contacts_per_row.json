@@ -11,7 +11,7 @@
 		"defaultValue":"number of contacts per row",
 		"i18nValue":{
 			"en_US":"number of contacts per row",
-			"zh_CN":null
+			"zh_CN":"每排触头数量"
 		}
 	},
 	"unit":null,

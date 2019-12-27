@@ -11,7 +11,7 @@
 		"defaultValue":"water pressure",
 		"i18nValue":{
 			"en_US":"water pressure",
-			"zh_CN":null
+			"zh_CN":"水压"
 		}
 	},
 	"unit":"Pa",

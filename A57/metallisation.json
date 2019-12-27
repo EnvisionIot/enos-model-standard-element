@@ -13,7 +13,7 @@
 		"defaultValue":"metallisation",
 		"i18nValue":{
 			"en_US":"metallisation",
-			"zh_CN":null
+			"zh_CN":"金属层"
 		}
 	},
 	"unit":null,

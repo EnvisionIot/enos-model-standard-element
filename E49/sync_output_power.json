@@ -11,7 +11,7 @@
 		"defaultValue":"sync output power",
 		"i18nValue":{
 			"en_US":"sync output power",
-			"zh_CN":null
+			"zh_CN":"同步输出功率"
 		}
 	},
 	"unit":"W",

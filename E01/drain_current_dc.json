@@ -11,7 +11,7 @@
 		"defaultValue":"drain current (dc)",
 		"i18nValue":{
 			"en_US":"drain current (dc)",
-			"zh_CN":null
+			"zh_CN":"漏极电流（直流）"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"modulus of impedance",
 		"i18nValue":{
 			"en_US":"modulus of impedance",
-			"zh_CN":null
+			"zh_CN":"阻抗模量"
 		}
 	},
 	"unit":"Ω",

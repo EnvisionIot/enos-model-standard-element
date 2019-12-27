@@ -75,7 +75,7 @@
 		"defaultValue":"flammability",
 		"i18nValue":{
 			"en_US":"flammability",
-			"zh_CN":null
+			"zh_CN":"易燃性"
 		}
 	},
 	"unit":null,

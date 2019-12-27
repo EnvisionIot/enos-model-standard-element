@@ -47,7 +47,7 @@
 		"defaultValue":"filter type",
 		"i18nValue":{
 			"en_US":"filter type",
-			"zh_CN":null
+			"zh_CN":"滤波器类型"
 		}
 	},
 	"unit":null,

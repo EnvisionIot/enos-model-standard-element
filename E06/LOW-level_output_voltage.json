@@ -11,7 +11,7 @@
 		"defaultValue":"LOW-level output voltage",
 		"i18nValue":{
 			"en_US":"LOW-level output voltage",
-			"zh_CN":null
+			"zh_CN":"低电平输出电压"
 		}
 	},
 	"unit":"V",

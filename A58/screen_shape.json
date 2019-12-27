@@ -27,7 +27,7 @@
 		"defaultValue":"screen shape",
 		"i18nValue":{
 			"en_US":"screen shape",
-			"zh_CN":null
+			"zh_CN":"屏幕形状"
 		}
 	},
 	"unit":null,

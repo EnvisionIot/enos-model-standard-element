@@ -39,7 +39,7 @@
 		"defaultValue":"type of inductor",
 		"i18nValue":{
 			"en_US":"type of inductor",
-			"zh_CN":null
+			"zh_CN":"电感器类型"
 		}
 	},
 	"unit":null,

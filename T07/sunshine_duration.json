@@ -11,7 +11,7 @@
 		"defaultValue":"sunshine duration",
 		"i18nValue":{
 			"en_US":"sunshine duration",
-			"zh_CN":null
+			"zh_CN":"日照时间"
 		}
 	},
 	"unit":"h",

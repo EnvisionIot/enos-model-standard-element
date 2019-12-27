@@ -11,7 +11,7 @@
 		"defaultValue":"average output current",
 		"i18nValue":{
 			"en_US":"average output current",
-			"zh_CN":null
+			"zh_CN":"平均输出电流"
 		}
 	},
 	"unit":"A",

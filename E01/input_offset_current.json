@@ -11,7 +11,7 @@
 		"defaultValue":"input offset current",
 		"i18nValue":{
 			"en_US":"input offset current",
-			"zh_CN":null
+			"zh_CN":"输入失调电流"
 		}
 	},
 	"unit":"A",

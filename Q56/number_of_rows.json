@@ -11,7 +11,7 @@
 		"defaultValue":"number of rows",
 		"i18nValue":{
 			"en_US":"number of rows",
-			"zh_CN":null
+			"zh_CN":"排数"
 		}
 	},
 	"unit":null,

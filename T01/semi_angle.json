@@ -11,7 +11,7 @@
 		"defaultValue":"semi angle",
 		"i18nValue":{
 			"en_US":"semi angle",
-			"zh_CN":null
+			"zh_CN":"半角"
 		}
 	},
 	"unit":"°",

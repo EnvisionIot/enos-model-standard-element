@@ -11,7 +11,7 @@
 		"defaultValue":"maximum power handling",
 		"i18nValue":{
 			"en_US":"maximum power handling",
-			"zh_CN":null
+			"zh_CN":"最大可处理功率"
 		}
 	},
 	"unit":"W",

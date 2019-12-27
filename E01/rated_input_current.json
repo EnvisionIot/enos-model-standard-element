@@ -11,7 +11,7 @@
 		"defaultValue":"rated input current",
 		"i18nValue":{
 			"en_US":"rated input current",
-			"zh_CN":null
+			"zh_CN":"额定输入电流"
 		}
 	},
 	"unit":"A",

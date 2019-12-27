@@ -11,7 +11,7 @@
 		"defaultValue":"sensitivity",
 		"i18nValue":{
 			"en_US":"sensitivity",
-			"zh_CN":null
+			"zh_CN":"灵敏度"
 		}
 	},
 	"unit":"V/(V∙Pa)",

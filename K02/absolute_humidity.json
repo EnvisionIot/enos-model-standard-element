@@ -11,7 +11,7 @@
 		"defaultValue":"absolute humidity",
 		"i18nValue":{
 			"en_US":"absolute humidity",
-			"zh_CN":null
+			"zh_CN":"绝对湿度"
 		}
 	},
 	"unit":"g/m³",

@@ -11,7 +11,7 @@
 		"defaultValue":"gate cut-off current",
 		"i18nValue":{
 			"en_US":"gate cut-off current",
-			"zh_CN":null
+			"zh_CN":"栅极截止电流"
 		}
 	},
 	"unit":"A",

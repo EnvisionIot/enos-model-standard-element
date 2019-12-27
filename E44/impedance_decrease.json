@@ -11,7 +11,7 @@
 		"defaultValue":"impedance decrease",
 		"i18nValue":{
 			"en_US":"impedance decrease",
-			"zh_CN":null
+			"zh_CN":"阻抗降低"
 		}
 	},
 	"unit":"dB",

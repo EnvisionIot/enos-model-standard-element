@@ -11,7 +11,7 @@
 		"defaultValue":"separating force",
 		"i18nValue":{
 			"en_US":"separating force",
-			"zh_CN":null
+			"zh_CN":"分离力"
 		}
 	},
 	"unit":"N",

@@ -11,7 +11,7 @@
 		"defaultValue":"period of warranty of updates",
 		"i18nValue":{
 			"en_US":"period of warranty of updates",
-			"zh_CN":null
+			"zh_CN":"更新保修期"
 		}
 	},
 	"unit":"yr",

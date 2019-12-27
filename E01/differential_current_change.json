@@ -11,7 +11,7 @@
 		"defaultValue":"differential current change",
 		"i18nValue":{
 			"en_US":"differential current change",
-			"zh_CN":null
+			"zh_CN":"差动电流变化"
 		}
 	},
 	"unit":"A/K",

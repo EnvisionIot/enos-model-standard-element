@@ -13,7 +13,7 @@
 		"defaultValue":"postal code",
 		"i18nValue":{
 			"en_US":"postal code",
-			"zh_CN":null
+			"zh_CN":"邮政编码"
 		}
 	},
 	"unit":null,

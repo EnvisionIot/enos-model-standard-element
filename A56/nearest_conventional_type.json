@@ -13,7 +13,7 @@
 		"defaultValue":"nearest conventional type",
 		"i18nValue":{
 			"en_US":"nearest conventional type",
-			"zh_CN":null
+			"zh_CN":"最接近的常规类型"
 		}
 	},
 	"unit":null,

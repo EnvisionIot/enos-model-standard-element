@@ -11,7 +11,7 @@
 		"defaultValue":"drain-gate voltage",
 		"i18nValue":{
 			"en_US":"drain-gate voltage",
-			"zh_CN":null
+			"zh_CN":"漏栅电压"
 		}
 	},
 	"unit":"V",

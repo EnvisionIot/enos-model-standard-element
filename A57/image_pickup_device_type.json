@@ -27,7 +27,7 @@
 		"defaultValue":"image pickup device type",
 		"i18nValue":{
 			"en_US":"image pickup device type",
-			"zh_CN":null
+			"zh_CN":"摄像设备类型"
 		}
 	},
 	"unit":null,

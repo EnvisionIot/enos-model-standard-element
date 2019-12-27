@@ -11,7 +11,7 @@
 		"defaultValue":"time constant (of capacitor)",
 		"i18nValue":{
 			"en_US":"time constant (of capacitor)",
-			"zh_CN":null
+			"zh_CN":"时间常数（电容器）"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"latching current",
 		"i18nValue":{
 			"en_US":"latching current",
-			"zh_CN":null
+			"zh_CN":"闭锁电流"
 		}
 	},
 	"unit":"A",

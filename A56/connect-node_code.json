@@ -51,7 +51,7 @@
 		"defaultValue":"connect-node code",
 		"i18nValue":{
 			"en_US":"connect-node code",
-			"zh_CN":null
+			"zh_CN":"连接节点代码"
 		}
 	},
 	"unit":null,

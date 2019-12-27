@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient of output voltage",
 		"i18nValue":{
 			"en_US":"temperature coefficient of output voltage",
-			"zh_CN":null
+			"zh_CN":"输出电压温度系数"
 		}
 	},
 	"unit":"V/Cel",

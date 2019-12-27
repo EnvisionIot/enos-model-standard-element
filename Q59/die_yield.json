@@ -11,7 +11,7 @@
 		"defaultValue":"die yield",
 		"i18nValue":{
 			"en_US":"die yield",
-			"zh_CN":null
+			"zh_CN":"模具成品率"
 		}
 	},
 	"unit":"%",

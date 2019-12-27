@@ -11,7 +11,7 @@
 		"defaultValue":"gate current",
 		"i18nValue":{
 			"en_US":"gate current",
-			"zh_CN":null
+			"zh_CN":"栅极电流"
 		}
 	},
 	"unit":"A",

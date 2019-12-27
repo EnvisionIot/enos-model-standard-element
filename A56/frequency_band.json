@@ -71,7 +71,7 @@
 		"defaultValue":"frequency band",
 		"i18nValue":{
 			"en_US":"frequency band",
-			"zh_CN":null
+			"zh_CN":"频带"
 		}
 	},
 	"unit":null,

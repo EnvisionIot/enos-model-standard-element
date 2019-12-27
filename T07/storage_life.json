@@ -11,7 +11,7 @@
 		"defaultValue":"storage life",
 		"i18nValue":{
 			"en_US":"storage life",
-			"zh_CN":null
+			"zh_CN":"保质期"
 		}
 	},
 	"unit":"d",

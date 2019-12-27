@@ -11,7 +11,7 @@
 		"defaultValue":"number of pitches (x-axis)",
 		"i18nValue":{
 			"en_US":"number of pitches (x-axis)",
-			"zh_CN":null
+			"zh_CN":"节距数（x 轴）"
 		}
 	},
 	"unit":null,

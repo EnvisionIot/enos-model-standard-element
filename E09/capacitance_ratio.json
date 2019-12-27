@@ -11,7 +11,7 @@
 		"defaultValue":"capacitance ratio",
 		"i18nValue":{
 			"en_US":"capacitance ratio",
-			"zh_CN":null
+			"zh_CN":"电容比"
 		}
 	},
 	"unit":null,

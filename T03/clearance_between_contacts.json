@@ -11,7 +11,7 @@
 		"defaultValue":"clearance between contacts",
 		"i18nValue":{
 			"en_US":"clearance between contacts",
-			"zh_CN":null
+			"zh_CN":"触点间隙"
 		}
 	},
 	"unit":"m",

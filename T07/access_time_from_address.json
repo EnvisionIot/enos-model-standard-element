@@ -11,7 +11,7 @@
 		"defaultValue":"access time from address",
 		"i18nValue":{
 			"en_US":"access time from address",
-			"zh_CN":null
+			"zh_CN":"地址访问时间"
 		}
 	},
 	"unit":"s",

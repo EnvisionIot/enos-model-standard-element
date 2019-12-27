@@ -11,7 +11,7 @@
 		"defaultValue":"overall width",
 		"i18nValue":{
 			"en_US":"overall width",
-			"zh_CN":null
+			"zh_CN":"总宽度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"number of stable positions",
 		"i18nValue":{
 			"en_US":"number of stable positions",
-			"zh_CN":null
+			"zh_CN":"稳定位数"
 		}
 	},
 	"unit":null,

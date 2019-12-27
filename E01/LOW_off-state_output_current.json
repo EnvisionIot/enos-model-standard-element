@@ -11,7 +11,7 @@
 		"defaultValue":"LOW off-state output current",
 		"i18nValue":{
 			"en_US":"LOW off-state output current",
-			"zh_CN":null
+			"zh_CN":"低断态输出电流"
 		}
 	},
 	"unit":"A",

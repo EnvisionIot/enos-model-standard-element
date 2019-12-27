@@ -11,7 +11,7 @@
 		"defaultValue":"resistivity",
 		"i18nValue":{
 			"en_US":"resistivity",
-			"zh_CN":null
+			"zh_CN":"电阻率"
 		}
 	},
 	"unit":"Ω·m",

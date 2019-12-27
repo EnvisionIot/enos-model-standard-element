@@ -47,7 +47,7 @@
 		"defaultValue":"pulse duration",
 		"i18nValue":{
 			"en_US":"pulse duration",
-			"zh_CN":null
+			"zh_CN":"脉冲持续时间"
 		}
 	},
 	"unit":"s",

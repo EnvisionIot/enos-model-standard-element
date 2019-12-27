@@ -11,7 +11,7 @@
 		"defaultValue":"B_r x H_cJ product",
 		"i18nValue":{
 			"en_US":"B_r x H_cJ product",
-			"zh_CN":null
+			"zh_CN":"B_r x H_cJ 乘积"
 		}
 	},
 	"unit":"J/m³",

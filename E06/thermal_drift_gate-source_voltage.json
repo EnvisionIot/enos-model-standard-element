@@ -11,7 +11,7 @@
 		"defaultValue":"thermal drift gate-source voltage",
 		"i18nValue":{
 			"en_US":"thermal drift gate-source voltage",
-			"zh_CN":null
+			"zh_CN":"热漂移栅源电压"
 		}
 	},
 	"unit":"V/K",

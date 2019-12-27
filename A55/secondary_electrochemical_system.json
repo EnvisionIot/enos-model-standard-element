@@ -39,7 +39,7 @@
 		"defaultValue":"secondary electrochemical system",
 		"i18nValue":{
 			"en_US":"secondary electrochemical system",
-			"zh_CN":null
+			"zh_CN":"二次电化学系统"
 		}
 	},
 	"unit":null,

@@ -39,7 +39,7 @@
 		"defaultValue":"interrupt type",
 		"i18nValue":{
 			"en_US":"interrupt type",
-			"zh_CN":null
+			"zh_CN":"中断类型"
 		}
 	},
 	"unit":null,

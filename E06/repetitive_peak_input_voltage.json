@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak input voltage",
 		"i18nValue":{
 			"en_US":"repetitive peak input voltage",
-			"zh_CN":null
+			"zh_CN":"重复峰值输入电压"
 		}
 	},
 	"unit":"V",

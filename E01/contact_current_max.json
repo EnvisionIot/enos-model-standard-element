@@ -11,7 +11,7 @@
 		"defaultValue":"contact current max",
 		"i18nValue":{
 			"en_US":"contact current max",
-			"zh_CN":null
+			"zh_CN":"触点最大电流"
 		}
 	},
 	"unit":"A",

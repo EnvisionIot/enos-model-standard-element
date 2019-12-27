@@ -11,7 +11,7 @@
 		"defaultValue":"input capacitance at gate",
 		"i18nValue":{
 			"en_US":"input capacitance at gate",
-			"zh_CN":null
+			"zh_CN":"栅极输入电容"
 		}
 	},
 	"unit":"F",

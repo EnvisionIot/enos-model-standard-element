@@ -11,7 +11,7 @@
 		"defaultValue":"die thickness",
 		"i18nValue":{
 			"en_US":"die thickness",
-			"zh_CN":null
+			"zh_CN":"模具厚度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"number of operation transactions",
 		"i18nValue":{
 			"en_US":"number of operation transactions",
-			"zh_CN":null
+			"zh_CN":"操作处理次数"
 		}
 	},
 	"unit":null,

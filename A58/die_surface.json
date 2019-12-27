@@ -23,7 +23,7 @@
 		"defaultValue":"die surface",
 		"i18nValue":{
 			"en_US":"die surface",
-			"zh_CN":null
+			"zh_CN":"模具表面"
 		}
 	},
 	"unit":null,

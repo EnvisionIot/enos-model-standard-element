@@ -11,7 +11,7 @@
 		"defaultValue":"fusing time",
 		"i18nValue":{
 			"en_US":"fusing time",
-			"zh_CN":null
+			"zh_CN":"熔断时间"
 		}
 	},
 	"unit":"s",

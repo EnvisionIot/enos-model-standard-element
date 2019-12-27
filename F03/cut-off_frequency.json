@@ -11,7 +11,7 @@
 		"defaultValue":"cut-off frequency",
 		"i18nValue":{
 			"en_US":"cut-off frequency",
-			"zh_CN":null
+			"zh_CN":"截止频率"
 		}
 	},
 	"unit":"Hz",

@@ -43,7 +43,7 @@
 		"defaultValue":"preformed lead",
 		"i18nValue":{
 			"en_US":"preformed lead",
-			"zh_CN":null
+			"zh_CN":"已制作引线"
 		}
 	},
 	"unit":null,

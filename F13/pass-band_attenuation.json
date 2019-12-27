@@ -11,7 +11,7 @@
 		"defaultValue":"pass-band attenuation",
 		"i18nValue":{
 			"en_US":"pass-band attenuation",
-			"zh_CN":null
+			"zh_CN":"通带衰减"
 		}
 	},
 	"unit":"dB",

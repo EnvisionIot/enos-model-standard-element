@@ -11,7 +11,7 @@
 		"defaultValue":"vertex number",
 		"i18nValue":{
 			"en_US":"vertex number",
-			"zh_CN":null
+			"zh_CN":"顶点数"
 		}
 	},
 	"unit":null,

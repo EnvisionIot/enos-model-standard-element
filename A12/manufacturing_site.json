@@ -13,7 +13,7 @@
 		"defaultValue":"manufacturing site",
 		"i18nValue":{
 			"en_US":"manufacturing site",
-			"zh_CN":null
+			"zh_CN":"制造工厂"
 		}
 	},
 	"unit":null,

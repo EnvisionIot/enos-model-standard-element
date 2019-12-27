@@ -11,7 +11,7 @@
 		"defaultValue":"dust sediment",
 		"i18nValue":{
 			"en_US":"dust sediment",
-			"zh_CN":null
+			"zh_CN":"粉尘沉淀"
 		}
 	},
 	"unit":"mg/(m³·h)",

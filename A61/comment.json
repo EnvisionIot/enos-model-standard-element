@@ -13,7 +13,7 @@
 		"defaultValue":"comment",
 		"i18nValue":{
 			"en_US":"comment",
-			"zh_CN":null
+			"zh_CN":"备注"
 		}
 	},
 	"unit":null,

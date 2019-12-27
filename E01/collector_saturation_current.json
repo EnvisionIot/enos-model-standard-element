@@ -11,7 +11,7 @@
 		"defaultValue":"collector saturation current",
 		"i18nValue":{
 			"en_US":"collector saturation current",
-			"zh_CN":null
+			"zh_CN":"集电极饱和电流"
 		}
 	},
 	"unit":"A",

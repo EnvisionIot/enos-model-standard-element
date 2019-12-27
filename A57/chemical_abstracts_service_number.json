@@ -13,7 +13,7 @@
 		"defaultValue":"chemical abstracts service number",
 		"i18nValue":{
 			"en_US":"chemical abstracts service number",
-			"zh_CN":null
+			"zh_CN":"CAS 编号"
 		}
 	},
 	"unit":null,

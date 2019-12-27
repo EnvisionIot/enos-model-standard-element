@@ -51,7 +51,7 @@
 		"defaultValue":"printed circuit type",
 		"i18nValue":{
 			"en_US":"printed circuit type",
-			"zh_CN":null
+			"zh_CN":"印刷电路类型"
 		}
 	},
 	"unit":null,

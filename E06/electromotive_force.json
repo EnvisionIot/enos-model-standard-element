@@ -11,7 +11,7 @@
 		"defaultValue":"electromotive force",
 		"i18nValue":{
 			"en_US":"electromotive force",
-			"zh_CN":null
+			"zh_CN":"电动势"
 		}
 	},
 	"unit":"V/(r/min)",

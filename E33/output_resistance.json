@@ -11,7 +11,7 @@
 		"defaultValue":"output resistance",
 		"i18nValue":{
 			"en_US":"output resistance",
-			"zh_CN":null
+			"zh_CN":"输出电阻"
 		}
 	},
 	"unit":"Ω",

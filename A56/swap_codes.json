@@ -13,7 +13,7 @@
 		"defaultValue":"swap codes",
 		"i18nValue":{
 			"en_US":"swap codes",
-			"zh_CN":null
+			"zh_CN":"交换码"
 		}
 	},
 	"unit":null,

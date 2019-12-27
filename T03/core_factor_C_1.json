@@ -11,7 +11,7 @@
 		"defaultValue":"core factor C_1",
 		"i18nValue":{
 			"en_US":"core factor C_1",
-			"zh_CN":null
+			"zh_CN":"磁芯系数 C_1"
 		}
 	},
 	"unit":"1/m",

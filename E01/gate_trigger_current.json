@@ -11,7 +11,7 @@
 		"defaultValue":"gate trigger current",
 		"i18nValue":{
 			"en_US":"gate trigger current",
-			"zh_CN":null
+			"zh_CN":"栅极触发电流"
 		}
 	},
 	"unit":"A",

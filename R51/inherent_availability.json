@@ -11,7 +11,7 @@
 		"defaultValue":"inherent availability",
 		"i18nValue":{
 			"en_US":"inherent availability",
-			"zh_CN":null
+			"zh_CN":"固有可用性"
 		}
 	},
 	"unit":"%",

@@ -13,7 +13,7 @@
 		"defaultValue":"version",
 		"i18nValue":{
 			"en_US":"version",
-			"zh_CN":null
+			"zh_CN":"版本"
 		}
 	},
 	"unit":null,

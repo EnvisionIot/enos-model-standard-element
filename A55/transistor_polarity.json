@@ -23,7 +23,7 @@
 		"defaultValue":"transistor polarity",
 		"i18nValue":{
 			"en_US":"transistor polarity",
-			"zh_CN":null
+			"zh_CN":"晶体管极性"
 		}
 	},
 	"unit":null,

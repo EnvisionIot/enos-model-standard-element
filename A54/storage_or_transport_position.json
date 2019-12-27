@@ -23,7 +23,7 @@
 		"defaultValue":"storage/transport position",
 		"i18nValue":{
 			"en_US":"storage/transport position",
-			"zh_CN":null
+			"zh_CN":"储存/运输位置"
 		}
 	},
 	"unit":null,

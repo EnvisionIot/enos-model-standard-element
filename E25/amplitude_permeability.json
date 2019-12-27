@@ -11,7 +11,7 @@
 		"defaultValue":"amplitude permeability",
 		"i18nValue":{
 			"en_US":"amplitude permeability",
-			"zh_CN":null
+			"zh_CN":"振幅磁导率"
 		}
 	},
 	"unit":null,

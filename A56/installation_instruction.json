@@ -13,7 +13,7 @@
 		"defaultValue":"installation instruction",
 		"i18nValue":{
 			"en_US":"installation instruction",
-			"zh_CN":null
+			"zh_CN":"安装说明"
 		}
 	},
 	"unit":null,

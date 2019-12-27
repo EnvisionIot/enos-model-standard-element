@@ -13,7 +13,7 @@
 		"defaultValue":"reliability conditions",
 		"i18nValue":{
 			"en_US":"reliability conditions",
-			"zh_CN":null
+			"zh_CN":"可靠性条件"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"number of turns",
 		"i18nValue":{
 			"en_US":"number of turns",
-			"zh_CN":null
+			"zh_CN":"圈数"
 		}
 	},
 	"unit":null,

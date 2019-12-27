@@ -11,7 +11,7 @@
 		"defaultValue":"circuit width",
 		"i18nValue":{
 			"en_US":"circuit width",
-			"zh_CN":null
+			"zh_CN":"电路宽度"
 		}
 	},
 	"unit":"m",

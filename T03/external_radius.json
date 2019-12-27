@@ -11,7 +11,7 @@
 		"defaultValue":"external radius",
 		"i18nValue":{
 			"en_US":"external radius",
-			"zh_CN":null
+			"zh_CN":"外半径"
 		}
 	},
 	"unit":"m",

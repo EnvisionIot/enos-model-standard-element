@@ -11,7 +11,7 @@
 		"defaultValue":"index width",
 		"i18nValue":{
 			"en_US":"index width",
-			"zh_CN":null
+			"zh_CN":"参考宽度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"working peak forward current",
 		"i18nValue":{
 			"en_US":"working peak forward current",
-			"zh_CN":null
+			"zh_CN":"工作峰值正向电流"
 		}
 	},
 	"unit":"A",

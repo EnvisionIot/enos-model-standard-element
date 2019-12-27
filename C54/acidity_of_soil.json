@@ -11,7 +11,7 @@
 		"defaultValue":"acidity of soil",
 		"i18nValue":{
 			"en_US":"acidity of soil",
-			"zh_CN":null
+			"zh_CN":"土壤酸度"
 		}
 	},
 	"unit":"pH",

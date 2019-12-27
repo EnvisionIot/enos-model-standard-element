@@ -11,7 +11,7 @@
 		"defaultValue":"heater current",
 		"i18nValue":{
 			"en_US":"heater current",
-			"zh_CN":null
+			"zh_CN":"加热器电流"
 		}
 	},
 	"unit":"A",

@@ -13,7 +13,7 @@
 		"defaultValue":"location of hidden objects",
 		"i18nValue":{
 			"en_US":"location of hidden objects",
-			"zh_CN":null
+			"zh_CN":"隐藏物体位置"
 		}
 	},
 	"unit":null,

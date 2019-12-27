@@ -11,7 +11,7 @@
 		"defaultValue":"acceleration strength",
 		"i18nValue":{
 			"en_US":"acceleration strength",
-			"zh_CN":null
+			"zh_CN":"加速强度"
 		}
 	},
 	"unit":"m/s²",

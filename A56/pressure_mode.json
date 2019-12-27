@@ -23,7 +23,7 @@
 		"defaultValue":"pressure mode",
 		"i18nValue":{
 			"en_US":"pressure mode",
-			"zh_CN":null
+			"zh_CN":"压力模式"
 		}
 	},
 	"unit":null,

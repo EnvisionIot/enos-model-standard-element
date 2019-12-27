@@ -11,7 +11,7 @@
 		"defaultValue":"input bias current",
 		"i18nValue":{
 			"en_US":"input bias current",
-			"zh_CN":null
+			"zh_CN":"输入失调电流"
 		}
 	},
 	"unit":"A",

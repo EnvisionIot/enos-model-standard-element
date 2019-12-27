@@ -11,7 +11,7 @@
 		"defaultValue":"random read/write cycle time",
 		"i18nValue":{
 			"en_US":"random read/write cycle time",
-			"zh_CN":null
+			"zh_CN":"随机读写周期"
 		}
 	},
 	"unit":"s",

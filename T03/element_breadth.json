@@ -11,7 +11,7 @@
 		"defaultValue":"element breadth",
 		"i18nValue":{
 			"en_US":"element breadth",
-			"zh_CN":null
+			"zh_CN":"元件宽度"
 		}
 	},
 	"unit":"m",

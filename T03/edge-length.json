@@ -11,7 +11,7 @@
 		"defaultValue":"edge-length",
 		"i18nValue":{
 			"en_US":"edge-length",
-			"zh_CN":null
+			"zh_CN":"边缘长度"
 		}
 	},
 	"unit":"m",

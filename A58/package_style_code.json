@@ -99,7 +99,7 @@
 		"defaultValue":"package style code",
 		"i18nValue":{
 			"en_US":"package style code",
-			"zh_CN":null
+			"zh_CN":"包装样式代码"
 		}
 	},
 	"unit":null,

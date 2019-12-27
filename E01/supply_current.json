@@ -11,7 +11,7 @@
 		"defaultValue":"supply current",
 		"i18nValue":{
 			"en_US":"supply current",
-			"zh_CN":null
+			"zh_CN":"电源电流"
 		}
 	},
 	"unit":"A",

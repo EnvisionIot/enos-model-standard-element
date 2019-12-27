@@ -13,7 +13,7 @@
 		"defaultValue":"duration",
 		"i18nValue":{
 			"en_US":"duration",
-			"zh_CN":null
+			"zh_CN":"持续时间"
 		}
 	},
 	"unit":null,

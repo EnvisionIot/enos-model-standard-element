@@ -11,7 +11,7 @@
 		"defaultValue":"frost formation intensity",
 		"i18nValue":{
 			"en_US":"frost formation intensity",
-			"zh_CN":null
+			"zh_CN":"结霜强度"
 		}
 	},
 	"unit":"mm/h",

@@ -31,7 +31,7 @@
 		"defaultValue":"gate type",
 		"i18nValue":{
 			"en_US":"gate type",
-			"zh_CN":null
+			"zh_CN":"栅极类型"
 		}
 	},
 	"unit":null,

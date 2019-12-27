@@ -23,7 +23,7 @@
 		"defaultValue":"operating voltage range",
 		"i18nValue":{
 			"en_US":"operating voltage range",
-			"zh_CN":null
+			"zh_CN":"工作电压范围"
 		}
 	},
 	"unit":null,

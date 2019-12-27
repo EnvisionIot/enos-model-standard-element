@@ -11,7 +11,7 @@
 		"defaultValue":"non-release voltage",
 		"i18nValue":{
 			"en_US":"non-release voltage",
-			"zh_CN":null
+			"zh_CN":"非释放电压"
 		}
 	},
 	"unit":"V",

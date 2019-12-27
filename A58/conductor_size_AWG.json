@@ -13,7 +13,7 @@
 		"defaultValue":"conductor size AWG",
 		"i18nValue":{
 			"en_US":"conductor size AWG",
-			"zh_CN":null
+			"zh_CN":"导体尺寸 (AWG)"
 		}
 	},
 	"unit":null,

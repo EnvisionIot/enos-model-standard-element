@@ -11,7 +11,7 @@
 		"defaultValue":"number of operating cycles",
 		"i18nValue":{
 			"en_US":"number of operating cycles",
-			"zh_CN":null
+			"zh_CN":"操作周期数"
 		}
 	},
 	"unit":null,

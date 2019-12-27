@@ -31,7 +31,7 @@
 		"defaultValue":"mounting of loudspeaker",
 		"i18nValue":{
 			"en_US":"mounting of loudspeaker",
-			"zh_CN":null
+			"zh_CN":"扬声器安装"
 		}
 	},
 	"unit":null,

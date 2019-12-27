@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak reverse power",
 		"i18nValue":{
 			"en_US":"repetitive peak reverse power",
-			"zh_CN":null
+			"zh_CN":"重复峰值反向功率"
 		}
 	},
 	"unit":"W",

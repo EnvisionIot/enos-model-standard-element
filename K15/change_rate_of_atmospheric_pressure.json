@@ -11,7 +11,7 @@
 		"defaultValue":"change rate of atmospheric pressure",
 		"i18nValue":{
 			"en_US":"change rate of atmospheric pressure",
-			"zh_CN":null
+			"zh_CN":"大气压变化率"
 		}
 	},
 	"unit":"Pa/h",

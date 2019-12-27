@@ -39,7 +39,7 @@
 		"defaultValue":"peripheral type",
 		"i18nValue":{
 			"en_US":"peripheral type",
-			"zh_CN":null
+			"zh_CN":"外围设备类型"
 		}
 	},
 	"unit":null,

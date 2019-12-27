@@ -11,7 +11,7 @@
 		"defaultValue":"water depth",
 		"i18nValue":{
 			"en_US":"water depth",
-			"zh_CN":null
+			"zh_CN":"水深"
 		}
 	},
 	"unit":"m",

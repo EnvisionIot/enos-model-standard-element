@@ -35,7 +35,7 @@
 		"defaultValue":"cell type",
 		"i18nValue":{
 			"en_US":"cell type",
-			"zh_CN":null
+			"zh_CN":"单元类型"
 		}
 	},
 	"unit":null,

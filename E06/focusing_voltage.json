@@ -11,7 +11,7 @@
 		"defaultValue":"focusing voltage",
 		"i18nValue":{
 			"en_US":"focusing voltage",
-			"zh_CN":null
+			"zh_CN":"聚焦电压"
 		}
 	},
 	"unit":"V",

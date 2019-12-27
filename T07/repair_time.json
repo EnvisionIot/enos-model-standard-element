@@ -11,7 +11,7 @@
 		"defaultValue":"repair time",
 		"i18nValue":{
 			"en_US":"repair time",
-			"zh_CN":null
+			"zh_CN":"维修时间"
 		}
 	},
 	"unit":"h",

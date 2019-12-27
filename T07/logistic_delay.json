@@ -11,7 +11,7 @@
 		"defaultValue":"logistic delay",
 		"i18nValue":{
 			"en_US":"logistic delay",
-			"zh_CN":null
+			"zh_CN":"后勤性延误"
 		}
 	},
 	"unit":"h",

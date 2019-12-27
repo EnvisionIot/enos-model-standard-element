@@ -171,7 +171,7 @@
 		"defaultValue":"shape/size code BSI",
 		"i18nValue":{
 			"en_US":"shape/size code BSI",
-			"zh_CN":null
+			"zh_CN":"形状/尺寸代码 BSI"
 		}
 	},
 	"unit":null,

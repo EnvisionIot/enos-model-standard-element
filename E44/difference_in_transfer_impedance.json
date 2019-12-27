@@ -11,7 +11,7 @@
 		"defaultValue":"difference in transfer impedance",
 		"i18nValue":{
 			"en_US":"difference in transfer impedance",
-			"zh_CN":null
+			"zh_CN":"传输阻抗差"
 		}
 	},
 	"unit":"Ω",

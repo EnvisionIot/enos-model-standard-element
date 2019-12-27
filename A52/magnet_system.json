@@ -31,7 +31,7 @@
 		"defaultValue":"magnet system",
 		"i18nValue":{
 			"en_US":"magnet system",
-			"zh_CN":null
+			"zh_CN":"磁铁系统"
 		}
 	},
 	"unit":null,

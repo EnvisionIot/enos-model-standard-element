@@ -11,7 +11,7 @@
 		"defaultValue":"cell pitch",
 		"i18nValue":{
 			"en_US":"cell pitch",
-			"zh_CN":null
+			"zh_CN":"单元间距"
 		}
 	},
 	"unit":"m",

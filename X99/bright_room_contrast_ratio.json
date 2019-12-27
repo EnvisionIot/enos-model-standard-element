@@ -11,7 +11,7 @@
 		"defaultValue":"bright room contrast ratio",
 		"i18nValue":{
 			"en_US":"bright room contrast ratio",
-			"zh_CN":null
+			"zh_CN":"环境对比度"
 		}
 	},
 	"unit":null,

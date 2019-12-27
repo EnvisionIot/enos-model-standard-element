@@ -11,7 +11,7 @@
 		"defaultValue":"contact voltage (ac)",
 		"i18nValue":{
 			"en_US":"contact voltage (ac)",
-			"zh_CN":null
+			"zh_CN":"触点电压（交流）"
 		}
 	},
 	"unit":"V",

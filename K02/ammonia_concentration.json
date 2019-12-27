@@ -11,7 +11,7 @@
 		"defaultValue":"ammonia concentration",
 		"i18nValue":{
 			"en_US":"ammonia concentration",
-			"zh_CN":null
+			"zh_CN":"氨浓度"
 		}
 	},
 	"unit":"kg/m³",

@@ -11,7 +11,7 @@
 		"defaultValue":"recovery time",
 		"i18nValue":{
 			"en_US":"recovery time",
-			"zh_CN":null
+			"zh_CN":"恢复时间"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"colour depth",
 		"i18nValue":{
 			"en_US":"colour depth",
-			"zh_CN":null
+			"zh_CN":"色深"
 		}
 	},
 	"unit":"bit",

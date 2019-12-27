@@ -11,7 +11,7 @@
 		"defaultValue":"resistance tolerance",
 		"i18nValue":{
 			"en_US":"resistance tolerance",
-			"zh_CN":null
+			"zh_CN":"电阻公差"
 		}
 	},
 	"unit":"%",

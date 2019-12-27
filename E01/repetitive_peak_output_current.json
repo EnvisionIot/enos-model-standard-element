@@ -11,7 +11,7 @@
 		"defaultValue":"repetitive peak output current",
 		"i18nValue":{
 			"en_US":"repetitive peak output current",
-			"zh_CN":null
+			"zh_CN":"重复峰值输出电流"
 		}
 	},
 	"unit":"A",

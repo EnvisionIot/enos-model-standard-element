@@ -11,7 +11,7 @@
 		"defaultValue":"short-circuit output current",
 		"i18nValue":{
 			"en_US":"short-circuit output current",
-			"zh_CN":null
+			"zh_CN":"短路输出电流"
 		}
 	},
 	"unit":"A",

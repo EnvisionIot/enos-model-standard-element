@@ -11,7 +11,7 @@
 		"defaultValue":"number of functions",
 		"i18nValue":{
 			"en_US":"number of functions",
-			"zh_CN":null
+			"zh_CN":"功能数量"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"gross area",
 		"i18nValue":{
 			"en_US":"gross area",
-			"zh_CN":null
+			"zh_CN":"总面积"
 		}
 	},
 	"unit":"m²",

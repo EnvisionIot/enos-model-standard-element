@@ -11,7 +11,7 @@
 		"defaultValue":"tag hole width",
 		"i18nValue":{
 			"en_US":"tag hole width",
-			"zh_CN":null
+			"zh_CN":"接线孔宽度"
 		}
 	},
 	"unit":"m",

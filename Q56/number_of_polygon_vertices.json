@@ -11,7 +11,7 @@
 		"defaultValue":"number of polygon vertices",
 		"i18nValue":{
 			"en_US":"number of polygon vertices",
-			"zh_CN":null
+			"zh_CN":"多边形顶点数量"
 		}
 	},
 	"unit":null,

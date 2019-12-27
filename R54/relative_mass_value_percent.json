@@ -11,7 +11,7 @@
 		"defaultValue":"relative mass value (percent)",
 		"i18nValue":{
 			"en_US":"relative mass value (percent)",
-			"zh_CN":null
+			"zh_CN":"相对质量值（百分比）"
 		}
 	},
 	"unit":"%",

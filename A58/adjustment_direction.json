@@ -23,7 +23,7 @@
 		"defaultValue":"adjustment direction",
 		"i18nValue":{
 			"en_US":"adjustment direction",
-			"zh_CN":null
+			"zh_CN":"调整方向"
 		}
 	},
 	"unit":null,

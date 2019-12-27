@@ -11,7 +11,7 @@
 		"defaultValue":"efficiency",
 		"i18nValue":{
 			"en_US":"efficiency",
-			"zh_CN":null
+			"zh_CN":"效率"
 		}
 	},
 	"unit":"%",

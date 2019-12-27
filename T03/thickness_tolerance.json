@@ -11,7 +11,7 @@
 		"defaultValue":"thickness tolerance",
 		"i18nValue":{
 			"en_US":"thickness tolerance",
-			"zh_CN":null
+			"zh_CN":"厚度公差"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"initial permeability",
 		"i18nValue":{
 			"en_US":"initial permeability",
-			"zh_CN":null
+			"zh_CN":"初始磁导率"
 		}
 	},
 	"unit":null,

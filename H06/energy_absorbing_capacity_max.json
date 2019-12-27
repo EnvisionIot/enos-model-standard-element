@@ -11,7 +11,7 @@
 		"defaultValue":"energy absorbing capacity max",
 		"i18nValue":{
 			"en_US":"energy absorbing capacity max",
-			"zh_CN":null
+			"zh_CN":"最大能量吸收能力"
 		}
 	},
 	"unit":"J",

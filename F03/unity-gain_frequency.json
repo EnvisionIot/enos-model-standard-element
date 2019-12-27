@@ -11,7 +11,7 @@
 		"defaultValue":"unity-gain frequency",
 		"i18nValue":{
 			"en_US":"unity-gain frequency",
-			"zh_CN":null
+			"zh_CN":"单位增益频率"
 		}
 	},
 	"unit":"Hz",

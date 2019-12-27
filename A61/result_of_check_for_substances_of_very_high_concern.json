@@ -13,7 +13,7 @@
 		"defaultValue":"result of check for substances of very high concern",
 		"i18nValue":{
 			"en_US":"result of check for substances of very high concern",
-			"zh_CN":null
+			"zh_CN":"高度关注物质检验结果"
 		}
 	},
 	"unit":null,

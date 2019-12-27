@@ -11,7 +11,7 @@
 		"defaultValue":"block erasing time",
 		"i18nValue":{
 			"en_US":"block erasing time",
-			"zh_CN":null
+			"zh_CN":"块擦除时间"
 		}
 	},
 	"unit":"s",

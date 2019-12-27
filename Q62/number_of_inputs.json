@@ -11,7 +11,7 @@
 		"defaultValue":"number of inputs",
 		"i18nValue":{
 			"en_US":"number of inputs",
-			"zh_CN":null
+			"zh_CN":"输入数量"
 		}
 	},
 	"unit":null,

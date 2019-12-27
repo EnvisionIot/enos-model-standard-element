@@ -13,7 +13,7 @@
 		"defaultValue":"tidal current direction",
 		"i18nValue":{
 			"en_US":"tidal current direction",
-			"zh_CN":null
+			"zh_CN":"潮流方向"
 		}
 	},
 	"unit":null,

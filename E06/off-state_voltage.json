@@ -11,7 +11,7 @@
 		"defaultValue":"off-state voltage",
 		"i18nValue":{
 			"en_US":"off-state voltage",
-			"zh_CN":null
+			"zh_CN":"断态电压"
 		}
 	},
 	"unit":"V",

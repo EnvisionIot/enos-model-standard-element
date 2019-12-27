@@ -11,7 +11,7 @@
 		"defaultValue":"current speed",
 		"i18nValue":{
 			"en_US":"current speed",
-			"zh_CN":null
+			"zh_CN":"潮流速度"
 		}
 	},
 	"unit":"m/s",

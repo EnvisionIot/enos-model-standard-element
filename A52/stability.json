@@ -23,7 +23,7 @@
 		"defaultValue":"stability",
 		"i18nValue":{
 			"en_US":"stability",
-			"zh_CN":null
+			"zh_CN":"稳定性"
 		}
 	},
 	"unit":null,

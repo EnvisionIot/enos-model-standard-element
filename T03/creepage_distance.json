@@ -11,7 +11,7 @@
 		"defaultValue":"creepage distance",
 		"i18nValue":{
 			"en_US":"creepage distance",
-			"zh_CN":null
+			"zh_CN":"爬电距离"
 		}
 	},
 	"unit":"m",

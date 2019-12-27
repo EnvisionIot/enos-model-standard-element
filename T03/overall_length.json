@@ -11,7 +11,7 @@
 		"defaultValue":"overall length",
 		"i18nValue":{
 			"en_US":"overall length",
-			"zh_CN":null
+			"zh_CN":"总长度"
 		}
 	},
 	"unit":"m",

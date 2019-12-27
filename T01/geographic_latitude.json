@@ -11,7 +11,7 @@
 		"defaultValue":"geographic latitude",
 		"i18nValue":{
 			"en_US":"geographic latitude",
-			"zh_CN":null
+			"zh_CN":"地理纬度"
 		}
 	},
 	"unit":"°",

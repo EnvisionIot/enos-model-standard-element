@@ -11,7 +11,7 @@
 		"defaultValue":"HIGH-state supply current",
 		"i18nValue":{
 			"en_US":"HIGH-state supply current",
-			"zh_CN":null
+			"zh_CN":"高态电源电流"
 		}
 	},
 	"unit":"A",

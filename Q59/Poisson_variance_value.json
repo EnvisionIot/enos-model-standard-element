@@ -11,7 +11,7 @@
 		"defaultValue":"Poisson variance value",
 		"i18nValue":{
 			"en_US":"Poisson variance value",
-			"zh_CN":null
+			"zh_CN":"泊松方差值"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"negative capacitance tolerance",
 		"i18nValue":{
 			"en_US":"negative capacitance tolerance",
-			"zh_CN":null
+			"zh_CN":"负电容公差"
 		}
 	},
 	"unit":"F",

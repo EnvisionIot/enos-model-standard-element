@@ -13,7 +13,7 @@
 		"defaultValue":"requester name",
 		"i18nValue":{
 			"en_US":"requester name",
-			"zh_CN":null
+			"zh_CN":"请求者姓名"
 		}
 	},
 	"unit":null,

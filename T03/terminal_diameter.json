@@ -11,7 +11,7 @@
 		"defaultValue":"terminal diameter",
 		"i18nValue":{
 			"en_US":"terminal diameter",
-			"zh_CN":null
+			"zh_CN":"端子直径"
 		}
 	},
 	"unit":"m",

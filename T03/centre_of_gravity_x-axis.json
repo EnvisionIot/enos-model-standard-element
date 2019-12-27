@@ -11,7 +11,7 @@
 		"defaultValue":"centre of gravity (x-axis)",
 		"i18nValue":{
 			"en_US":"centre of gravity (x-axis)",
-			"zh_CN":null
+			"zh_CN":"重心（x 轴）"
 		}
 	},
 	"unit":"m",

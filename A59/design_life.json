@@ -11,7 +11,7 @@
 		"defaultValue":"design life",
 		"i18nValue":{
 			"en_US":"design life",
-			"zh_CN":null
+			"zh_CN":"设计寿命"
 		}
 	},
 	"unit":"yr",

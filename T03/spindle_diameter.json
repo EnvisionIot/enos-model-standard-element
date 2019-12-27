@@ -11,7 +11,7 @@
 		"defaultValue":"spindle diameter",
 		"i18nValue":{
 			"en_US":"spindle diameter",
-			"zh_CN":null
+			"zh_CN":"主轴直径"
 		}
 	},
 	"unit":"m",

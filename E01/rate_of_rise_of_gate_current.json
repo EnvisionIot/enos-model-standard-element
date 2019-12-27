@@ -11,7 +11,7 @@
 		"defaultValue":"rate of rise of gate current",
 		"i18nValue":{
 			"en_US":"rate of rise of gate current",
-			"zh_CN":null
+			"zh_CN":"栅极电流上升率"
 		}
 	},
 	"unit":"A/s",

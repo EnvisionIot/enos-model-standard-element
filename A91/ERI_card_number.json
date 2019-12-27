@@ -13,7 +13,7 @@
 		"defaultValue":"ERI card number",
 		"i18nValue":{
 			"en_US":"ERI card number",
-			"zh_CN":null
+			"zh_CN":"ERI 卡号"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"mean wave direction",
 		"i18nValue":{
 			"en_US":"mean wave direction",
-			"zh_CN":null
+			"zh_CN":"平均波向"
 		}
 	},
 	"unit":null,

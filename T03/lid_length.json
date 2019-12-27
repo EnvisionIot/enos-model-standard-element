@@ -11,7 +11,7 @@
 		"defaultValue":"lid length",
 		"i18nValue":{
 			"en_US":"lid length",
-			"zh_CN":null
+			"zh_CN":"盖子长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"screen curvature radius",
 		"i18nValue":{
 			"en_US":"screen curvature radius",
-			"zh_CN":null
+			"zh_CN":"屏幕曲率半径"
 		}
 	},
 	"unit":"m",

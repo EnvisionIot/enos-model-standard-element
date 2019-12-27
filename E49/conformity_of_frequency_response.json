@@ -11,7 +11,7 @@
 		"defaultValue":"conformity of frequency response",
 		"i18nValue":{
 			"en_US":"conformity of frequency response",
-			"zh_CN":null
+			"zh_CN":"频率响应符合性"
 		}
 	},
 	"unit":"dB",

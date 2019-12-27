@@ -11,7 +11,7 @@
 		"defaultValue":"viewing angle",
 		"i18nValue":{
 			"en_US":"viewing angle",
-			"zh_CN":null
+			"zh_CN":"视角"
 		}
 	},
 	"unit":"°",

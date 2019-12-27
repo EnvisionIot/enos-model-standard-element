@@ -11,7 +11,7 @@
 		"defaultValue":"off-state supply current",
 		"i18nValue":{
 			"en_US":"off-state supply current",
-			"zh_CN":null
+			"zh_CN":"断态电源电流"
 		}
 	},
 	"unit":"A",

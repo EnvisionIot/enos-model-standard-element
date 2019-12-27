@@ -991,7 +991,7 @@
 		"defaultValue":"country code",
 		"i18nValue":{
 			"en_US":"country code",
-			"zh_CN":null
+			"zh_CN":"国家/地区代码"
 		}
 	},
 	"unit":null,

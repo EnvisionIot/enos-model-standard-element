@@ -31,7 +31,7 @@
 		"defaultValue":"supply current type",
 		"i18nValue":{
 			"en_US":"supply current type",
-			"zh_CN":null
+			"zh_CN":"电源电流类型"
 		}
 	},
 	"unit":null,

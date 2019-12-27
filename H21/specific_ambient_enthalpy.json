@@ -11,7 +11,7 @@
 		"defaultValue":"specific ambient enthalpy",
 		"i18nValue":{
 			"en_US":"specific ambient enthalpy",
-			"zh_CN":null
+			"zh_CN":"环境比焓值"
 		}
 	},
 	"unit":"J/kg",

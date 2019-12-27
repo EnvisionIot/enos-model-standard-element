@@ -11,7 +11,7 @@
 		"defaultValue":"quantity of terminal positions",
 		"i18nValue":{
 			"en_US":"quantity of terminal positions",
-			"zh_CN":null
+			"zh_CN":"端子位数"
 		}
 	},
 	"unit":null,

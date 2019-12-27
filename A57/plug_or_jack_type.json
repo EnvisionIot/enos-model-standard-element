@@ -35,7 +35,7 @@
 		"defaultValue":"plug/jack type",
 		"i18nValue":{
 			"en_US":"plug/jack type",
-			"zh_CN":null
+			"zh_CN":"插头/插孔类型"
 		}
 	},
 	"unit":null,

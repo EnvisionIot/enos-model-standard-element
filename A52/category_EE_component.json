@@ -123,7 +123,7 @@
 		"defaultValue":"category EE component",
 		"i18nValue":{
 			"en_US":"category EE component",
-			"zh_CN":null
+			"zh_CN":"EE 类组件"
 		}
 	},
 	"unit":null,

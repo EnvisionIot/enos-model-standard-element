@@ -11,7 +11,7 @@
 		"defaultValue":"shunt capacitance",
 		"i18nValue":{
 			"en_US":"shunt capacitance",
-			"zh_CN":null
+			"zh_CN":"分流电容"
 		}
 	},
 	"unit":"pF",

@@ -11,7 +11,7 @@
 		"defaultValue":"average duty factor",
 		"i18nValue":{
 			"en_US":"average duty factor",
-			"zh_CN":null
+			"zh_CN":"平均占空比"
 		}
 	},
 	"unit":"%",

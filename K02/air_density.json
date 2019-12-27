@@ -11,7 +11,7 @@
 		"defaultValue":"air density",
 		"i18nValue":{
 			"en_US":"air density",
-			"zh_CN":null
+			"zh_CN":"空气密度"
 		}
 	},
 	"unit":"kg/m³",

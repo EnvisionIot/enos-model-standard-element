@@ -11,7 +11,7 @@
 					"defaultValue":"maintainability measure",
 					"i18nValue":{
 						"en_US":"maintainability measure",
-						"zh_CN":null
+						"zh_CN":"可维修性措施"
 					}
 				},
 				"unit":"%"
@@ -25,7 +25,7 @@
 					"defaultValue":"maintenance time",
 					"i18nValue":{
 						"en_US":"maintenance time",
-						"zh_CN":null
+						"zh_CN":"维修时间"
 					}
 				},
 				"unit":"h"
@@ -39,7 +39,7 @@
 					"defaultValue":"maintenance man-hours",
 					"i18nValue":{
 						"en_US":"maintenance man-hours",
-						"zh_CN":null
+						"zh_CN":"维修工时"
 					}
 				},
 				"unit":"h"
@@ -53,7 +53,7 @@
 					"defaultValue":"active maintenance time",
 					"i18nValue":{
 						"en_US":"active maintenance time",
-						"zh_CN":null
+						"zh_CN":"主动维护时间"
 					}
 				},
 				"unit":"h"
@@ -67,7 +67,7 @@
 					"defaultValue":"preventive maintenance time",
 					"i18nValue":{
 						"en_US":"preventive maintenance time",
-						"zh_CN":null
+						"zh_CN":"预防性维护时间"
 					}
 				},
 				"unit":"h"
@@ -81,7 +81,7 @@
 					"defaultValue":"time to restoration of an item",
 					"i18nValue":{
 						"en_US":"time to restoration of an item",
-						"zh_CN":null
+						"zh_CN":"物项恢复时间"
 					}
 				},
 				"unit":"h"
@@ -95,7 +95,7 @@
 					"defaultValue":"corrective maintenance time",
 					"i18nValue":{
 						"en_US":"corrective maintenance time",
-						"zh_CN":null
+						"zh_CN":"纠正性维护时间"
 					}
 				},
 				"unit":"h"
@@ -109,7 +109,7 @@
 					"defaultValue":"active preventive maintenance time",
 					"i18nValue":{
 						"en_US":"active preventive maintenance time",
-						"zh_CN":null
+						"zh_CN":"主动预防性维护时间"
 					}
 				},
 				"unit":"h"
@@ -123,7 +123,7 @@
 					"defaultValue":"preventive maintenance action time",
 					"i18nValue":{
 						"en_US":"preventive maintenance action time",
-						"zh_CN":null
+						"zh_CN":"预防性维护时间"
 					}
 				},
 				"unit":"h"
@@ -137,7 +137,7 @@
 					"defaultValue":"active corrective maintenance time",
 					"i18nValue":{
 						"en_US":"active corrective maintenance time",
-						"zh_CN":null
+						"zh_CN":"主动纠正性维护时间"
 					}
 				},
 				"unit":"h"
@@ -151,7 +151,7 @@
 					"defaultValue":"fault detection time",
 					"i18nValue":{
 						"en_US":"fault detection time",
-						"zh_CN":null
+						"zh_CN":"故障检测时间"
 					}
 				},
 				"unit":"h"
@@ -165,7 +165,7 @@
 					"defaultValue":"administrative delay",
 					"i18nValue":{
 						"en_US":"administrative delay",
-						"zh_CN":null
+						"zh_CN":"行政性延误"
 					}
 				},
 				"unit":"h"
@@ -179,7 +179,7 @@
 					"defaultValue":"logistic delay",
 					"i18nValue":{
 						"en_US":"logistic delay",
-						"zh_CN":null
+						"zh_CN":"后勤性延误"
 					}
 				},
 				"unit":"h"
@@ -193,7 +193,7 @@
 					"defaultValue":"fault correction time",
 					"i18nValue":{
 						"en_US":"fault correction time",
-						"zh_CN":null
+						"zh_CN":"故障纠正时间"
 					}
 				},
 				"unit":"h"
@@ -207,7 +207,7 @@
 					"defaultValue":"technical delay",
 					"i18nValue":{
 						"en_US":"technical delay",
-						"zh_CN":null
+						"zh_CN":"技术性延误"
 					}
 				},
 				"unit":"h"
@@ -221,7 +221,7 @@
 					"defaultValue":"function checkout time",
 					"i18nValue":{
 						"en_US":"function checkout time",
-						"zh_CN":null
+						"zh_CN":"功能结帐时间"
 					}
 				},
 				"unit":"h"
@@ -235,7 +235,7 @@
 					"defaultValue":"fault diagnosis time",
 					"i18nValue":{
 						"en_US":"fault diagnosis time",
-						"zh_CN":null
+						"zh_CN":"故障诊断时间"
 					}
 				},
 				"unit":"h"
@@ -249,7 +249,7 @@
 					"defaultValue":"fault localization time",
 					"i18nValue":{
 						"en_US":"fault localization time",
-						"zh_CN":null
+						"zh_CN":"故障定位时间"
 					}
 				},
 				"unit":"h"
@@ -263,7 +263,7 @@
 					"defaultValue":"repair time",
 					"i18nValue":{
 						"en_US":"repair time",
-						"zh_CN":null
+						"zh_CN":"维修时间"
 					}
 				},
 				"unit":"h"
@@ -277,7 +277,7 @@
 					"defaultValue":"instantaneous repair time",
 					"i18nValue":{
 						"en_US":"instantaneous repair time",
-						"zh_CN":null
+						"zh_CN":"即时维修时间"
 					}
 				},
 				"unit":"%"
@@ -291,7 +291,7 @@
 					"defaultValue":"mean repair time",
 					"i18nValue":{
 						"en_US":"mean repair time",
-						"zh_CN":null
+						"zh_CN":"平均维修时间"
 					}
 				},
 				"unit":"h"
@@ -305,7 +305,7 @@
 					"defaultValue":"mean active corrective maintenance time",
 					"i18nValue":{
 						"en_US":"mean active corrective maintenance time",
-						"zh_CN":null
+						"zh_CN":"平均主动纠正性维护时间"
 					}
 				},
 				"unit":"h"
@@ -319,7 +319,7 @@
 					"defaultValue":"mean time to restoration",
 					"i18nValue":{
 						"en_US":"mean time to restoration",
-						"zh_CN":null
+						"zh_CN":"平均恢复时间"
 					}
 				},
 				"unit":"h"
@@ -333,7 +333,7 @@
 					"defaultValue":"fault coverage",
 					"i18nValue":{
 						"en_US":"fault coverage",
-						"zh_CN":null
+						"zh_CN":"故障范围"
 					}
 				},
 				"unit":"%"
@@ -347,7 +347,7 @@
 					"defaultValue":"repair coverage",
 					"i18nValue":{
 						"en_US":"repair coverage",
-						"zh_CN":null
+						"zh_CN":"维修范围"
 					}
 				},
 				"unit":"%"
@@ -361,7 +361,7 @@
 					"defaultValue":"mean administrative delay",
 					"i18nValue":{
 						"en_US":"mean administrative delay",
-						"zh_CN":null
+						"zh_CN":"平均行政性延误"
 					}
 				},
 				"unit":"h"
@@ -375,7 +375,7 @@
 					"defaultValue":"mean logistic delay",
 					"i18nValue":{
 						"en_US":"mean logistic delay",
-						"zh_CN":null
+						"zh_CN":"平均物流性延误"
 					}
 				},
 				"unit":"h"
@@ -401,7 +401,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -418,7 +418,7 @@
 		"defaultValue":"reference to Measures for maintainability and maintenance support related concepts",
 		"i18nValue":{
 			"en_US":"reference to Measures for maintainability and maintenance support related concepts",
-			"zh_CN":null
+			"zh_CN":"参考可维护性和维护支持相关概念的措施"
 		}
 	},
 	"unit":null,

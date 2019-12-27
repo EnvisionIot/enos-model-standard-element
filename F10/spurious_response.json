@@ -11,7 +11,7 @@
 		"defaultValue":"spurious response",
 		"i18nValue":{
 			"en_US":"spurious response",
-			"zh_CN":null
+			"zh_CN":"假响应"
 		}
 	},
 	"unit":"dB",

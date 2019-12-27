@@ -27,7 +27,7 @@
 		"defaultValue":"conformity level",
 		"i18nValue":{
 			"en_US":"conformity level",
-			"zh_CN":null
+			"zh_CN":"合格等级"
 		}
 	},
 	"unit":null,

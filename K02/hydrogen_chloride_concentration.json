@@ -11,7 +11,7 @@
 		"defaultValue":"hydrogen chloride concentration",
 		"i18nValue":{
 			"en_US":"hydrogen chloride concentration",
-			"zh_CN":null
+			"zh_CN":"氯化氢浓度"
 		}
 	},
 	"unit":"kg/m³",

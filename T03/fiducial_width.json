@@ -11,7 +11,7 @@
 		"defaultValue":"fiducial width",
 		"i18nValue":{
 			"en_US":"fiducial width",
-			"zh_CN":null
+			"zh_CN":"基准宽度"
 		}
 	},
 	"unit":"m",

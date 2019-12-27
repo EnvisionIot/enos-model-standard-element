@@ -11,7 +11,7 @@
 		"defaultValue":"stress relative humidity",
 		"i18nValue":{
 			"en_US":"stress relative humidity",
-			"zh_CN":null
+			"zh_CN":"应力相对湿度"
 		}
 	},
 	"unit":"%",

@@ -11,7 +11,7 @@
 		"defaultValue":"dust layer thickness",
 		"i18nValue":{
 			"en_US":"dust layer thickness",
-			"zh_CN":null
+			"zh_CN":"尘层厚度"
 		}
 	},
 	"unit":"m",

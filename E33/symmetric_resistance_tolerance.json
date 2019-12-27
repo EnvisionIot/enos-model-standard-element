@@ -11,7 +11,7 @@
 		"defaultValue":"symmetric resistance tolerance",
 		"i18nValue":{
 			"en_US":"symmetric resistance tolerance",
-			"zh_CN":null
+			"zh_CN":"对称电阻公差"
 		}
 	},
 	"unit":"Ω",

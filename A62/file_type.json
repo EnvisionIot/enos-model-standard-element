@@ -13,7 +13,7 @@
 		"defaultValue":"file type",
 		"i18nValue":{
 			"en_US":"file type",
-			"zh_CN":null
+			"zh_CN":"文件类型"
 		}
 	},
 	"unit":null,

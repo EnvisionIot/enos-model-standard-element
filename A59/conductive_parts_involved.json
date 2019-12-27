@@ -27,7 +27,7 @@
 		"defaultValue":"conductive parts involved",
 		"i18nValue":{
 			"en_US":"conductive parts involved",
-			"zh_CN":null
+			"zh_CN":"涉及的导电部件"
 		}
 	},
 	"unit":null,

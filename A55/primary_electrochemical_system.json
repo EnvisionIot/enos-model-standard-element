@@ -55,7 +55,7 @@
 		"defaultValue":"primary electrochemical system",
 		"i18nValue":{
 			"en_US":"primary electrochemical system",
-			"zh_CN":null
+			"zh_CN":"一次电化学系统"
 		}
 	},
 	"unit":null,

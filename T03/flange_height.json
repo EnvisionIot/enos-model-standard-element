@@ -11,7 +11,7 @@
 		"defaultValue":"flange height",
 		"i18nValue":{
 			"en_US":"flange height",
-			"zh_CN":null
+			"zh_CN":"法兰高度"
 		}
 	},
 	"unit":"m",

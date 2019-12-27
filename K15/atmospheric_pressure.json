@@ -11,7 +11,7 @@
 		"defaultValue":"atmospheric pressure",
 		"i18nValue":{
 			"en_US":"atmospheric pressure",
-			"zh_CN":null
+			"zh_CN":"大气压"
 		}
 	},
 	"unit":"Pa",

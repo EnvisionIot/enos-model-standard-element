@@ -11,7 +11,7 @@
 		"defaultValue":"effective frequency f_e1",
 		"i18nValue":{
 			"en_US":"effective frequency f_e1",
-			"zh_CN":null
+			"zh_CN":"有效频率 f_e1"
 		}
 	},
 	"unit":"Hz",

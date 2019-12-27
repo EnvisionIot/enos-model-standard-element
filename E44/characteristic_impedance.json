@@ -11,7 +11,7 @@
 		"defaultValue":"characteristic impedance",
 		"i18nValue":{
 			"en_US":"characteristic impedance",
-			"zh_CN":null
+			"zh_CN":"特性阻抗"
 		}
 	},
 	"unit":"Ω",

@@ -13,7 +13,7 @@
 		"defaultValue":"backlight",
 		"i18nValue":{
 			"en_US":"backlight",
-			"zh_CN":null
+			"zh_CN":"背光灯"
 		}
 	},
 	"unit":null,

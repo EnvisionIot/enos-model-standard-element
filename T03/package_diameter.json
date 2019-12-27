@@ -11,7 +11,7 @@
 		"defaultValue":"package diameter",
 		"i18nValue":{
 			"en_US":"package diameter",
-			"zh_CN":null
+			"zh_CN":"包装直径"
 		}
 	},
 	"unit":"m",

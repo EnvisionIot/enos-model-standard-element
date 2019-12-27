@@ -11,7 +11,7 @@
 		"defaultValue":"burst-mode cycle time",
 		"i18nValue":{
 			"en_US":"burst-mode cycle time",
-			"zh_CN":null
+			"zh_CN":"突发模式循环时间"
 		}
 	},
 	"unit":"s",

@@ -11,7 +11,7 @@
 		"defaultValue":"operating voltage",
 		"i18nValue":{
 			"en_US":"operating voltage",
-			"zh_CN":null
+			"zh_CN":"工作电压"
 		}
 	},
 	"unit":"V",

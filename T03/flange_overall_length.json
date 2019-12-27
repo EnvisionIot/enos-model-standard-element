@@ -11,7 +11,7 @@
 		"defaultValue":"flange overall length",
 		"i18nValue":{
 			"en_US":"flange overall length",
-			"zh_CN":null
+			"zh_CN":"法兰总长"
 		}
 	},
 	"unit":"m",

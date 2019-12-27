@@ -11,7 +11,7 @@
 		"defaultValue":"electric conductivity of water",
 		"i18nValue":{
 			"en_US":"electric conductivity of water",
-			"zh_CN":null
+			"zh_CN":"水的电导率"
 		}
 	},
 	"unit":"S/m",

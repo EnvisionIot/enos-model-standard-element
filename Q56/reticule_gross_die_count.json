@@ -11,7 +11,7 @@
 		"defaultValue":"reticule gross die count",
 		"i18nValue":{
 			"en_US":"reticule gross die count",
-			"zh_CN":null
+			"zh_CN":"标线总模具数"
 		}
 	},
 	"unit":null,

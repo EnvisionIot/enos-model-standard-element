@@ -11,7 +11,7 @@
 		"defaultValue":"turn-on time",
 		"i18nValue":{
 			"en_US":"turn-on time",
-			"zh_CN":null
+			"zh_CN":"开启时间"
 		}
 	},
 	"unit":"s",

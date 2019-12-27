@@ -39,7 +39,7 @@
 		"defaultValue":"enhanced Fujita scale",
 		"i18nValue":{
 			"en_US":"enhanced Fujita scale",
-			"zh_CN":null
+			"zh_CN":"改良藤田级数"
 		}
 	},
 	"unit":null,

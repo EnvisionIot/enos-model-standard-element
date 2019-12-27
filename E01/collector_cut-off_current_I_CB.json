@@ -11,7 +11,7 @@
 		"defaultValue":"collector cut-off current I_CB",
 		"i18nValue":{
 			"en_US":"collector cut-off current I_CB",
-			"zh_CN":null
+			"zh_CN":"集电极截止电流 I_CB"
 		}
 	},
 	"unit":"A",

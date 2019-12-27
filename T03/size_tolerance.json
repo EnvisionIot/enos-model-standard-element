@@ -11,7 +11,7 @@
 		"defaultValue":"size tolerance",
 		"i18nValue":{
 			"en_US":"size tolerance",
-			"zh_CN":null
+			"zh_CN":"尺寸公差"
 		}
 	},
 	"unit":"m",

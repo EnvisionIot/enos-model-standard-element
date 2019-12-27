@@ -23,7 +23,7 @@
 		"defaultValue":"adjustability type",
 		"i18nValue":{
 			"en_US":"adjustability type",
-			"zh_CN":null
+			"zh_CN":"可调性类型"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"flora",
 		"i18nValue":{
 			"en_US":"flora",
-			"zh_CN":null
+			"zh_CN":"植物群"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"voltage gain",
 		"i18nValue":{
 			"en_US":"voltage gain",
-			"zh_CN":null
+			"zh_CN":"电压增益"
 		}
 	},
 	"unit":null,

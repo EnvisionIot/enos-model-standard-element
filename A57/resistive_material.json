@@ -47,7 +47,7 @@
 		"defaultValue":"resistive material",
 		"i18nValue":{
 			"en_US":"resistive material",
-			"zh_CN":null
+			"zh_CN":"电阻材料"
 		}
 	},
 	"unit":null,

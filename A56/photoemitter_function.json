@@ -27,7 +27,7 @@
 		"defaultValue":"photoemitter function",
 		"i18nValue":{
 			"en_US":"photoemitter function",
-			"zh_CN":null
+			"zh_CN":"光电发射功能"
 		}
 	},
 	"unit":null,

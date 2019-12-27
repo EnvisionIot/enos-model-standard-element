@@ -13,7 +13,7 @@
 		"defaultValue":"quality level units",
 		"i18nValue":{
 			"en_US":"quality level units",
-			"zh_CN":null
+			"zh_CN":"质量等级单位"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"drain-source on-state resistance",
 		"i18nValue":{
 			"en_US":"drain-source on-state resistance",
-			"zh_CN":null
+			"zh_CN":"漏源通态电阻"
 		}
 	},
 	"unit":"Ω",

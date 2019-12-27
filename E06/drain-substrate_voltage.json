@@ -11,7 +11,7 @@
 		"defaultValue":"drain-substrate voltage",
 		"i18nValue":{
 			"en_US":"drain-substrate voltage",
-			"zh_CN":null
+			"zh_CN":"漏极-基极电压"
 		}
 	},
 	"unit":"V",

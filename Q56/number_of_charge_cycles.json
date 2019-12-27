@@ -11,7 +11,7 @@
 		"defaultValue":"number of charge cycles",
 		"i18nValue":{
 			"en_US":"number of charge cycles",
-			"zh_CN":null
+			"zh_CN":"充电周期数"
 		}
 	},
 	"unit":null,

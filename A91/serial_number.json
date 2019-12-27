@@ -13,7 +13,7 @@
 		"defaultValue":"serial number",
 		"i18nValue":{
 			"en_US":"serial number",
-			"zh_CN":null
+			"zh_CN":"序列号"
 		}
 	},
 	"unit":null,

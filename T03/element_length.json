@@ -11,7 +11,7 @@
 		"defaultValue":"element length",
 		"i18nValue":{
 			"en_US":"element length",
-			"zh_CN":null
+			"zh_CN":"元件长度"
 		}
 	},
 	"unit":"m",

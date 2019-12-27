@@ -11,7 +11,7 @@
 		"defaultValue":"drive frequency",
 		"i18nValue":{
 			"en_US":"drive frequency",
-			"zh_CN":null
+			"zh_CN":"驱动频率"
 		}
 	},
 	"unit":"Hz",

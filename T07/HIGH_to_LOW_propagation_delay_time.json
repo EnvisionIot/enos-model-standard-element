@@ -11,7 +11,7 @@
 		"defaultValue":"HIGH to LOW propagation delay time",
 		"i18nValue":{
 			"en_US":"HIGH to LOW propagation delay time",
-			"zh_CN":null
+			"zh_CN":"高到低电平传播延迟时间"
 		}
 	},
 	"unit":"s",

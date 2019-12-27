@@ -13,7 +13,7 @@
 		"defaultValue":"shaft style",
 		"i18nValue":{
 			"en_US":"shaft style",
-			"zh_CN":null
+			"zh_CN":"轴样式"
 		}
 	},
 	"unit":null,

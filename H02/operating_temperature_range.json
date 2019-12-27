@@ -11,7 +11,7 @@
 		"defaultValue":"operating temperature range",
 		"i18nValue":{
 			"en_US":"operating temperature range",
-			"zh_CN":null
+			"zh_CN":"工作温度范围"
 		}
 	},
 	"unit":"°C",

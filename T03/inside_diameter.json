@@ -11,7 +11,7 @@
 		"defaultValue":"inside diameter",
 		"i18nValue":{
 			"en_US":"inside diameter",
-			"zh_CN":null
+			"zh_CN":"内径"
 		}
 	},
 	"unit":"m",

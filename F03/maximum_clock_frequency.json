@@ -11,7 +11,7 @@
 		"defaultValue":"maximum clock frequency",
 		"i18nValue":{
 			"en_US":"maximum clock frequency",
-			"zh_CN":null
+			"zh_CN":"最大时钟频率"
 		}
 	},
 	"unit":"Hz",

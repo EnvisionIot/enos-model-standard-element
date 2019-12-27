@@ -11,7 +11,7 @@
 		"defaultValue":"data retention current",
 		"i18nValue":{
 			"en_US":"data retention current",
-			"zh_CN":null
+			"zh_CN":"数据保留电流"
 		}
 	},
 	"unit":"A",

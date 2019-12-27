@@ -23,7 +23,7 @@
 		"defaultValue":"power/signal",
 		"i18nValue":{
 			"en_US":"power/signal",
-			"zh_CN":null
+			"zh_CN":"电源/信号"
 		}
 	},
 	"unit":null,

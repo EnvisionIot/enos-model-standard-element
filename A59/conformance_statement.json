@@ -13,7 +13,7 @@
 		"defaultValue":"conformance statement",
 		"i18nValue":{
 			"en_US":"conformance statement",
-			"zh_CN":null
+			"zh_CN":"符合性声明"
 		}
 	},
 	"unit":null,

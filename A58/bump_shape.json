@@ -13,7 +13,7 @@
 		"defaultValue":"bump shape",
 		"i18nValue":{
 			"en_US":"bump shape",
-			"zh_CN":null
+			"zh_CN":"凸块形状"
 		}
 	},
 	"unit":null,

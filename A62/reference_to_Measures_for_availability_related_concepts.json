@@ -11,7 +11,7 @@
 					"defaultValue":"instantaneous availability",
 					"i18nValue":{
 						"en_US":"instantaneous availability",
-						"zh_CN":null
+						"zh_CN":"瞬时可用性"
 					}
 				},
 				"unit":"%"
@@ -25,7 +25,7 @@
 					"defaultValue":"inherent availability",
 					"i18nValue":{
 						"en_US":"inherent availability",
-						"zh_CN":null
+						"zh_CN":"固有可用性"
 					}
 				},
 				"unit":"%"
@@ -39,7 +39,7 @@
 					"defaultValue":"operational availability",
 					"i18nValue":{
 						"en_US":"operational availability",
-						"zh_CN":null
+						"zh_CN":"运行可用性"
 					}
 				},
 				"unit":"%"
@@ -53,7 +53,7 @@
 					"defaultValue":"instantaneous unavailability",
 					"i18nValue":{
 						"en_US":"instantaneous unavailability",
-						"zh_CN":null
+						"zh_CN":"瞬时不可用性"
 					}
 				},
 				"unit":"%"
@@ -67,7 +67,7 @@
 					"defaultValue":"mean availability",
 					"i18nValue":{
 						"en_US":"mean availability",
-						"zh_CN":null
+						"zh_CN":"平均可用性"
 					}
 				},
 				"unit":"%"
@@ -81,7 +81,7 @@
 					"defaultValue":"mean unavailability",
 					"i18nValue":{
 						"en_US":"mean unavailability",
-						"zh_CN":null
+						"zh_CN":"平均不可用性"
 					}
 				},
 				"unit":"%"
@@ -95,7 +95,7 @@
 					"defaultValue":"steady state availability",
 					"i18nValue":{
 						"en_US":"steady state availability",
-						"zh_CN":null
+						"zh_CN":"稳态可用性"
 					}
 				},
 				"unit":"%"
@@ -109,7 +109,7 @@
 					"defaultValue":"steady state unavailability",
 					"i18nValue":{
 						"en_US":"steady state unavailability",
-						"zh_CN":null
+						"zh_CN":"稳态不可用性"
 					}
 				},
 				"unit":"%"
@@ -123,7 +123,7 @@
 					"defaultValue":"mean up time",
 					"i18nValue":{
 						"en_US":"mean up time",
-						"zh_CN":null
+						"zh_CN":"平均正常运行时间"
 					}
 				},
 				"unit":"h"
@@ -137,7 +137,7 @@
 					"defaultValue":"mean down time",
 					"i18nValue":{
 						"en_US":"mean down time",
-						"zh_CN":null
+						"zh_CN":"平均停机时间"
 					}
 				},
 				"unit":"h"
@@ -163,7 +163,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -180,7 +180,7 @@
 		"defaultValue":"reference to Measures for availability related concepts",
 		"i18nValue":{
 			"en_US":"reference to Measures for availability related concepts",
-			"zh_CN":null
+			"zh_CN":"参考可用性相关概念的措施"
 		}
 	},
 	"unit":null,

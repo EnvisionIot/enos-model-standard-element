@@ -27,7 +27,7 @@
 		"defaultValue":"hazardous dust area class",
 		"i18nValue":{
 			"en_US":"hazardous dust area class",
-			"zh_CN":null
+			"zh_CN":"危险粉尘区域等级"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"reference capacitance",
 		"i18nValue":{
 			"en_US":"reference capacitance",
-			"zh_CN":null
+			"zh_CN":"参考电容"
 		}
 	},
 	"unit":"F",

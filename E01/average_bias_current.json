@@ -11,7 +11,7 @@
 		"defaultValue":"average bias current",
 		"i18nValue":{
 			"en_US":"average bias current",
-			"zh_CN":null
+			"zh_CN":"平均偏置电流"
 		}
 	},
 	"unit":"A",

@@ -13,7 +13,7 @@
 		"defaultValue":"die type description",
 		"i18nValue":{
 			"en_US":"die type description",
-			"zh_CN":null
+			"zh_CN":"模具类型描述"
 		}
 	},
 	"unit":null,

@@ -13,7 +13,7 @@
 		"defaultValue":"substrate material",
 		"i18nValue":{
 			"en_US":"substrate material",
-			"zh_CN":null
+			"zh_CN":"基材"
 		}
 	},
 	"unit":null,

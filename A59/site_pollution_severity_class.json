@@ -35,7 +35,7 @@
 		"defaultValue":"site pollution severity class",
 		"i18nValue":{
 			"en_US":"site pollution severity class",
-			"zh_CN":null
+			"zh_CN":"场地污染严重等级"
 		}
 	},
 	"unit":null,

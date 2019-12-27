@@ -11,7 +11,7 @@
 		"defaultValue":"test voltage minimum",
 		"i18nValue":{
 			"en_US":"test voltage minimum",
-			"zh_CN":null
+			"zh_CN":"最低测试电压"
 		}
 	},
 	"unit":"V",

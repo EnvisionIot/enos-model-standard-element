@@ -31,7 +31,7 @@
 		"defaultValue":"film dielectric material",
 		"i18nValue":{
 			"en_US":"film dielectric material",
-			"zh_CN":null
+			"zh_CN":"薄膜介电材料"
 		}
 	},
 	"unit":null,

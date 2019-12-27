@@ -11,7 +11,7 @@
 		"defaultValue":"vertical resolution",
 		"i18nValue":{
 			"en_US":"vertical resolution",
-			"zh_CN":null
+			"zh_CN":"垂直分辨率"
 		}
 	},
 	"unit":null,

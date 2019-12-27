@@ -27,7 +27,7 @@
 		"defaultValue":"thyristor function",
 		"i18nValue":{
 			"en_US":"thyristor function",
-			"zh_CN":null
+			"zh_CN":"晶闸管功能"
 		}
 	},
 	"unit":null,

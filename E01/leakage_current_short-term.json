@@ -11,7 +11,7 @@
 		"defaultValue":"leakage current short-term",
 		"i18nValue":{
 			"en_US":"leakage current short-term",
-			"zh_CN":null
+			"zh_CN":"短时漏电电流"
 		}
 	},
 	"unit":"A",

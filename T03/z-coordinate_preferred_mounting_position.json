@@ -11,7 +11,7 @@
 		"defaultValue":"z-coordinate preferred mounting position",
 		"i18nValue":{
 			"en_US":"z-coordinate preferred mounting position",
-			"zh_CN":null
+			"zh_CN":"首选安装位置 z 坐标"
 		}
 	},
 	"unit":"m",

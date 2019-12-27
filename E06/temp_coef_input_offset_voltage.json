@@ -11,7 +11,7 @@
 		"defaultValue":"temp coef input offset voltage",
 		"i18nValue":{
 			"en_US":"temp coef input offset voltage",
-			"zh_CN":null
+			"zh_CN":"温度系数输入失调电压"
 		}
 	},
 	"unit":"V/°C",

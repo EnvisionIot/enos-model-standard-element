@@ -11,7 +11,7 @@
 		"defaultValue":"fault coverage",
 		"i18nValue":{
 			"en_US":"fault coverage",
-			"zh_CN":null
+			"zh_CN":"故障范围"
 		}
 	},
 	"unit":"%",

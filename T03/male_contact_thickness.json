@@ -11,7 +11,7 @@
 		"defaultValue":"male contact thickness",
 		"i18nValue":{
 			"en_US":"male contact thickness",
-			"zh_CN":null
+			"zh_CN":"公触件厚度"
 		}
 	},
 	"unit":"m",

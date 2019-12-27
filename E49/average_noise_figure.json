@@ -11,7 +11,7 @@
 		"defaultValue":"average noise figure",
 		"i18nValue":{
 			"en_US":"average noise figure",
-			"zh_CN":null
+			"zh_CN":"平均噪声系数"
 		}
 	},
 	"unit":"dB",

@@ -13,7 +13,7 @@
 		"defaultValue":"substance group name",
 		"i18nValue":{
 			"en_US":"substance group name",
-			"zh_CN":null
+			"zh_CN":"物质组名称"
 		}
 	},
 	"unit":null,

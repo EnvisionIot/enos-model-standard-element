@@ -13,7 +13,7 @@
 		"defaultValue":"last name",
 		"i18nValue":{
 			"en_US":"last name",
-			"zh_CN":null
+			"zh_CN":"姓"
 		}
 	},
 	"unit":null,

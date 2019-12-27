@@ -11,7 +11,7 @@
 		"defaultValue":"organic hydrocarbons concentration",
 		"i18nValue":{
 			"en_US":"organic hydrocarbons concentration",
-			"zh_CN":null
+			"zh_CN":"有机碳氢化合物浓度"
 		}
 	},
 	"unit":"kg/m³",

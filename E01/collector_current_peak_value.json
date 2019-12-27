@@ -11,7 +11,7 @@
 		"defaultValue":"collector current peak value",
 		"i18nValue":{
 			"en_US":"collector current peak value",
-			"zh_CN":null
+			"zh_CN":"集电极电流峰值"
 		}
 	},
 	"unit":"A",

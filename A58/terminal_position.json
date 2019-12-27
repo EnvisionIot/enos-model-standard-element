@@ -13,7 +13,7 @@
 		"defaultValue":"terminal position",
 		"i18nValue":{
 			"en_US":"terminal position",
-			"zh_CN":null
+			"zh_CN":"端子位置"
 		}
 	},
 	"unit":null,

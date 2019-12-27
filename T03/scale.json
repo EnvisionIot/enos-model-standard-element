@@ -11,7 +11,7 @@
 		"defaultValue":"scale",
 		"i18nValue":{
 			"en_US":"scale",
-			"zh_CN":null
+			"zh_CN":"比例尺"
 		}
 	},
 	"unit":null,

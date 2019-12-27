@@ -11,7 +11,7 @@
 		"defaultValue":"number of phases",
 		"i18nValue":{
 			"en_US":"number of phases",
-			"zh_CN":null
+			"zh_CN":"相数"
 		}
 	},
 	"unit":null,

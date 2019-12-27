@@ -11,7 +11,7 @@
 		"defaultValue":"peak envelope power PEP",
 		"i18nValue":{
 			"en_US":"peak envelope power PEP",
-			"zh_CN":null
+			"zh_CN":"峰值包络功率 PEP"
 		}
 	},
 	"unit":"W",

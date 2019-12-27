@@ -11,7 +11,7 @@
 		"defaultValue":"net space",
 		"i18nValue":{
 			"en_US":"net space",
-			"zh_CN":null
+			"zh_CN":"净空间"
 		}
 	},
 	"unit":"m³",

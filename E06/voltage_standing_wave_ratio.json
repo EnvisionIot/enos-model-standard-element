@@ -11,7 +11,7 @@
 		"defaultValue":"voltage standing wave ratio",
 		"i18nValue":{
 			"en_US":"voltage standing wave ratio",
-			"zh_CN":null
+			"zh_CN":"电压驻波比"
 		}
 	},
 	"unit":"dB",

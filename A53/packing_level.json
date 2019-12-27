@@ -13,7 +13,7 @@
 		"defaultValue":"packing level",
 		"i18nValue":{
 			"en_US":"packing level",
-			"zh_CN":null
+			"zh_CN":"包装水平"
 		}
 	},
 	"unit":null,

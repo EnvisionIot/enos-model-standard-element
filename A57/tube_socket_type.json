@@ -23,7 +23,7 @@
 		"defaultValue":"tube socket type",
 		"i18nValue":{
 			"en_US":"tube socket type",
-			"zh_CN":null
+			"zh_CN":"管状插座类型"
 		}
 	},
 	"unit":null,

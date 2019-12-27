@@ -83,7 +83,7 @@
 		"defaultValue":"core shape",
 		"i18nValue":{
 			"en_US":"core shape",
-			"zh_CN":null
+			"zh_CN":"磁芯形状"
 		}
 	},
 	"unit":null,

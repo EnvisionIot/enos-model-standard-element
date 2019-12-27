@@ -11,7 +11,7 @@
 		"defaultValue":"column type",
 		"i18nValue":{
 			"en_US":"column type",
-			"zh_CN":null
+			"zh_CN":"列类型"
 		}
 	},
 	"unit":null,

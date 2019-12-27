@@ -27,7 +27,7 @@
 		"defaultValue":"position indicator",
 		"i18nValue":{
 			"en_US":"position indicator",
-			"zh_CN":null
+			"zh_CN":"位置指示器"
 		}
 	},
 	"unit":null,

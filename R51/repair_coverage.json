@@ -11,7 +11,7 @@
 		"defaultValue":"repair coverage",
 		"i18nValue":{
 			"en_US":"repair coverage",
-			"zh_CN":null
+			"zh_CN":"维修范围"
 		}
 	},
 	"unit":"%",

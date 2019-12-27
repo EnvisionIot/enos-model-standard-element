@@ -11,7 +11,7 @@
 		"defaultValue":"step length",
 		"i18nValue":{
 			"en_US":"step length",
-			"zh_CN":null
+			"zh_CN":"步长"
 		}
 	},
 	"unit":"m",

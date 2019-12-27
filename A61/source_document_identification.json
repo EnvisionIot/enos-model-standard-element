@@ -13,7 +13,7 @@
 		"defaultValue":"source document identification",
 		"i18nValue":{
 			"en_US":"source document identification",
-			"zh_CN":null
+			"zh_CN":"源文档识别码"
 		}
 	},
 	"unit":null,

@@ -27,7 +27,7 @@
 		"defaultValue":"contact member force",
 		"i18nValue":{
 			"en_US":"contact member force",
-			"zh_CN":null
+			"zh_CN":"触点元件作用力"
 		}
 	},
 	"unit":null,

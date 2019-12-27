@@ -11,7 +11,7 @@
 		"defaultValue":"line coil inductance",
 		"i18nValue":{
 			"en_US":"line coil inductance",
-			"zh_CN":null
+			"zh_CN":"线路线圈电感"
 		}
 	},
 	"unit":"H",

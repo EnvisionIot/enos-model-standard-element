@@ -35,7 +35,7 @@
 		"defaultValue":"ROM programmability",
 		"i18nValue":{
 			"en_US":"ROM programmability",
-			"zh_CN":null
+			"zh_CN":"ROM 可编程性"
 		}
 	},
 	"unit":null,

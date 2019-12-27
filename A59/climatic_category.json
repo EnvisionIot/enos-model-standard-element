@@ -13,7 +13,7 @@
 		"defaultValue":"climatic category",
 		"i18nValue":{
 			"en_US":"climatic category",
-			"zh_CN":null
+			"zh_CN":"气候类别"
 		}
 	},
 	"unit":null,

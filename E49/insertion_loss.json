@@ -11,7 +11,7 @@
 		"defaultValue":"insertion loss",
 		"i18nValue":{
 			"en_US":"insertion loss",
-			"zh_CN":null
+			"zh_CN":"插入损耗"
 		}
 	},
 	"unit":"dB",

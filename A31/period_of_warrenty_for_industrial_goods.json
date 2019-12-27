@@ -11,7 +11,7 @@
 		"defaultValue":"period of warrenty for industrial goods",
 		"i18nValue":{
 			"en_US":"period of warrenty for industrial goods",
-			"zh_CN":null
+			"zh_CN":"工业品保修期"
 		}
 	},
 	"unit":"yr",

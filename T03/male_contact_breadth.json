@@ -11,7 +11,7 @@
 		"defaultValue":"male contact breadth",
 		"i18nValue":{
 			"en_US":"male contact breadth",
-			"zh_CN":null
+			"zh_CN":"公触件宽度"
 		}
 	},
 	"unit":"m",

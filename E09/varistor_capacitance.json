@@ -11,7 +11,7 @@
 		"defaultValue":"varistor capacitance",
 		"i18nValue":{
 			"en_US":"varistor capacitance",
-			"zh_CN":null
+			"zh_CN":"压敏电阻电容"
 		}
 	},
 	"unit":"F",

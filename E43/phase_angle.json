@@ -11,7 +11,7 @@
 		"defaultValue":"phase angle",
 		"i18nValue":{
 			"en_US":"phase angle",
-			"zh_CN":null
+			"zh_CN":"相位角"
 		}
 	},
 	"unit":"rad",

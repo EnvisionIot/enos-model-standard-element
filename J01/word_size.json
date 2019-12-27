@@ -11,7 +11,7 @@
 		"defaultValue":"word size",
 		"i18nValue":{
 			"en_US":"word size",
-			"zh_CN":null
+			"zh_CN":"字长"
 		}
 	},
 	"unit":"bit",

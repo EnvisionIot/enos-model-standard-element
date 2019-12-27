@@ -11,7 +11,7 @@
 		"defaultValue":"package width",
 		"i18nValue":{
 			"en_US":"package width",
-			"zh_CN":null
+			"zh_CN":"包装宽度"
 		}
 	},
 	"unit":"m",

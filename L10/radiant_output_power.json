@@ -11,7 +11,7 @@
 		"defaultValue":"radiant output power",
 		"i18nValue":{
 			"en_US":"radiant output power",
-			"zh_CN":null
+			"zh_CN":"辐射输出功率"
 		}
 	},
 	"unit":"W",

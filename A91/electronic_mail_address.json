@@ -13,7 +13,7 @@
 		"defaultValue":"electronic mail address",
 		"i18nValue":{
 			"en_US":"electronic mail address",
-			"zh_CN":null
+			"zh_CN":"电子邮件地址"
 		}
 	},
 	"unit":null,

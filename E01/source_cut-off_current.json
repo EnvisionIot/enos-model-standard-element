@@ -11,7 +11,7 @@
 		"defaultValue":"source cut-off current",
 		"i18nValue":{
 			"en_US":"source cut-off current",
-			"zh_CN":null
+			"zh_CN":"源截止电流"
 		}
 	},
 	"unit":"A",

@@ -13,7 +13,7 @@
 		"defaultValue":"material class identifier",
 		"i18nValue":{
 			"en_US":"material class identifier",
-			"zh_CN":null
+			"zh_CN":"物料类别识别码"
 		}
 	},
 	"unit":null,

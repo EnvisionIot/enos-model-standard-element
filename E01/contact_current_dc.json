@@ -11,7 +11,7 @@
 		"defaultValue":"contact current (dc)",
 		"i18nValue":{
 			"en_US":"contact current (dc)",
-			"zh_CN":null
+			"zh_CN":"触点电流（直流）"
 		}
 	},
 	"unit":"A",

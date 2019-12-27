@@ -23,7 +23,7 @@
 		"defaultValue":"bare/insulated",
 		"i18nValue":{
 			"en_US":"bare/insulated",
-			"zh_CN":null
+			"zh_CN":"裸/绝缘"
 		}
 	},
 	"unit":null,

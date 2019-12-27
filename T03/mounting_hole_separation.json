@@ -11,7 +11,7 @@
 		"defaultValue":"mounting hole separation",
 		"i18nValue":{
 			"en_US":"mounting hole separation",
-			"zh_CN":null
+			"zh_CN":"安装孔间距"
 		}
 	},
 	"unit":"m",

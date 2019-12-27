@@ -11,7 +11,7 @@
 		"defaultValue":"line regulation of reference voltage",
 		"i18nValue":{
 			"en_US":"line regulation of reference voltage",
-			"zh_CN":null
+			"zh_CN":"参考电压线性调整率"
 		}
 	},
 	"unit":null,

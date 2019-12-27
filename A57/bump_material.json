@@ -13,7 +13,7 @@
 		"defaultValue":"bump material",
 		"i18nValue":{
 			"en_US":"bump material",
-			"zh_CN":null
+			"zh_CN":"凸块材料"
 		}
 	},
 	"unit":null,

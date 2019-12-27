@@ -231,7 +231,7 @@
 		"defaultValue":"CSI functions",
 		"i18nValue":{
 			"en_US":"CSI functions",
-			"zh_CN":null
+			"zh_CN":"CSI 功能"
 		}
 	},
 	"unit":null,

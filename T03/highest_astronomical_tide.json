@@ -11,7 +11,7 @@
 		"defaultValue":"highest astronomical tide",
 		"i18nValue":{
 			"en_US":"highest astronomical tide",
-			"zh_CN":null
+			"zh_CN":"天文潮最高水位"
 		}
 	},
 	"unit":"m",

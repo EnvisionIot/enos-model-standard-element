@@ -11,7 +11,7 @@
 		"defaultValue":"spindle length",
 		"i18nValue":{
 			"en_US":"spindle length",
-			"zh_CN":null
+			"zh_CN":"主轴长度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"technical delay",
 		"i18nValue":{
 			"en_US":"technical delay",
-			"zh_CN":null
+			"zh_CN":"技术性延误"
 		}
 	},
 	"unit":"h",

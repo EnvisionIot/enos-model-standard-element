@@ -11,7 +11,7 @@
 		"defaultValue":"index angle",
 		"i18nValue":{
 			"en_US":"index angle",
-			"zh_CN":null
+			"zh_CN":"参考角"
 		}
 	},
 	"unit":"°",

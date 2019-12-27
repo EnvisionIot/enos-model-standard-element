@@ -11,7 +11,7 @@
 		"defaultValue":"pass bandwidth",
 		"i18nValue":{
 			"en_US":"pass bandwidth",
-			"zh_CN":null
+			"zh_CN":"通带宽度"
 		}
 	},
 	"unit":"kHz",

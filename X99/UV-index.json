@@ -71,7 +71,7 @@
 		"defaultValue":"UV-index",
 		"i18nValue":{
 			"en_US":"UV-index",
-			"zh_CN":null
+			"zh_CN":"紫外线指数"
 		}
 	},
 	"unit":null,

@@ -43,7 +43,7 @@
 		"defaultValue":"terminal connection type",
 		"i18nValue":{
 			"en_US":"terminal connection type",
-			"zh_CN":null
+			"zh_CN":"端子连接类型"
 		}
 	},
 	"unit":null,

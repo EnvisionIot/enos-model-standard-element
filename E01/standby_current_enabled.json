@@ -11,7 +11,7 @@
 		"defaultValue":"standby current enabled",
 		"i18nValue":{
 			"en_US":"standby current enabled",
-			"zh_CN":null
+			"zh_CN":"启用待机电流"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"alternating current",
 		"i18nValue":{
 			"en_US":"alternating current",
-			"zh_CN":null
+			"zh_CN":"交流电"
 		}
 	},
 	"unit":"A",

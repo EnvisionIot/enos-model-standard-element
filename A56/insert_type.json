@@ -13,7 +13,7 @@
 		"defaultValue":"insert type",
 		"i18nValue":{
 			"en_US":"insert type",
-			"zh_CN":null
+			"zh_CN":"插入类型"
 		}
 	},
 	"unit":null,

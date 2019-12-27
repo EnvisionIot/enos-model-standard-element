@@ -23,7 +23,7 @@
 		"defaultValue":"direction of insertion",
 		"i18nValue":{
 			"en_US":"direction of insertion",
-			"zh_CN":null
+			"zh_CN":"插入方向"
 		}
 	},
 	"unit":null,

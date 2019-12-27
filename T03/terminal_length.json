@@ -11,7 +11,7 @@
 		"defaultValue":"terminal length",
 		"i18nValue":{
 			"en_US":"terminal length",
-			"zh_CN":null
+			"zh_CN":"端子长度"
 		}
 	},
 	"unit":"m",

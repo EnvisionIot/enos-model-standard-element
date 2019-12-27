@@ -11,7 +11,7 @@
 		"defaultValue":"chopping frequency",
 		"i18nValue":{
 			"en_US":"chopping frequency",
-			"zh_CN":null
+			"zh_CN":"斩波频率"
 		}
 	},
 	"unit":"Hz",

@@ -11,7 +11,7 @@
 		"defaultValue":"volume fraction of water vapour in air",
 		"i18nValue":{
 			"en_US":"volume fraction of water vapour in air",
-			"zh_CN":null
+			"zh_CN":"空气中水蒸气的体积分数"
 		}
 	},
 	"unit":"%",

@@ -11,7 +11,7 @@
 		"defaultValue":"impedance",
 		"i18nValue":{
 			"en_US":"impedance",
-			"zh_CN":null
+			"zh_CN":"阻抗"
 		}
 	},
 	"unit":"Ω",

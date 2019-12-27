@@ -23,7 +23,7 @@
 		"defaultValue":"small terminal type",
 		"i18nValue":{
 			"en_US":"small terminal type",
-			"zh_CN":null
+			"zh_CN":"小终端类型"
 		}
 	},
 	"unit":null,

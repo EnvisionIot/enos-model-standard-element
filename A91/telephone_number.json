@@ -13,7 +13,7 @@
 		"defaultValue":"telephone number",
 		"i18nValue":{
 			"en_US":"telephone number",
-			"zh_CN":null
+			"zh_CN":"电话号码"
 		}
 	},
 	"unit":null,

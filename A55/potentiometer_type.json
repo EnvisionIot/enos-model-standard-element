@@ -23,7 +23,7 @@
 		"defaultValue":"potentiometer type",
 		"i18nValue":{
 			"en_US":"potentiometer type",
-			"zh_CN":null
+			"zh_CN":"电位器类型"
 		}
 	},
 	"unit":null,

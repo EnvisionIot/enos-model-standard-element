@@ -11,7 +11,7 @@
 		"defaultValue":"spurious signal level (2-tau)",
 		"i18nValue":{
 			"en_US":"spurious signal level (2-tau)",
-			"zh_CN":null
+			"zh_CN":"杂散信号电平 (2T)"
 		}
 	},
 	"unit":"dB",

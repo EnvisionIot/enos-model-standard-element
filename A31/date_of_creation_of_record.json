@@ -13,7 +13,7 @@
 		"defaultValue":"date of creation of record",
 		"i18nValue":{
 			"en_US":"date of creation of record",
-			"zh_CN":null
+			"zh_CN":"记录创建日期"
 		}
 	},
 	"unit":null,

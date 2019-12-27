@@ -11,7 +11,7 @@
 		"defaultValue":"operating pressure",
 		"i18nValue":{
 			"en_US":"operating pressure",
-			"zh_CN":null
+			"zh_CN":"工作压力"
 		}
 	},
 	"unit":"Pa",

@@ -11,7 +11,7 @@
 		"defaultValue":"pulse width LOW",
 		"i18nValue":{
 			"en_US":"pulse width LOW",
-			"zh_CN":null
+			"zh_CN":"低电平脉冲宽度"
 		}
 	},
 	"unit":"s",

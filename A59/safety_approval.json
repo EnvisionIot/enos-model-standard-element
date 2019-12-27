@@ -83,7 +83,7 @@
 		"defaultValue":"safety approval",
 		"i18nValue":{
 			"en_US":"safety approval",
-			"zh_CN":null
+			"zh_CN":"安全认证"
 		}
 	},
 	"unit":null,

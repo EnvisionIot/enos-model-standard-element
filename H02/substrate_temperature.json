@@ -11,7 +11,7 @@
 		"defaultValue":"substrate temperature",
 		"i18nValue":{
 			"en_US":"substrate temperature",
-			"zh_CN":null
+			"zh_CN":"基板温度"
 		}
 	},
 	"unit":"°C",

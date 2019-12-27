@@ -11,7 +11,7 @@
 		"defaultValue":"TTL load condition",
 		"i18nValue":{
 			"en_US":"TTL load condition",
-			"zh_CN":null
+			"zh_CN":"TTL 负载条件"
 		}
 	},
 	"unit":null,

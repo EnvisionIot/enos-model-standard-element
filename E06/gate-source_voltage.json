@@ -11,7 +11,7 @@
 		"defaultValue":"gate-source voltage",
 		"i18nValue":{
 			"en_US":"gate-source voltage",
-			"zh_CN":null
+			"zh_CN":"栅源电压"
 		}
 	},
 	"unit":"V",

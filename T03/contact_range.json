@@ -11,7 +11,7 @@
 		"defaultValue":"contact range",
 		"i18nValue":{
 			"en_US":"contact range",
-			"zh_CN":null
+			"zh_CN":"接触范围"
 		}
 	},
 	"unit":"m",

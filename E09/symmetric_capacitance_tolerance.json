@@ -11,7 +11,7 @@
 		"defaultValue":"symmetric capacitance tolerance",
 		"i18nValue":{
 			"en_US":"symmetric capacitance tolerance",
-			"zh_CN":null
+			"zh_CN":"对称电容公差"
 		}
 	},
 	"unit":"F",

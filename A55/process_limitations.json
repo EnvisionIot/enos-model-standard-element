@@ -13,7 +13,7 @@
 		"defaultValue":"process limitations",
 		"i18nValue":{
 			"en_US":"process limitations",
-			"zh_CN":null
+			"zh_CN":"工艺限制"
 		}
 	},
 	"unit":null,

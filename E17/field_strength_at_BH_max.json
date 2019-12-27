@@ -11,7 +11,7 @@
 		"defaultValue":"field strength at (BH)_max",
 		"i18nValue":{
 			"en_US":"field strength at (BH)_max",
-			"zh_CN":null
+			"zh_CN":"(BH)_max 时的场强 "
 		}
 	},
 	"unit":"A/m",

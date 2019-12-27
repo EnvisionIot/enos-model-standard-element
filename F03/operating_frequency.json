@@ -11,7 +11,7 @@
 		"defaultValue":"operating frequency",
 		"i18nValue":{
 			"en_US":"operating frequency",
-			"zh_CN":null
+			"zh_CN":"工作频率"
 		}
 	},
 	"unit":"Hz",

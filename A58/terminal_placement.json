@@ -47,7 +47,7 @@
 		"defaultValue":"terminal placement",
 		"i18nValue":{
 			"en_US":"terminal placement",
-			"zh_CN":null
+			"zh_CN":"端子放置"
 		}
 	},
 	"unit":null,

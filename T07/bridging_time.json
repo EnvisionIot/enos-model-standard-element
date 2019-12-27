@@ -11,7 +11,7 @@
 		"defaultValue":"bridging time",
 		"i18nValue":{
 			"en_US":"bridging time",
-			"zh_CN":null
+			"zh_CN":"桥接时间"
 		}
 	},
 	"unit":"s",

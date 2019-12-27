@@ -11,7 +11,7 @@
 		"defaultValue":"anode voltage",
 		"i18nValue":{
 			"en_US":"anode voltage",
-			"zh_CN":null
+			"zh_CN":"阳极电压"
 		}
 	},
 	"unit":"V",

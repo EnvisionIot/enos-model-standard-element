@@ -13,7 +13,7 @@
 		"defaultValue":"simulator version",
 		"i18nValue":{
 			"en_US":"simulator version",
-			"zh_CN":null
+			"zh_CN":"模拟器版本"
 		}
 	},
 	"unit":null,

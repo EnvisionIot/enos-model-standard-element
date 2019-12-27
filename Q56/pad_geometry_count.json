@@ -11,7 +11,7 @@
 		"defaultValue":"pad geometry count",
 		"i18nValue":{
 			"en_US":"pad geometry count",
-			"zh_CN":null
+			"zh_CN":"焊盘几何计数"
 		}
 	},
 	"unit":null,

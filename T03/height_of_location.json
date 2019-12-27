@@ -11,7 +11,7 @@
 		"defaultValue":"height of location",
 		"i18nValue":{
 			"en_US":"height of location",
-			"zh_CN":null
+			"zh_CN":"位置高度"
 		}
 	},
 	"unit":"m",

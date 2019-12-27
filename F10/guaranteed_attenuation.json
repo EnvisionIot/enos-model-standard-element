@@ -11,7 +11,7 @@
 		"defaultValue":"guaranteed attenuation",
 		"i18nValue":{
 			"en_US":"guaranteed attenuation",
-			"zh_CN":null
+			"zh_CN":"保证衰减"
 		}
 	},
 	"unit":"dB",

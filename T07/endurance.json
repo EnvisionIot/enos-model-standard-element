@@ -11,7 +11,7 @@
 		"defaultValue":"endurance",
 		"i18nValue":{
 			"en_US":"endurance",
-			"zh_CN":null
+			"zh_CN":"耐久性"
 		}
 	},
 	"unit":"h",

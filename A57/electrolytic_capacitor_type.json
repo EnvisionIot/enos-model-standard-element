@@ -31,7 +31,7 @@
 		"defaultValue":"electrolytic capacitor type",
 		"i18nValue":{
 			"en_US":"electrolytic capacitor type",
-			"zh_CN":null
+			"zh_CN":"电解电容器类型"
 		}
 	},
 	"unit":null,

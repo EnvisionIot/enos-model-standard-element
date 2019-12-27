@@ -11,7 +11,7 @@
 		"defaultValue":"cathode-gate trigger voltage",
 		"i18nValue":{
 			"en_US":"cathode-gate trigger voltage",
-			"zh_CN":null
+			"zh_CN":"阴极栅极触发电压"
 		}
 	},
 	"unit":"V",

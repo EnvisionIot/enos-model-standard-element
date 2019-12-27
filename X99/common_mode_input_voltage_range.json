@@ -11,7 +11,7 @@
 		"defaultValue":"common mode input voltage range",
 		"i18nValue":{
 			"en_US":"common mode input voltage range",
-			"zh_CN":null
+			"zh_CN":"共模输入电压范围"
 		}
 	},
 	"unit":"V",

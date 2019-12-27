@@ -11,7 +11,7 @@
 		"defaultValue":"frequency/voltage coefficient",
 		"i18nValue":{
 			"en_US":"frequency/voltage coefficient",
-			"zh_CN":null
+			"zh_CN":"频率/电压系数"
 		}
 	},
 	"unit":null,

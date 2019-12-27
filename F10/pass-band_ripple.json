@@ -11,7 +11,7 @@
 		"defaultValue":"pass-band ripple",
 		"i18nValue":{
 			"en_US":"pass-band ripple",
-			"zh_CN":null
+			"zh_CN":"通带纹波"
 		}
 	},
 	"unit":"dB",

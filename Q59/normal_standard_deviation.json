@@ -11,7 +11,7 @@
 		"defaultValue":"normal standard deviation",
 		"i18nValue":{
 			"en_US":"normal standard deviation",
-			"zh_CN":null
+			"zh_CN":"正常标准偏差"
 		}
 	},
 	"unit":null,

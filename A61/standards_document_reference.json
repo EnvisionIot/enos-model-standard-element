@@ -13,7 +13,7 @@
 		"defaultValue":"standards document reference",
 		"i18nValue":{
 			"en_US":"standards document reference",
-			"zh_CN":null
+			"zh_CN":"标准文档参考码"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"transfer admittance",
 		"i18nValue":{
 			"en_US":"transfer admittance",
-			"zh_CN":null
+			"zh_CN":"转移导纳"
 		}
 	},
 	"unit":"S",

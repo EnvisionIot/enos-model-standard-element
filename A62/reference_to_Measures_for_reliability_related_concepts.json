@@ -11,7 +11,7 @@
 					"defaultValue":"operating time to failure of an item",
 					"i18nValue":{
 						"en_US":"operating time to failure of an item",
-						"zh_CN":null
+						"zh_CN":"物项故障时的总运行时间"
 					}
 				},
 				"unit":"h"
@@ -25,7 +25,7 @@
 					"defaultValue":"operating time to first failure of an item",
 					"i18nValue":{
 						"en_US":"operating time to first failure of an item",
-						"zh_CN":null
+						"zh_CN":"物项首次出现故障时的总运行时间"
 					}
 				},
 				"unit":"h"
@@ -39,7 +39,7 @@
 					"defaultValue":"time between failures of an item",
 					"i18nValue":{
 						"en_US":"time between failures of an item",
-						"zh_CN":null
+						"zh_CN":"物项连续故障间隔时间"
 					}
 				},
 				"unit":"h"
@@ -53,7 +53,7 @@
 					"defaultValue":"operating time between failures of an item",
 					"i18nValue":{
 						"en_US":"operating time between failures of an item",
-						"zh_CN":null
+						"zh_CN":"物项连续故障之间的总运行时间"
 					}
 				},
 				"unit":"h"
@@ -67,7 +67,7 @@
 					"defaultValue":"reliability measure",
 					"i18nValue":{
 						"en_US":"reliability measure",
-						"zh_CN":null
+						"zh_CN":"可靠性度量"
 					}
 				},
 				"unit":"%"
@@ -81,7 +81,7 @@
 					"defaultValue":"instantaneous failure rate",
 					"i18nValue":{
 						"en_US":"instantaneous failure rate",
-						"zh_CN":null
+						"zh_CN":"瞬时故障率"
 					}
 				},
 				"unit":"%"
@@ -95,7 +95,7 @@
 					"defaultValue":"mean failure rate",
 					"i18nValue":{
 						"en_US":"mean failure rate",
-						"zh_CN":null
+						"zh_CN":"平均故障率"
 					}
 				},
 				"unit":"%"
@@ -109,7 +109,7 @@
 					"defaultValue":"instantaneous failure intensity",
 					"i18nValue":{
 						"en_US":"instantaneous failure intensity",
-						"zh_CN":null
+						"zh_CN":"瞬时故障强度"
 					}
 				},
 				"unit":"%"
@@ -123,7 +123,7 @@
 					"defaultValue":"mean failure intensity",
 					"i18nValue":{
 						"en_US":"mean failure intensity",
-						"zh_CN":null
+						"zh_CN":"平均故障强度"
 					}
 				},
 				"unit":"%"
@@ -137,7 +137,7 @@
 					"defaultValue":"asymptotic failure intensity",
 					"i18nValue":{
 						"en_US":"asymptotic failure intensity",
-						"zh_CN":null
+						"zh_CN":"渐进故障强度"
 					}
 				},
 				"unit":"%"
@@ -151,7 +151,7 @@
 					"defaultValue":"mean operating time to failure",
 					"i18nValue":{
 						"en_US":"mean operating time to failure",
-						"zh_CN":null
+						"zh_CN":"预期发生故障的平均运行时间"
 					}
 				},
 				"unit":"h"
@@ -165,7 +165,7 @@
 					"defaultValue":"mean operating time to first failure",
 					"i18nValue":{
 						"en_US":"mean operating time to first failure",
-						"zh_CN":null
+						"zh_CN":"预期发生首次故障的平均运行时间"
 					}
 				},
 				"unit":"h"
@@ -179,7 +179,7 @@
 					"defaultValue":"mean operating time between failures",
 					"i18nValue":{
 						"en_US":"mean operating time between failures",
-						"zh_CN":null
+						"zh_CN":"连续故障之间的平均运行时间"
 					}
 				},
 				"unit":"h"
@@ -205,7 +205,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -222,7 +222,7 @@
 		"defaultValue":"reference to Measures for reliability related concepts",
 		"i18nValue":{
 			"en_US":"reference to Measures for reliability related concepts",
-			"zh_CN":null
+			"zh_CN":"参考可靠性相关概念的措施"
 		}
 	},
 	"unit":null,

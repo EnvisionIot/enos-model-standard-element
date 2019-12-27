@@ -11,7 +11,7 @@
 		"defaultValue":"phase noise",
 		"i18nValue":{
 			"en_US":"phase noise",
-			"zh_CN":null
+			"zh_CN":"相位噪声"
 		}
 	},
 	"unit":"dBc/Hz",

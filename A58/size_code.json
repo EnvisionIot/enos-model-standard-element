@@ -13,7 +13,7 @@
 		"defaultValue":"size code",
 		"i18nValue":{
 			"en_US":"size code",
-			"zh_CN":null
+			"zh_CN":"尺寸码"
 		}
 	},
 	"unit":null,

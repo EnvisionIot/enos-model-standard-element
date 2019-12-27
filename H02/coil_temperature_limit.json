@@ -11,7 +11,7 @@
 		"defaultValue":"coil temperature limit",
 		"i18nValue":{
 			"en_US":"coil temperature limit",
-			"zh_CN":null
+			"zh_CN":"线圈温度限值"
 		}
 	},
 	"unit":"°C",

@@ -11,7 +11,7 @@
 		"defaultValue":"maximum current",
 		"i18nValue":{
 			"en_US":"maximum current",
-			"zh_CN":null
+			"zh_CN":"最大电流"
 		}
 	},
 	"unit":"A",

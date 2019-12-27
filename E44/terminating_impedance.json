@@ -11,7 +11,7 @@
 		"defaultValue":"terminating impedance",
 		"i18nValue":{
 			"en_US":"terminating impedance",
-			"zh_CN":null
+			"zh_CN":"终端阻抗"
 		}
 	},
 	"unit":"Ω",

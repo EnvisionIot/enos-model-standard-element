@@ -11,7 +11,7 @@
 		"defaultValue":"address bus width",
 		"i18nValue":{
 			"en_US":"address bus width",
-			"zh_CN":null
+			"zh_CN":"地址总线宽度"
 		}
 	},
 	"unit":"bit",

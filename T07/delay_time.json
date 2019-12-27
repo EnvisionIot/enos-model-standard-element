@@ -11,7 +11,7 @@
 		"defaultValue":"delay time",
 		"i18nValue":{
 			"en_US":"delay time",
-			"zh_CN":null
+			"zh_CN":"延迟时间"
 		}
 	},
 	"unit":"s",

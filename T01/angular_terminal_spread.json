@@ -11,7 +11,7 @@
 		"defaultValue":"angular terminal spread",
 		"i18nValue":{
 			"en_US":"angular terminal spread",
-			"zh_CN":null
+			"zh_CN":"端子扩散角"
 		}
 	},
 	"unit":"°",

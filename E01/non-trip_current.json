@@ -11,7 +11,7 @@
 		"defaultValue":"non-trip current",
 		"i18nValue":{
 			"en_US":"non-trip current",
-			"zh_CN":null
+			"zh_CN":"非跳闸电流"
 		}
 	},
 	"unit":"A",

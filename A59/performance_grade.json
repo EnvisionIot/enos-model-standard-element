@@ -23,7 +23,7 @@
 		"defaultValue":"performance grade",
 		"i18nValue":{
 			"en_US":"performance grade",
-			"zh_CN":null
+			"zh_CN":"性能等级"
 		}
 	},
 	"unit":null,

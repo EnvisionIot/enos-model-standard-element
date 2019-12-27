@@ -11,7 +11,7 @@
 		"defaultValue":"x-coordinate of the reference point",
 		"i18nValue":{
 			"en_US":"x-coordinate of the reference point",
-			"zh_CN":null
+			"zh_CN":"参考点 x 坐标"
 		}
 	},
 	"unit":"m",

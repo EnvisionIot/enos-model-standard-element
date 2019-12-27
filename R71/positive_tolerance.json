@@ -11,7 +11,7 @@
 		"defaultValue":"positive tolerance",
 		"i18nValue":{
 			"en_US":"positive tolerance",
-			"zh_CN":null
+			"zh_CN":"正公差"
 		}
 	},
 	"unit":"%",

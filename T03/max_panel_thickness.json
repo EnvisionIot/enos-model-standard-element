@@ -11,7 +11,7 @@
 		"defaultValue":"max. panel thickness",
 		"i18nValue":{
 			"en_US":"max. panel thickness",
-			"zh_CN":null
+			"zh_CN":"最大面板厚度"
 		}
 	},
 	"unit":"m",

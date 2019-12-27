@@ -11,7 +11,7 @@
 		"defaultValue":"detection voltage",
 		"i18nValue":{
 			"en_US":"detection voltage",
-			"zh_CN":null
+			"zh_CN":"检测电压"
 		}
 	},
 	"unit":"V",

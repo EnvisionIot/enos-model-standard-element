@@ -31,7 +31,7 @@
 		"defaultValue":"magnet type",
 		"i18nValue":{
 			"en_US":"magnet type",
-			"zh_CN":null
+			"zh_CN":"磁铁类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"no-load output voltage",
 		"i18nValue":{
 			"en_US":"no-load output voltage",
-			"zh_CN":null
+			"zh_CN":"空载输出电压"
 		}
 	},
 	"unit":"V",

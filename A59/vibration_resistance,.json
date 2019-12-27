@@ -63,7 +63,7 @@
 		"defaultValue":"vibration resistance,",
 		"i18nValue":{
 			"en_US":"vibration resistance,",
-			"zh_CN":null
+			"zh_CN":"抗振性"
 		}
 	},
 	"unit":null,

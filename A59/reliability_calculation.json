@@ -13,7 +13,7 @@
 		"defaultValue":"reliability calculation",
 		"i18nValue":{
 			"en_US":"reliability calculation",
-			"zh_CN":null
+			"zh_CN":"可靠性计算"
 		}
 	},
 	"unit":null,

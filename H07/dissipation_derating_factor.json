@@ -11,7 +11,7 @@
 		"defaultValue":"dissipation derating factor",
 		"i18nValue":{
 			"en_US":"dissipation derating factor",
-			"zh_CN":null
+			"zh_CN":"耗散降额系数"
 		}
 	},
 	"unit":"W/K",

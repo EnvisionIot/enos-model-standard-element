@@ -13,7 +13,7 @@
 		"defaultValue":"luminous intensity class",
 		"i18nValue":{
 			"en_US":"luminous intensity class",
-			"zh_CN":null
+			"zh_CN":"发光强度等级"
 		}
 	},
 	"unit":null,

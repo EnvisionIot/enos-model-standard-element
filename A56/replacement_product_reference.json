@@ -27,7 +27,7 @@
 		"defaultValue":"replacement product reference",
 		"i18nValue":{
 			"en_US":"replacement product reference",
-			"zh_CN":null
+			"zh_CN":"替代产品参考号"
 		}
 	},
 	"unit":null,

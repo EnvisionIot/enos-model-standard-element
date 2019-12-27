@@ -11,7 +11,7 @@
 		"defaultValue":"impact energy",
 		"i18nValue":{
 			"en_US":"impact energy",
-			"zh_CN":null
+			"zh_CN":"冲击能量"
 		}
 	},
 	"unit":"J",

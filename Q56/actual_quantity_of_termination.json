@@ -95,7 +95,7 @@
 		"defaultValue":"actual quantity of termination",
 		"i18nValue":{
 			"en_US":"actual quantity of termination",
-			"zh_CN":null
+			"zh_CN":"实际占用位数"
 		}
 	},
 	"unit":null,

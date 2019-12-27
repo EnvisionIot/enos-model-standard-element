@@ -11,7 +11,7 @@
 		"defaultValue":"tube size (inch)",
 		"i18nValue":{
 			"en_US":"tube size (inch)",
-			"zh_CN":null
+			"zh_CN":"显像管尺寸（英寸）"
 		}
 	},
 	"unit":"in",

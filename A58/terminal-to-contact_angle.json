@@ -27,7 +27,7 @@
 		"defaultValue":"terminal-to-contact angle",
 		"i18nValue":{
 			"en_US":"terminal-to-contact angle",
-			"zh_CN":null
+			"zh_CN":"端子与触点夹角"
 		}
 	},
 	"unit":null,

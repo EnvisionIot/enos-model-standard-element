@@ -11,7 +11,7 @@
 		"defaultValue":"frequency of operation",
 		"i18nValue":{
 			"en_US":"frequency of operation",
-			"zh_CN":null
+			"zh_CN":"动作频率"
 		}
 	},
 	"unit":"1/s",

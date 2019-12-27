@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient (cap)",
 		"i18nValue":{
 			"en_US":"temperature coefficient (cap)",
-			"zh_CN":null
+			"zh_CN":"温度系数（上限）"
 		}
 	},
 	"unit":"1/K",

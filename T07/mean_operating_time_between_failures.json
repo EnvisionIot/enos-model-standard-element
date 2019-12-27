@@ -11,7 +11,7 @@
 		"defaultValue":"mean operating time between failures",
 		"i18nValue":{
 			"en_US":"mean operating time between failures",
-			"zh_CN":null
+			"zh_CN":"连续故障之间的平均运行时间"
 		}
 	},
 	"unit":"h",

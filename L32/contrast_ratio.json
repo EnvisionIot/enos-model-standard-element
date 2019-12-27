@@ -11,7 +11,7 @@
 		"defaultValue":"contrast ratio",
 		"i18nValue":{
 			"en_US":"contrast ratio",
-			"zh_CN":null
+			"zh_CN":"对比度"
 		}
 	},
 	"unit":null,

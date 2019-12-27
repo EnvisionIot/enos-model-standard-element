@@ -11,7 +11,7 @@
 		"defaultValue":"ambient noise level",
 		"i18nValue":{
 			"en_US":"ambient noise level",
-			"zh_CN":null
+			"zh_CN":"环境噪声水平"
 		}
 	},
 	"unit":"dB",

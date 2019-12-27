@@ -11,7 +11,7 @@
 		"defaultValue":"test voltage coefficient",
 		"i18nValue":{
 			"en_US":"test voltage coefficient",
-			"zh_CN":null
+			"zh_CN":"测试电压系数"
 		}
 	},
 	"unit":null,

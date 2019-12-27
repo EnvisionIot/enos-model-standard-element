@@ -11,7 +11,7 @@
 		"defaultValue":"voltage (ac)",
 		"i18nValue":{
 			"en_US":"voltage (ac)",
-			"zh_CN":null
+			"zh_CN":"电压（交流）"
 		}
 	},
 	"unit":"V",

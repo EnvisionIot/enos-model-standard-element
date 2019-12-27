@@ -11,7 +11,7 @@
 		"defaultValue":"capacitance lower tolerance",
 		"i18nValue":{
 			"en_US":"capacitance lower tolerance",
-			"zh_CN":null
+			"zh_CN":"电容下公差"
 		}
 	},
 	"unit":"%",

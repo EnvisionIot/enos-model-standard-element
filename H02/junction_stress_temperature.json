@@ -11,7 +11,7 @@
 		"defaultValue":"junction stress temperature",
 		"i18nValue":{
 			"en_US":"junction stress temperature",
-			"zh_CN":null
+			"zh_CN":"接面应力温度"
 		}
 	},
 	"unit":"°C",

@@ -11,7 +11,7 @@
 		"defaultValue":"order stop of customer documentation",
 		"i18nValue":{
 			"en_US":"order stop of customer documentation",
-			"zh_CN":null
+			"zh_CN":"客户文档订购截止日期"
 		}
 	},
 	"unit":null,

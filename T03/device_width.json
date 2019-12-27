@@ -11,7 +11,7 @@
 		"defaultValue":"device width",
 		"i18nValue":{
 			"en_US":"device width",
-			"zh_CN":null
+			"zh_CN":"设备宽度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"gate-source cut-off voltage",
 		"i18nValue":{
 			"en_US":"gate-source cut-off voltage",
-			"zh_CN":null
+			"zh_CN":"栅源截止电压"
 		}
 	},
 	"unit":"V",

@@ -11,7 +11,7 @@
 		"defaultValue":"cathode voltage for cut-off",
 		"i18nValue":{
 			"en_US":"cathode voltage for cut-off",
-			"zh_CN":null
+			"zh_CN":"阴极截止电压"
 		}
 	},
 	"unit":"V",

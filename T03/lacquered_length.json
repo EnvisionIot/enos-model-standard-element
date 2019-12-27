@@ -11,7 +11,7 @@
 		"defaultValue":"lacquered length",
 		"i18nValue":{
 			"en_US":"lacquered length",
-			"zh_CN":null
+			"zh_CN":"带漆面长度"
 		}
 	},
 	"unit":"m",

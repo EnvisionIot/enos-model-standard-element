@@ -11,7 +11,7 @@
 		"defaultValue":"cross modulation",
 		"i18nValue":{
 			"en_US":"cross modulation",
-			"zh_CN":null
+			"zh_CN":"交叉调制"
 		}
 	},
 	"unit":"dB",

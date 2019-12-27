@@ -11,7 +11,7 @@
 		"defaultValue":"output current EHT supply",
 		"i18nValue":{
 			"en_US":"output current EHT supply",
-			"zh_CN":null
+			"zh_CN":"EHT 电源输出电流"
 		}
 	},
 	"unit":"A",

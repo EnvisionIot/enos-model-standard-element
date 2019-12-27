@@ -11,7 +11,7 @@
 		"defaultValue":"open-circuit sensitivity",
 		"i18nValue":{
 			"en_US":"open-circuit sensitivity",
-			"zh_CN":null
+			"zh_CN":"开路灵敏度"
 		}
 	},
 	"unit":"(V/V)/(A/m)",

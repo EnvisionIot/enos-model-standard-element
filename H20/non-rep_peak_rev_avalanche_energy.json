@@ -11,7 +11,7 @@
 		"defaultValue":"non-rep peak rev avalanche energy",
 		"i18nValue":{
 			"en_US":"non-rep peak rev avalanche energy",
-			"zh_CN":null
+			"zh_CN":"非重复峰值转速雪崩能量"
 		}
 	},
 	"unit":"J",

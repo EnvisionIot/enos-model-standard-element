@@ -11,7 +11,7 @@
 		"defaultValue":"reliability measure",
 		"i18nValue":{
 			"en_US":"reliability measure",
-			"zh_CN":null
+			"zh_CN":"可靠性度量"
 		}
 	},
 	"unit":"%",

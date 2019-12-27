@@ -11,7 +11,7 @@
 		"defaultValue":"wave height",
 		"i18nValue":{
 			"en_US":"wave height",
-			"zh_CN":null
+			"zh_CN":"浪高"
 		}
 	},
 	"unit":"m",

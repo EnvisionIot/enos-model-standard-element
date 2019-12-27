@@ -13,7 +13,7 @@
 		"defaultValue":"soft magnetic material grade",
 		"i18nValue":{
 			"en_US":"soft magnetic material grade",
-			"zh_CN":null
+			"zh_CN":"软磁材料等级"
 		}
 	},
 	"unit":null,

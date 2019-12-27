@@ -11,7 +11,7 @@
 		"defaultValue":"gate-emitter voltage",
 		"i18nValue":{
 			"en_US":"gate-emitter voltage",
-			"zh_CN":null
+			"zh_CN":"栅极-发射极电压"
 		}
 	},
 	"unit":"V",

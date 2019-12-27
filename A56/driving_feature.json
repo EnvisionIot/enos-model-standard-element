@@ -55,7 +55,7 @@
 		"defaultValue":"driving feature",
 		"i18nValue":{
 			"en_US":"driving feature",
-			"zh_CN":null
+			"zh_CN":"传动功能"
 		}
 	},
 	"unit":null,

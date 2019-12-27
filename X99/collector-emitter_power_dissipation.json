@@ -11,7 +11,7 @@
 		"defaultValue":"collector-emitter power dissipation",
 		"i18nValue":{
 			"en_US":"collector-emitter power dissipation",
-			"zh_CN":null
+			"zh_CN":"集电极-发射极功耗"
 		}
 	},
 	"unit":"W",

@@ -27,7 +27,7 @@
 		"defaultValue":"hazardous gas area class",
 		"i18nValue":{
 			"en_US":"hazardous gas area class",
-			"zh_CN":null
+			"zh_CN":"有害气体区域等级"
 		}
 	},
 	"unit":null,

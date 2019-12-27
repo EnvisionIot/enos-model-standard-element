@@ -11,7 +11,7 @@
 		"defaultValue":"transition time",
 		"i18nValue":{
 			"en_US":"transition time",
-			"zh_CN":null
+			"zh_CN":"过渡时间"
 		}
 	},
 	"unit":"s",

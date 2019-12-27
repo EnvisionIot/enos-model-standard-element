@@ -13,7 +13,7 @@
 		"defaultValue":"signal connection identifier",
 		"i18nValue":{
 			"en_US":"signal connection identifier",
-			"zh_CN":null
+			"zh_CN":"信号连接识别码"
 		}
 	},
 	"unit":null,

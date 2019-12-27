@@ -35,7 +35,7 @@
 		"defaultValue":"connection type",
 		"i18nValue":{
 			"en_US":"connection type",
-			"zh_CN":null
+			"zh_CN":"连接类型"
 		}
 	},
 	"unit":null,

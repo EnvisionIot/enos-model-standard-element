@@ -11,7 +11,7 @@
 		"defaultValue":"shaft length",
 		"i18nValue":{
 			"en_US":"shaft length",
-			"zh_CN":null
+			"zh_CN":"轴长"
 		}
 	},
 	"unit":"m",

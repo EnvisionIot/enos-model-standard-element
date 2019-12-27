@@ -11,7 +11,7 @@
 		"defaultValue":"hydrogen sulphide concentration",
 		"i18nValue":{
 			"en_US":"hydrogen sulphide concentration",
-			"zh_CN":null
+			"zh_CN":"硫化氢浓度"
 		}
 	},
 	"unit":"kg/m³",

@@ -11,7 +11,7 @@
 					"defaultValue":"x-coordinate position location",
 					"i18nValue":{
 						"en_US":"x-coordinate position location",
-						"zh_CN":null
+						"zh_CN":"位置 x 坐标"
 					}
 				},
 				"unit":"m"
@@ -25,7 +25,7 @@
 					"defaultValue":"y-coordinate position location",
 					"i18nValue":{
 						"en_US":"y-coordinate position location",
-						"zh_CN":null
+						"zh_CN":"位置 y 坐标"
 					}
 				},
 				"unit":"m"
@@ -39,7 +39,7 @@
 					"defaultValue":"z-coordinate position location",
 					"i18nValue":{
 						"en_US":"z-coordinate position location",
-						"zh_CN":null
+						"zh_CN":"位置 z 坐标"
 					}
 				},
 				"unit":"m"
@@ -65,7 +65,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -82,7 +82,7 @@
 		"defaultValue":"location",
 		"i18nValue":{
 			"en_US":"location",
-			"zh_CN":null
+			"zh_CN":"位置"
 		}
 	},
 	"unit":null,

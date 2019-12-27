@@ -11,7 +11,7 @@
 		"defaultValue":"tag hole distance",
 		"i18nValue":{
 			"en_US":"tag hole distance",
-			"zh_CN":null
+			"zh_CN":"接线孔距离"
 		}
 	},
 	"unit":"m",

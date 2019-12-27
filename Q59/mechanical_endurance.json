@@ -11,7 +11,7 @@
 		"defaultValue":"mechanical endurance",
 		"i18nValue":{
 			"en_US":"mechanical endurance",
-			"zh_CN":null
+			"zh_CN":"机械耐久性"
 		}
 	},
 	"unit":null,

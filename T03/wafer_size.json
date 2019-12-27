@@ -11,7 +11,7 @@
 		"defaultValue":"wafer size",
 		"i18nValue":{
 			"en_US":"wafer size",
-			"zh_CN":null
+			"zh_CN":"晶圆尺寸"
 		}
 	},
 	"unit":"m",

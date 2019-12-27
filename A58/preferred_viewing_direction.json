@@ -39,7 +39,7 @@
 		"defaultValue":"preferred viewing direction",
 		"i18nValue":{
 			"en_US":"preferred viewing direction",
-			"zh_CN":null
+			"zh_CN":"首选观看方向"
 		}
 	},
 	"unit":null,

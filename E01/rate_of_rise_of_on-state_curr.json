@@ -11,7 +11,7 @@
 		"defaultValue":"rate of rise of on-state curr",
 		"i18nValue":{
 			"en_US":"rate of rise of on-state curr",
-			"zh_CN":null
+			"zh_CN":"通态电流上升率"
 		}
 	},
 	"unit":"A",

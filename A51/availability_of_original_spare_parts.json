@@ -11,7 +11,7 @@
 		"defaultValue":"availability of original spare parts",
 		"i18nValue":{
 			"en_US":"availability of original spare parts",
-			"zh_CN":null
+			"zh_CN":"原始备件可用性"
 		}
 	},
 	"unit":"yr",

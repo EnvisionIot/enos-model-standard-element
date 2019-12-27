@@ -11,7 +11,7 @@
 		"defaultValue":"gate-source voltage limit",
 		"i18nValue":{
 			"en_US":"gate-source voltage limit",
-			"zh_CN":null
+			"zh_CN":"栅源电压限值"
 		}
 	},
 	"unit":"V",

@@ -11,7 +11,7 @@
 		"defaultValue":"connector rated current",
 		"i18nValue":{
 			"en_US":"connector rated current",
-			"zh_CN":null
+			"zh_CN":"连接器额定电流"
 		}
 	},
 	"unit":"A",

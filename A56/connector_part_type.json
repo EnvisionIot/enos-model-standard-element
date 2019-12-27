@@ -35,7 +35,7 @@
 		"defaultValue":"connector part type",
 		"i18nValue":{
 			"en_US":"connector part type",
-			"zh_CN":null
+			"zh_CN":"连接器零件类型"
 		}
 	},
 	"unit":null,

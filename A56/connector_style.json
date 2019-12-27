@@ -31,7 +31,7 @@
 		"defaultValue":"connector style",
 		"i18nValue":{
 			"en_US":"connector style",
-			"zh_CN":null
+			"zh_CN":"连接器样式"
 		}
 	},
 	"unit":null,

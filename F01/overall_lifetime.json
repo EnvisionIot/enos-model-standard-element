@@ -11,7 +11,7 @@
 		"defaultValue":"overall lifetime",
 		"i18nValue":{
 			"en_US":"overall lifetime",
-			"zh_CN":null
+			"zh_CN":"整体寿命"
 		}
 	},
 	"unit":"yr",

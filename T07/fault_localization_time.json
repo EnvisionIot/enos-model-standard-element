@@ -11,7 +11,7 @@
 		"defaultValue":"fault localization time",
 		"i18nValue":{
 			"en_US":"fault localization time",
-			"zh_CN":null
+			"zh_CN":"故障定位时间"
 		}
 	},
 	"unit":"h",

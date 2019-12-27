@@ -11,7 +11,7 @@
 		"defaultValue":"maintenance man-hours",
 		"i18nValue":{
 			"en_US":"maintenance man-hours",
-			"zh_CN":null
+			"zh_CN":"维修工时"
 		}
 	},
 	"unit":"h",

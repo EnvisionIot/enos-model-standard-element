@@ -11,7 +11,7 @@
 		"defaultValue":"release time",
 		"i18nValue":{
 			"en_US":"release time",
-			"zh_CN":null
+			"zh_CN":"释放日期"
 		}
 	},
 	"unit":"s",

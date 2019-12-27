@@ -47,7 +47,7 @@
 		"defaultValue":"printed wiring base material",
 		"i18nValue":{
 			"en_US":"printed wiring base material",
-			"zh_CN":null
+			"zh_CN":"印刷线路基材"
 		}
 	},
 	"unit":null,

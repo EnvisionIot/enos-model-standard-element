@@ -11,7 +11,7 @@
 		"defaultValue":"power consumption",
 		"i18nValue":{
 			"en_US":"power consumption",
-			"zh_CN":null
+			"zh_CN":"能量消耗"
 		}
 	},
 	"unit":"W",

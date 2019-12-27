@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient S_Z",
 		"i18nValue":{
 			"en_US":"temperature coefficient S_Z",
-			"zh_CN":null
+			"zh_CN":"温度系数 S_Z"
 		}
 	},
 	"unit":"%/K",

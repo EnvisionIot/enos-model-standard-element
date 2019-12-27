@@ -11,7 +11,7 @@
 		"defaultValue":"voltage V_1",
 		"i18nValue":{
 			"en_US":"voltage V_1",
-			"zh_CN":null
+			"zh_CN":"电压 V_1"
 		}
 	},
 	"unit":"V",

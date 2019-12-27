@@ -13,7 +13,7 @@
 		"defaultValue":"single-level reference designation",
 		"i18nValue":{
 			"en_US":"single-level reference designation",
-			"zh_CN":null
+			"zh_CN":"单级参考名称"
 		}
 	},
 	"unit":null,

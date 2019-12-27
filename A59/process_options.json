@@ -47,7 +47,7 @@
 		"defaultValue":"process options",
 		"i18nValue":{
 			"en_US":"process options",
-			"zh_CN":null
+			"zh_CN":"工艺选项"
 		}
 	},
 	"unit":null,

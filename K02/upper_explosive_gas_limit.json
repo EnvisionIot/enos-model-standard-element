@@ -11,7 +11,7 @@
 		"defaultValue":"upper explosive gas limit",
 		"i18nValue":{
 			"en_US":"upper explosive gas limit",
-			"zh_CN":null
+			"zh_CN":"爆炸性气体上限"
 		}
 	},
 	"unit":"kg/m³",

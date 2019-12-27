@@ -11,7 +11,7 @@
 		"defaultValue":"2nd-order beat",
 		"i18nValue":{
 			"en_US":"2nd-order beat",
-			"zh_CN":null
+			"zh_CN":"二阶差拍"
 		}
 	},
 	"unit":"dB",

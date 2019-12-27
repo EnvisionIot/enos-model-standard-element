@@ -11,7 +11,7 @@
 		"defaultValue":"dc current gain sat",
 		"i18nValue":{
 			"en_US":"dc current gain sat",
-			"zh_CN":null
+			"zh_CN":"直流电流饱和增益"
 		}
 	},
 	"unit":null,

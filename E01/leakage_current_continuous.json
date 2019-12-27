@@ -11,7 +11,7 @@
 		"defaultValue":"leakage current continuous",
 		"i18nValue":{
 			"en_US":"leakage current continuous",
-			"zh_CN":null
+			"zh_CN":"连续漏电电流"
 		}
 	},
 	"unit":"A",

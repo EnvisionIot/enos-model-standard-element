@@ -11,7 +11,7 @@
 		"defaultValue":"peripheral word size",
 		"i18nValue":{
 			"en_US":"peripheral word size",
-			"zh_CN":null
+			"zh_CN":"外围字长"
 		}
 	},
 	"unit":"bit",

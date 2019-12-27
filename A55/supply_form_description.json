@@ -13,7 +13,7 @@
 		"defaultValue":"supply form description",
 		"i18nValue":{
 			"en_US":"supply form description",
-			"zh_CN":null
+			"zh_CN":"供应形式描述"
 		}
 	},
 	"unit":null,

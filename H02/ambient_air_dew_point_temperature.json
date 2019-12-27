@@ -11,7 +11,7 @@
 		"defaultValue":"ambient air dew point temperature",
 		"i18nValue":{
 			"en_US":"ambient air dew point temperature",
-			"zh_CN":null
+			"zh_CN":"环境空气露点温度"
 		}
 	},
 	"unit":"°C",

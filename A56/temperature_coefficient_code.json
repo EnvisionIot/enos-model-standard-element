@@ -75,7 +75,7 @@
 		"defaultValue":"temperature coefficient code",
 		"i18nValue":{
 			"en_US":"temperature coefficient code",
-			"zh_CN":null
+			"zh_CN":"温度系数代码"
 		}
 	},
 	"unit":null,

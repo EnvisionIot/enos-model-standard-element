@@ -11,7 +11,7 @@
 		"defaultValue":"operating humidity",
 		"i18nValue":{
 			"en_US":"operating humidity",
-			"zh_CN":null
+			"zh_CN":"工作湿度"
 		}
 	},
 	"unit":"%",

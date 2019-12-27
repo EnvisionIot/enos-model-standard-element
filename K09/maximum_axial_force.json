@@ -11,7 +11,7 @@
 		"defaultValue":"maximum axial force",
 		"i18nValue":{
 			"en_US":"maximum axial force",
-			"zh_CN":null
+			"zh_CN":"最大轴向力"
 		}
 	},
 	"unit":"N",

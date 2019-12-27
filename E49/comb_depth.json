@@ -11,7 +11,7 @@
 		"defaultValue":"comb depth",
 		"i18nValue":{
 			"en_US":"comb depth",
-			"zh_CN":null
+			"zh_CN":"梳齿深度"
 		}
 	},
 	"unit":"dB",

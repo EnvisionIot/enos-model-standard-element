@@ -11,7 +11,7 @@
 		"defaultValue":"current dc",
 		"i18nValue":{
 			"en_US":"current dc",
-			"zh_CN":null
+			"zh_CN":"直流电流"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"current transfer ratio",
 		"i18nValue":{
 			"en_US":"current transfer ratio",
-			"zh_CN":null
+			"zh_CN":"电流传输比"
 		}
 	},
 	"unit":null,

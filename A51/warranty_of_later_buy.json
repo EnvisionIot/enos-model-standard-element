@@ -11,7 +11,7 @@
 		"defaultValue":"warranty of later buy",
 		"i18nValue":{
 			"en_US":"warranty of later buy",
-			"zh_CN":null
+			"zh_CN":"后续购买保修期"
 		}
 	},
 	"unit":"yr",

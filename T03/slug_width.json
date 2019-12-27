@@ -11,7 +11,7 @@
 		"defaultValue":"slug width",
 		"i18nValue":{
 			"en_US":"slug width",
-			"zh_CN":null
+			"zh_CN":"接线片宽度"
 		}
 	},
 	"unit":"m",

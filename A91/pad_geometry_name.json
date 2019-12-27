@@ -13,7 +13,7 @@
 		"defaultValue":"pad geometry name",
 		"i18nValue":{
 			"en_US":"pad geometry name",
-			"zh_CN":null
+			"zh_CN":"焊盘几何名称"
 		}
 	},
 	"unit":null,

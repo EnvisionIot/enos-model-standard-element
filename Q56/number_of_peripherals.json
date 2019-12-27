@@ -11,7 +11,7 @@
 		"defaultValue":"number of peripherals",
 		"i18nValue":{
 			"en_US":"number of peripherals",
-			"zh_CN":null
+			"zh_CN":"外围设备数量"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"non-threaded stud length",
 		"i18nValue":{
 			"en_US":"non-threaded stud length",
-			"zh_CN":null
+			"zh_CN":"无螺纹螺柱长度"
 		}
 	},
 	"unit":"m",

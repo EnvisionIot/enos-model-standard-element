@@ -11,7 +11,7 @@
 		"defaultValue":"pad supply current",
 		"i18nValue":{
 			"en_US":"pad supply current",
-			"zh_CN":null
+			"zh_CN":"焊盘供电电流"
 		}
 	},
 	"unit":"A",

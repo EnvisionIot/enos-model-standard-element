@@ -11,7 +11,7 @@
 		"defaultValue":"constant failure intensity period",
 		"i18nValue":{
 			"en_US":"constant failure intensity period",
-			"zh_CN":null
+			"zh_CN":"恒定故障强度期"
 		}
 	},
 	"unit":"yr",

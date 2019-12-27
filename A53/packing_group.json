@@ -13,7 +13,7 @@
 		"defaultValue":"packing group",
 		"i18nValue":{
 			"en_US":"packing group",
-			"zh_CN":null
+			"zh_CN":"包装组"
 		}
 	},
 	"unit":null,

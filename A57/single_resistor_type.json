@@ -39,7 +39,7 @@
 		"defaultValue":"single resistor type",
 		"i18nValue":{
 			"en_US":"single resistor type",
-			"zh_CN":null
+			"zh_CN":"单电阻器类型"
 		}
 	},
 	"unit":null,

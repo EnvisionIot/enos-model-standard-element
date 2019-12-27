@@ -11,7 +11,7 @@
 		"defaultValue":"date of production",
 		"i18nValue":{
 			"en_US":"date of production",
-			"zh_CN":null
+			"zh_CN":"生产日期"
 		}
 	},
 	"unit":null,

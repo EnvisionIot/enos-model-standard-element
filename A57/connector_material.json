@@ -13,7 +13,7 @@
 		"defaultValue":"connector material",
 		"i18nValue":{
 			"en_US":"connector material",
-			"zh_CN":null
+			"zh_CN":"连接器材料"
 		}
 	},
 	"unit":null,

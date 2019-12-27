@@ -11,7 +11,7 @@
 		"defaultValue":"cathode-gate to cathode current",
 		"i18nValue":{
 			"en_US":"cathode-gate to cathode current",
-			"zh_CN":null
+			"zh_CN":"阴极栅极到阴极电流"
 		}
 	},
 	"unit":"A",

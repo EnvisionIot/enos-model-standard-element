@@ -11,7 +11,7 @@
 		"defaultValue":"gate-source threshold voltage",
 		"i18nValue":{
 			"en_US":"gate-source threshold voltage",
-			"zh_CN":null
+			"zh_CN":"栅源阈值电压"
 		}
 	},
 	"unit":"V",

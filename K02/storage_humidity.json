@@ -11,7 +11,7 @@
 		"defaultValue":"storage humidity",
 		"i18nValue":{
 			"en_US":"storage humidity",
-			"zh_CN":null
+			"zh_CN":"储存湿度"
 		}
 	},
 	"unit":"%",

@@ -13,7 +13,7 @@
 		"defaultValue":"test name",
 		"i18nValue":{
 			"en_US":"test name",
-			"zh_CN":null
+			"zh_CN":"测试名称"
 		}
 	},
 	"unit":null,

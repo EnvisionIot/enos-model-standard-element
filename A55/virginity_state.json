@@ -23,7 +23,7 @@
 		"defaultValue":"virginity state",
 		"i18nValue":{
 			"en_US":"virginity state",
-			"zh_CN":null
+			"zh_CN":"未编程状态"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"reverse voltage",
 		"i18nValue":{
 			"en_US":"reverse voltage",
-			"zh_CN":null
+			"zh_CN":"反向电压"
 		}
 	},
 	"unit":"V",

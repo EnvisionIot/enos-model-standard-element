@@ -11,7 +11,7 @@
 		"defaultValue":"net area",
 		"i18nValue":{
 			"en_US":"net area",
-			"zh_CN":null
+			"zh_CN":"净面积"
 		}
 	},
 	"unit":"m²",

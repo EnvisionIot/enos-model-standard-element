@@ -11,7 +11,7 @@
 		"defaultValue":"loss factor",
 		"i18nValue":{
 			"en_US":"loss factor",
-			"zh_CN":null
+			"zh_CN":"损耗因子"
 		}
 	},
 	"unit":null,

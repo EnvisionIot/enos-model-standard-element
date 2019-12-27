@@ -11,7 +11,7 @@
 		"defaultValue":"maximum capacitance",
 		"i18nValue":{
 			"en_US":"maximum capacitance",
-			"zh_CN":null
+			"zh_CN":"最大电容"
 		}
 	},
 	"unit":"F",

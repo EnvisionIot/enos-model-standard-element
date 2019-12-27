@@ -11,7 +11,7 @@
 		"defaultValue":"collector-base capacitance",
 		"i18nValue":{
 			"en_US":"collector-base capacitance",
-			"zh_CN":null
+			"zh_CN":"集电极-基极电容"
 		}
 	},
 	"unit":"F",

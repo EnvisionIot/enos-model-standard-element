@@ -31,7 +31,7 @@
 		"defaultValue":"reparability information of an item",
 		"i18nValue":{
 			"en_US":"reparability information of an item",
-			"zh_CN":null
+			"zh_CN":"物项可维修性信息"
 		}
 	},
 	"unit":null,

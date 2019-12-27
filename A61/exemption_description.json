@@ -13,7 +13,7 @@
 		"defaultValue":"exemption description",
 		"i18nValue":{
 			"en_US":"exemption description",
-			"zh_CN":null
+			"zh_CN":"豁免说明"
 		}
 	},
 	"unit":null,

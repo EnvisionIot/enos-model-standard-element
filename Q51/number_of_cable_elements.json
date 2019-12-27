@@ -11,7 +11,7 @@
 		"defaultValue":"number of cable elements",
 		"i18nValue":{
 			"en_US":"number of cable elements",
-			"zh_CN":null
+			"zh_CN":"电缆元件数量"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"terminal circle diameter",
 		"i18nValue":{
 			"en_US":"terminal circle diameter",
-			"zh_CN":null
+			"zh_CN":"端子所在圆直径"
 		}
 	},
 	"unit":"m",

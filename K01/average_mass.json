@@ -11,7 +11,7 @@
 		"defaultValue":"average mass",
 		"i18nValue":{
 			"en_US":"average mass",
-			"zh_CN":null
+			"zh_CN":"平均质量"
 		}
 	},
 	"unit":"%",

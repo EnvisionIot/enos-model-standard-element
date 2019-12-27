@@ -11,7 +11,7 @@
 		"defaultValue":"residual current speed",
 		"i18nValue":{
 			"en_US":"residual current speed",
-			"zh_CN":null
+			"zh_CN":"残余潮流速度"
 		}
 	},
 	"unit":"m/s",

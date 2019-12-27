@@ -11,7 +11,7 @@
 		"defaultValue":"PTC peak current",
 		"i18nValue":{
 			"en_US":"PTC peak current",
-			"zh_CN":null
+			"zh_CN":"PTC 峰值电流"
 		}
 	},
 	"unit":"A",

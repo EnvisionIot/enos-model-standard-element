@@ -31,7 +31,7 @@
 		"defaultValue":"electrode material type",
 		"i18nValue":{
 			"en_US":"electrode material type",
-			"zh_CN":null
+			"zh_CN":"电极材料类型"
 		}
 	},
 	"unit":null,

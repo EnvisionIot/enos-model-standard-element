@@ -11,7 +11,7 @@
 		"defaultValue":"die centre y-position",
 		"i18nValue":{
 			"en_US":"die centre y-position",
-			"zh_CN":null
+			"zh_CN":"模具中心 y 位置"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"gate-source voltage difference",
 		"i18nValue":{
 			"en_US":"gate-source voltage difference",
-			"zh_CN":null
+			"zh_CN":"栅源电压差"
 		}
 	},
 	"unit":"V",

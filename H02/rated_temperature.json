@@ -11,7 +11,7 @@
 		"defaultValue":"rated temperature",
 		"i18nValue":{
 			"en_US":"rated temperature",
-			"zh_CN":null
+			"zh_CN":"额定温度"
 		}
 	},
 	"unit":"°C",

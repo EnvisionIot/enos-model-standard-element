@@ -11,7 +11,7 @@
 		"defaultValue":"water hardness",
 		"i18nValue":{
 			"en_US":"water hardness",
-			"zh_CN":null
+			"zh_CN":"水硬度"
 		}
 	},
 	"unit":"mmol/l",

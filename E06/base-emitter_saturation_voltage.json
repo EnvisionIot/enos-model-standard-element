@@ -11,7 +11,7 @@
 		"defaultValue":"base-emitter saturation voltage",
 		"i18nValue":{
 			"en_US":"base-emitter saturation voltage",
-			"zh_CN":null
+			"zh_CN":"基极-发射极饱和电压"
 		}
 	},
 	"unit":"V",

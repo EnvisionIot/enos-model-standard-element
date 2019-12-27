@@ -11,7 +11,7 @@
 		"defaultValue":"stud thread diameter",
 		"i18nValue":{
 			"en_US":"stud thread diameter",
-			"zh_CN":null
+			"zh_CN":"螺柱直径"
 		}
 	},
 	"unit":"m",

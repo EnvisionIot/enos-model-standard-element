@@ -11,7 +11,7 @@
 		"defaultValue":"nominal current",
 		"i18nValue":{
 			"en_US":"nominal current",
-			"zh_CN":null
+			"zh_CN":"标称电流"
 		}
 	},
 	"unit":"A",

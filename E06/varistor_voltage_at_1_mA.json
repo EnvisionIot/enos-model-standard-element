@@ -11,7 +11,7 @@
 		"defaultValue":"varistor voltage at 1 mA",
 		"i18nValue":{
 			"en_US":"varistor voltage at 1 mA",
-			"zh_CN":null
+			"zh_CN":"1 mA 时的压敏电阻电压"
 		}
 	},
 	"unit":"V",

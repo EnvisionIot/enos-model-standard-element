@@ -11,7 +11,7 @@
 		"defaultValue":"thermal resistance(FRD area)",
 		"i18nValue":{
 			"en_US":"thermal resistance(FRD area)",
-			"zh_CN":null
+			"zh_CN":"热阻（FRD 区域）"
 		}
 	},
 	"unit":"°C/W",

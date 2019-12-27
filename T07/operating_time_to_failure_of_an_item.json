@@ -11,7 +11,7 @@
 		"defaultValue":"operating time to failure of an item",
 		"i18nValue":{
 			"en_US":"operating time to failure of an item",
-			"zh_CN":null
+			"zh_CN":"物项故障时的总运行时间"
 		}
 	},
 	"unit":"h",

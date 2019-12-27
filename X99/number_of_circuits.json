@@ -11,7 +11,7 @@
 		"defaultValue":"number of circuits",
 		"i18nValue":{
 			"en_US":"number of circuits",
-			"zh_CN":null
+			"zh_CN":"电路数量"
 		}
 	},
 	"unit":null,

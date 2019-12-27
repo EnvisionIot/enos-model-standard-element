@@ -11,7 +11,7 @@
 		"defaultValue":"number of sections",
 		"i18nValue":{
 			"en_US":"number of sections",
-			"zh_CN":null
+			"zh_CN":"段数"
 		}
 	},
 	"unit":null,

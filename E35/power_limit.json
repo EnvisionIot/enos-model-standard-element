@@ -11,7 +11,7 @@
 		"defaultValue":"power limit",
 		"i18nValue":{
 			"en_US":"power limit",
-			"zh_CN":null
+			"zh_CN":"功率限值"
 		}
 	},
 	"unit":"W",

@@ -11,7 +11,7 @@
 		"defaultValue":"negative resistance tolerance",
 		"i18nValue":{
 			"en_US":"negative resistance tolerance",
-			"zh_CN":null
+			"zh_CN":"负电阻公差"
 		}
 	},
 	"unit":"Ω",

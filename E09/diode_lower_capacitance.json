@@ -11,7 +11,7 @@
 		"defaultValue":"diode lower capacitance",
 		"i18nValue":{
 			"en_US":"diode lower capacitance",
-			"zh_CN":null
+			"zh_CN":"二极管电容下限"
 		}
 	},
 	"unit":"F",

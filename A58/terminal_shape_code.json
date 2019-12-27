@@ -95,7 +95,7 @@
 		"defaultValue":"terminal shape code",
 		"i18nValue":{
 			"en_US":"terminal shape code",
-			"zh_CN":null
+			"zh_CN":"端子形状代码"
 		}
 	},
 	"unit":null,

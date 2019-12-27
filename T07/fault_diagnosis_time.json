@@ -11,7 +11,7 @@
 		"defaultValue":"fault diagnosis time",
 		"i18nValue":{
 			"en_US":"fault diagnosis time",
-			"zh_CN":null
+			"zh_CN":"故障诊断时间"
 		}
 	},
 	"unit":"h",

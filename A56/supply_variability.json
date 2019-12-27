@@ -23,7 +23,7 @@
 		"defaultValue":"supply variability",
 		"i18nValue":{
 			"en_US":"supply variability",
-			"zh_CN":null
+			"zh_CN":"供电波动性"
 		}
 	},
 	"unit":null,

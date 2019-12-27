@@ -31,7 +31,7 @@
 		"defaultValue":"safety class",
 		"i18nValue":{
 			"en_US":"safety class",
-			"zh_CN":null
+			"zh_CN":"安全等级"
 		}
 	},
 	"unit":null,

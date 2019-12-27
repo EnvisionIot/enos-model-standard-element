@@ -13,7 +13,7 @@
 		"defaultValue":"diode package",
 		"i18nValue":{
 			"en_US":"diode package",
-			"zh_CN":null
+			"zh_CN":"二极管封装"
 		}
 	},
 	"unit":null,

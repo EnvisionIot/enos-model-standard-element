@@ -13,7 +13,7 @@
 		"defaultValue":"hard magnetic material grade",
 		"i18nValue":{
 			"en_US":"hard magnetic material grade",
-			"zh_CN":null
+			"zh_CN":"硬磁材料等级"
 		}
 	},
 	"unit":null,

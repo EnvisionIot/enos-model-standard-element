@@ -13,7 +13,7 @@
 		"defaultValue":"intended field of application",
 		"i18nValue":{
 			"en_US":"intended field of application",
-			"zh_CN":null
+			"zh_CN":"预期应用领域"
 		}
 	},
 	"unit":null,

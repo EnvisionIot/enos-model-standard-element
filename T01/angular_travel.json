@@ -11,7 +11,7 @@
 		"defaultValue":"angular travel",
 		"i18nValue":{
 			"en_US":"angular travel",
-			"zh_CN":null
+			"zh_CN":"角行程"
 		}
 	},
 	"unit":"°",

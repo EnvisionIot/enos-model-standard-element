@@ -11,7 +11,7 @@
 		"defaultValue":"specific current consumption",
 		"i18nValue":{
 			"en_US":"specific current consumption",
-			"zh_CN":null
+			"zh_CN":"比电流消耗"
 		}
 	},
 	"unit":"A/m²",

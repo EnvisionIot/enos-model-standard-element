@@ -11,7 +11,7 @@
 		"defaultValue":"quantity of missing terminals",
 		"i18nValue":{
 			"en_US":"quantity of missing terminals",
-			"zh_CN":null
+			"zh_CN":"缺失端子数量"
 		}
 	},
 	"unit":null,

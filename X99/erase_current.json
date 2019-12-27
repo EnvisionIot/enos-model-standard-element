@@ -11,7 +11,7 @@
 		"defaultValue":"erase current",
 		"i18nValue":{
 			"en_US":"erase current",
-			"zh_CN":null
+			"zh_CN":"擦除电流"
 		}
 	},
 	"unit":"A",

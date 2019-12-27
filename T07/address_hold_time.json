@@ -11,7 +11,7 @@
 		"defaultValue":"address hold time",
 		"i18nValue":{
 			"en_US":"address hold time",
-			"zh_CN":null
+			"zh_CN":"地址保持时间"
 		}
 	},
 	"unit":"s",

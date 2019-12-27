@@ -13,7 +13,7 @@
 		"defaultValue":"core size code",
 		"i18nValue":{
 			"en_US":"core size code",
-			"zh_CN":null
+			"zh_CN":"磁芯尺寸代码"
 		}
 	},
 	"unit":null,

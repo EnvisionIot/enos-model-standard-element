@@ -11,7 +11,7 @@
 		"defaultValue":"fuse pre-arcing time",
 		"i18nValue":{
 			"en_US":"fuse pre-arcing time",
-			"zh_CN":null
+			"zh_CN":"保险丝预燃时间"
 		}
 	},
 	"unit":"s",

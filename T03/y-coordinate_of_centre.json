@@ -11,7 +11,7 @@
 		"defaultValue":"y-coordinate of centre",
 		"i18nValue":{
 			"en_US":"y-coordinate of centre",
-			"zh_CN":null
+			"zh_CN":"中心点 y 坐标"
 		}
 	},
 	"unit":"m",

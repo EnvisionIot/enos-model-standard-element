@@ -11,7 +11,7 @@
 		"defaultValue":"fault correction time",
 		"i18nValue":{
 			"en_US":"fault correction time",
-			"zh_CN":null
+			"zh_CN":"故障纠正时间"
 		}
 	},
 	"unit":"h",

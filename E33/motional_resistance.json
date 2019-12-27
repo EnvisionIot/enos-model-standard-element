@@ -11,7 +11,7 @@
 		"defaultValue":"motional resistance",
 		"i18nValue":{
 			"en_US":"motional resistance",
-			"zh_CN":null
+			"zh_CN":"运动电阻"
 		}
 	},
 	"unit":"Ω",

@@ -27,7 +27,7 @@
 		"defaultValue":"filter",
 		"i18nValue":{
 			"en_US":"filter",
-			"zh_CN":null
+			"zh_CN":"滤波器"
 		}
 	},
 	"unit":null,

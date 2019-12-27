@@ -79,7 +79,7 @@
 		"defaultValue":"periodic/dc function",
 		"i18nValue":{
 			"en_US":"periodic/dc function",
-			"zh_CN":null
+			"zh_CN":"周期性/直流功能"
 		}
 	},
 	"unit":null,

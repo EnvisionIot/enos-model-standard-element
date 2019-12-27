@@ -11,7 +11,7 @@
 		"defaultValue":"voltage during charge",
 		"i18nValue":{
 			"en_US":"voltage during charge",
-			"zh_CN":null
+			"zh_CN":"充电电压"
 		}
 	},
 	"unit":"V",

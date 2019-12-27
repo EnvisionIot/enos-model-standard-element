@@ -11,7 +11,7 @@
 		"defaultValue":"body diameter",
 		"i18nValue":{
 			"en_US":"body diameter",
-			"zh_CN":null
+			"zh_CN":"本体直径"
 		}
 	},
 	"unit":"m",

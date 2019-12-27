@@ -13,7 +13,7 @@
 		"defaultValue":"pad orientation",
 		"i18nValue":{
 			"en_US":"pad orientation",
-			"zh_CN":null
+			"zh_CN":"焊盘取向"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"wafer index orientation",
 		"i18nValue":{
 			"en_US":"wafer index orientation",
-			"zh_CN":null
+			"zh_CN":"晶圆索引取向"
 		}
 	},
 	"unit":"°",

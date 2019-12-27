@@ -11,7 +11,7 @@
 		"defaultValue":"machine cycle",
 		"i18nValue":{
 			"en_US":"machine cycle",
-			"zh_CN":null
+			"zh_CN":"机器周期"
 		}
 	},
 	"unit":null,

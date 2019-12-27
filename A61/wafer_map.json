@@ -13,7 +13,7 @@
 		"defaultValue":"wafer map",
 		"i18nValue":{
 			"en_US":"wafer map",
-			"zh_CN":null
+			"zh_CN":"晶圆图"
 		}
 	},
 	"unit":null,

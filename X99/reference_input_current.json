@@ -11,7 +11,7 @@
 		"defaultValue":"reference input current",
 		"i18nValue":{
 			"en_US":"reference input current",
-			"zh_CN":null
+			"zh_CN":"参考输入电流"
 		}
 	},
 	"unit":"A",

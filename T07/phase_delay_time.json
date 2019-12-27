@@ -11,7 +11,7 @@
 		"defaultValue":"phase delay time",
 		"i18nValue":{
 			"en_US":"phase delay time",
-			"zh_CN":null
+			"zh_CN":"相位延迟时间"
 		}
 	},
 	"unit":"s",

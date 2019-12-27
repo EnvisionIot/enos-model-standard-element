@@ -11,7 +11,7 @@
 		"defaultValue":"slide force",
 		"i18nValue":{
 			"en_US":"slide force",
-			"zh_CN":null
+			"zh_CN":"滑动力"
 		}
 	},
 	"unit":"N",

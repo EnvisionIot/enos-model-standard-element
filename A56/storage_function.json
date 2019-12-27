@@ -35,7 +35,7 @@
 		"defaultValue":"storage function",
 		"i18nValue":{
 			"en_US":"storage function",
-			"zh_CN":null
+			"zh_CN":"存储功能"
 		}
 	},
 	"unit":null,

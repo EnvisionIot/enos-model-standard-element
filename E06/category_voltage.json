@@ -11,7 +11,7 @@
 		"defaultValue":"category voltage",
 		"i18nValue":{
 			"en_US":"category voltage",
-			"zh_CN":null
+			"zh_CN":"类别电压"
 		}
 	},
 	"unit":"V",

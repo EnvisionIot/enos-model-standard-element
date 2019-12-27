@@ -11,7 +11,7 @@
 		"defaultValue":"input voltage limit",
 		"i18nValue":{
 			"en_US":"input voltage limit",
-			"zh_CN":null
+			"zh_CN":"输入电压限值"
 		}
 	},
 	"unit":"V",

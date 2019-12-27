@@ -11,7 +11,7 @@
 		"defaultValue":"wedge z-size",
 		"i18nValue":{
 			"en_US":"wedge z-size",
-			"zh_CN":null
+			"zh_CN":"楔形 z 尺寸"
 		}
 	},
 	"unit":"m",

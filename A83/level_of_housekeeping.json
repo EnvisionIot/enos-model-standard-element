@@ -27,7 +27,7 @@
 		"defaultValue":"level of housekeeping",
 		"i18nValue":{
 			"en_US":"level of housekeeping",
-			"zh_CN":null
+			"zh_CN":"粉尘保护级别"
 		}
 	},
 	"unit":null,

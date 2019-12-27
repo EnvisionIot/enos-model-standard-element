@@ -11,7 +11,7 @@
 		"defaultValue":"withdrawal force",
 		"i18nValue":{
 			"en_US":"withdrawal force",
-			"zh_CN":null
+			"zh_CN":"拔出力"
 		}
 	},
 	"unit":"N",

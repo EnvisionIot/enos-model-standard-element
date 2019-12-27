@@ -11,7 +11,7 @@
 		"defaultValue":"recoil permeability",
 		"i18nValue":{
 			"en_US":"recoil permeability",
-			"zh_CN":null
+			"zh_CN":"回复磁导率"
 		}
 	},
 	"unit":null,

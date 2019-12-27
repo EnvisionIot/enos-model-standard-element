@@ -11,7 +11,7 @@
 		"defaultValue":"equivalent noise voltage",
 		"i18nValue":{
 			"en_US":"equivalent noise voltage",
-			"zh_CN":null
+			"zh_CN":"等效噪声电压"
 		}
 	},
 	"unit":"V",

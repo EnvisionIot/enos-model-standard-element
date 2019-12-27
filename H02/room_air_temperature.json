@@ -11,7 +11,7 @@
 		"defaultValue":"room air temperature",
 		"i18nValue":{
 			"en_US":"room air temperature",
-			"zh_CN":null
+			"zh_CN":"室内空气温度"
 		}
 	},
 	"unit":"°C",

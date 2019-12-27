@@ -13,7 +13,7 @@
 		"defaultValue":"anode type",
 		"i18nValue":{
 			"en_US":"anode type",
-			"zh_CN":null
+			"zh_CN":"阳极类型"
 		}
 	},
 	"unit":null,

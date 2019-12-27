@@ -39,7 +39,7 @@
 		"defaultValue":"delay line type",
 		"i18nValue":{
 			"en_US":"delay line type",
-			"zh_CN":null
+			"zh_CN":"延迟线类型"
 		}
 	},
 	"unit":null,

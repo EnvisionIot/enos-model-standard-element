@@ -11,7 +11,7 @@
 		"defaultValue":"energization time (for operation)",
 		"i18nValue":{
 			"en_US":"energization time (for operation)",
-			"zh_CN":null
+			"zh_CN":"通电时间（运行）"
 		}
 	},
 	"unit":"s",

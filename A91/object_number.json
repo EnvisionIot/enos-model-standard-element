@@ -13,7 +13,7 @@
 		"defaultValue":"object number",
 		"i18nValue":{
 			"en_US":"object number",
-			"zh_CN":null
+			"zh_CN":"对象编号"
 		}
 	},
 	"unit":null,

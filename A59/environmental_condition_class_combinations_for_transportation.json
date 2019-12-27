@@ -13,7 +13,7 @@
 		"defaultValue":"environmental condition class combinations for transportation",
 		"i18nValue":{
 			"en_US":"environmental condition class combinations for transportation",
-			"zh_CN":null
+			"zh_CN":"运输环境条件分类组合"
 		}
 	},
 	"unit":null,

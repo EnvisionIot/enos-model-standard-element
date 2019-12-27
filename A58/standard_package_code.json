@@ -13,7 +13,7 @@
 		"defaultValue":"standard package code",
 		"i18nValue":{
 			"en_US":"standard package code",
-			"zh_CN":null
+			"zh_CN":"标准包装代码"
 		}
 	},
 	"unit":null,

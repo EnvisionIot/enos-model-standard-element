@@ -11,7 +11,7 @@
 		"defaultValue":"baffle hole breadth",
 		"i18nValue":{
 			"en_US":"baffle hole breadth",
-			"zh_CN":null
+			"zh_CN":"隔板孔宽度"
 		}
 	},
 	"unit":"m",

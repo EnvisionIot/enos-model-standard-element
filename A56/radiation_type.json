@@ -27,7 +27,7 @@
 		"defaultValue":"radiation type",
 		"i18nValue":{
 			"en_US":"radiation type",
-			"zh_CN":null
+			"zh_CN":"辐射类型"
 		}
 	},
 	"unit":null,

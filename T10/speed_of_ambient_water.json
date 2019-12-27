@@ -11,7 +11,7 @@
 		"defaultValue":"speed of ambient water",
 		"i18nValue":{
 			"en_US":"speed of ambient water",
-			"zh_CN":null
+			"zh_CN":"环境水速"
 		}
 	},
 	"unit":"m/s",

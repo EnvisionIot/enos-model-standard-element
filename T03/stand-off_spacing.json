@@ -11,7 +11,7 @@
 		"defaultValue":"stand-off spacing",
 		"i18nValue":{
 			"en_US":"stand-off spacing",
-			"zh_CN":null
+			"zh_CN":"支座间距"
 		}
 	},
 	"unit":"m",

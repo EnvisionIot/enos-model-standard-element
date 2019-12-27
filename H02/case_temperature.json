@@ -11,7 +11,7 @@
 		"defaultValue":"case temperature",
 		"i18nValue":{
 			"en_US":"case temperature",
-			"zh_CN":null
+			"zh_CN":"外壳温度"
 		}
 	},
 	"unit":"°C",

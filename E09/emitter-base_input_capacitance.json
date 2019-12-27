@@ -11,7 +11,7 @@
 		"defaultValue":"emitter-base input capacitance",
 		"i18nValue":{
 			"en_US":"emitter-base input capacitance",
-			"zh_CN":null
+			"zh_CN":"发射极-基极输入电容"
 		}
 	},
 	"unit":"F",

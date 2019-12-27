@@ -35,7 +35,7 @@
 		"defaultValue":"digital function",
 		"i18nValue":{
 			"en_US":"digital function",
-			"zh_CN":null
+			"zh_CN":"数字功能"
 		}
 	},
 	"unit":null,

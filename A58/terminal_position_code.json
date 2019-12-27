@@ -63,7 +63,7 @@
 		"defaultValue":"terminal position code",
 		"i18nValue":{
 			"en_US":"terminal position code",
-			"zh_CN":null
+			"zh_CN":"端子位置码"
 		}
 	},
 	"unit":null,

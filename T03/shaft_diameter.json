@@ -11,7 +11,7 @@
 		"defaultValue":"shaft diameter",
 		"i18nValue":{
 			"en_US":"shaft diameter",
-			"zh_CN":null
+			"zh_CN":"轴径"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"recommended oscillation frequency",
 		"i18nValue":{
 			"en_US":"recommended oscillation frequency",
-			"zh_CN":null
+			"zh_CN":"推荐振荡频率"
 		}
 	},
 	"unit":"Hz",

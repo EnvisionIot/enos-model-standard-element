@@ -11,7 +11,7 @@
 		"defaultValue":"number of cells in series",
 		"i18nValue":{
 			"en_US":"number of cells in series",
-			"zh_CN":null
+			"zh_CN":"串联电池数"
 		}
 	},
 	"unit":null,

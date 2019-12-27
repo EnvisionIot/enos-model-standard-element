@@ -11,7 +11,7 @@
 		"defaultValue":"forward current limit",
 		"i18nValue":{
 			"en_US":"forward current limit",
-			"zh_CN":null
+			"zh_CN":"正向电流限值"
 		}
 	},
 	"unit":"A",

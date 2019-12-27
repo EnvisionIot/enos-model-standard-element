@@ -11,7 +11,7 @@
 		"defaultValue":"magnetic flux density",
 		"i18nValue":{
 			"en_US":"magnetic flux density",
-			"zh_CN":null
+			"zh_CN":"磁通密度"
 		}
 	},
 	"unit":"T",

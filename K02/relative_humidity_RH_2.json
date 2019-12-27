@@ -11,7 +11,7 @@
 		"defaultValue":"relative humidity RH_2",
 		"i18nValue":{
 			"en_US":"relative humidity RH_2",
-			"zh_CN":null
+			"zh_CN":"相对湿度 RH_2"
 		}
 	},
 	"unit":"%",

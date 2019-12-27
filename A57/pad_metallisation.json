@@ -13,7 +13,7 @@
 		"defaultValue":"pad metallisation",
 		"i18nValue":{
 			"en_US":"pad metallisation",
-			"zh_CN":null
+			"zh_CN":"焊盘金属材料"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"capacitance",
 		"i18nValue":{
 			"en_US":"capacitance",
-			"zh_CN":null
+			"zh_CN":"电容"
 		}
 	},
 	"unit":"F",

@@ -11,7 +11,7 @@
 		"defaultValue":"heatsink temperature",
 		"i18nValue":{
 			"en_US":"heatsink temperature",
-			"zh_CN":null
+			"zh_CN":"散热片温度"
 		}
 	},
 	"unit":"°C",

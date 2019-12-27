@@ -11,7 +11,7 @@
 		"defaultValue":"trip current",
 		"i18nValue":{
 			"en_US":"trip current",
-			"zh_CN":null
+			"zh_CN":"跳闸电流"
 		}
 	},
 	"unit":"A",

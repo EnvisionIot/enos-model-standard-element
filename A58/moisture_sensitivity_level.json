@@ -47,7 +47,7 @@
 		"defaultValue":"moisture sensitivity level",
 		"i18nValue":{
 			"en_US":"moisture sensitivity level",
-			"zh_CN":null
+			"zh_CN":"水分敏感性水平"
 		}
 	},
 	"unit":null,

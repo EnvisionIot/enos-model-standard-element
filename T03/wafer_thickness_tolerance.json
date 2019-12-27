@@ -11,7 +11,7 @@
 		"defaultValue":"wafer thickness tolerance",
 		"i18nValue":{
 			"en_US":"wafer thickness tolerance",
-			"zh_CN":null
+			"zh_CN":"晶圆厚度公差"
 		}
 	},
 	"unit":"m",

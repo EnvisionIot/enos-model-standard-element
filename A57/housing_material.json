@@ -47,7 +47,7 @@
 		"defaultValue":"housing material",
 		"i18nValue":{
 			"en_US":"housing material",
-			"zh_CN":null
+			"zh_CN":"外壳材料"
 		}
 	},
 	"unit":null,

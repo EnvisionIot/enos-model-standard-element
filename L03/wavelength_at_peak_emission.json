@@ -11,7 +11,7 @@
 		"defaultValue":"wavelength at peak emission",
 		"i18nValue":{
 			"en_US":"wavelength at peak emission",
-			"zh_CN":null
+			"zh_CN":"峰值发射波长"
 		}
 	},
 	"unit":"m",

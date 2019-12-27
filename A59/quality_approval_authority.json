@@ -31,7 +31,7 @@
 		"defaultValue":"quality approval authority",
 		"i18nValue":{
 			"en_US":"quality approval authority",
-			"zh_CN":null
+			"zh_CN":"质量认证机构"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"transfer time",
 		"i18nValue":{
 			"en_US":"transfer time",
-			"zh_CN":null
+			"zh_CN":"转移时间"
 		}
 	},
 	"unit":"s",

@@ -35,7 +35,7 @@
 		"defaultValue":"switch type",
 		"i18nValue":{
 			"en_US":"switch type",
-			"zh_CN":null
+			"zh_CN":"开关类型"
 		}
 	},
 	"unit":null,

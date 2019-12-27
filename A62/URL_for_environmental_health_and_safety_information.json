@@ -13,7 +13,7 @@
 		"defaultValue":"URL for environmental health and safety information",
 		"i18nValue":{
 			"en_US":"URL for environmental health and safety information",
-			"zh_CN":null
+			"zh_CN":"环境健康和安全信息相关 URL"
 		}
 	},
 	"unit":null,

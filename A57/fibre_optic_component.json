@@ -79,7 +79,7 @@
 		"defaultValue":"fibre optic component",
 		"i18nValue":{
 			"en_US":"fibre optic component",
-			"zh_CN":null
+			"zh_CN":"光纤组件"
 		}
 	},
 	"unit":null,

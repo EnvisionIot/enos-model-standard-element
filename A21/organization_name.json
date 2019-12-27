@@ -13,7 +13,7 @@
 		"defaultValue":"organization name",
 		"i18nValue":{
 			"en_US":"organization name",
-			"zh_CN":null
+			"zh_CN":"组织名称"
 		}
 	},
 	"unit":null,

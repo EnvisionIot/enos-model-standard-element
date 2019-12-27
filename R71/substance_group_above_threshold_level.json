@@ -23,7 +23,7 @@
 		"defaultValue":"substance group above threshold level",
 		"i18nValue":{
 			"en_US":"substance group above threshold level",
-			"zh_CN":null
+			"zh_CN":"高于阈值水平的物质组"
 		}
 	},
 	"unit":null,

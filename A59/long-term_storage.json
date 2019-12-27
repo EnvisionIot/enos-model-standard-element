@@ -13,7 +13,7 @@
 		"defaultValue":"long-term storage",
 		"i18nValue":{
 			"en_US":"long-term storage",
-			"zh_CN":null
+			"zh_CN":"长期储存"
 		}
 	},
 	"unit":null,

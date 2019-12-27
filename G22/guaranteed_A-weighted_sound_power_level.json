@@ -11,7 +11,7 @@
 		"defaultValue":"guaranteed A-weighted sound power level",
 		"i18nValue":{
 			"en_US":"guaranteed A-weighted sound power level",
-			"zh_CN":null
+			"zh_CN":"保证 A 加权声功率级"
 		}
 	},
 	"unit":"dB",

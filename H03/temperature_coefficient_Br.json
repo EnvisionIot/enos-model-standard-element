@@ -11,7 +11,7 @@
 		"defaultValue":"temperature coefficient Br",
 		"i18nValue":{
 			"en_US":"temperature coefficient Br",
-			"zh_CN":null
+			"zh_CN":"温度系数 Br"
 		}
 	},
 	"unit":"%/K",

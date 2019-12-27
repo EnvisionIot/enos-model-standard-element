@@ -11,7 +11,7 @@
 		"defaultValue":"flange width",
 		"i18nValue":{
 			"en_US":"flange width",
-			"zh_CN":null
+			"zh_CN":"法兰宽度"
 		}
 	},
 	"unit":"m",

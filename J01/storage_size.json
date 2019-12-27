@@ -11,7 +11,7 @@
 		"defaultValue":"storage size",
 		"i18nValue":{
 			"en_US":"storage size",
-			"zh_CN":null
+			"zh_CN":"储存空间"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"overall height",
 		"i18nValue":{
 			"en_US":"overall height",
-			"zh_CN":null
+			"zh_CN":"总高度"
 		}
 	},
 	"unit":"m",

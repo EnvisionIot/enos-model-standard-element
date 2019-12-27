@@ -11,7 +11,7 @@
 		"defaultValue":"thermal time-constant (power)",
 		"i18nValue":{
 			"en_US":"thermal time-constant (power)",
-			"zh_CN":null
+			"zh_CN":"热时间常数（功率）"
 		}
 	},
 	"unit":"s",

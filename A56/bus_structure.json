@@ -23,7 +23,7 @@
 		"defaultValue":"bus structure",
 		"i18nValue":{
 			"en_US":"bus structure",
-			"zh_CN":null
+			"zh_CN":"总线结构"
 		}
 	},
 	"unit":null,

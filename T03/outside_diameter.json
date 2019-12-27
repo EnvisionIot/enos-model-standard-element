@@ -11,7 +11,7 @@
 		"defaultValue":"outside diameter",
 		"i18nValue":{
 			"en_US":"outside diameter",
-			"zh_CN":null
+			"zh_CN":"外径"
 		}
 	},
 	"unit":"m",

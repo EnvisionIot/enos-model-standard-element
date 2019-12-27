@@ -11,7 +11,7 @@
 		"defaultValue":"depth of snow",
 		"i18nValue":{
 			"en_US":"depth of snow",
-			"zh_CN":null
+			"zh_CN":"降雪深度"
 		}
 	},
 	"unit":"m",

@@ -11,7 +11,7 @@
 		"defaultValue":"memory capacity for controller-integrated memory",
 		"i18nValue":{
 			"en_US":"memory capacity for controller-integrated memory",
-			"zh_CN":null
+			"zh_CN":"控制器集成内存存储容量"
 		}
 	},
 	"unit":"byte",

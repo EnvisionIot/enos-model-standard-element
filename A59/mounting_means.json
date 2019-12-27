@@ -39,7 +39,7 @@
 		"defaultValue":"mounting means",
 		"i18nValue":{
 			"en_US":"mounting means",
-			"zh_CN":null
+			"zh_CN":"安装方式"
 		}
 	},
 	"unit":null,

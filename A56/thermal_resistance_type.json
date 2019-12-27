@@ -43,7 +43,7 @@
 		"defaultValue":"thermal resistance type",
 		"i18nValue":{
 			"en_US":"thermal resistance type",
-			"zh_CN":null
+			"zh_CN":"热阻类型"
 		}
 	},
 	"unit":null,

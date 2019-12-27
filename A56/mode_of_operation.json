@@ -55,7 +55,7 @@
 		"defaultValue":"mode of operation",
 		"i18nValue":{
 			"en_US":"mode of operation",
-			"zh_CN":null
+			"zh_CN":"运行模式"
 		}
 	},
 	"unit":null,

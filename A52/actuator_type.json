@@ -23,7 +23,7 @@
 		"defaultValue":"actuator type",
 		"i18nValue":{
 			"en_US":"actuator type",
-			"zh_CN":null
+			"zh_CN":"执行器类型"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"hysteresis material constant",
 		"i18nValue":{
 			"en_US":"hysteresis material constant",
-			"zh_CN":null
+			"zh_CN":"磁滞材料常数"
 		}
 	},
 	"unit":"T⁻¹",

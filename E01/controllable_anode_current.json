@@ -11,7 +11,7 @@
 		"defaultValue":"controllable anode current",
 		"i18nValue":{
 			"en_US":"controllable anode current",
-			"zh_CN":null
+			"zh_CN":"可控阳极电流"
 		}
 	},
 	"unit":"A",

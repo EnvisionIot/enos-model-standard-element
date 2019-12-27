@@ -11,7 +11,7 @@
 					"defaultValue":"relative humidity",
 					"i18nValue":{
 						"en_US":"relative humidity",
-						"zh_CN":null
+						"zh_CN":"相对湿度"
 					}
 				},
 				"unit":"%"
@@ -25,7 +25,7 @@
 					"defaultValue":"absolute humidity",
 					"i18nValue":{
 						"en_US":"absolute humidity",
-						"zh_CN":null
+						"zh_CN":"绝对湿度"
 					}
 				},
 				"unit":"g/m³"
@@ -51,7 +51,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -68,7 +68,7 @@
 		"defaultValue":"reference to humidity class",
 		"i18nValue":{
 			"en_US":"reference to humidity class",
-			"zh_CN":null
+			"zh_CN":"参考湿度等级"
 		}
 	},
 	"unit":null,

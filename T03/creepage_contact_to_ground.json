@@ -11,7 +11,7 @@
 		"defaultValue":"creepage contact to ground",
 		"i18nValue":{
 			"en_US":"creepage contact to ground",
-			"zh_CN":null
+			"zh_CN":"触点离地爬电距离"
 		}
 	},
 	"unit":"m",

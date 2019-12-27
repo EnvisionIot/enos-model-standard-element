@@ -13,7 +13,7 @@
 		"defaultValue":"reliability reference",
 		"i18nValue":{
 			"en_US":"reliability reference",
-			"zh_CN":null
+			"zh_CN":"可靠性参考"
 		}
 	},
 	"unit":null,

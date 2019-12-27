@@ -11,7 +11,7 @@
 		"defaultValue":"control voltage",
 		"i18nValue":{
 			"en_US":"control voltage",
-			"zh_CN":null
+			"zh_CN":"控制电压"
 		}
 	},
 	"unit":"V",

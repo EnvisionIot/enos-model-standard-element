@@ -31,7 +31,7 @@
 		"defaultValue":"test reliability code",
 		"i18nValue":{
 			"en_US":"test reliability code",
-			"zh_CN":null
+			"zh_CN":"测试可靠性代码"
 		}
 	},
 	"unit":null,

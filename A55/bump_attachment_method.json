@@ -13,7 +13,7 @@
 		"defaultValue":"bump attachment method",
 		"i18nValue":{
 			"en_US":"bump attachment method",
-			"zh_CN":null
+			"zh_CN":"凸块连接方法"
 		}
 	},
 	"unit":null,

@@ -11,7 +11,7 @@
 		"defaultValue":"holding current",
 		"i18nValue":{
 			"en_US":"holding current",
-			"zh_CN":null
+			"zh_CN":"保持电流"
 		}
 	},
 	"unit":"A",

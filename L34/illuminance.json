@@ -11,7 +11,7 @@
 		"defaultValue":"illuminance",
 		"i18nValue":{
 			"en_US":"illuminance",
-			"zh_CN":null
+			"zh_CN":"照度"
 		}
 	},
 	"unit":"lx",

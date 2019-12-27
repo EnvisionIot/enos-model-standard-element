@@ -11,7 +11,7 @@
 		"defaultValue":"collector current light",
 		"i18nValue":{
 			"en_US":"collector current light",
-			"zh_CN":null
+			"zh_CN":"集电极亮电流"
 		}
 	},
 	"unit":"A",

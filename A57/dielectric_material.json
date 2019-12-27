@@ -43,7 +43,7 @@
 		"defaultValue":"dielectric material",
 		"i18nValue":{
 			"en_US":"dielectric material",
-			"zh_CN":null
+			"zh_CN":"电介质材料"
 		}
 	},
 	"unit":null,

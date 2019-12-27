@@ -11,7 +11,7 @@
 		"defaultValue":"pad x position",
 		"i18nValue":{
 			"en_US":"pad x position",
-			"zh_CN":null
+			"zh_CN":"焊盘 x 位置"
 		}
 	},
 	"unit":"m",

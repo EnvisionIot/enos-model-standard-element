@@ -11,7 +11,7 @@
 		"defaultValue":"hysteresis voltage",
 		"i18nValue":{
 			"en_US":"hysteresis voltage",
-			"zh_CN":null
+			"zh_CN":"磁滞电压"
 		}
 	},
 	"unit":"V",

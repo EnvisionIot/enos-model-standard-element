@@ -11,7 +11,7 @@
 		"defaultValue":"beamwidth between 50% values",
 		"i18nValue":{
 			"en_US":"beamwidth between 50% values",
-			"zh_CN":null
+			"zh_CN":"波束半值宽度"
 		}
 	},
 	"unit":"°",

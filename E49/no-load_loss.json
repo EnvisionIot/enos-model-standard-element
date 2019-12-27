@@ -11,7 +11,7 @@
 		"defaultValue":"no-load loss",
 		"i18nValue":{
 			"en_US":"no-load loss",
-			"zh_CN":null
+			"zh_CN":"空载损耗"
 		}
 	},
 	"unit":"W",

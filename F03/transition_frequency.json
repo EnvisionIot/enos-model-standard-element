@@ -11,7 +11,7 @@
 		"defaultValue":"transition frequency",
 		"i18nValue":{
 			"en_US":"transition frequency",
-			"zh_CN":null
+			"zh_CN":"过渡频率"
 		}
 	},
 	"unit":"Hz",

@@ -11,7 +11,7 @@
 					"defaultValue":"horizontal ground acceleration",
 					"i18nValue":{
 						"en_US":"horizontal ground acceleration",
-						"zh_CN":null
+						"zh_CN":"水平地面加速度"
 					}
 				},
 				"unit":"m/s²"
@@ -25,7 +25,7 @@
 					"defaultValue":"vertical ground acceleration",
 					"i18nValue":{
 						"en_US":"vertical ground acceleration",
-						"zh_CN":null
+						"zh_CN":"垂直地面加速度"
 					}
 				},
 				"unit":"m/s²"
@@ -41,7 +41,7 @@
 					"defaultValue":"seismic qualification standard",
 					"i18nValue":{
 						"en_US":"seismic qualification standard",
-						"zh_CN":null
+						"zh_CN":"抗震鉴定标准"
 					}
 				},
 				"unit":null
@@ -67,7 +67,7 @@
 					"defaultValue":"features",
 					"i18nValue":{
 						"en_US":"features",
-						"zh_CN":null
+						"zh_CN":"特征"
 					}
 				},
 				"unit":null
@@ -84,7 +84,7 @@
 		"defaultValue":"reference to seismic class",
 		"i18nValue":{
 			"en_US":"reference to seismic class",
-			"zh_CN":null
+			"zh_CN":"参考地震等级"
 		}
 	},
 	"unit":null,

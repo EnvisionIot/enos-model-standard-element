@@ -11,7 +11,7 @@
 		"defaultValue":"total mechanical rotation",
 		"i18nValue":{
 			"en_US":"total mechanical rotation",
-			"zh_CN":null
+			"zh_CN":"总机械转数"
 		}
 	},
 	"unit":"°",

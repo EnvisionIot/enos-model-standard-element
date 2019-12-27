@@ -11,7 +11,7 @@
 		"defaultValue":"differential voltage change",
 		"i18nValue":{
 			"en_US":"differential voltage change",
-			"zh_CN":null
+			"zh_CN":"差动电压变化"
 		}
 	},
 	"unit":"V/K",

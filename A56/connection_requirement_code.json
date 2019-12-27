@@ -35,7 +35,7 @@
 		"defaultValue":"connection requirement code",
 		"i18nValue":{
 			"en_US":"connection requirement code",
-			"zh_CN":null
+			"zh_CN":"连接需求代码"
 		}
 	},
 	"unit":null,

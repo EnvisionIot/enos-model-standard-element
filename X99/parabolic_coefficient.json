@@ -11,7 +11,7 @@
 		"defaultValue":"parabolic coefficient",
 		"i18nValue":{
 			"en_US":"parabolic coefficient",
-			"zh_CN":null
+			"zh_CN":"抛物线系数"
 		}
 	},
 	"unit":"1/(°C)²",

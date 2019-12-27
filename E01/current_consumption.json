@@ -11,7 +11,7 @@
 		"defaultValue":"current consumption",
 		"i18nValue":{
 			"en_US":"current consumption",
-			"zh_CN":null
+			"zh_CN":"电流消耗"
 		}
 	},
 	"unit":"A",

@@ -11,7 +11,7 @@
 		"defaultValue":"hysteresis",
 		"i18nValue":{
 			"en_US":"hysteresis",
-			"zh_CN":null
+			"zh_CN":"磁滞"
 		}
 	},
 	"unit":"V",

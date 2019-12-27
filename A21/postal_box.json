@@ -13,7 +13,7 @@
 		"defaultValue":"postal box",
 		"i18nValue":{
 			"en_US":"postal box",
-			"zh_CN":null
+			"zh_CN":"邮政信箱"
 		}
 	},
 	"unit":null,

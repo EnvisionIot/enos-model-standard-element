@@ -11,7 +11,7 @@
 		"defaultValue":"output current for line regulation",
 		"i18nValue":{
 			"en_US":"output current for line regulation",
-			"zh_CN":null
+			"zh_CN":"线性调整输出电流"
 		}
 	},
 	"unit":"A",
