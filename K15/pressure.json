@@ -1,0 +1,19 @@
+﻿{
+	"category":"K15",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"pressure",
+	"name":{
+		"defaultValue":"压力",
+		"i18nValue":{
+			"en_US":"pressure",
+			"zh_CN":"压力"
+		}
+	},
+	"unit":"bar",
+	"version":"1.0"
+}

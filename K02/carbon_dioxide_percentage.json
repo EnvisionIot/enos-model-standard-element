@@ -1,0 +1,19 @@
+﻿{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"carbon_dioxide_percentage",
+	"name":{
+		"defaultValue":"二氧化碳含量百分比",
+		"i18nValue":{
+			"en_US":"carbon dioxide percentage",
+			"zh_CN":"二氧化碳含量百分比"
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

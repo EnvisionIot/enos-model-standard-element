@@ -1,0 +1,19 @@
+﻿{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"oxygen_percentage",
+	"name":{
+		"defaultValue":"氧气含量百分比",
+		"i18nValue":{
+			"en_US":"oxygen percentage",
+			"zh_CN":"氧气含量百分比"
+		}
+	},
+	"unit":"%",
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+﻿{
+	"category":"F03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"grid_frequency",
+	"name":{
+		"defaultValue":"电网频率",
+		"i18nValue":{
+			"en_US":"grid frequency",
+			"zh_CN":"电网频率"
+		}
+	},
+	"unit":"Hz",
+	"version":"1.0"
+}

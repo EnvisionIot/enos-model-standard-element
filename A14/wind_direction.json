@@ -1,0 +1,19 @@
+﻿{
+	"category":"A14",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"wind_direction",
+	"name":{
+		"defaultValue":"风向",
+		"i18nValue":{
+			"en_US":"wind direction",
+			"zh_CN":"风向"
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

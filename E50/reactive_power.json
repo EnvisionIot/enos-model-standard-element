@@ -1,0 +1,19 @@
+﻿{
+	"category":"E50",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"reactive_power",
+	"name":{
+		"defaultValue":"无功功率",
+		"i18nValue":{
+			"en_US":"reactive power",
+			"zh_CN":"无功功率"
+		}
+	},
+	"unit":"kVar",
+	"version":"1.0"
+}

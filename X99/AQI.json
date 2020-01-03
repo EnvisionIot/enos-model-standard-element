@@ -1,0 +1,19 @@
+﻿{
+	"category":"X99",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"AQI",
+	"name":{
+		"defaultValue":"空气质量指数",
+		"i18nValue":{
+			"en_US":"AQI",
+			"zh_CN":"空气质量指数"
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

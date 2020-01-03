@@ -1,0 +1,19 @@
+﻿{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"active_power",
+	"name":{
+		"defaultValue":"有功功率",
+		"i18nValue":{
+			"en_US":"active power",
+			"zh_CN":"有功功率"
+		}
+	},
+	"unit":"kW",
+	"version":"1.0"
+}

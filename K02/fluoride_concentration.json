@@ -1,0 +1,19 @@
+﻿{
+	"category":"K02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"fluoride_concentration",
+	"name":{
+		"defaultValue":"氟化物浓度",
+		"i18nValue":{
+			"en_US":"fluoride concentration",
+			"zh_CN":"氟化物浓度"
+		}
+	},
+	"unit":"ug/m³",
+	"version":"1.0"
+}

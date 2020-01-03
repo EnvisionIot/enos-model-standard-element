@@ -1,0 +1,19 @@
+﻿{
+	"category":"K26",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"power_generation",
+	"name":{
+		"defaultValue":"发电量",
+		"i18nValue":{
+			"en_US":"power generation",
+			"zh_CN":"发电量"
+		}
+	},
+	"unit":"kWh",
+	"version":"1.0"
+}

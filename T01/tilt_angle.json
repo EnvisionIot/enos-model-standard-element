@@ -1,0 +1,19 @@
+﻿{
+	"category":null,
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"tilt_angle",
+	"name":{
+		"defaultValue":"倾斜角度",
+		"i18nValue":{
+			"en_US":"tilt angle",
+			"zh_CN":"倾斜角度"
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

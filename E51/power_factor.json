@@ -1,0 +1,19 @@
+﻿{
+	"category":"E51",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"power_factor",
+	"name":{
+		"defaultValue":"功率因数",
+		"i18nValue":{
+			"en_US":"power factor",
+			"zh_CN":"功率因数"
+		}
+	},
+	"unit":"kVar",
+	"version":"1.0"
+}

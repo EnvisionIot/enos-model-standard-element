@@ -1,0 +1,19 @@
+﻿{
+	"category":"E50",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"apparent_power",
+	"name":{
+		"defaultValue":"视在功率",
+		"i18nValue":{
+			"en_US":"apparent power",
+			"zh_CN":"视在功率"
+		}
+	},
+	"unit":"kVA",
+	"version":"1.0"
+}
