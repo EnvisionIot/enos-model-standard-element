@@ -354,6 +354,7 @@
 371c4eca450e0505647b4c3b40987785  ./T03/external_radius.json
 372210c5d39a1504a6eb993ca6e3fdeb  ./T03/slug_diameter.json
 37356842d05b33b36781a801703a956f  ./X99/cell_type.json
+3753e7c66785cc9894a843fbbf05a49d  ./README.md
 377560784f8b8c7d52ee152051e4babe  ./E06/spurious_signal_level_2-tau.json
 3795833230fdfe027bc8a575962e1926  ./E06/anode_voltage.json
 379ae3b9be75108c5ea7f3b9dac9356a  ./X99/reference_to_class_electronic_address.json
@@ -828,7 +829,6 @@
 71eca187cf3c01eebc9af5e34a717fba  ./A58/adjustment_direction.json
 723d2f195ed528ec9764802c02e27e7d  ./E06/clamping_voltage.json
 7283ba8e6085354a6248a736c7af9aeb  ./H02/substrate_temperature.json
-7296b6ee6090e6c3e0253220c7444e74  ./README.md
 72e4078006998d24faaf26b54dfaa8cc  ./A57/hard_magnetic_material_grade.json
 7307f11edef73e0e67552b7a3910bdf6  ./A56/periodic_or_dc_function.json
 73477489adfb2c4722a2c05c14b19868  ./X99/gate-emitter_threshold_voltage.json
