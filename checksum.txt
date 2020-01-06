@@ -47,6 +47,7 @@
 068b4c299e21624faa19468469adac34  ./A58/package_type.json
 06a3935e4473c783fbb0f0d7b691ee90  ./F10/guaranteed_attenuation.json
 06d381da3bceecad15ed4a91f58b9332  ./A58/terminal_shape_non-SMD.json
+06da856b2dd1f1ff862401025a66e677  ./K02/fluoride_concentration.json
 06f9619904d7e926730230a95483a886  ./X99/collector_current_pulse.json
 070c509445e03ed74ba0f42ccf8069f7  ./A62/URL_for_environmental_health_and_safety_information.json
 070e6d47ee87c31c846e268f01fbb2c8  ./A56/EHT_stack_application.json
@@ -132,7 +133,6 @@
 13bc0462952948e5fa72fea276ba71ae  ./A56/circuit_application_capacitor.json
 13c247502844a760abd509ac6d46bd73  ./E01/output_current_limit.json
 143e1aa9dbdb7f0c0e856859980df111  ./E44/diode_reverse_resistance.json
-144045313250856a1288386cbcbda262  ./README.md
 1442284de0ef81c18e4628407be64ef3  ./A14/prevailing_water_current_direction.json
 14642e8f7610b6c846892219fd57d576  ./X99/chip_enable_access_time.json
 14760868a008c8170e1f77c7f1c6dccc  ./E09/max_range_value.json
@@ -272,6 +272,7 @@
 2864e6ddeb6fe9be5473131708723336  ./A91/electronic_mail_address.json
 2868f991149c51f9f06c8e050ac99b0e  ./E22/inductance.json
 288974f90e6484759d9a020b171d1d48  ./E06/maximum_clamping_voltage.json
+2890b644d8418a3364ead8200ae2f973  ./K02/carbon_dioxide_percentage.json
 28dc412fb0ad861e8cafcde6caedad2c  ./A53/packing_arrangement.json
 28f3ce89c8e9ece1de3815a2cf6fbad3  ./T03/y-coordinate_position_location.json
 28fa5b403d44ca366b02531c94f51b8d  ./J01/on-chip_memory.json
@@ -526,6 +527,7 @@
 4e7ada8c24556a5d323792a09deb0ca4  ./T03/major_edge.json
 4edc118c559f0a3bc7050b08f338a989  ./A91/batch_number.json
 4f30d7752fdb4c6f4006eeb5e9a10998  ./E01/anode_current_average.json
+4f4b570a08df4b05b0a1aa9ae0ab027f  ./F03/grid_frequency.json
 4f781a2d3bf1db3a8170ff396bb52a95  ./Q56/electrical_endurance.json
 4f81a03a396c0640a59989b55127a7e9  ./T07/preventive_maintenance_action_time.json
 4f856a92ffb14ad9f457267bdb5d0627  ./A58/illumination_mode.json
@@ -537,6 +539,7 @@
 50121f1d4c40575209601f989d5bb661  ./T03/non-extended_length.json
 5037b59962e411c51d8411b11b124836  ./A62/reference_to_Physical_address_class.json
 504c6c32215aeebca5c368b930e6f1b4  ./A52/accessory_name.json
+5056c01198ece66494397304b621eff8  ./version
 505be007742bbdf7bf8ef19b0cbcfc14  ./K02/hydrogen_sulphide_concentration.json
 5075265deebf750f154f70456cf84e1f  ./A57/contact_spring_material.json
 507554255fb01a6973115ec3598f95d9  ./A56/impedance_type.json
@@ -669,6 +672,7 @@
 603ace42deecf5609da3558fd49a3d57  ./T03/flange_length.json
 604f672a9b1c8bec961e830748886ae5  ./A31/end_of_service.json
 606498c7b04f6c85dbdbfc9cfae8974d  ./K15/soil_bearing_capacity.json
+606946ed09ddcaaeb0bf63ee3f6f27b0  ./K02/oxygen_percentage.json
 6072ae2ee3c806c6fe6078f88a8140a2  ./A53/packing_level.json
 6077bc8c8b1f6fd4d96cd4f50cd684a7  ./H02/temperature.json
 60882eb299393a5ac390fb1bfef977db  ./T03/contact_length_under_housing.json
@@ -809,6 +813,7 @@
 70efae6db53be8d16c02fafb8b5e6541  ./X99/valid_memory_blocks.json
 70f84a845d2323fcfa6559d3f29208ae  ./A51/transducer_principle.json
 710186c63a4762742bbc9a7075c6b2ef  ./A56/instruction_set_architecture.json
+7102680fb9943c3d58134321440c3276  ./E50/reactive_power.json
 710c6e470cb6008dfb25405328666268  ./L10/total_radiant_output_power.json
 712c2cd28bb48ba47950982b7556ef53  ./X99/axis2_placement3d.json
 713498af663e79664af65b162862a7ae  ./X99/main_material.json
@@ -823,6 +828,7 @@
 71eca187cf3c01eebc9af5e34a717fba  ./A58/adjustment_direction.json
 723d2f195ed528ec9764802c02e27e7d  ./E06/clamping_voltage.json
 7283ba8e6085354a6248a736c7af9aeb  ./H02/substrate_temperature.json
+7296b6ee6090e6c3e0253220c7444e74  ./README.md
 72e4078006998d24faaf26b54dfaa8cc  ./A57/hard_magnetic_material_grade.json
 7307f11edef73e0e67552b7a3910bdf6  ./A56/periodic_or_dc_function.json
 73477489adfb2c4722a2c05c14b19868  ./X99/gate-emitter_threshold_voltage.json
@@ -834,6 +840,7 @@
 73d34215daeb068817fd9e87a199854e  ./E44/modulus_of_impedance.json
 73daebe0b2d9b0ee28f1ea6415a8322e  ./A57/passivation_material.json
 73f720ca82cbe96897d7a71bfeefe30a  ./A58/die_surface.json
+74a3df5c4fbf5bec87fe7e4989aea3a5  ./K15/pressure.json
 74b3455cdead462952857b1636faa63a  ./E06/category_voltage.json
 74b585d7101ef8c6b7b3d8b8318c1606  ./A82/applicability_qualifier.json
 74d37412cc924addf05757d296b0299f  ./K02/nitrogen_oxides_concentration.json
@@ -850,6 +857,7 @@
 763199e8226792197ed34b8d282e2ee1  ./A59/UL_flammability.json
 764afdb4c035c9207183e6c45311bcd4  ./H06/energy_absorbing_capacity_max.json
 76895e99a709193ac92d3543afbb36b5  ./H06/Joule-integral.json
+76ae0cc4c5e68820360eb92ca0d50712  ./K02/PM10.json
 770a2186c1308e70ce6d5bb4b2fa118e  ./X99/common_mode_input_voltage_range.json
 77183b7d78163498ec5f3259966a5bfd  ./A59/product_status.json
 773cccd6f493d8c44f27328080dbe868  ./A58/IC_package_code.json
@@ -1130,6 +1138,7 @@
 9c9f5d69835c2a1679e1d215d9d38d08  ./T07/commutated_turn-off_time.json
 9ca7041cf2cd41b96cac8a339fce94ea  ./T03/contact_range.json
 9cbfee1d674e956ff764961aaa6c56d9  ./A56/EIA_temperature_characteristic.json
+9cfaccb2e4b8c462f3756948dee927bf  ./K26/power_generation.json
 9d073c9a5028cb7c190f2de18dd02744  ./A56/permutability_indicator.json
 9d3d5c47449f393c23e1134802ac7793  ./Q56/quantity_of_missing_terminals.json
 9d9de82ba0301ed519b45c0a4853acf2  ./A58/terminal_exit_position_non-SMD.json
@@ -1138,6 +1147,7 @@
 9df317e3074f6dbba3556ef53239301a  ./T03/wafer_size.json
 9df35141ec237ec1d7bb2806faeaceac  ./A56/connector_type.json
 9df7e35bcff288e5df8a35f6b63066d6  ./X99/line_regulation_voltage.json
+9e0690f528fd9f4351f5f102af11aa8e  ./E49/active_power.json
 9e146ac62f128d9efaa8af8cd60a3303  ./T03/die_centre_y-position.json
 9e2292e7851334cb8155acaeb058d214  ./E01/forward_current.json
 9e49b29df3d678c264124ea9c4709d6c  ./E06/repetitive_peak_off-state_voltage.json
@@ -1209,6 +1219,7 @@ a70b7be2d2253fe00d7b3ab956f59524  ./A82/life_cycle_qualifier.json
 a73731e780a420366b3cde2340cc5371  ./Q56/number_of_pitches_y-axis.json
 a78873ab30d9b8b9a0b3ef3e9b0d141d  ./A56/connection_requirement_code.json
 a7bd19310f6cabfbb89d849b92eab96d  ./T03/main_overall_length.json
+a7dec73fbdbbbe0c881a74a029a1f421  ./E50/apparent_power.json
 a7fee3218c58c6ca83fef3a9c6ca6e05  ./T03/x-coordinate_position_location.json
 a8cfe1b8aacd28b4c47f1881a2b07680  ./E06/resistor_noise_index.json
 a8d2b04d1aa212661919125dbaa55ce3  ./A56/complementary_type.json
@@ -1421,6 +1432,7 @@ c4f8734bcdf10ea040883c505c4eabb0  ./A52/die_name.json
 c50d173bc4a0712fee13260f3a9bd021  ./E01/cut-off_current_dark_I_CBO.json
 c5367ce6dd9cd53ef81124ed95b54714  ./L03/spectral_bandwidth.json
 c5d5792d20a9501b596c82eb1516b9b3  ./E01/gate_cut-off_current.json
+c64a4e5781a5736e3790574e7ae658ca  ./X99/AQI.json
 c67371657ac161a5e2e783a44a13def7  ./T03/wafer_thickness_tolerance.json
 c6fc31377e238b46d9a593e21f39d016  ./A51/packaged_part_name.json
 c700fb33e3d0d6bcb32a8a13b325d2d7  ./E01/heater_current.json
@@ -1461,6 +1473,7 @@ cca43c66a83595e25f80698fb8a86042  ./A59/contact_material.json
 ccf1bd2a446968842b22ace789c62239  ./X99/output_saturation_voltage.json
 cd2ce08398a03843634dfba5241c60ad  ./T05/gross_area.json
 cd2f8769e2e611fad61da9c105e6dbe1  ./E06/drain-substrate_voltage_limit.json
+cd363b44af119dd3176ab8fc2bc04bc5  ./K02/PM2.5.json
 cd5c9eb982e837d6ea9efce82fc22390  ./T03/water_depth.json
 cd9a2cd641dc2894f10c00b36519fcbc  ./E06/grid_2_voltage.json
 cdde5c591ba715e03f30fc7f7c260d19  ./A56/adjustability_class.json
@@ -1508,6 +1521,7 @@ d30ff2957e0347f190116eb4da662fc0  ./T07/energization_time_for_operation.json
 d3165059e0317424d5ca76ec54dac725  ./T07/endurance.json
 d326ef2289d7b5cbd3ec875d3c4e442b  ./A62/reference_to_seismic_class.json
 d32b21f66a6e7bcc7afbfa65e76c084c  ./T03/inner_tape_spacing.json
+d333dac1e5ac2ce2c23a66b2bb8c7aa3  ./K02/nitrogen_dioxide_concentration.json
 d347d9ecb7c9b6e7058f941350cbbbf7  ./K02/airborne_particulates.json
 d382aa96fd9a79bc6b75b758614c878b  ./E06/isolation_voltage_min.json
 d3ae805ccc2b8f5b5dec4e86be6f4e8a  ./E25/loss_factor.json
@@ -1531,6 +1545,7 @@ d52603eb58bdf88347480455eeb65d9f  ./T03/mounted_width.json
 d5282f228bc94dcc7d901f269473fec4  ./A56/substrate_connection.json
 d56940b7ead538113eea4fc894ea0b65  ./A56/nearest_conventional_type.json
 d57527cc68bb0902506fb8f7f48d1485  ./T03/x-coordinate_preferred_mounting_position.json
+d579de1f9077aeb5470b5a6820958a95  ./A14/wind_direction.json
 d58247ee4ff43afa4d74f3dcef753ff7  ./T01/deflection_angle.json
 d5ba796292d514b0d8204a40f0ac86db  ./F02/thermal_time_constant.json
 d5e0e61f24a49745509b678673dbffb1  ./A59/corrosivity_category_of_water_and_soil.json
@@ -1662,6 +1677,7 @@ e516d701fa9264b51387e68855a178bd  ./X99/block_erasing_time.json
 e531667e3ceba01586957c574792674a  ./E01/rated_breaking_capacity.json
 e55e80df5a9988b765f64d5b316f46cc  ./T03/reticule_step_size_y.json
 e5d680aaf8bc08d8c5da9f05b3ea187c  ./A91/manufacturer_pad_identifier.json
+e5e50f2e158c114723efaba249cbb062  ./E51/power_factor.json
 e5f1e2f2de221eaf448864d3261d16a2  ./Q59/normal_standard_deviation.json
 e607d9ac417b3aa6c35aa1a4a9cde724  ./X99/collector-emitter_saturation_voltage.json
 e62198f7ed112252c8ef6a35d355b081  ./E06/supply_voltage.json
@@ -1714,7 +1730,6 @@ ed2821929d7ca5ee11a0c3636344e143  ./T03/outside_diameter.json
 ed97c049afcd31cacda420d509b5e301  ./A91/short_name.json
 edb9a92fb886d9efe9b33be4ff299229  ./A51/magnet_type.json
 edc795764cf922d5c0c01d0fb2f6a8a0  ./T07/time_to_restoration_of_an_item.json
-eddc808c9278d8b882f96287d8b3ae5c  ./version
 ee0b4a6708ba2413b4fa1f55670dd84e  ./X99/frequency_or_voltage_coefficient.json
 ee3eeeebc67c3b7fced30923984c00be  ./T03/shaft_diameter.json
 ee66896051162bdd1a953126d7fc454b  ./A56/signal_handling_type.json
@@ -1834,6 +1849,7 @@ fc317289c072f36d82210b01526f807d  ./A59/mounting_direction.json
 fc51a0255501f2839f7859f9a77e7433  ./E06/focusing_voltage.json
 fc86d98f795361a808a9c8f91d6bece4  ./A55/supply_form.json
 fc91aa0c3265abee333367dd3336f874  ./E44/source_impedance.json
+fc943f7da32e0e66ee2bd4256cb898f5  ./T01/tilt_angle.json
 fd2533d0f059d5600bd12321a2f3bd2c  ./A57/spark_gap_type.json
 fd311fbbe5f51a2e767675e6b8ec3377  ./H07/power_dissipation_per_output.json
 fd59a64b14bbac1971f140630179ec58  ./E49/comb_depth.json

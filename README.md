@@ -45,18 +45,6 @@ You can use a Standard Feature as follows:
 + Step 4. Choose a proper Standard Feature in the list, click button `OK`;
 + Step 5. Fill `Name` and `Idetifier` in the popup, Click button `Confirm` to finish the edition.
 
-## Category
-
-The category of Standard Features shall have two levels:
-
-+ Main Category: e.g. A, B, C, ...;
-+ Secondary Category: category identified by a single capital letter and two numeric digits, e.g. A11, B22, ..., X99.
-
-The dictionary name like: A11, A12, ..., X99 indicates the category a Standard Feature belongs to.
-
-You can find the description of each category code in [wiki](https://github.com/EnvisionIot/enos-model-standard-element/wiki/Categories-of-Standard-Features).
-    
-
 ## Release Notes
 
 Release notes of `enos-mqtt-sdk-python-master`:
