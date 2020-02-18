@@ -242,6 +242,7 @@
 23680c8a50d2e50705edc9865775b4af  ./A31/prolongation_of_warranty_period_by_manufacturer.json
 2396d20470901ce0228cc14bf0ce323a  ./A51/delay_line_type.json
 23a5e158c44daca543b83b86fd31c4cc  ./T01/index_datum_angle.json
+23a6c8376c18fa0b4db1bcb011551b48  ./accessory/units
 23acc03942803783031e4290b06c291f  ./A62/waste_of_electrical_and_electronic_equipment_directive_product_registration_number.json
 23dc31cef3f52f5a0201dfcec7edcdee  ./E17/coercivity_H_cJ.json
 2489252cf7fc9434c5751ed248932458  ./E01/non-rep_varistor_peak_current.json
@@ -382,6 +383,7 @@
 3a7de3de70ac9f1bfc84332c00b6dd72  ./A55/microwave_component_type.json
 3aa231aa4ed99e29e3e18fc14b574f3f  ./A56/input_configuration.json
 3aac0d5a156ec1153363da6ff9e0cadf  ./A59/seismic_qualification_standard.json
+3accddf64b1dd03abeb9b0b3e5a7ba44  ./version
 3b2ab6eea429401e85a13bb35eeb7675  ./README.md
 3b4161e922a5900af81d75a4cd5172ed  ./T03/non-threaded_stud_length.json
 3b46fe107ece5615a5fb2ac6dc231455  ./E49/short-circuit_power_loss.json
@@ -475,7 +477,6 @@
 477175557c5c09e1f3b3eb21db36d968  ./A61/coil_transient_suppression_device.json
 47a64e2bee4af98dcc0ef01684363e44  ./E09/input_capacitance.json
 47a9ae845460acf36ba5544d7b08ac7d  ./E35/maximum_power_handling.json
-47cd76e43f74bbc2e1baaf194d07e1fa  ./version
 47f4c26f30923b67a7ce7587a18ca11c  ./A91/country_subdivision.json
 47fea781e1549454e8545c4d4fbda198  ./A31/effective_date.json
 48271dbe4ae9e882a0ae5ac3e085765f  ./A56/delay_line_application.json
