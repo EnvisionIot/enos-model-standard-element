@@ -47,7 +47,7 @@ You can use a Standard Feature as follows:
 
 ## Release Notes
 
-Release notes of `enos-mqtt-sdk-python-master`:
+Release notes of `enos-model-standard-element`:
 
 + 1.0.0(2020/1/6, latest): Official release.
 + 0.9.3(2019/12/27): Initial release.
