@@ -26,7 +26,7 @@ You can import the latest version of Standard Features Library on EnOS™ Consol
 
 If the EnOS™ Console can't access to github, you need to download Standard Features resource pack from [github](https://github.com/EnvisionIot/enos-model-standard-element) and Import it on EnOS™ Console manually.
 
-+ Step 1. Click `Clone of download` -> `Download Zip` on github, you will obtain the latest "enos-mqtt-sdk-python-master.zip";
++ Step 1. Click `releases`, find the latest release and click `Source code(zip)` on github, you will obtain the latest "enos-model-standard-element.zip";
 + Step 2. Open page `System Management` / `Model Management` / `Standard Function` on EnOS™ Console;
 + Step 3. Click button `Import Resource Pack` -> `OK`;
 + Step 4. Click button `Upload File` in the popup and select the resource pack obtained in Step 1;
