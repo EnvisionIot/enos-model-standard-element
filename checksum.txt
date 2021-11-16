@@ -212,6 +212,7 @@
 1b28f35f491424f13972ecca6867ede6  ./X99/pixel_pitch.json
 1b47298a42cbfc8445c8bb4768779b1f  ./E06/test_voltage_minimum.json
 1b848c265434cfe345c4d657fc43fd2c  ./K09/lever_stop_force.json
+1ba8453b8472f90b622df88e4a047dc9  ./version
 1bc676be55bd6c86232126fc756e1298  ./H02/ambient_temperature.json
 1bfda1dcad4bab778182690e45c73850  ./E17/field_strength_at_BH_max.json
 1c7d44070a5b36caeba88b97d2fd0f0f  ./T01/geographic_longitude.json
@@ -305,7 +306,6 @@
 29056df627529bfab75acc1069551ef1  ./A91/version_number.json
 2926ae8a4248aa5398e1471142f5c0ba  ./T03/bump_height_tolerance.json
 292bf20575fb656c96f946fcacd4b265  ./F02/thermal_time-constant_power.json
-2982b27255517548a378a66f62d243df  ./version
 298d603d48fd74ea4849b492c59c3503  ./E33/line_coil_resistance.json
 29986a3c1a88de63dccafa7690cd9c63  ./T01/semi_angle.json
 29be4fc94d5f6585a9ecc69f1750560d  ./E06/emitter-base_voltage_V_EBO.json
@@ -1589,9 +1589,6 @@ d3e4cead972489162e85460703fd0128  ./T03/bump_height.json
 d3f0fe0927ae094b98e4b05d88628b20  ./T03/pitch_circle_diameter.json
 d40df0a41fd4e3dc4859a9dda065edcb  ./A59/packaging_quality.json
 d41d8cd98f00b204e9800998ecf8427e  ./checksum.txt
-d41d8cd98f00b204e9800998ecf8427e  ./lsp/conf/xml.json
-d41d8cd98f00b204e9800998ecf8427e  ./lsp/log/xml_err_20211116.log
-d41d8cd98f00b204e9800998ecf8427e  ./lsp/log/xml_out_20211116.log
 d472a1dc7562276c04209226882d061e  ./A91/hazard_class_code.json
 d48731d5467a93c50f215357be599c9b  ./T07/mean_up_time.json
 d49191280443bd3413b2a996f62aa0a8  ./A57/power_socket_type.json
