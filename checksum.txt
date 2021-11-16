@@ -305,6 +305,7 @@
 29056df627529bfab75acc1069551ef1  ./A91/version_number.json
 2926ae8a4248aa5398e1471142f5c0ba  ./T03/bump_height_tolerance.json
 292bf20575fb656c96f946fcacd4b265  ./F02/thermal_time-constant_power.json
+2982b27255517548a378a66f62d243df  ./version
 298d603d48fd74ea4849b492c59c3503  ./E33/line_coil_resistance.json
 29986a3c1a88de63dccafa7690cd9c63  ./T01/semi_angle.json
 29be4fc94d5f6585a9ecc69f1750560d  ./E06/emitter-base_voltage_V_EBO.json
@@ -1412,7 +1413,6 @@ bc0e1bac2a8f2343937bffa00fff0612  ./E01/cut-off_current_dark_I_CEO.json
 bc1ba7947cd832be95a7a60f5fbfcd31  ./X99/bright_room_contrast_ratio.json
 bc262cbfe01843efa4ed892a0cecbc5b  ./T03/terminal_pitch.json
 bc300716be51b237c344cc8c4d497ef3  ./A59/wear-out_failure_period.json
-bc50c5e53aa5a9f6942aa20eeaa6f9c6  ./version
 bc7ae14d140a9708b20459bdf41656bc  ./T03/die_thickness.json
 bc7f2c2de7c86650b8d2f2da74f9b007  ./E06/breakdown_voltage_tolerance.json
 bc82867bbd7fde29dd84479f2a3d95f4  ./A59/operating_voltage_range.json
