@@ -255,6 +255,7 @@
 255e022c44b8d0a3cec2badef6dcfc7d  ./T03/index_height.json
 2580521635b47fe91c57ddec2478f1c5  ./E09/capacitance_lower_tolerance.json
 259d5facb34d46c47b30927cbe757be3  ./E01/nominal_current.json
+25a962250bb9b9db27c5224dd1f0c74d  ./FleetControl/opModTargetVar.json
 25c4e6011e743494839932df29af04b0  ./E33/field_coil_resistance.json
 25d0647a9d0c300b9241e54338a071a1  ./E06/HIGH-state_output_voltage_ref.json
 2604549741a0b9c58425ddff351326cb  ./F03/bandwidth.json
@@ -285,7 +286,7 @@
 2a8ea1ce6e2d6734bfacb0e85cbea1b7  ./E44/impedance_of_a_capacitor.json
 2ae18c543ea8ffa284221ef69bc289de  ./K09/maximum_axial_force.json
 2ae4255eaad95755b6d33f5bcf12e6b3  ./T03/step_length.json
-2b55b0739aa731fb97f05424ad9a3555  ./FLEET_CONTROL/opModConnect.json
+2b55b0739aa731fb97f05424ad9a3555  ./FleetControl/opModConnect.json
 2bd3da991d033f21058ffb0e644ab222  ./Q56/number_of_studs.json
 2c1e27cc62938fe9a39976969d3eb004  ./T03/hysteresis_in_switching_distance.json
 2c95c2dd85860c9e40cb7356d7622433  ./H02/switching_temperature.json
@@ -473,6 +474,7 @@
 46b87db421489996804a437a53e00132  ./E17/coercivity_H_cB.json
 4739ae63b15f286ac2ab621fc4749bbf  ./A61/result_of_check_for_restriction_of_hazardous_substances.json
 47596004e8431cd89a5dcef6e15cbea6  ./E09/reference_capacitance.json
+475d354c2ba657517470d47436b6ff8d  ./FleetControl/opModTargetW.json
 477175557c5c09e1f3b3eb21db36d968  ./A61/coil_transient_suppression_device.json
 47a64e2bee4af98dcc0ef01684363e44  ./E09/input_capacitance.json
 47a9ae845460acf36ba5544d7b08ac7d  ./E35/maximum_power_handling.json
@@ -510,6 +512,7 @@
 4bb7da67572e90480660c7029b8b9bac  ./A52/main_class_of_component.json
 4bc4924d7939439f8812112ac4b8b939  ./F01/start-up_time.json
 4bd19091987c676cc70a445d63fc4067  ./R54/relative_mass_value_percent.json
+4be74911aac2470a54a6d22393a52d6c  ./FleetControl/setGradW.json
 4c24d4f357ff791f59caba026800102b  ./T07/time_t_2.json
 4c3d7368cc72a619cef1a15d1110e5b3  ./A56/reportable_application.json
 4c77f2ad53fe9737ee19d12b81569f7b  ./E06/energising_voltage_dc.json
@@ -749,7 +752,7 @@
 69a1ddfc2fd1a24d120f9b41047e656d  ./K01/weight_of_device_for_use_in_waste_of_electrical_and_electronic_equipment_reporting_procedures.json
 69aad55d369f3d697aff953deb281d59  ./E06/temperature_coefficient_S_Z.json
 69d175a851a340c647c17f1b9ec903fd  ./A52/winding_configuration.json
-69e82b6e223773a7966b45a44a37f283  ./FLEET_CONTROL/opModEnergize.json
+69e82b6e223773a7966b45a44a37f283  ./FleetControl/opModEnergize.json
 6a36437a29dcb15f147f92c148a6c954  ./A59/site_pollution_severity_class.json
 6a3841bee62302c3bbefac5b3ace5c77  ./A58/preferred_viewing_direction.json
 6a45f7d2789dda5fa57c7f0429d4708c  ./A51/frequency_application.json
@@ -788,6 +791,7 @@
 6d60d12890df446f15137c45d9b5546e  ./A56/resistor_interconnection.json
 6da84a114a84237e5076c92fbce95e5a  ./E33/resistance.json
 6de713c9c25946da597596d77d67922b  ./E49/isolation.json
+6debfd66f537739605fb41ff95782978  ./version
 6ec1a1b258fb85929b2264d04d324756  ./R51/inherent_availability.json
 6edded10934e06b2e7774910c3d6dcc6  ./A56/chargeability_type.json
 6ef3e8817d28c81c76c508d1059b30b5  ./T07/fault_detection_time.json
@@ -903,7 +907,6 @@
 7d726b959491c245d111d1f93ca1a7dc  ./T10/speed_of_ambient_water.json
 7d869d65fc8cd3790d49c5438c2e6349  ./E01/reverse_current_light.json
 7dd7447331ddf57e0a1ff077e38c2d0f  ./A56/coupling_method.json
-7e19840e2fe651d2ee73774256c3a1f2  ./version
 7e4eb1a1a695edcb77cdb7aa30068251  ./T01/conductor_angle.json
 7e7fce3fccc50b8ab0cd46b2ed84c2e6  ./X99/thermal_resistanceFRD_area.json
 7e81ecfdf3c2fb7f123815a39a460ff3  ./J01/I_or_O_bus_width.json
@@ -931,6 +934,7 @@
 806eecaa07f6b2c1b7b9a007ecbb030b  ./X99/supply_voltage_-.json
 806f604a11cd5f8f16b13de0d3678e48  ./A58/female_entry.json
 8086db9cadf9e691cbc2d1b390621191  ./E33/tolerance_of_TC_of_resistance.json
+80aa1f17c5ef6cbb1dea4aaaf868d6d1  ./FleetControl/setMaxDischargeRateW.json
 80b1f5cdc9a11300e252fa7f733611bb  ./E06/voltage_drop.json
 80b5e24f4a20a2635b3c56dc9aec0b0e  ./A62/material_class_identifier.json
 80b749c9e3daf8030bc503648dae4590  ./A21/after-sales_information_points.json
@@ -1263,6 +1267,7 @@ aed5065820ccdbc4a1573f3c4a908891  ./A56/mode_of_operation.json
 aedf0546b244073b1663c2237e6bec8d  ./E01/trip_current.json
 aef129cd04afc3d12582edd64a5cd9db  ./T03/fiducial_width.json
 af028ad605663d832a5a06c43517a7a0  ./T03/tag_hole_distance.json
+af261172282a67e066da5a86cebe8241  ./FleetControl/opModMaxLimW.json
 af4385a2c3e67e25b7ba795aad9d359c  ./A59/test_reliability_code.json
 af78a7abf7cf2444c6dd416817e7f4ab  ./E06/breakover_voltage.json
 afab5c76aa82670f10e6e241746bd19b  ./A71/reference_amount.json
@@ -1611,6 +1616,7 @@ de47763a1b48306793330bed2785b8a4  ./A56/storage_function.json
 de50f6e6e647c7dc1e2c93c2834198f5  ./E09/diode_upper_capacitance.json
 de5ba962cca239640ef645bb7b48d95c  ./Q56/vertex_number.json
 dea566442bd97b645eae0ac8e2257ae8  ./E25/disaccommodation_factor.json
+decd687d6defc78008dead74a65e0095  ./FleetControl/setMaxChargeRateW.json
 ded575e03b65829d384b8143118c17d4  ./E01/drain_cut-off_current.json
 dedf159f86b998f0b340dc60077eb638  ./X99/number_of_pixels.json
 def64c83dd3a07360a81a4735956f4bf  ./A52/classification_system.json
@@ -1634,7 +1640,7 @@ e0acb720b410a3a75ed9b4c09b2d6acd  ./T03/contact_pitch_x-axis.json
 e0bc1385d3d298c6ec1cd4722dbbdddf  ./E01/leakage_current_short-term.json
 e0cfc09e6df7ca327400444291b63f0f  ./A55/integrated_circuit_process_technology.json
 e0e3df724b2d9d5590c4e8d0c06e07d4  ./A57/tube_socket_type.json
-e0f2c1a676ce5401141505928d909c0b  ./FLEET_CONTROL/opModReset.json
+e0f2c1a676ce5401141505928d909c0b  ./FleetControl/opModReset.json
 e124e06406b4d9c2d16e37227b2bab18  ./A58/polarisation.json
 e126c6979185dbb602b0f5b3c5193513  ./X99/output_current_for_load_regulation.json
 e15fa612370b20d976c393c1e484a6d5  ./T07/output_data-valid_time.json
