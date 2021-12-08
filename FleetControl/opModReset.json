@@ -109,7 +109,7 @@
         ],
         "outputData": [
             {
-                "dataType": "bool",
+                "dataType": "enum",
                 "identifier": "returnValue",
                 "name": {
                     "defaultValue": "返回值",
@@ -119,9 +119,15 @@
                     }
                 },
                 "dataDefinition": {
-                    "boolDesc": {
-                        "true": "The request was successfully received",
-                        "false": "The request was denied"
+                    "enumDesc": {
+                        "true": {
+                            "defaultValue": "The request was successfully received",
+                            "i18nValue":{}
+                        },
+                        "false": {
+                            "defaultValue": "The request was denied",
+                            "i18nValue":{}
+                        }
                     }
                 }
             }
