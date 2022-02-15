@@ -49,6 +49,7 @@ You can use a Standard Feature as follows:
 
 Release notes of `enos-model-standard-element`:
 
-+ 1.0.1(2020/2/18, latest): Add file ./accessory/units as standard units.
++ 1.0.2(2022/2/15, latest): Add file ./FleetControl as standard units.
++ 1.0.1(2020/2/18): Add file ./accessory/units as standard units.
 + 1.0.0(2020/1/6): Official release.
 + 0.9.3(2019/12/27): Initial release.
