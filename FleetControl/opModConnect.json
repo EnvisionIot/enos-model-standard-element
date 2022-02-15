@@ -1,0 +1,155 @@
+{
+    "category":"FleetControl",
+    "dataDefinition": {
+        "callType": "ASYNC",
+        "inputData": [
+            {
+                "dataType": "enum",
+                "identifier": "value",
+                "name": {
+                    "defaultValue": "控制值",
+                    "i18nValue": {
+                        "en_US": "Control Value",
+                        "zh_CN": "控制值"
+                    }
+                },
+                "dataDefinition": {
+                    "enumType": "int",
+                    "enumDesc": {
+                        "1": {
+                            "defaultValue": "并网",
+                            "i18nValue": {
+                                "en_US": "Connect",
+                                "zh_CN": "并网"
+                            }
+                        },
+                        "0": {
+                            "defaultValue": "离网",
+                            "i18nValue": {
+                                "en_US": "Disconnect",
+                                "zh_CN": "离网"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "controlAssetId",
+                "name": {
+                    "defaultValue": "控制资产ID",
+                    "i18nValue": {
+                        "en_US": "Control Asset ID",
+                        "zh_CN": "控制资产ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "controlPointId",
+                "name": {
+                    "defaultValue": "控制点ID",
+                    "i18nValue": {
+                        "en_US": "Control Point ID",
+                        "zh_CN": "控制点ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "feedbackPointId",
+                "name": {
+                    "defaultValue": "反校点ID",
+                    "i18nValue": {
+                        "en_US": "Feedback Point ID",
+                        "zh_CN": "反校点ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "int",
+                "identifier": "start",
+                "name": {
+                    "defaultValue": "开始时间",
+                    "i18nValue": {
+                        "en_US": "Start Time",
+                        "zh_CN": "开始时间"
+                    }
+                },
+                "unit": "s"
+            },
+            {
+                "dataType": "int",
+                "identifier": "duration",
+                "name": {
+                    "defaultValue": "有效时间",
+                    "i18nValue": {
+                        "en_US": "Effective Time",
+                        "zh_CN": "有效时间"
+                    }
+                },
+                "unit": "s"
+            },
+            {
+                "dataType": "string",
+                "identifier": "source",
+                "name": {
+                    "defaultValue": "控制源",
+                    "i18nValue": {
+                        "en_US": "Control Source",
+                        "zh_CN": "控制源"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 32
+                }
+            }
+        ],
+        "outputData": [
+            {
+                "dataType": "enum",
+                "identifier": "returnValue",
+                "name": {
+                    "defaultValue": "返回值",
+                    "i18nValue": {
+                        "en_US": "Return Value",
+                        "zh_CN": "返回值"
+                    }
+                },
+                "dataDefinition": {
+                    "enumDesc": {
+                        "true": {
+                            "defaultValue": "The request was successfully received",
+                            "i18nValue":{}
+                        },
+                        "false": {
+                            "defaultValue": "The request was denied",
+                            "i18nValue":{}
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "deprecated":false,
+    "description":"",
+    "elementType":["SERVICE"],
+    "identifier":"opModConnect",
+    "name":{
+        "defaultValue":"并网/离网",
+        "i18nValue":{
+            "en_US":"Connect/Disconnect",
+            "zh_CN": "并网/离网"
+        }
+    },
+    "version":"1.0"
+}

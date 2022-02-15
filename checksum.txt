@@ -383,8 +383,6 @@
 3a7de3de70ac9f1bfc84332c00b6dd72  ./A55/microwave_component_type.json
 3aa231aa4ed99e29e3e18fc14b574f3f  ./A56/input_configuration.json
 3aac0d5a156ec1153363da6ff9e0cadf  ./A59/seismic_qualification_standard.json
-3accddf64b1dd03abeb9b0b3e5a7ba44  ./version
-3b2ab6eea429401e85a13bb35eeb7675  ./README.md
 3b4161e922a5900af81d75a4cd5172ed  ./T03/non-threaded_stud_length.json
 3b46fe107ece5615a5fb2ac6dc231455  ./E49/short-circuit_power_loss.json
 3b4cb631c06f2e6f065788586c0852b5  ./E22/maximum_inductance.json
@@ -439,6 +437,7 @@
 41b092a6053d29cb318f877f89ce2117  ./A57/single_resistor_type.json
 41bebc780e73dd7f2749f20b83e55da0  ./T07/corrective_maintenance_time.json
 41cfc18f2920d73205ce920e094ceeee  ./H02/rated_temperature.json
+420ea7ebde60dfd32b45dfcb101c0f90  ./FleetControl/setGradW.json
 42221f7ac24649b9944186bdc81bd273  ./E09/motional_capacitance.json
 422a1c17fa9a6876199b21a21e9e427a  ./F03/resonance_frequency.json
 42320df080afee586558cb4f171a5baf  ./E01/gate_current.json
@@ -517,6 +516,7 @@
 4cc42b9e4e3dfc1891ce8a8c70fd57fa  ./A59/packaging_quality.json
 4ccedc9e26be8157bf7035777b0d7663  ./E01/latching_current.json
 4d49233f18c5496266522767710a271e  ./Q59/Poisson_expectation_value.json
+4d549d0aee03d933ea0e1eef7aabec8e  ./FleetControl/opModTargetVar.json
 4d8fd43b8adf732a310a2d8ca12934a3  ./X99/frequency_versus_temperature_characteristics.json
 4d97a72bbe0de1d0f3e9e19e950c4e28  ./L03/wavelength_at_peak_response.json
 4da70516f223c7effd124aacac8d165f  ./T03/digit_length.json
@@ -698,6 +698,7 @@
 6397706a5be69d823b314d347914a587  ./T10/design_storm_intensity.json
 639bdd2165fcd446aba4cb3efe2449a3  ./E01/spectral_sensitivity.json
 63a989407e1266da7b3494be693ac46a  ./A59/operating_voltage_range.json
+63cd82f29c8809f6df920de1cce1f51a  ./FleetControl/opModTargetW.json
 63e4fe1b11b247d21c215d69a0337b70  ./A59/environmental_condition_class_combinations_for_transportation.json
 6415cba6b863c276d3dd7f1e418cde1b  ./H02/temperature_coefficient.json
 643560daf5ebe8e0752f300ccf72e9d9  ./E33/resistance_at_25_Cel.json
@@ -720,6 +721,7 @@
 65ead1075cbd139c831ebc87a963ac2e  ./A57/soft_magnetic_material_grade.json
 6619ef79c4c2ff999e09e4917ce067f4  ./A55/electrode_technology.json
 66514561381f930b998f898eb7b2eddc  ./A11/town.json
+668e5269a2fe55a2a5ad2f5cfb84fb6f  ./FleetControl/setMaxDischargeRateW.json
 66b3ff9920d2bc40966c7775f1142f35  ./T07/sunshine_duration.json
 66bb12291eb95fa71389c28a10b5f4cc  ./A55/supply_form_code.json
 66dcb7bb5592a09a29bc9d5441b801c8  ./E01/non-repetitive_peak_forward_current.json
@@ -731,6 +733,7 @@
 67a5e9b4f4addfe9ec6302282023a501  ./A58/resistor_package_code.json
 67b7435d0556a0999248959abdb6302c  ./E06/collector-base_voltage_V_CBO.json
 67beaf72bc3bbab2db7aea99d2839b05  ./E06/off-state_voltage.json
+67caad0126d56e84edb21b65f1382b20  ./FleetControl/opModMaxLimW.json
 67f8fa2c4359306d13b3d704dce663d9  ./E25/temperature_factor_of_permeability.json
 67fc1548cf5cc03a1df8a342bfd084fc  ./A59/operating_life.json
 68060921530b470f0ffcea4c23f7e0ec  ./A52/supply_current_type.json
@@ -1170,6 +1173,7 @@ a12d0ae5bc7d25bef0ab3c400834769d  ./A59/early_life_failure_period.json
 a15e615fb4bdba5f0dbaf1d03e6c2957  ./A56/switch_actuation.json
 a16ab2e055b3b656b9d60c005bf089a7  ./E06/intermod_distortion_d_im.json
 a178c2f10c1166c11114bdf0e9d1e86a  ./A53/supply_packing_code.json
+a1895623f4bd72f81d723d230b771ada  ./FleetControl/opModConnect.json
 a1cbbb1a67ed29a4f2e3f55d1d9a563b  ./T07/active_maintenance_time.json
 a1f037cbb6c135b32241ca4a18f00ed7  ./E49/maximum_noise_power.json
 a1f9171d78a2c1ecdec9b04605d177ae  ./T03/immersion_depth.json
@@ -1284,6 +1288,7 @@ b1b2454a7aaba8abaa0aa30e629b5a35  ./T03/wafer_thickness.json
 b1bea61d667e144e0008a93b5be30d4e  ./E06/maximum_operating_voltage.json
 b1dd9e4483620db931b4527d7ba4d380  ./F03/stepping_rate.json
 b23ce387a6f4c500cfaf422c87980c29  ./A56/resistance_dependency.json
+b24db5c8391ec5c5d93cd0ac083acbdf  ./version
 b27d7ff2ab36ad9d46d40cc12869318b  ./E06/gate-source_voltage_limit.json
 b2f4bb09441e183a54f766700729b73f  ./T03/stand-off_major_dimension.json
 b3007a57aa67b98c89aa68bb598fcd93  ./A58/stud_thread.json
@@ -1362,6 +1367,7 @@ bbfb539e30840bd787f01db6618fa016  ./A58/gross_space.json
 bc5647bbaefae29721819034790e30bc  ./E33/LVDS_load_condition.json
 bc65fef5e9282774b2cbfa7e883f09fa  ./T03/flange_overall_width.json
 bc6679120b7b08187a094a238041a93d  ./A57/bump_material.json
+bc743c8dcf6789bef05bb562941d2af1  ./FleetControl/opModEnergize.json
 bc9ba5113bb2e5a4d20225e27c328ea7  ./A59/vibration_resistance,.json
 bcfdef85e91193672561a4d36146f68e  ./T03/character_height.json
 bd123fa67f8dd55804f1642be044e42a  ./E06/rated_voltage_ac.json
@@ -1500,6 +1506,7 @@ d0a4d387c51d18e9e13bfecef0db63db  ./A55/bump_attachment_method.json
 d0b5b49d319fa6717c1ebc27287d6432  ./R71/positive_tolerance.json
 d0d806b385ffd3fee5c378801ef6396a  ./A56/AD_function.json
 d10807701126d4260c755942f66695b3  ./E09/contact_capacitance.json
+d10a608d6918cfd7de3015a77fec882b  ./README.md
 d120dc88937c674cf1cc63bc31c4a1a1  ./T11/acceleration_strength.json
 d13d7f706483bac675b61fa5e8872684  ./A58/MIL_cable_type.json
 d18e26e84b606f07943aa80450fa211f  ./E01/input_offset_current.json
@@ -1654,6 +1661,7 @@ e2c8f2eeae824bedc1e06cb458d65a9a  ./E01/emitter_cut-off_current_I_EBO.json
 e2ee55ac73c5a7209e6e55c7af8513e8  ./T03/die_step_size_x.json
 e2f1d22639f959da904517fa2498e634  ./T05/connectable_conductor_cross-section.json
 e3022e3ffb416821ab428e024cfcaf38  ./A62/identifier.json
+e32081d691ec4fe3e56f424a50a8e4e9  ./FleetControl/setMaxChargeRateW.json
 e393a77c2ea9d2b8579f89cbc958a527  ./T11/shock_resistance.json
 e3984b527d9acbf240c05e563b925fda  ./E01/supply_current.json
 e39c0b9ddc5865b36c476397c2b7f674  ./A56/CSI_functions.json
@@ -1751,6 +1759,7 @@ efed1328bd320fd7854fe8f7db015044  ./E45/transfer_conductance.json
 eff55d6315ca619a1e529d48090cd49f  ./R51/fault_coverage.json
 effb2495d49d49364d0a0a162a994d0c  ./E01/standby_current_enabled.json
 f00f1e4d7d28c2ccb3e197a228d5e7bb  ./A58/drawing_reference_code.json
+f01453f7e33668de2b1ccbc692df9b9e  ./FleetControl/opModReset.json
 f01e0651b14da243c672e19c1b36bfb4  ./A62/material_name.json
 f0433a9299c3de8653b94948c9dd819e  ./E01/breaking_capacity.json
 f083cb57de5ba3ea28593dafe261afb9  ./T01/terminal_seating_angle.json
