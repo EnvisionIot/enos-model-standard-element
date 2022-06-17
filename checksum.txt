@@ -84,7 +84,6 @@
 0b60db4ad006adece6ee18a1338f10f6  ./Q56/number_of_sections.json
 0bbdf2c4885e2913ea2a322188549c89  ./A11/country_name.json
 0c3f38660cf5a734edabd3412f1851f1  ./E01/anode_current_peak.json
-0c47b75792526cd421692a7de29f48ea  ./.idea/google-java-format.xml
 0c4bbd845b56ad9e8de84cad0fa87106  ./A61/exemption_description.json
 0cc76d65d0928165777eedc43ccefdb9  ./F03/nominal_frequency.json
 0d280227cdaebb996db8a1a5e45db990  ./H08/solar_irradiation.json
@@ -341,7 +340,6 @@
 354025afd075fabf98a524a28e52371f  ./T03/fiducial_x_position.json
 354a14ac0e5dfe1d41af838404bc5b25  ./T03/body_height.json
 35bc041853a7175cef9f51baeb8842da  ./T03/body_breadth.json
-35bf786394e8722a700aa9e18b92c904  ./.idea/workspace.xml
 35dc1d39cf7e2d7bf5ddb589882884c1  ./E01/stand-by_current.json
 3631b0b7a750594d6ac53f361f3e7639  ./A62/fiducial_file_name.json
 363ede00f6e3c4318a7c47cd03d41d89  ./A21/postal_box.json
@@ -1027,7 +1025,6 @@
 8c23d19446756e158717ac30ea979c62  ./T03/terminal_spacing.json
 8c24ea2775c0cf405aabdac7ad771876  ./E22/field_coil_inductance.json
 8c54f88814381a0390b5d9d88aea1908  ./K02/density.json
-8c9c0403ab0f6457841c605f08a3340c  ./.idea/vcs.xml
 8cc3b4d4dcf46deba3592c87758db766  ./T07/output_hold_time.json
 8ceeee27b3cbb6add7046974475167bd  ./K09/lever_stop_force.json
 8cf6c87213608fe026892056a30edd9d  ./A57/insert_material.json
@@ -1228,7 +1225,6 @@ a70b7be2d2253fe00d7b3ab956f59524  ./A82/life_cycle_qualifier.json
 a73731e780a420366b3cde2340cc5371  ./Q56/number_of_pitches_y-axis.json
 a78873ab30d9b8b9a0b3ef3e9b0d141d  ./A56/connection_requirement_code.json
 a7bd19310f6cabfbb89d849b92eab96d  ./T03/main_overall_length.json
-a7cae3ebf717d72e8f11d418bc8cb0e7  ./.idea/misc.xml
 a7fee3218c58c6ca83fef3a9c6ca6e05  ./T03/x-coordinate_position_location.json
 a8cfe1b8aacd28b4c47f1881a2b07680  ./E06/resistor_noise_index.json
 a8d2b04d1aa212661919125dbaa55ce3  ./A56/complementary_type.json
