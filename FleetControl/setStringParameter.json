@@ -1,0 +1,133 @@
+{
+    "category":"FleetControl",
+    "dataDefinition": {
+        "callType": "ASYNC",
+        "inputData": [
+            {
+                "dataType": "string",
+                "identifier": "value",
+                "name": {
+                    "defaultValue": "控制值",
+                    "i18nValue": {
+                        "en_US": "Control Value",
+                        "zh_CN": "控制值"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 1024
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "controlAssetId",
+                "name": {
+                    "defaultValue": "控制资产ID",
+                    "i18nValue": {
+                        "en_US": "Control Asset ID",
+                        "zh_CN": "控制资产ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "controlPointId",
+                "name": {
+                    "defaultValue": "控制点ID",
+                    "i18nValue": {
+                        "en_US": "Control Point ID",
+                        "zh_CN": "控制点ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "string",
+                "identifier": "feedbackPointId",
+                "name": {
+                    "defaultValue": "反校点ID",
+                    "i18nValue": {
+                        "en_US": "Feedback Point ID",
+                        "zh_CN": "反校点ID"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 64
+                }
+            },
+            {
+                "dataType": "int",
+                "identifier": "start",
+                "name": {
+                    "defaultValue": "开始时间",
+                    "i18nValue": {
+                        "en_US": "Start Time",
+                        "zh_CN": "开始时间"
+                    }
+                },
+                "unit": "s"
+            },
+            {
+                "dataType": "int",
+                "identifier": "duration",
+                "name": {
+                    "defaultValue": "有效时间",
+                    "i18nValue": {
+                        "en_US": "Effective Time",
+                        "zh_CN": "有效时间"
+                    }
+                },
+                "unit": "s"
+            },
+            {
+                "dataType": "string",
+                "identifier": "source",
+                "name": {
+                    "defaultValue": "控制源",
+                    "i18nValue": {
+                        "en_US": "Control Source",
+                        "zh_CN": "控制源"
+                    }
+                },
+                "dataDefinition": {
+                    "maxLength": 32
+                }
+            }
+        ],
+        "outputData": [
+            {
+                "dataType": "bool",
+                "identifier": "returnValue",
+                "name": {
+                    "defaultValue": "返回值",
+                    "i18nValue": {
+                        "en_US": "Return Value",
+                        "zh_CN": "返回值"
+                    }
+                },
+                "dataDefinition": {
+                    "boolDesc": {
+                        "true": "The request was successfully received",
+                        "false": "The request was denied"
+                    }
+                }
+            }
+        ]
+    },
+    "deprecated":false,
+    "description":"",
+    "elementType":["SERVICE"],
+    "identifier":"setStringParameter",
+    "name":{
+        "defaultValue":"设置字符串参数",
+        "i18nValue":{
+            "en_US":"String Parameter Setting",
+            "zh_CN": "设置字符串参数"
+        }
+    },
+    "version":"1.0"
+}
