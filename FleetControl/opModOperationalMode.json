@@ -4,7 +4,7 @@
         "callType": "ASYNC",
         "inputData": [
             {
-                "dataType": "int",
+                "dataType": "enum",
                 "identifier": "value",
                 "name": {
                     "defaultValue": "控制值",
@@ -13,7 +13,25 @@
                         "zh_CN": "控制值"
                     }
                 },
-                "unit": ""
+                "dataDefinition": {
+                    "enumType": "int",
+                    "enumDesc": {
+                        "1": {
+                            "defaultValue": "远方",
+                            "i18nValue": {
+                                "en_US": "Remote",
+                                "zh_CN": "远方"
+                            }
+                        },
+                        "0": {
+                            "defaultValue": "本地",
+                            "i18nValue": {
+                                "en_US": "Local",
+                                "zh_CN": "本地"
+                            }
+                        }
+                    }
+                }
             },
             {
                 "dataType": "string",
