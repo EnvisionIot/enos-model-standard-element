@@ -49,6 +49,7 @@ You can use a Standard Feature as follows:
 
 Release notes of `enos-model-standard-element`:
 
++ 1.0.6(2023/6/6, latest): Add setStringParameter for fleetControl.
 + 1.0.5(2023/5/25, latest): Update opModOperationalMode.
 + 1.0.4(2022/8/12, latest): Supply file ./FleetControl as standard units.
 + 1.0.3(2022/6/17, latest): Supply file ./FleetControl as standard units.
