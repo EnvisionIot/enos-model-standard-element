@@ -7,7 +7,7 @@
                 "dataType": "string",
                 "identifier": "value",
                 "name": {
-                    "defaultValue": "控制值",
+                    "defaultValue": "Control Value",
                     "i18nValue": {
                         "en_US": "Control Value",
                         "zh_CN": "控制值"
@@ -21,7 +21,7 @@
                 "dataType": "string",
                 "identifier": "controlAssetId",
                 "name": {
-                    "defaultValue": "控制资产ID",
+                    "defaultValue": "Control Asset ID",
                     "i18nValue": {
                         "en_US": "Control Asset ID",
                         "zh_CN": "控制资产ID"
@@ -35,7 +35,7 @@
                 "dataType": "string",
                 "identifier": "controlPointId",
                 "name": {
-                    "defaultValue": "控制点ID",
+                    "defaultValue": "Control Point ID",
                     "i18nValue": {
                         "en_US": "Control Point ID",
                         "zh_CN": "控制点ID"
@@ -49,7 +49,7 @@
                 "dataType": "string",
                 "identifier": "feedbackPointId",
                 "name": {
-                    "defaultValue": "反校点ID",
+                    "defaultValue": "Feedback Point ID",
                     "i18nValue": {
                         "en_US": "Feedback Point ID",
                         "zh_CN": "反校点ID"
@@ -63,7 +63,7 @@
                 "dataType": "int",
                 "identifier": "start",
                 "name": {
-                    "defaultValue": "开始时间",
+                    "defaultValue": "Start Time",
                     "i18nValue": {
                         "en_US": "Start Time",
                         "zh_CN": "开始时间"
@@ -75,7 +75,7 @@
                 "dataType": "int",
                 "identifier": "duration",
                 "name": {
-                    "defaultValue": "有效时间",
+                    "defaultValue": "Effective Time",
                     "i18nValue": {
                         "en_US": "Effective Time",
                         "zh_CN": "有效时间"
@@ -87,7 +87,7 @@
                 "dataType": "string",
                 "identifier": "source",
                 "name": {
-                    "defaultValue": "控制源",
+                    "defaultValue": "Control Source",
                     "i18nValue": {
                         "en_US": "Control Source",
                         "zh_CN": "控制源"
@@ -103,7 +103,7 @@
                 "dataType": "bool",
                 "identifier": "returnValue",
                 "name": {
-                    "defaultValue": "返回值",
+                    "defaultValue": "Return Value",
                     "i18nValue": {
                         "en_US": "Return Value",
                         "zh_CN": "返回值"
@@ -123,7 +123,7 @@
     "elementType":["SERVICE"],
     "identifier":"setStringParameter",
     "name":{
-        "defaultValue":"设置字符串参数",
+        "defaultValue":"String Parameter Setting",
         "i18nValue":{
             "en_US":"String Parameter Setting",
             "zh_CN": "设置字符串参数"
