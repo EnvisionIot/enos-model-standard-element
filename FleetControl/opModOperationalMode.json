@@ -7,7 +7,7 @@
                 "dataType": "enum",
                 "identifier": "value",
                 "name": {
-                    "defaultValue": "Control Value",
+                    "defaultValue": "控制值",
                     "i18nValue": {
                         "en_US": "Control Value",
                         "zh_CN": "控制值"
@@ -17,14 +17,14 @@
                     "enumType": "int",
                     "enumDesc": {
                         "1": {
-                            "defaultValue": "Remote",
+                            "defaultValue": "远方",
                             "i18nValue": {
                                 "en_US": "Remote",
                                 "zh_CN": "远方"
                             }
                         },
                         "0": {
-                            "defaultValue": "Local",
+                            "defaultValue": "本地",
                             "i18nValue": {
                                 "en_US": "Local",
                                 "zh_CN": "本地"
@@ -37,7 +37,7 @@
                 "dataType": "string",
                 "identifier": "controlAssetId",
                 "name": {
-                    "defaultValue": "Control Asset ID",
+                    "defaultValue": "控制资产ID",
                     "i18nValue": {
                         "en_US": "Control Asset ID",
                         "zh_CN": "控制资产ID"
@@ -51,7 +51,7 @@
                 "dataType": "string",
                 "identifier": "controlPointId",
                 "name": {
-                    "defaultValue": "Control Point ID",
+                    "defaultValue": "控制点ID",
                     "i18nValue": {
                         "en_US": "Control Point ID",
                         "zh_CN": "控制点ID"
@@ -65,7 +65,7 @@
                 "dataType": "string",
                 "identifier": "feedbackPointId",
                 "name": {
-                    "defaultValue": "Feedback Point ID",
+                    "defaultValue": "反校点ID",
                     "i18nValue": {
                         "en_US": "Feedback Point ID",
                         "zh_CN": "反校点ID"
@@ -79,7 +79,7 @@
                 "dataType": "int",
                 "identifier": "start",
                 "name": {
-                    "defaultValue": "Start Time",
+                    "defaultValue": "开始时间",
                     "i18nValue": {
                         "en_US": "Start Time",
                         "zh_CN": "开始时间"
@@ -91,7 +91,7 @@
                 "dataType": "int",
                 "identifier": "duration",
                 "name": {
-                    "defaultValue": "Effective Time",
+                    "defaultValue": "有效时间",
                     "i18nValue": {
                         "en_US": "Effective Time",
                         "zh_CN": "有效时间"
@@ -103,7 +103,7 @@
                 "dataType": "string",
                 "identifier": "source",
                 "name": {
-                    "defaultValue": "Control Source",
+                    "defaultValue": "控制源",
                     "i18nValue": {
                         "en_US": "Control Source",
                         "zh_CN": "控制源"
@@ -119,7 +119,7 @@
                 "dataType": "enum",
                 "identifier": "returnValue",
                 "name": {
-                    "defaultValue": "Return Value",
+                    "defaultValue": "返回值",
                     "i18nValue": {
                         "en_US": "Return Value",
                         "zh_CN": "返回值"
@@ -145,7 +145,7 @@
     "elementType":["SERVICE"],
     "identifier":"opModOperationalMode",
     "name":{
-        "defaultValue":"Operational Mode Setting",
+        "defaultValue":"设置运行模式",
         "i18nValue":{
             "en_US":"Operational Mode Setting",
             "zh_CN": "设置运行模式"
