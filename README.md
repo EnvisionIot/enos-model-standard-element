@@ -49,7 +49,8 @@ You can use a Standard Feature as follows:
 
 Release notes of `enos-model-standard-element`:
 
-+ 1.0.7(2023/9/1, latest): Modify the default names of standard elements related to fleetControl.
++ 1.0.8(2023/9/4, latest): Revert default names of standard elements related to fleetControl.
++ 1.0.7(2023/9/1): Modify the default names of standard elements related to fleetControl.
 + 1.0.6(2023/6/6): Add setStringParameter for fleetControl.
 + 1.0.5(2023/5/25): Update opModOperationalMode.
 + 1.0.4(2022/8/12): Supply file ./FleetControl as standard units.
